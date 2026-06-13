@@ -1,0 +1,4 @@
+{
+  "error": "api/v1/mixed_people/api_search is not accessible with this api_key on a free plan. Please upgrade your plan from https://app.apollo.io/.",
+  "error_code": "API_INACCESSIBLE"
+}

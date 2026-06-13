@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-06-13T11:28:51Z",
+  "companies_processed": 10,
+  "providers": [
+    "apollo",
+    "fullenrich",
+    "prospeo",
+    "signalhire",
+    "people_data_labs"
+  ],
+  "reuse_raw": false,
+  "apollo_contacts_per_company": 2,
+  "enrichment_limit": 5,
+  "signalhire_limit": 5
+}

@@ -1,0 +1,319 @@
+[
+  {
+    "status": "success",
+    "item": "https://www.linkedin.com/in/nico-herman-7ba85930",
+    "candidate": {
+      "uid": "0522185a01b74803b19898fa457dfed3",
+      "fullName": "Nico Herman",
+      "gender": null,
+      "photo": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQFfevtWt0rXcg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1591345608870?e=1780531200&v=beta&t=lKVMqj_px3fm0y18LO743ADm8S1vl4tqH92kqdQI4xE"
+      },
+      "locations": [
+        {
+          "name": "Jakarta, Jakarta, Indonesia"
+        }
+      ],
+      "skills": [
+        "Analytical Skills",
+        "Auditing",
+        "Banking",
+        "Business Continuity",
+        "Business Process",
+        "CISA",
+        "COBIT",
+        "COSO",
+        "Data Analysis",
+        "External Audit",
+        "Financial Risk",
+        "Governance",
+        "Information Security",
+        "Information Security Management",
+        "Information Technology",
+        "Internal Audit",
+        "Internal Controls",
+        "ISO 17799",
+        "ISO 27000",
+        "ISO 27001",
+        "IT Audit",
+        "IT Compliance",
+        "ITGC",
+        "IT Governance",
+        "ITIL",
+        "IT Operations",
+        "IT Risk Management",
+        "IT Service Management",
+        "Operational Risk",
+        "Operational Risk Management",
+        "Penetration Testing",
+        "Project Management",
+        "Risk Assessment",
+        "Risk Management",
+        "Risk Mitigation",
+        "Security",
+        "Vulnerability Assessment"
+      ],
+      "education": [
+        {
+          "faculty": "Computer Science",
+          "university": "Universitas Tarumanagara (Untar)",
+          "url": "https://www.linkedin.com/school/untarjakarta/",
+          "startedYear": 2004,
+          "endedYear": 2008,
+          "degree": [
+            "Bachelor's degree"
+          ]
+        },
+        {
+          "faculty": null,
+          "university": "SMA Kristen III",
+          "url": null,
+          "startedYear": 2002,
+          "endedYear": 2004,
+          "degree": []
+        },
+        {
+          "faculty": "Social",
+          "university": "SMA Kristen III",
+          "url": null,
+          "startedYear": 2001,
+          "endedYear": 2004,
+          "degree": [
+            "SMA"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "position": "Senior Vice President - IT Audit Lead",
+          "location": "Indonesia",
+          "current": true,
+          "started": "2026-03-01T00:00:00+00:00",
+          "ended": null,
+          "company": "DBS Bank",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/dbs-bank",
+          "companyId": null,
+          "companyLogo": "https://sdn.signalhire.co/storage/company/2115/5c0e/bcd6/f162/a80c/85cc/2c83/913e.webp",
+          "companySize": "10000+",
+          "staffCount": 33717,
+          "industry": "Banking",
+          "website": "https://www.dbs.com"
+        },
+        {
+          "position": "Vice President - IT Audit Lead",
+          "location": "Indonesia",
+          "current": false,
+          "started": "2023-02-01T00:00:00+00:00",
+          "ended": "2026-03-01T00:00:00+00:00",
+          "company": "DBS Bank",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/dbs-bank",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 33717,
+          "industry": "Banking",
+          "website": "https://www.dbs.com"
+        },
+        {
+          "position": "AVP - IT Audit",
+          "location": "Indonesia",
+          "current": false,
+          "started": "2020-05-01T00:00:00+00:00",
+          "ended": "2023-02-01T00:00:00+00:00",
+          "company": "DBS Bank",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/dbs-bank",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 33717,
+          "industry": "Banking",
+          "website": "https://www.dbs.com"
+        },
+        {
+          "position": "Senior Information Technology Audit Manager",
+          "location": "Greater Jakarta Area, Indonesia",
+          "current": false,
+          "started": "2017-11-01T00:00:00+00:00",
+          "ended": "2020-05-01T00:00:00+00:00",
+          "company": "Rabobank Indonesia",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/rabobankwholesalerural",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 467,
+          "industry": "Financial Services",
+          "website": "http://www.rabobank.com/wholesale"
+        },
+        {
+          "position": "Manager - IT Audit",
+          "location": "Indonesia",
+          "current": false,
+          "started": "2015-10-01T00:00:00+00:00",
+          "ended": "2018-10-01T00:00:00+00:00",
+          "company": "PT. Bank ICBC Indonesia",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/icbc-indonesia",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "500-1000",
+          "staffCount": 615,
+          "industry": "Banking",
+          "website": "http://www.icbc.co.id"
+        },
+        {
+          "position": "Assistant Manager - IT Audit",
+          "location": "Pluit",
+          "current": false,
+          "started": "2012-03-01T00:00:00+00:00",
+          "ended": "2015-10-01T00:00:00+00:00",
+          "company": "PT BANK ICBC INDONESIA",
+          "summary": null,
+          "companyUrl": "n/a",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "n/a",
+          "staffCount": "n/a",
+          "industry": "n/a",
+          "website": "n/a"
+        },
+        {
+          "position": "Senior Consultant",
+          "location": "Greater Jakarta Area, Indonesia",
+          "current": false,
+          "started": "2011-03-01T00:00:00+00:00",
+          "ended": "2012-05-01T00:00:00+00:00",
+          "company": "Insight",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/insight",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 19091,
+          "industry": "Information Technology and Services",
+          "website": "https://www.insight.com/en_US/home.html"
+        },
+        {
+          "position": "Junior Consultant",
+          "location": null,
+          "current": false,
+          "started": "2009-06-01T00:00:00+00:00",
+          "ended": "2011-03-01T00:00:00+00:00",
+          "company": "Insight",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/insight",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 19091,
+          "industry": "Information Technology and Services",
+          "website": "https://www.insight.com/en_US/home.html"
+        },
+        {
+          "position": "part timer",
+          "location": null,
+          "current": false,
+          "started": "2008-11-01T00:00:00+00:00",
+          "ended": "2009-05-01T00:00:00+00:00",
+          "company": "Daekyo UK - Eye Level",
+          "summary": "Part timer lecture",
+          "companyUrl": "n/a",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "n/a",
+          "staffCount": "n/a",
+          "industry": "n/a",
+          "website": "n/a"
+        }
+      ],
+      "experienceYears": 18,
+      "headLine": "Information Technology Auditor at DBS Bank",
+      "summary": null,
+      "language": [],
+      "course": [
+        {
+          "name": "English Course"
+        },
+        {
+          "name": "Math and Physic Course"
+        }
+      ],
+      "project": [],
+      "certification": [
+        {
+          "name": "ISFS",
+          "license": null,
+          "authority": "EXIN"
+        },
+        {
+          "name": "ITILF",
+          "license": null,
+          "authority": "EXIN"
+        },
+        {
+          "name": "CEH",
+          "license": null,
+          "authority": "EC-Council"
+        },
+        {
+          "name": "Certified Information Systems Auditor (CISA)",
+          "license": null,
+          "authority": "ISACA"
+        }
+      ],
+      "patent": [],
+      "publication": [],
+      "honorAward": [],
+      "organization": [],
+      "contacts": [
+        {
+          "type": "email",
+          "value": "moon_glaire@yahoo.com",
+          "rating": 100,
+          "subType": "personal",
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "phone",
+          "value": "+62 821-1080-8600",
+          "rating": 100,
+          "subType": "mobile",
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "phone",
+          "value": "+62 21 6501534",
+          "rating": 100,
+          "subType": null,
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "phone",
+          "value": "+62 898-9181-986",
+          "rating": 100,
+          "subType": "mobile",
+          "isAvailable": null,
+          "isContacted": false
+        }
+      ],
+      "social": [
+        {
+          "type": "li",
+          "link": "https://www.linkedin.com/in/nico-herman-7ba85930",
+          "rating": 100
+        },
+        {
+          "type": "tw",
+          "link": "https://www.twitter.com/nicoherman",
+          "rating": 100
+        }
+      ]
+    }
+  }
+]

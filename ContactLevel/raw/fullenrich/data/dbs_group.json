@@ -1,0 +1,14 @@
+{
+  "start_response": {
+    "enrichment_id": "4de88bdf-de07-4caa-8dab-425e05cb09bb"
+  },
+  "result_response": {
+    "id": "4de88bdf-de07-4caa-8dab-425e05cb09bb",
+    "name": "HPI contact-level DBS Group 20260613_165807",
+    "status": "IN_PROGRESS",
+    "datas": [],
+    "cost": {
+      "credits": 0
+    }
+  }
+}

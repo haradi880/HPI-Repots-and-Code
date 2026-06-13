@@ -1,0 +1,31 @@
+{
+  "start_response": {
+    "enrichment_id": "afff50ba-a500-4ec2-80ab-42902e0a95c9"
+  },
+  "result_response": {
+    "id": "afff50ba-a500-4ec2-80ab-42902e0a95c9",
+    "name": "HPI contact-level United Overseas Bank 20260613_165830",
+    "status": "CREDITS_INSUFFICIENT",
+    "datas": [
+      {
+        "contact": {
+          "firstname": "Jianzhuang",
+          "lastname": "Zhao",
+          "domain": "uobgroup.com",
+          "most_probable_email": "",
+          "most_probable_email_status": "",
+          "most_probable_personal_email": "",
+          "most_probable_personal_email_status": "",
+          "most_probable_phone": "",
+          "emails": [],
+          "personal_emails": [],
+          "phones": [],
+          "social_medias": []
+        }
+      }
+    ],
+    "cost": {
+      "credits": 0
+    }
+  }
+}

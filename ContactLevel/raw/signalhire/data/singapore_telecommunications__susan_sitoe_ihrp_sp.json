@@ -1,0 +1,252 @@
+[
+  {
+    "status": "success",
+    "item": "https://www.linkedin.com/in/susan-sitoe-ihrp-sp-33b12846",
+    "candidate": {
+      "uid": "69e3df28ae2647369ac3eaf90a52e681",
+      "fullName": "Susan Sitoe, (IHRP-SP)",
+      "gender": null,
+      "photo": {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQFj2h8TUzM4WQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517422714880?e=1782950400&v=beta&t=1dkGkyFZCbwLKP-_HiLFRJ0Udf4yoUfcEJJfzJOvpwM"
+      },
+      "locations": [
+        {
+          "name": "Singapore"
+        }
+      ],
+      "skills": [
+        "Deferred Compensation",
+        "Employee Engagement",
+        "Employee Relations",
+        "HR Consulting",
+        "HRIS",
+        "HR Policies",
+        "Human Resources",
+        "Leadership",
+        "Performance Management",
+        "Personnel Management",
+        "Recruiting",
+        "Succession Planning",
+        "Talent Acquisition",
+        "Talent Management",
+        "Workforce Planning"
+      ],
+      "education": [
+        {
+          "faculty": null,
+          "university": "Crescent Girls School",
+          "url": null,
+          "startedYear": null,
+          "endedYear": null,
+          "degree": []
+        },
+        {
+          "faculty": "HRM and Management",
+          "university": "Curtin University of Technology",
+          "url": "https://www.linkedin.com/school/curtinuniversity/",
+          "startedYear": null,
+          "endedYear": null,
+          "degree": [
+            "Bacherlor of Commerce"
+          ]
+        },
+        {
+          "faculty": null,
+          "university": "Kay Siang Primary School",
+          "url": null,
+          "startedYear": null,
+          "endedYear": null,
+          "degree": []
+        }
+      ],
+      "experience": [
+        {
+          "position": "Senior Director, People & Culture",
+          "location": null,
+          "current": true,
+          "started": "2021-07-01T00:00:00+00:00",
+          "ended": null,
+          "company": "Singtel",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/singtel",
+          "companyId": null,
+          "companyLogo": "https://sdn.signalhire.co/storage/company/fc6c/08a3/8f54/44ea/79a3/39a7/a8e1/fd9a.webp",
+          "companySize": "10000+",
+          "staffCount": 8335,
+          "industry": "Telecommunications",
+          "website": "http://www.singtel.com"
+        },
+        {
+          "position": "Director, International HR",
+          "location": null,
+          "current": false,
+          "started": "2014-11-01T00:00:00+00:00",
+          "ended": "2021-06-01T00:00:00+00:00",
+          "company": "Singtel",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/singtel",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 8335,
+          "industry": "Telecommunications",
+          "website": "http://www.singtel.com"
+        },
+        {
+          "position": "Director, Regional HR",
+          "location": null,
+          "current": false,
+          "started": "2007-09-01T00:00:00+00:00",
+          "ended": "2014-10-01T00:00:00+00:00",
+          "company": "NCS Group",
+          "summary": "Business HR partner to the Global Business unit of NCS. Lead both local and overseas HR teams to support the overseas operations in the NCS group which include Australia, Brunei, China (Suzhou, Chengdu, Shanghai & Beijing), Hong Kong, Malaysia, Philippines, South Korea and Middle East (Dubai & Bahrain)",
+          "companyUrl": "https://www.linkedin.com/company/ncs-group",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "10000+",
+          "staffCount": 12695,
+          "industry": "Information Technology and Services",
+          "website": "https://www.ncs.co"
+        },
+        {
+          "position": "HR Manager",
+          "location": null,
+          "current": false,
+          "started": "2003-02-01T00:00:00+00:00",
+          "ended": "2006-09-01T00:00:00+00:00",
+          "company": "Automobile Association of Singapore",
+          "summary": null,
+          "companyUrl": "https://www.linkedin.com/company/automobile-association-of-singapore",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "200-500",
+          "staffCount": 81,
+          "industry": "Automotive",
+          "website": "https://aas.com.sg"
+        },
+        {
+          "position": "Senior HR Manager",
+          "location": null,
+          "current": false,
+          "started": "1998-08-01T00:00:00+00:00",
+          "ended": "2003-02-01T00:00:00+00:00",
+          "company": "Yeo Hiap Seng Ltd",
+          "summary": null,
+          "companyUrl": "n/a",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "n/a",
+          "staffCount": "n/a",
+          "industry": "n/a",
+          "website": "n/a"
+        },
+        {
+          "position": "HR Manager",
+          "location": null,
+          "current": false,
+          "started": "1995-01-01T00:00:00+00:00",
+          "ended": "1998-01-01T00:00:00+00:00",
+          "company": "Matsushita Kotobuki Electronics Ind. (S) Pte Ltd",
+          "summary": null,
+          "companyUrl": "n/a",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "n/a",
+          "staffCount": "n/a",
+          "industry": "n/a",
+          "website": "n/a"
+        },
+        {
+          "position": "Employee Relations Officer",
+          "location": null,
+          "current": false,
+          "started": "1987-01-01T00:00:00+00:00",
+          "ended": "1990-01-01T00:00:00+00:00",
+          "company": "Microelectonics Packaging",
+          "summary": null,
+          "companyUrl": "n/a",
+          "companyId": null,
+          "companyLogo": null,
+          "companySize": "n/a",
+          "staffCount": "n/a",
+          "industry": "n/a",
+          "website": "n/a"
+        }
+      ],
+      "experienceYears": 33,
+      "headLine": "Senior Director, People & Culture at Singtel",
+      "summary": "I am a seasoned HR practitioner with more than 25 years of HR experience in progressive roles across the full spectrum of the HR function. A strategic HR professional who seek to understand business needs and add value by developing and executing effective people plans, HR programs and initiatives to meet the strategic objectives of the company. \n\nI have extended my HR exposure regionally with more than 10 years’ experience in the Asia Pacific region. In the current role, I lead HR teams in the Asia Pacific region consisting of a total headcount of about 2,500 to support the business in a highly matrix high tech organization. I interface with business leaders from different geographical locations, providing full oversight of HR programs from talent management, development, talent acquisition & retention and performance management of high and low performers.",
+      "language": [],
+      "course": [],
+      "project": [],
+      "certification": [],
+      "patent": [],
+      "publication": [],
+      "honorAward": [],
+      "organization": [],
+      "contacts": [
+        {
+          "type": "email",
+          "value": "susansitoe@hotmail.com",
+          "rating": 100,
+          "subType": "personal",
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "email",
+          "value": "susansitoe@singtel.com",
+          "rating": 100,
+          "subType": "work",
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "phone",
+          "value": "+91 6568 382 275",
+          "rating": 100,
+          "subType": null,
+          "isAvailable": null,
+          "isContacted": false
+        },
+        {
+          "type": "phone",
+          "value": "+91 6597 201 766",
+          "rating": 100,
+          "subType": null,
+          "isAvailable": null,
+          "isContacted": false
+        }
+      ],
+      "social": [
+        {
+          "type": "li",
+          "link": "https://www.linkedin.com/in/susan-sitoe-ihrp-sp-33b12846",
+          "rating": 100
+        },
+        {
+          "type": "fb",
+          "link": "https://facebook.com/susan.sitoe",
+          "rating": 100
+        }
+      ],
+      "addresses": [
+        {
+          "display": "India"
+        },
+        {
+          "display": "Singapore, Singapore"
+        }
+      ],
+      "names": [
+        {
+          "display": "Susan Sitoe Lai",
+          "middle": "Sitoe"
+        },
+        {
+          "display": "Susan Sitoe"
+        }
+      ]
+    }
+  }
+]

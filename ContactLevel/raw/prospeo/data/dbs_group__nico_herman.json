@@ -1,0 +1,659 @@
+{
+  "error": false,
+  "free_enrichment": false,
+  "person": {
+    "person_id": "aaaaa9957a70856fd1ff9446",
+    "first_name": "Nico",
+    "last_name": "Herman",
+    "full_name": "Nico Herman",
+    "linkedin_url": "https://www.linkedin.com/in/nico-herman-7ba85930",
+    "current_job_title": "Vice President - IT Audit Lead",
+    "current_job_key": null,
+    "headline": "Information Technology Auditor at DBS Bank",
+    "linkedin_member_id": null,
+    "last_job_change_detected_at": null,
+    "job_history": [
+      {
+        "title": "Vice President - IT Audit Lead",
+        "company_name": "DBS Bank",
+        "logo_url": "80f8c631-f0e9-4479-a8b0-aab8ee410411.jpg",
+        "current": true,
+        "start_year": 2023,
+        "start_month": 2,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 40,
+        "departments": [
+          "IT Audit / IT Compliance",
+          "Internal Audit & Control"
+        ],
+        "seniority": "Vice President",
+        "company_id": "cccc88f26bfc95b0204c3eb2",
+        "job_key": "351294"
+      },
+      {
+        "title": "AVP - IT Audit",
+        "company_name": "DBS Bank",
+        "logo_url": "80f8c631-f0e9-4479-a8b0-aab8ee410411.jpg",
+        "current": false,
+        "start_year": 2020,
+        "start_month": 5,
+        "end_year": 2023,
+        "end_month": 2,
+        "duration_in_months": 33,
+        "departments": [
+          "IT Audit / IT Compliance",
+          "Internal Audit & Control"
+        ],
+        "seniority": "Vice President",
+        "company_id": "cccc88f26bfc95b0204c3eb2",
+        "job_key": "22893253"
+      },
+      {
+        "title": "Senior Information Technology Audit Manager",
+        "company_name": "Rabobank Wholesale & Rural",
+        "logo_url": "f8c65758-ae00-4fc6-96a2-13eb4695dbd9.jpg",
+        "current": false,
+        "start_year": 2017,
+        "start_month": 11,
+        "end_year": 2020,
+        "end_month": 5,
+        "duration_in_months": 30,
+        "departments": [
+          "Internal Audit & Control"
+        ],
+        "seniority": "Manager",
+        "company_id": "ccccb560f480d49d4488fd47",
+        "job_key": "64799326"
+      },
+      {
+        "title": "Manager - IT Audit",
+        "company_name": "Bank ICBC Indonesia",
+        "logo_url": "23af7ebe-88f6-43d9-b819-157ed7165a30.jpg",
+        "current": false,
+        "start_year": 2015,
+        "start_month": 10,
+        "end_year": 2018,
+        "end_month": 10,
+        "duration_in_months": 36,
+        "departments": [
+          "IT Audit / IT Compliance",
+          "Internal Audit & Control"
+        ],
+        "seniority": "Manager",
+        "company_id": "cccc41c7a5f4c565f09846b2",
+        "job_key": "70993482"
+      },
+      {
+        "title": "Assistant Manager - IT Audit",
+        "company_name": "Bank ICBC Indonesia",
+        "logo_url": "23af7ebe-88f6-43d9-b819-157ed7165a30.jpg",
+        "current": false,
+        "start_year": 2012,
+        "start_month": 3,
+        "end_year": 2015,
+        "end_month": 10,
+        "duration_in_months": 43,
+        "departments": [
+          "IT Audit / IT Compliance",
+          "Internal Audit & Control"
+        ],
+        "seniority": "Manager",
+        "company_id": "cccc41c7a5f4c565f09846b2",
+        "job_key": "95952141"
+      },
+      {
+        "title": "Senior Consultant",
+        "company_name": "Insight",
+        "logo_url": "5bad4f40-ffa9-4608-a3cc-051c8a668d12.jpg",
+        "current": false,
+        "start_year": 2011,
+        "start_month": 3,
+        "end_year": 2012,
+        "end_month": 5,
+        "duration_in_months": 14,
+        "departments": [
+          "Consultant"
+        ],
+        "seniority": "Senior",
+        "company_id": "cccc055507afb8a92e3e2ff1",
+        "job_key": "59827355"
+      },
+      {
+        "title": "Junior Consultant",
+        "company_name": "Insight",
+        "logo_url": "5bad4f40-ffa9-4608-a3cc-051c8a668d12.jpg",
+        "current": false,
+        "start_year": 2009,
+        "start_month": 6,
+        "end_year": 2011,
+        "end_month": 3,
+        "duration_in_months": 21,
+        "departments": [
+          "Consultant"
+        ],
+        "seniority": "Entry",
+        "company_id": "cccc055507afb8a92e3e2ff1",
+        "job_key": "28995058"
+      }
+    ],
+    "mobile": {
+      "status": "UNAVAILABLE",
+      "revealed": null,
+      "mobile": null
+    },
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "nicoherman@dbs.com",
+      "verification_method": "BOUNCEBAN",
+      "email_mx_provider": null
+    },
+    "location": {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "state": "Jakarta",
+      "city": null,
+      "time_zone": "Asia/Jakarta",
+      "time_zone_offset": 7.0
+    },
+    "skills": []
+  },
+  "company": {
+    "company_id": "cccc88f26bfc95b0204c3eb2",
+    "name": "DBS Bank",
+    "website": "https://dbs.com",
+    "domain": "dbs.com",
+    "other_websites": [],
+    "description": "DBS is a leading financial services group in Asia with a presence in 19 markets. Headquartered and listed in Singapore, DBS is in the three key Asian axes of growth: Greater China, Southeast Asia and South Asia. The bank's \"AA-\" and \"Aa1\" credit ratings are among the highest in the world.\n\nRecognised for its global leadership, DBS has been named “World’s Best Bank” by Global Finance, “World’s Best Bank” by Euromoney and “Global Bank of the Year” by The Banker. The bank is at the forefront of leveraging digital technology to shape the future of banking, having been named “World’s Best Digital Bank” by Euromoney and the world’s “Most Innovative in Digital Banking” by The Banker. In addition, DBS has been accorded the “Safest Bank in Asia“ award by Global Finance for 14 consecutive years from 2009 to 2022.\n\nDBS provides a full range of services in consumer, SME and corporate banking. As a bank born and bred in Asia, DBS understands the intricacies of doing business in the region’s most dynamic markets. DBS is committed to building lasting relationships with customers, as it banks the Asian way. Through the DBS Foundation, the bank creates impact beyond banking by supporting social enterprises: businesses with a double bottom-line of profit and social and/or environmental impact. DBS Foundation also gives back to society in various ways, including equipping communities with future-ready skills and building food resilience.\n\nWith its extensive network of operations in Asia and emphasis on engaging and empowering its staff, DBS presents exciting career opportunities. For more information, please visit www.dbs.com",
+    "description_seo": "",
+    "description_ai": "Criminal Law Basics provides information and resources on drug charge defense, including top reasons to hire a traffic attorney, technical aspects of dui cases, and domestic violence charges.",
+    "type": "Public",
+    "industry": "Banking",
+    "employee_count": 33288,
+    "employee_count_on_prospeo": 28101,
+    "employee_range": "10000+",
+    "location": {
+      "country": "Singapore",
+      "country_code": "SG",
+      "state": "Central Region",
+      "city": "Downtown Core",
+      "raw_address": "12 Marina Boulevard, DBS Asia Central @ Marina Bay Financial Centre Tower 3, Singapore, 018982, SG"
+    },
+    "sic_codes": [
+      "602"
+    ],
+    "naics_codes": [
+      "521",
+      "522",
+      "52211",
+      "522110",
+      "523"
+    ],
+    "email_tech": {
+      "domain": "dbs.com",
+      "mx_provider": null
+    },
+    "linkedin_url": "https://www.linkedin.com/company/dbs-bank",
+    "twitter_url": "https://x.com/dbsbank",
+    "facebook_url": "https://www.facebook.com/dbs",
+    "crunchbase_url": "https://www.crunchbase.com/organization/dbs-bank-ltd",
+    "instagram_url": "https://www.instagram.com/dbsbank",
+    "youtube_url": null,
+    "phone_hq": {
+      "phone_hq": "+6563272288",
+      "phone_hq_national": "6327 2288",
+      "phone_hq_international": "+6563272288",
+      "phone_hq_country": "Singapore",
+      "phone_hq_country_code": "SG"
+    },
+    "linkedin_id": null,
+    "founded": 1968,
+    "revenue_range": {
+      "min": 10000000000,
+      "max": 100000000000
+    },
+    "revenue_range_printed": "10B+",
+    "keywords": [
+      "Banking And Finance"
+    ],
+    "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/80f8c631-f0e9-4479-a8b0-aab8ee410411.jpg",
+    "attributes": {
+      "is_b2b": false,
+      "has_demo": false,
+      "has_free_trial": false,
+      "has_downloadable": false,
+      "has_mobile_apps": false,
+      "has_online_reviews": false,
+      "has_pricing": false
+    },
+    "funding": {
+      "count": 3,
+      "total_funding": 3989400000,
+      "total_funding_printed": "$4.0B",
+      "latest_funding_date": "2025-09-25T00:00:00",
+      "latest_funding_stage": "Post IPO debt",
+      "funding_events": [
+        {
+          "amount": 1500000000,
+          "amount_printed": "$1,500,000,000",
+          "raised_at": "2023-10-06T00:00:00",
+          "stage": "Post IPO debt",
+          "link": "https://www.crunchbase.com/funding_round/dbs-bank-ltd-post-ipo-debt--7b6ebac9"
+        },
+        {
+          "amount": 2000000000,
+          "amount_printed": "$2,000,000,000",
+          "raised_at": "2025-04-14T00:00:00",
+          "stage": "Post IPO debt",
+          "link": "https://www.crunchbase.com/funding_round/dbs-bank-ltd-post-ipo-debt--e2cb6486"
+        },
+        {
+          "amount": 489400000,
+          "amount_printed": "$489,400,000",
+          "raised_at": "2025-09-25T00:00:00",
+          "stage": "Post IPO debt",
+          "link": "https://www.crunchbase.com/funding_round/dbs-bank-ltd-post-ipo-debt--c0f8a447"
+        }
+      ]
+    },
+    "technology": {
+      "count": 57,
+      "technology_names": [
+        "Redux",
+        "Cloudflare Bot Management",
+        "AddThis",
+        "Node.js",
+        "Tailwind CSS",
+        "PWA",
+        "Swiper",
+        "lit-element",
+        "Hotjar",
+        "Google Maps",
+        "Adobe Target",
+        "lit-html",
+        "jQuery Migrate",
+        "Cloudflare",
+        "AppDynamics",
+        "Partytown",
+        "UIKit",
+        "jQuery",
+        "Google Ads",
+        "ServiceNow",
+        "HSTS",
+        "Adobe Experience Platform Launch",
+        "Google Analytics",
+        "YouTube",
+        "Bootstrap",
+        "Moment.js",
+        "Marko",
+        "Linkedin Insight Tag",
+        "styled-components",
+        "Adobe Analytics",
+        "Amazon Web Services",
+        "Next.js",
+        "Ahrefs",
+        "TikTok Pixel",
+        "Google Tag Manager",
+        "Linkedin Ads",
+        "Facebook Pixel",
+        "Adobe Experience Platform Identity Service",
+        "React",
+        "core-js",
+        "Cloudflare Browser Insights",
+        "DocuSign",
+        "Glassbox",
+        "Sizmek",
+        "cdnjs",
+        "Google Font API",
+        "DigitalOcean Spaces",
+        "Adobe Audience Manager",
+        "Lodash",
+        "Font Awesome",
+        "Open Graph",
+        "Amazon CloudFront",
+        "ZURB Foundation",
+        "Webpack",
+        "web-vitals",
+        "Popper",
+        "Facebook Ads"
+      ],
+      "technology_list": [
+        {
+          "name": "Redux",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "Cloudflare Bot Management",
+          "category": "Security"
+        },
+        {
+          "name": "AddThis",
+          "category": "Widgets"
+        },
+        {
+          "name": "Node.js",
+          "category": "Programming languages"
+        },
+        {
+          "name": "Tailwind CSS",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "PWA",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Swiper",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "lit-element",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Hotjar",
+          "category": "Analytics"
+        },
+        {
+          "name": "Google Maps",
+          "category": "Maps"
+        },
+        {
+          "name": "Adobe Target",
+          "category": "A/B Testing"
+        },
+        {
+          "name": "lit-html",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "jQuery Migrate",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Cloudflare",
+          "category": "CDN"
+        },
+        {
+          "name": "AppDynamics",
+          "category": "Analytics"
+        },
+        {
+          "name": "Partytown",
+          "category": "Performance"
+        },
+        {
+          "name": "UIKit",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "jQuery",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Advertising"
+        },
+        {
+          "name": "ServiceNow",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "HSTS",
+          "category": "Security"
+        },
+        {
+          "name": "Adobe Experience Platform Launch",
+          "category": "Tag managers"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Analytics"
+        },
+        {
+          "name": "YouTube",
+          "category": "Video players"
+        },
+        {
+          "name": "Bootstrap",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "Moment.js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Marko",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "Linkedin Insight Tag",
+          "category": "Analytics"
+        },
+        {
+          "name": "styled-components",
+          "category": "Development"
+        },
+        {
+          "name": "Adobe Analytics",
+          "category": "Analytics"
+        },
+        {
+          "name": "Amazon Web Services",
+          "category": "PaaS"
+        },
+        {
+          "name": "Next.js",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "Ahrefs",
+          "category": "Analytics"
+        },
+        {
+          "name": "TikTok Pixel",
+          "category": "Analytics"
+        },
+        {
+          "name": "Google Tag Manager",
+          "category": "Tag managers"
+        },
+        {
+          "name": "Linkedin Ads",
+          "category": "Advertising"
+        },
+        {
+          "name": "Facebook Pixel",
+          "category": "Analytics"
+        },
+        {
+          "name": "Adobe Experience Platform Identity Service",
+          "category": "Customer data platform"
+        },
+        {
+          "name": "React",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "core-js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Cloudflare Browser Insights",
+          "category": "Analytics"
+        },
+        {
+          "name": "DocuSign",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Glassbox",
+          "category": "Analytics"
+        },
+        {
+          "name": "Sizmek",
+          "category": "Advertising"
+        },
+        {
+          "name": "cdnjs",
+          "category": "CDN"
+        },
+        {
+          "name": "Google Font API",
+          "category": "Font scripts"
+        },
+        {
+          "name": "DigitalOcean Spaces",
+          "category": "CDN"
+        },
+        {
+          "name": "Adobe Audience Manager",
+          "category": "Segmentation"
+        },
+        {
+          "name": "Lodash",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Font Awesome",
+          "category": "Font scripts"
+        },
+        {
+          "name": "Open Graph",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Amazon CloudFront",
+          "category": "CDN"
+        },
+        {
+          "name": "ZURB Foundation",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "Webpack",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "web-vitals",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Popper",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Facebook Ads",
+          "category": "Advertising"
+        }
+      ]
+    },
+    "job_postings": {
+      "active_count": 803,
+      "active_titles": [
+        "tech lead, pricing & risk, global financial markets (vp)",
+        "officer, inbound loan sales leverage, cards & unsecured loans, consumer banking group",
+        "senior officer, specialist, know your customer (cdd reviewer), coo, consumer banking group",
+        "associate, treasures bancassurance specialist, banca, consumer banking group",
+        "officer, specialist, contact centre, consumer banking, technology & operations",
+        "assistant vice president, specialist, risk technology, technology and operations",
+        "vp, client service manager, private banking",
+        "analyst, treasures relationship manager, east tainan branch, treasures & distribution, cbg",
+        "svp, team lead, financial advisory competency, strategic business planning, consumer banking group",
+        "avp/vp, sales manager, global transaction services (gts), institutional banking group",
+        "specialist, equity capital markets - structuring & execution, dbs asia capital (licensed)",
+        "senior associate, treasures relationship manager, consumer banking group",
+        "senior officer, credit approval, consumer banking, risk management group",
+        "avp, sre engineer (networks), group infrastructure & cloud, group technology",
+        "associate, assistant customer service manager (macau branch), consumer banking group",
+        "senior associate, treasures relationship manager, consumer banking group",
+        "analyst, customer service officer, consumer banking group",
+        "assistant officer, personal banker, consumer banking group",
+        "analyst, area sales manager gold loan, consumer banking group",
+        "specialist, regulatory reporting,snr. assoc., coo",
+        "avp/senior associate, operational risk manager and business continuity manager, dbs vietnam hcm",
+        "associate,treasures relationship manager, consumer banking group",
+        "assistant vice president, treasures team lead, consumer banking group",
+        "avp/senior associate/associate, wealth management operations (middle office & sales support))",
+        "avp, regional trade operations, institutional banking group operations (ibgo), group coo",
+        "vp, active directory engineer, future ready technology, group technology",
+        "senior officer, application support, technology and operations",
+        "analyst, wealth management - security operations, cbgo, group coo",
+        "vp, portfolio advisor, private banking, consumer banking group",
+        "svp / vp, asia credit trader, global financial markets",
+        "assistant officer, personal banker, consumer banking group",
+        "contextual marketing platform operations specialist, marketing, institutional banking group",
+        "associate/senior associate, specialist, regulatory reporting, group finance",
+        "senior officer, legal collector, collections, risk management group",
+        "avp, service delivery manager (vendor management), consumer banking group operations",
+        "specialist, wealth management operations, consumer banking ops, technology & operations (bl0224)",
+        "vp, treasures desk head yfj (asean), consumer banking group",
+        "assistant officer, personal banker, consumer banking group",
+        "senior officer, branch relationship manager, consumer banking group",
+        "senior associate, treasures relationship manager, consumer banking group",
+        "analyst, treasures arm, panchio branch, treasures & distribution, consumer banking group",
+        "avp, treasures relationship manager, consumer banking group",
+        "contractor, contact centre, consumer banking, technology & operations",
+        "senior officer, branch relationship manager, consumer banking group",
+        "avp, specialist, business management support (branch operations), consumer banking",
+        "avp, investigations, financial crime & security services, legal and compliance",
+        "avp, cybersecurity risk & control, iss, group technology",
+        "analyst, treasures relationship manager, east tainan branch, treasures & distribution, cbg",
+        "vp, branch business manager (licensed), consumer banking group",
+        "senior associate, treasurs relationship manager, consumer banking group",
+        "associate, treasure relationship manager, consumer banking group",
+        "analyst, treasures relationship manager, chungshan branch, cbg",
+        "senior associate, sales reward project manager, coo, consumer banking group",
+        "assistant officer, personal banker, consumer banking group",
+        "vice president, team lead, sales management office , small medium enterprises",
+        "senior officer, branch relationship manager, consumer banking group",
+        "senior officer, branch relationship manager, consumer banking group",
+        "officer, branch operations manager, consumer banking group",
+        "dbsi structured internship 2026",
+        "assistant officer, personal banker, consumer banking group",
+        "vp, project management (credit risk, team lead), risk management group",
+        "ao-officer_tm card sales_cbgcul",
+        "analyst to avp, assistant relationship manager, treasures private client, private banking",
+        "vp/avp, fund structurer, global financial markets",
+        "senior associate/associate, assistant investment counsellor, private banking",
+        "team lead, strategic business planning, consumer banking",
+        "vice president, zonal head - romm, credit program small, small medium enterprises",
+        "avp/vp, private trust business development manager, private banking, consumer banking group",
+        "avp/vp, aml policy, advisory and training - group ibg coo",
+        "avp, specialist, digital service delivery, consumer banking",
+        "associate, relationship manager, credit program small, small medium enterprises",
+        "credit card onboarding team lead, operations",
+        "assistant officer, personal banker, consumer banking group",
+        "svp/vp, mandate solutions specialist, private banking, consumer banking group",
+        "ao-officer_tm card sales_cbgcul",
+        "officer, branch relationship manager, consumer banking group",
+        "assoc, specialist, collections support-admin, risk management group",
+        "senior officer, branch relationship manager, consumer banking group",
+        "officer, specialist, contact centre, consumer banking, technology & operations",
+        "officer, retention agent- credit card, cards & unsecured loans, consumer banking group",
+        "avp/vp, relationship manager, non-bank financial services, institutional banking group",
+        "senior officer, branch relationship manager, consumer banking group",
+        "avp - avp, team lead, treasures rm (licensed)",
+        "alyst, specialist, collections support-admin, risk management group",
+        "assistant vice president, specialist, digital transformation, transformation and data",
+        "vp, talent acquisition (projects and programme management), human resources",
+        "senior officer, relationship manager-loan against property, consumer banking group",
+        "senior officer/ officer, name screening reviewer, coo, consumer banking group",
+        "senior officer/ officer, customer onboarding (card & unsecured lending), technology & operations",
+        "avp, specialist, digital, private banking",
+        "senior officer, branch relationship manager, consumer banking group",
+        "senior associate, treasures bancassurance specialist, bancassurance, consumer banking group",
+        "svp - head of institutional sales, global financial markets",
+        "senior associate, employee relations, human resource group",
+        "senior officer, branch operations manager, consumer banking group",
+        "avp/assoc, affluent product management - credit cards, cards & unsecured loans",
+        "senior associate,treasures relationship manager, consumer banking group",
+        "vp, specialist, data management & governance",
+        "officer, branch relationship manager, consumer banking group",
+        "officer (12 months contract), legal & compliance officer, dbs vietnam hcmc",
+        "senior associate, banca product manager - online insurance, bancassurance, consumer banking group"
+      ]
+    }
+  }
+}

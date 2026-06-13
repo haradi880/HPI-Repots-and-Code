@@ -1,0 +1,1323 @@
+{
+  "people": [
+    {
+      "id": "ce2897cb-fb03-5ede-8fcf-79f3ac567906",
+      "full_name": "Sungkey Paik",
+      "first_name": "Sungkey",
+      "last_name": "Paik",
+      "location": {
+        "country": "United States",
+        "country_code": "US",
+        "city": "New York",
+        "region": "New York"
+      },
+      "employment": {
+        "current": {
+          "title": "Infrastructure Project Manager",
+          "description": "I lead the creation and development of Sony’s regional PMO office to manage a portfolio of infrastructure projects for the Global Information Systems and Communication group. Establishing clear governance processes with leadership and technology directors in internetworking, data center, and end user services allows me to effectively manage a strategic portfolio of projects to transform and enhance business processes. I drive adoption and training initiatives on tools, cloud solutions, processes, and methodologies and develop workflows for project classification, prioritization, and valuation. My goal is to create a culture of transparency, cross-functional cooperation, and teamwork to effectively communicate and report on risks, issues, and successes of projects, teams, and engagements.",
+          "seniority": "Manager",
+          "company": {
+            "id": "1a8a72a4-cd00-5be7-a4c8-3583ca221b4e",
+            "name": "Sony",
+            "domain": "sony.com",
+            "description": "Sony’s purpose is simple. We aim to fill the world with emotion, through the power of creativity and technology. We want to be responsible for getting hearts racing, stirring ambition, and putting a smile on the faces of our customers. That challenge, combined with our spirit of innovation, motivates us to create groundbreaking technology, entertainment, and services for people worldwide. \n\nOur history as a global brand has been built around employees that all have a passion for touching peoples' lives, and pride in pushing beyond the status quo to produce truly extraordinary results.\n\nWe’re uniquely positioned because we operate in many different industries - from movies and music to video games and electronics. And, with offices around the globe, we benefit from a global workforce that learns and grows together through mutual respect. \n\nIf you're ready to join a diverse team at an innovation-led company with the power to change lives, then we encourage you to read up on the different Sony group companies and check out our Life page. Then, get in touch, and together, let’s make the world say wow.",
+            "year_founded": 0,
+            "headcount": 24102,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "1-7-1 Konan,",
+                "line2": "Minato-ku Tokyo, 108-0075, JP",
+                "region": "東京",
+                "city": "三鷹市",
+                "country": "Japan",
+                "country_code": "JP"
+              },
+              "offices": [
+                {
+                  "line1": "Ahmet Tevfik Ileri Caddesi 10",
+                  "line2": "Istanbul, Istanbul 34768, TR"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 1252,
+                "url": "https://www.linkedin.com/company/sony",
+                "handle": "sony"
+              }
+            },
+            "specialties": [
+              "Sony Group is primarily focused on the Electronics (such as Audio Video/IT products & components)",
+              "Game (such as PlayStation)",
+              "Entertainment (such as motion pictures and music)",
+              "and and Financial Services (such as insurance and banking) sectors."
+            ],
+            "industry": {
+              "main_industry": "Entertainment Providers"
+            }
+          },
+          "is_current": true,
+          "start_at": "2020-11-01T00:00:00Z"
+        },
+        "all": [
+          {
+            "title": "Infrastructure Project Manager",
+            "description": "I lead the creation and development of Sony’s regional PMO office to manage a portfolio of infrastructure projects for the Global Information Systems and Communication group. Establishing clear governance processes with leadership and technology directors in internetworking, data center, and end user services allows me to effectively manage a strategic portfolio of projects to transform and enhance business processes. I drive adoption and training initiatives on tools, cloud solutions, processes, and methodologies and develop workflows for project classification, prioritization, and valuation. My goal is to create a culture of transparency, cross-functional cooperation, and teamwork to effectively communicate and report on risks, issues, and successes of projects, teams, and engagements.",
+            "seniority": "Manager",
+            "company": {
+              "id": "1a8a72a4-cd00-5be7-a4c8-3583ca221b4e",
+              "name": "Sony",
+              "domain": "sony.com",
+              "description": "Sony’s purpose is simple. We aim to fill the world with emotion, through the power of creativity and technology. We want to be responsible for getting hearts racing, stirring ambition, and putting a smile on the faces of our customers. That challenge, combined with our spirit of innovation, motivates us to create groundbreaking technology, entertainment, and services for people worldwide. \n\nOur history as a global brand has been built around employees that all have a passion for touching peoples' lives, and pride in pushing beyond the status quo to produce truly extraordinary results.\n\nWe’re uniquely positioned because we operate in many different industries - from movies and music to video games and electronics. And, with offices around the globe, we benefit from a global workforce that learns and grows together through mutual respect. \n\nIf you're ready to join a diverse team at an innovation-led company with the power to change lives, then we encourage you to read up on the different Sony group companies and check out our Life page. Then, get in touch, and together, let’s make the world say wow.",
+              "year_founded": 0,
+              "headcount": 24102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1-7-1 Konan,",
+                  "line2": "Minato-ku Tokyo, 108-0075, JP",
+                  "region": "東京",
+                  "city": "三鷹市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "Ahmet Tevfik Ileri Caddesi 10",
+                    "line2": "Istanbul, Istanbul 34768, TR"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1252,
+                  "url": "https://www.linkedin.com/company/sony",
+                  "handle": "sony"
+                }
+              },
+              "specialties": [
+                "Sony Group is primarily focused on the Electronics (such as Audio Video/IT products & components)",
+                "Game (such as PlayStation)",
+                "Entertainment (such as motion pictures and music)",
+                "and and Financial Services (such as insurance and banking) sectors."
+              ],
+              "industry": {
+                "main_industry": "Entertainment Providers"
+              }
+            },
+            "is_current": true,
+            "start_at": "2020-11-01T00:00:00Z"
+          },
+          {
+            "title": "Specialist Master",
+            "description": "I advise commercial and government clients on the design, architecture, and implementation of enterprise, cloud, and hybrid solutions. I also create digital strategies and conduct technical capability assessments to identify gaps and generate road-maps for customers embarking on transformation initiatives. In addition to publishing articles on industry and technology insights I have led mobile teams in the plan, build, and operation of integrated enterprise and cloud-based SaaS solutions.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "3e329ec2-fbb4-502b-be51-9be3f23c8958",
+              "name": "Deloitte",
+              "domain": "deloitte.com",
+              "description": "Deloitte drives progress. Our firms around the world help clients become leaders wherever they choose to compete. Deloitte invests in outstanding people of diverse talents and backgrounds and empowers them to achieve more than they could elsewhere. Our work combines advice with action and integrity. We believe that when our clients and society are stronger, so are we. \n\nDeloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms, and their related entities. DTTL (also referred to as “Deloitte Global”) and each of its member firms are legally separate and independent entities. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.\n\nThe content on this page contains general information only, and none of Deloitte Touche Tohmatsu Limited, its member firms, or their related entities (collectively the “Deloitte Network”) is, by means of this publication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should consult a qualified professional adviser. No entity in the Deloitte Network shall be responsible for any loss whatsoever sustained by any person who relies on content from this page.",
+              "year_founded": 1845,
+              "headcount": 521715,
+              "headcount_range": "10001+",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "Worldwide",
+                  "line2": "Worldwide, OO",
+                  "region": "Queensland",
+                  "city": "Hamilton",
+                  "country": "Australia",
+                  "country_code": "AU"
+                },
+                "offices": [
+                  {
+                    "line1": "30 Rockefeller Plaza",
+                    "line2": "New York, NY 10112, US"
+                  },
+                  {
+                    "line1": "88 Queensway",
+                    "line2": "Central & Western, Hong Kong, HK"
+                  },
+                  {
+                    "line1": "185 Avenue Charles de Gaulle",
+                    "line2": "Neuilly-sur-Seine, IdF 92200, FR"
+                  },
+                  {
+                    "line1": "Gredu Str. 4a",
+                    "line2": "Riga, LV-1019, LV"
+                  },
+                  {
+                    "line1": "Roosikrantsi 2",
+                    "line2": "Tallinn, 10119, EE"
+                  },
+                  {
+                    "line1": "Calle Rosario Norte 407",
+                    "line2": "Santiago, Santiago Metropolitan, CL"
+                  },
+                  {
+                    "line1": "22 Calle 15, Cdad.",
+                    "line2": "de Guatamala, GT"
+                  },
+                  {
+                    "line1": "Renngasse",
+                    "line2": "1 Vienna, 1010, AT"
+                  },
+                  {
+                    "line1": "Rruga Faik Konica, Ndërtesa nr. 6 Hyrja nr 7,  1010",
+                    "line2": "Tirana, AL"
+                  },
+                  {
+                    "line1": "Florida 234 Piso 5° CABA, Buenos Aires C1005AAF Argentina",
+                    "line2": "Buenos Aires, AR"
+                  },
+                  {
+                    "line1": "Av. Dr. Chucri Zaidan, 1.240 From 4th to 12th floors - Golden Tower",
+                    "line2": "São Paulo, BR"
+                  },
+                  {
+                    "line1": "103, Alexander Stambolijski Blvd. Sofia Tower (Mall of Sofia)",
+                    "line2": "Sofia, BG"
+                  },
+                  {
+                    "line1": "Carrera 9 # 78 – 31 Bogotá DC, Colombia",
+                    "line2": "Bogotá, CO"
+                  },
+                  {
+                    "line1": "Heredia Edificio Deloitte Centro Corporativo El Cafetal La Ribera de Belén, Heredia",
+                    "line2": "Heredia, CR"
+                  },
+                  {
+                    "line1": "Deloitte d.o.o. ZagrebTower Radnička cesta 80",
+                    "line2": "Zagreb, HR"
+                  },
+                  {
+                    "line1": "Zmaja od Bosne 12c",
+                    "line2": "Sarajevo, BA"
+                  },
+                  {
+                    "line1": "Nicosia office 24 Spyrou Kyprianou Avenue",
+                    "line2": "Nicosia, CY"
+                  },
+                  {
+                    "line1": "Edificio Deloitte Calle Rafael Augusto Sánchez No. 65 Ensanche Piantini",
+                    "line2": "Santo Domingo, DO"
+                  },
+                  {
+                    "line1": "Avante Penthouse Building Offices 10-01 and 10-03.",
+                    "line2": "San Salvador, SV"
+                  },
+                  {
+                    "line1": "Plaza América Building Colonia Florencia Norte P.O. Box: 3878",
+                    "line2": "Tegucigalpa, HN"
+                  },
+                  {
+                    "line1": "Dózsa György street 84/C",
+                    "line2": "Budapest, HU"
+                  },
+                  {
+                    "line1": "Marunouchi Nijubashi Building 3-2-3 Marunouchi, Chiyoda-ku (Reception 17F)",
+                    "line2": "Tokyo, JP"
+                  },
+                  {
+                    "line1": "Jogailos st. 4 4th floor",
+                    "line2": "Vilnius, LT"
+                  },
+                  {
+                    "line1": "Deloitte Place, Triq L-Intornjatur, Central Business District, CBD 3050",
+                    "line2": "Valletta, MT"
+                  },
+                  {
+                    "line1": "Paseo de la Reforma 505 Piso 28 Colonia Cuauhtémoc",
+                    "line2": "Mexico City, MX"
+                  },
+                  {
+                    "line1": "15/F, ICC Tower, Jamiyan-Gun Street 1st Khoroo, Sukhbaatar District",
+                    "line2": "Gefinor Center, Block D Clemenceau Street Beirut, Ulaanbaatar, MN"
+                  },
+                  {
+                    "line1": "Los Robles No. 351",
+                    "line2": "Managua, NI"
+                  },
+                  {
+                    "line1": "al. Jana Pawła II 22 Warszawa, Mazowieckie",
+                    "line2": "Warsaw, PL"
+                  },
+                  {
+                    "line1": "Deloitte Hub Av. Eng. Duarte Pacheco, 7",
+                    "line2": "Lisbon, PT"
+                  },
+                  {
+                    "line1": "6 Shenton Way, OUE Downtown 2 #33-00",
+                    "line2": "Singapore, SG"
+                  },
+                  {
+                    "line1": "Digital Park II Einsteinova 23 851 01 Bratislava",
+                    "line2": "Bratislava, SK"
+                  },
+                  {
+                    "line1": "Dunajska cesta 165 1. nadstropje B objekta Rotonda Ljubljana 1000",
+                    "line2": "Ljubljana, SI"
+                  },
+                  {
+                    "line1": "Civic Towers Plot GA 1 Ozumba Mbadiwe Avenue Victoria Island, Lagos",
+                    "line2": "Lagos, NG"
+                  },
+                  {
+                    "line1": "Deloitte Centre Levels 12-18 80 Queen Street Auckland, 1010",
+                    "line2": "Auckland, NZ"
+                  },
+                  {
+                    "line1": "The Deloitte Place Plot No. 71, Off George Walker Bush Highway North Dzorwulu P.O. Box GP 453",
+                    "line2": "Accra, GH"
+                  },
+                  {
+                    "line1": "Av. Brasilia 767",
+                    "line2": "Asunción, PY"
+                  },
+                  {
+                    "line1": "Deloitte Ireland LLP 29 Earlsfort Terrace",
+                    "line2": "Dublin, IE"
+                  },
+                  {
+                    "line1": "Corner House 20 Parliament Street",
+                    "line2": "Hamilton, BM"
+                  },
+                  {
+                    "line1": "One Capital Place (OCP) 136 Shedden Road George Town P.O. Box 1787",
+                    "line2": "Grand Cayman, KY"
+                  },
+                  {
+                    "line1": "48, 50A, Zhylyanska Street, Kyiv, 01033",
+                    "line2": "Kyiv, UA"
+                  },
+                  {
+                    "line1": "King David Business Center,15th floor,12 Merab Aleksidze Street",
+                    "line2": "Tbilisi, GE"
+                  },
+                  {
+                    "line1": "Almaty Financial District, 36 Al Farabi Ave, 5 floor",
+                    "line2": "Almanty, KZ"
+                  },
+                  {
+                    "line1": "Baku White City Office Building, 25E Nobel Avenue",
+                    "line2": "Baku, AZ"
+                  },
+                  {
+                    "line1": "Churchill I Italská 2581/67",
+                    "line2": "Prague, CZ"
+                  },
+                  {
+                    "line1": "The Mark Tower, 82 - 98 Calea Grivitei, 14th Floor, District 1",
+                    "line2": "Bucharest, RO"
+                  },
+                  {
+                    "line1": "Av. Blandín. Torre BOD Piso 21. La Castellana.",
+                    "line2": "Caracas, VE"
+                  },
+                  {
+                    "line1": "Rue 102 Guinkomey Immeuble face ex-collège la Flèche",
+                    "line2": "Cotonou, BJ"
+                  },
+                  {
+                    "line1": "63 boulevard du 13 janvier Nyékonakpoè",
+                    "line2": "Lome, TG"
+                  },
+                  {
+                    "line1": "Rue du Lac Oubeira Immeuble Illiade, 1053",
+                    "line2": "Tunis, TN"
+                  },
+                  {
+                    "line1": "8 Adelaide St W Suite 200",
+                    "line2": "Toronto, CA"
+                  },
+                  {
+                    "line1": "Plaza Pablo Ruiz Picasso, 1, 28020",
+                    "line2": "Madrid , ES"
+                  },
+                  {
+                    "line1": "8 Brindabella Circuit Brindabella Business Park",
+                    "line2": "Canberra, Australian Capital Territory 2609, AU"
+                  },
+                  {
+                    "line1": "225 George St",
+                    "line2": "Sydney, New South Wales 2000, AU"
+                  },
+                  {
+                    "line1": "10 Darcy St",
+                    "line2": "Parramatta, New South Wales 2150, AU"
+                  },
+                  {
+                    "line1": "24 Mitchell St",
+                    "line2": "Darwin City, Northern Territory 0800, AU"
+                  },
+                  {
+                    "line1": "123 Eagle St",
+                    "line2": "Level 23 Riverside Centre Brisbane City, Queensland 4000, AU"
+                  },
+                  {
+                    "line1": "11 Waymouth St",
+                    "line2": "Level 17 Adelaide, South Australia 5000, AU"
+                  },
+                  {
+                    "line1": "170 Fullarton Rd",
+                    "line2": "Level 2 Dulwich, South Australia 5065, AU"
+                  },
+                  {
+                    "line1": "22 Elizabeth St",
+                    "line2": "Level 8 Hobart, Tasmania 7000, AU"
+                  },
+                  {
+                    "line1": "Tasman Hwy",
+                    "line2": "Level 8, 22 Elizabeth Street Hobart, Tasmania 7000, AU"
+                  },
+                  {
+                    "line1": "477 Collins St",
+                    "line2": "Melbourne, Victoria 3000, AU"
+                  },
+                  {
+                    "line1": "123 St Georges Ter",
+                    "line2": "Level 7 - 9 Brookfield Place, Tower 2 Perth, Western Australia 6000, AU"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1038,
+                  "url": "https://www.linkedin.com/company/deloitte",
+                  "handle": "deloitte"
+                }
+              },
+              "specialties": [
+                "Consulting",
+                "Financial Advisory",
+                "Risk Management",
+                "Audit & Assurance",
+                "and Tax & Legal"
+              ],
+              "industry": {
+                "main_industry": "Business Consulting and Services"
+              }
+            },
+            "start_at": "2015-05-01T00:00:00Z",
+            "end_at": "2020-06-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Manager, Strategic Advisory Services",
+            "description": "As the first Advisory Services consultant, I launched, managed and delivered advisory services to MobileIron's largest and most influential customers. By developing and enhancing strategic mobility service offerings in mobile infrastructure transformation, app development and management, mobile security policies, and mobile adoption, I was able to resolve complex customer challenges and established credibility to close, expand and retain Fortune 500 customers. Consulted and advised C-level clients and authored best practices toolkits and whitepapers to assist customers and partners in implementing mobility initiatives.",
+            "seniority": "Manager",
+            "company": {
+              "id": "455debce-7ac8-5cc7-acd8-2b9a94e675a6",
+              "name": "MobileIron",
+              "domain": "mobileiron.com",
+              "description": "MobileIron is redefining enterprise security with the industry’s first mobile-centric security platform for the Everywhere Enterprise. In the Everywhere Enterprise, corporate data flows freely across devices and servers in the cloud, empowering workers to be productive anywhere they need to work. To secure access and protect data across this perimeter-less enterprise, MobileIron leverages a zero trust approach, which assumes bad actors are already in the network and secure access is determined by a “never trust, always verify” model.\n\nMobileIron’s platform combines award-winning and industry-leading unified endpoint management (UEM) capabilities with passwordless MFA (Zero Sign-On) and mobile threat defense (MTD) to validate the device, establish user context, verify the network, and detect and remediate threats to ensure that only authorized users, devices, apps, and services can access business resources in a “work from everywhere” world. Over 20,000 organizations, including the world’s largest financial institutions, intelligence agencies, and other highly regulated companies, have chosen MobileIron to enable a seamless and secure user experience in the Everywhere Enterprise.",
+              "year_founded": 0,
+              "headcount": 159,
+              "headcount_range": "501-1000",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "401 E. Middlefield Road",
+                  "line2": "Mountain View, CA 94043, US",
+                  "region": "California",
+                  "city": "Mountain View",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "Marathon 2",
+                    "line2": "Hilversum, 1223RE, NL"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 644123,
+                  "url": "https://www.linkedin.com/company/mobileiron",
+                  "handle": "mobileiron",
+                  "connection_count": 40409
+                }
+              },
+              "specialties": [
+                "Smartphone",
+                "Mobile",
+                "Mobile Device Management (MDM)",
+                "Enterprise",
+                "Mobile Application Management (MAM)",
+                "Tablets",
+                "SaaS",
+                "Mobile Security",
+                "BYOD",
+                "mutli-OS",
+                "Enterprise Mobility",
+                "Data Loss Prevention",
+                "Security",
+                "Single Sign-On",
+                "cybersecurity",
+                "Zero Trust",
+                "and Unified Endpoint Management"
+              ],
+              "industry": {
+                "main_industry": "Software Development"
+              }
+            },
+            "start_at": "2011-05-01T00:00:00Z",
+            "end_at": "2015-04-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Manager, Emerging Technologies",
+            "description": "I managed global projects to design, architect, engineer and implement new technology service offerings. Lead project teams to review, select and deploy wireless, mobility, networking, security and storage technologies. Generated business value through new service creation in areas of mobility, computing, virtualization and process optimization to increase efficiency and productivity while reducing cost. Consulted the business lines on technology solutions to maximize return on investments. Projects included the creation of mobile computing platforms for global sales and field representatives, network isolation design for securing manufacturing plants, and data encryption for human resources systems. Managed and engineered a global iOS strategy and service for over 20,000 users to advance and leverage the use of mobile technology",
+            "seniority": "Manager",
+            "company": {
+              "id": "ada7f085-2377-5332-a720-3256190da524",
+              "name": "Pfizer",
+              "domain": "pfizer.com",
+              "description": "We’re celebrating over 175 years of daring scientific innovation—and we’re not done yet. Let’s outdo yesterday. Protect your health at PfizerForAll.com\n \nFor additional information on our guidelines, please visit  http://www.pfizer.com/community-guidelines",
+              "year_founded": 0,
+              "headcount": 103649,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "New York",
+                  "line2": "New York, New York 10017, US",
+                  "region": "New York",
+                  "city": "New York",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "Mumbai",
+                    "line2": "Mumbai, Maharastra 400102, IN"
+                  },
+                  {
+                    "line1": "1 Giralda Farms",
+                    "line2": "Madison, NJ 07940, US"
+                  },
+                  {
+                    "line1": "Littleconnell",
+                    "line2": "Newbridge, County Kildare, IE"
+                  },
+                  {
+                    "line1": "280 Shennecossett Rd",
+                    "line2": "Groton, CT 06340, US"
+                  },
+                  {
+                    "line1": "No. 177, Sec 2, Zhong Zheng E. Rd.",
+                    "line2": "New Taipei City, New Taipei City 251, TW"
+                  },
+                  {
+                    "line1": "38-42 Wharf Rd",
+                    "line2": "Sydney, NSW 2114, AU"
+                  },
+                  {
+                    "line1": "1 Burtt Rd",
+                    "line2": "Andover, MA 01810, US"
+                  },
+                  {
+                    "line1": "Rijksweg 12",
+                    "line2": "Puurs, Flemish Region 2870, BE"
+                  },
+                  {
+                    "line1": "85 Bute Ln",
+                    "line2": "Sandton, Gauteng 2196, ZA"
+                  },
+                  {
+                    "line1": "500 Arcola Rd",
+                    "line2": "Collegeville, PA 19426, US"
+                  },
+                  {
+                    "line1": "1200 Parkdale Rd",
+                    "line2": "Rochester, MI 48307, US"
+                  },
+                  {
+                    "line1": "1025 Boulevard Marcel-Laurin",
+                    "line2": "Montreal, QC H4R 1J6, CA"
+                  },
+                  {
+                    "line1": "Abilay han dangili 141",
+                    "line2": "Almaty, Almaty Oblysy 050000, KZ"
+                  },
+                  {
+                    "line1": "31 Tuas South Ave 6",
+                    "line2": "Singapore, Singapore 637578, SG"
+                  },
+                  {
+                    "line1": "1040 Swabia Ct",
+                    "line2": "Durham, NC 27703, US"
+                  },
+                  {
+                    "line1": "Arye Shenkar 9",
+                    "line2": "Herzliya, Tel Aviv 46725, IL"
+                  },
+                  {
+                    "line1": "110",
+                    "line2": "JUNGGU, Seoul, KR"
+                  },
+                  {
+                    "line1": "Via Isonzo, 71",
+                    "line2": "Latina, Laz. 04100, IT"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1185,
+                  "url": "https://www.linkedin.com/company/pfizer",
+                  "handle": "pfizer",
+                  "connection_count": 6970525
+                }
+              },
+              "specialties": [
+                "To apply science and our global resources to improve health and well-being at every stage of life. We strive to provide access to safe and effective and affordable medicines and health care services to the people who need them."
+              ],
+              "industry": {
+                "main_industry": "Pharmaceutical Manufacturing"
+              }
+            },
+            "start_at": "2004-12-01T00:00:00Z",
+            "end_at": "2011-04-01T00:00:00Z"
+          },
+          {
+            "title": "Consulting Engineer",
+            "description": "Professional consultant to Fortune 500 clients including JPMorgan Chase, Bear Stearns, and MCI/Uunet.   Deliverables included network architectures, project management and enterprise systems integration to achieve strategic and tactical goals. Expanded and developed new client relationships at strategic accounts and markets from their initial engagements. Maintained excellent relationships and communications and responded quickly to client needs and changing environments, earning multiple client service awards. Transfered knowledge and procedures for industry best practices and delivered optimal technology solutions for critical business requirements.\n\nConsulting projects included network design, architecture and implementation of a 50 story office building in Manhattan, including two trading floors, redundant data centers and internetworking services for 5000 users.  Other projects included core fiber infrastructure design between NYC campus buildings and data centers, migration and upgrade of data center and DR locations, WAN and MAN connectivity utilizing T3 ,OC3 and dark fiber circuits, market data, storage and mainframe connectivity.  Also led a metropolitan campus network infrastructure upgrade at two major NY hospitals as well as administrative buildings and outpatient clinics and integrated networking services with critical hospital infrastructure including ER, PACS, pharmaceutical, clinical, administrative and financial systems.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "",
+              "name": "Greenwich Technology Partners",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "1999-01-01T00:00:00Z",
+            "end_at": "2004-01-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Consulting & Advisory",
+                "sub_function": "Management Consulting"
+              },
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          },
+          {
+            "title": "Consultant",
+            "description": "Provided high level technical consultation on network redesign, equipment purchase and implementation of LAN upgrades from 16MB token-ring topology to 100BaseT switched Ethernet environments using Bay and Cisco switches. Managed the transition from Netware to Windows based environments utilizing DNS, DHCP, WINS and SMS servers. Developed a multicasting, web-based video delivery system using Vxtreme servers for training, information dissemination, and live video broadcasting. Installed and maintained critical off-site networks for global CEO and CFO executive meetings and presentations. Configured and programmed Citrix Winframe servers for remote access to PeopleSoft and other applications for domestic and international users.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "2c47730f-8280-5da0-a689-466df7f347b5",
+              "name": "GE Capital",
+              "domain": "gecapital.com",
+              "description": "Every year, the infrastructure that powers our homes, transports our products, heals our loved ones, and keeps our societies moving forward needs a trillion dollars more investment than it gets.\n\nGE Capital wants to change that.\n\nWe believe industry and finance have to speak the same language if you’re going to drive the kind of progress the world needs now. We believe our people understand exactly what it takes to make the world work better every day, everywhere, for everyone.\n\nAnd we believe GE’s vision is best served by a business that knows the complexity, risk and potential of everything we offer customers — because we don’t only build it, we finance it, too. It’s more important than ever that the industries sustaining our lives get the support they deserve.\n\nAt GE Capital, we use the scale, intelligence and sheer inventiveness that’s in our DNA to do just that — whether it’s being the partner of choice for the first world or developing opportunities for the emerging world, we have the talent and the capability to make a better world anywhere we invest.\n\nAnd that’s why GE Capital is different.\n\nWe’re more than a product or service. We create relationships that support the growth of every customer with whom we partner. We’re a team of the brightest minds in finance – with unmatchable expertise in the industries that matter most.\n\nAnd we’ve got plans for the future.\n\nThe new GE Capital is aligned with GE’s industrial businesses to bring customers cutting edge financial solutions as our company continues to build, move, power and cure the world. The world we live in today, the world we want to live in tomorrow and the world whose possibilities we’re only just imagining.\n\nGE Capital.",
+              "year_founded": 0,
+              "headcount": 8064,
+              "headcount_range": "5001-10000",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "901 Main Ave.",
+                  "line2": "Norwalk, CT 06851, US",
+                  "region": "Connecticut",
+                  "city": "Norwalk",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "2",
+                    "line2": "London, W1J 6EW, GB"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1023,
+                  "url": "https://www.linkedin.com/company/gecapital",
+                  "handle": "gecapital",
+                  "connection_count": 365817
+                }
+              },
+              "specialties": [
+                "Aviation Financing",
+                "Healthcare Financing",
+                "Energy Financing & Investing",
+                "and Industrial Financing"
+              ],
+              "industry": {
+                "main_industry": "Financial Services"
+              }
+            },
+            "start_at": "1995-01-01T00:00:00Z",
+            "end_at": "1998-01-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Consulting & Advisory",
+                "sub_function": "Management Consulting"
+              }
+            ]
+          },
+          {
+            "title": "Network Manager",
+            "description": "Administered an enterprise voice and data network supporting multiple T1 circuits. Installed, configured and maintained all networking equipment, including 3Com routers running TCP/IP and IPX protocols. Performed strategic planning of network architecture and technology infrastructure for senior management, sales, marketing, manufacturing and R&D departments. Managed multiple telecommunications and hardware vendors for installation and maintenance of networking and telephone equipment, cabling and digital circuits. Evaluated network management software, including Cabletron Spectrum and HP-Openview. Installed a remote access platform to enable employees to connect to the network from off site locations.  Managed and trained a team of employees and consultants to support and empower 350 users in the use of new software tools. Provided technical recommendations to redefine key business processes with the use of information technology.",
+            "seniority": "Manager",
+            "company": {
+              "id": "",
+              "name": "Barr Laboratories",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "1994-01-01T00:00:00Z",
+            "end_at": "1995-01-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Software",
+                "sub_function": "Network Administration"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 10499862,
+          "url": "https://www.linkedin.com/in/sungkeypaik",
+          "handle": "sungkeypaik",
+          "connection_count": 987
+        }
+      },
+      "educations": [
+        {
+          "school_name": "Stuyvesant HS",
+          "degree": "High School"
+        },
+        {
+          "school_name": "New York University",
+          "degree": "Bachelor's Degree"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Cross-functional Team Leadership",
+        "Data Center",
+        "Enterprise Architecture",
+        "Enterprise Software",
+        "IT Strategy",
+        "ITIL",
+        "Integration",
+        "Mobile Devices",
+        "Mobile Technology",
+        "Process Improvement",
+        "Product Management",
+        "Professional Services",
+        "Program Management",
+        "Project Management",
+        "SaaS",
+        "Security",
+        "Strategic Partnerships",
+        "Strategy",
+        "Vendor Management"
+      ]
+    },
+    {
+      "id": "658ca960-211b-5623-9e70-e4a84c55bf39",
+      "full_name": "Elizabeth Lawler",
+      "first_name": "Elizabeth",
+      "last_name": "Lawler",
+      "location": {
+        "country": "United States",
+        "country_code": "US",
+        "city": "New York",
+        "region": "New York"
+      },
+      "employment": {
+        "current": {
+          "title": "Vice President",
+          "seniority": "C-Level",
+          "company": {
+            "id": "1a8a72a4-cd00-5be7-a4c8-3583ca221b4e",
+            "name": "Sony",
+            "domain": "sony.com",
+            "description": "Sony’s purpose is simple. We aim to fill the world with emotion, through the power of creativity and technology. We want to be responsible for getting hearts racing, stirring ambition, and putting a smile on the faces of our customers. That challenge, combined with our spirit of innovation, motivates us to create groundbreaking technology, entertainment, and services for people worldwide. \n\nOur history as a global brand has been built around employees that all have a passion for touching peoples' lives, and pride in pushing beyond the status quo to produce truly extraordinary results.\n\nWe’re uniquely positioned because we operate in many different industries - from movies and music to video games and electronics. And, with offices around the globe, we benefit from a global workforce that learns and grows together through mutual respect. \n\nIf you're ready to join a diverse team at an innovation-led company with the power to change lives, then we encourage you to read up on the different Sony group companies and check out our Life page. Then, get in touch, and together, let’s make the world say wow.",
+            "year_founded": 0,
+            "headcount": 24102,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "1-7-1 Konan,",
+                "line2": "Minato-ku Tokyo, 108-0075, JP",
+                "region": "東京",
+                "city": "三鷹市",
+                "country": "Japan",
+                "country_code": "JP"
+              },
+              "offices": [
+                {
+                  "line1": "Ahmet Tevfik Ileri Caddesi 10",
+                  "line2": "Istanbul, Istanbul 34768, TR"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 1252,
+                "url": "https://www.linkedin.com/company/sony",
+                "handle": "sony"
+              }
+            },
+            "specialties": [
+              "Sony Group is primarily focused on the Electronics (such as Audio Video/IT products & components)",
+              "Game (such as PlayStation)",
+              "Entertainment (such as motion pictures and music)",
+              "and and Financial Services (such as insurance and banking) sectors."
+            ],
+            "industry": {
+              "main_industry": "Entertainment Providers"
+            }
+          },
+          "is_current": true,
+          "start_at": "2024-06-01T00:00:00Z",
+          "job_functions": [
+            {
+              "function": "Executive & Leadership",
+              "sub_function": "VP/Executive"
+            }
+          ]
+        },
+        "all": [
+          {
+            "title": "Vice President",
+            "seniority": "C-Level",
+            "company": {
+              "id": "1a8a72a4-cd00-5be7-a4c8-3583ca221b4e",
+              "name": "Sony",
+              "domain": "sony.com",
+              "description": "Sony’s purpose is simple. We aim to fill the world with emotion, through the power of creativity and technology. We want to be responsible for getting hearts racing, stirring ambition, and putting a smile on the faces of our customers. That challenge, combined with our spirit of innovation, motivates us to create groundbreaking technology, entertainment, and services for people worldwide. \n\nOur history as a global brand has been built around employees that all have a passion for touching peoples' lives, and pride in pushing beyond the status quo to produce truly extraordinary results.\n\nWe’re uniquely positioned because we operate in many different industries - from movies and music to video games and electronics. And, with offices around the globe, we benefit from a global workforce that learns and grows together through mutual respect. \n\nIf you're ready to join a diverse team at an innovation-led company with the power to change lives, then we encourage you to read up on the different Sony group companies and check out our Life page. Then, get in touch, and together, let’s make the world say wow.",
+              "year_founded": 0,
+              "headcount": 24102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1-7-1 Konan,",
+                  "line2": "Minato-ku Tokyo, 108-0075, JP",
+                  "region": "東京",
+                  "city": "三鷹市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "Ahmet Tevfik Ileri Caddesi 10",
+                    "line2": "Istanbul, Istanbul 34768, TR"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1252,
+                  "url": "https://www.linkedin.com/company/sony",
+                  "handle": "sony"
+                }
+              },
+              "specialties": [
+                "Sony Group is primarily focused on the Electronics (such as Audio Video/IT products & components)",
+                "Game (such as PlayStation)",
+                "Entertainment (such as motion pictures and music)",
+                "and and Financial Services (such as insurance and banking) sectors."
+              ],
+              "industry": {
+                "main_industry": "Entertainment Providers"
+              }
+            },
+            "is_current": true,
+            "start_at": "2024-06-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "VP/Executive"
+              }
+            ]
+          },
+          {
+            "title": "Director, Risk Management",
+            "seniority": "Director",
+            "company": {
+              "id": "1a8a72a4-cd00-5be7-a4c8-3583ca221b4e",
+              "name": "Sony",
+              "domain": "sony.com",
+              "description": "Sony’s purpose is simple. We aim to fill the world with emotion, through the power of creativity and technology. We want to be responsible for getting hearts racing, stirring ambition, and putting a smile on the faces of our customers. That challenge, combined with our spirit of innovation, motivates us to create groundbreaking technology, entertainment, and services for people worldwide. \n\nOur history as a global brand has been built around employees that all have a passion for touching peoples' lives, and pride in pushing beyond the status quo to produce truly extraordinary results.\n\nWe’re uniquely positioned because we operate in many different industries - from movies and music to video games and electronics. And, with offices around the globe, we benefit from a global workforce that learns and grows together through mutual respect. \n\nIf you're ready to join a diverse team at an innovation-led company with the power to change lives, then we encourage you to read up on the different Sony group companies and check out our Life page. Then, get in touch, and together, let’s make the world say wow.",
+              "year_founded": 0,
+              "headcount": 24102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1-7-1 Konan,",
+                  "line2": "Minato-ku Tokyo, 108-0075, JP",
+                  "region": "東京",
+                  "city": "三鷹市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "Ahmet Tevfik Ileri Caddesi 10",
+                    "line2": "Istanbul, Istanbul 34768, TR"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1252,
+                  "url": "https://www.linkedin.com/company/sony",
+                  "handle": "sony"
+                }
+              },
+              "specialties": [
+                "Sony Group is primarily focused on the Electronics (such as Audio Video/IT products & components)",
+                "Game (such as PlayStation)",
+                "Entertainment (such as motion pictures and music)",
+                "and and Financial Services (such as insurance and banking) sectors."
+              ],
+              "industry": {
+                "main_industry": "Entertainment Providers"
+              }
+            },
+            "is_current": true,
+            "start_at": "2015-11-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Executive/C-Level"
+              }
+            ]
+          },
+          {
+            "title": "Senior Client Advocate",
+            "seniority": "Senior",
+            "company": {
+              "id": "87ed9807-7cc7-5f22-a2b9-d65ca8293cdb",
+              "name": "WTW",
+              "domain": "wtwco.com",
+              "description": "At WTW (NASDAQ: WTW), we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help you sharpen your strategy, enhance organizational resilience, motivate your workforce and maximize performance.",
+              "year_founded": 0,
+              "headcount": 57524,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "51 Lime Street",
+                  "line2": "London, England EC3M 7DQ, GB",
+                  "region": "London",
+                  "city": "London",
+                  "country": "United Kingdom",
+                  "country_code": "GB"
+                },
+                "offices": [
+                  {
+                    "line1": "800 N Glebe Rd",
+                    "line2": "Floor 10 Arlington, Virginia 22203, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 3994,
+                  "url": "https://www.linkedin.com/company/wtwcorporate",
+                  "handle": "wtwcorporate",
+                  "connection_count": 1266565
+                }
+              },
+              "specialties": [
+                "Risk management",
+                "Insurance",
+                "Reinsurance",
+                "Financial services consulting",
+                "human resources consulting",
+                "exchange solutions",
+                "employee benefits",
+                "pensions administration",
+                "consulting",
+                "HR software",
+                "insurance software",
+                "and institutional investment"
+              ],
+              "industry": {
+                "main_industry": "Financial Services"
+              }
+            },
+            "start_at": "2014-07-01T00:00:00Z",
+            "end_at": "2015-11-01T00:00:00Z"
+          },
+          {
+            "title": "Director, Risk Management",
+            "seniority": "Director",
+            "company": {
+              "id": "",
+              "name": "The Madison Square Garden Company",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2012-04-01T00:00:00Z",
+            "end_at": "2014-07-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Executive/C-Level"
+              }
+            ]
+          },
+          {
+            "title": "Account Executive",
+            "seniority": "Unknown",
+            "company": {
+              "id": "911b741d-c388-56c6-8ffa-341c22f8cfbb",
+              "name": "Heffernan Insurance Brokers",
+              "domain": "heffins.com",
+              "description": "Heffernan Insurance Brokers, founded in 1988, is one of the largest independent insurance brokerage firms in the United States providing comprehensive business insurance, personal insurance, employee benefits and financial services solutions to a wide range of businesses and individuals. Headquartered in Walnut Creek, Calif., Heffernan has a nationwide presence specializing in customized solutions to serve its clients’ different needs in virtually every industry. \n\nHeffernan has been named on the insurance industry’s ‘Best Agency to Work For’ list, and consistently named a ‘Top Corporate Philanthropist’.\n\nFor more information, visit www.heffins.com. License #0564249",
+              "year_founded": 1988,
+              "headcount": 690,
+              "headcount_range": "501-1000",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "1350 Carlback Avenue",
+                  "line2": "Walnut Creek, CA 94596, US",
+                  "region": "California",
+                  "city": "Walnut Creek",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "300 California St",
+                    "line2": "Suite 400 San Francisco, California 94104, US"
+                  },
+                  {
+                    "line1": "757 S Alameda St",
+                    "line2": "Los Angeles, California 90021, US"
+                  },
+                  {
+                    "line1": "5100 S Macadam Ave",
+                    "line2": "440 Portland, Oregon 97239, US"
+                  },
+                  {
+                    "line1": "16000 Swingley Ridge Road",
+                    "line2": "250 Chesterfield, MO 63017, US"
+                  },
+                  {
+                    "line1": "1820 Gateway Dr",
+                    "line2": "330 San Mateo, California 94404, US"
+                  },
+                  {
+                    "line1": "18004 Sky Park Circle",
+                    "line2": "210 Irvine, CA 92614, US"
+                  },
+                  {
+                    "line1": "101 2nd Street",
+                    "line2": "Suite 120 Petaluma, CA 94952, US"
+                  },
+                  {
+                    "line1": "2020 N Central Ave",
+                    "line2": "Suite 950 Phoenix, AZ 85004, US"
+                  },
+                  {
+                    "line1": "10 Lower Thames Street",
+                    "line2": "9th Floor City of London, England EC3R 6EN, GB"
+                  },
+                  {
+                    "line1": "225 State Road",
+                    "line2": "Media, PA 19063, US"
+                  },
+                  {
+                    "line1": "40200 Truckee Airport Rd",
+                    "line2": "Suite 3 Truckee, California 96161, US"
+                  },
+                  {
+                    "line1": "1731 Technology Dr",
+                    "line2": "Suite 250 San Jose, California 95110, US"
+                  },
+                  {
+                    "line1": "20750 Ventura Blvd",
+                    "line2": "Suite 350 Woodland Hills, CA 91364, US"
+                  },
+                  {
+                    "line1": "8015 SE 28th St",
+                    "line2": "Suite 214 Mercer Island, Washington 98040, US"
+                  },
+                  {
+                    "line1": "5345 Kietzke Ln",
+                    "line2": "Suite 105 Reno, Nevada 89511, US"
+                  },
+                  {
+                    "line1": "809 W Riordan Rd",
+                    "line2": "Suite 104 Flagstaff, Arizona 86001, US"
+                  },
+                  {
+                    "line1": "428 E. Southern Avenue",
+                    "line2": "Tempe, Arizona 85282, US"
+                  },
+                  {
+                    "line1": "8015 SE 28th Street",
+                    "line2": "Suite 214 Mercer Island, WA 98040, US"
+                  },
+                  {
+                    "line1": "5100 S Macadam Avenue",
+                    "line2": "Suite 440 Portland, OR 97239, US"
+                  },
+                  {
+                    "line1": "8115 E. Indian Bend Road",
+                    "line2": "Suite 117 Scottsdale, AZ 85250, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 19384,
+                  "url": "https://www.linkedin.com/company/heffernan-insurance-brokers",
+                  "handle": "heffernan-insurance-brokers",
+                  "connection_count": 15665
+                }
+              },
+              "specialties": [
+                "Business Insurance",
+                "Personal Insurance",
+                "Financial Services",
+                "Employee Benefits",
+                "Property & Casualty Coverage",
+                "Loss Control Services",
+                "Human Resources Consulting",
+                "and Claims Consulting"
+              ],
+              "industry": {
+                "main_industry": "Insurance"
+              }
+            },
+            "start_at": "2011-12-01T00:00:00Z",
+            "end_at": "2012-04-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Sales",
+                "sub_function": "Account Management"
+              }
+            ]
+          },
+          {
+            "title": "Account Executive",
+            "description": "Developed & designed risk management, risk transfer, and risk control programs for various-sized accounts from middle market to multinational Fortune 500 companies.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "d27644e5-bd76-562b-a999-3cf601145379",
+              "name": "Aon",
+              "domain": "aon.com",
+              "description": "We exist to shape decisions for the better — to protect and enrich the lives of people around the world. Through actionable analytic insight, globally integrated Risk Capital and Human Capital expertise, and locally relevant solutions, our colleagues provide clients in over 120 countries with the clarity and confidence to make better risk and people decisions that help protect and grow their businesses.",
+              "year_founded": 0,
+              "headcount": 93294,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "122 Leadenhall Street",
+                  "line2": "London, EC3V 4AN, GB",
+                  "region": "London",
+                  "city": "London",
+                  "country": "United Kingdom",
+                  "country_code": "GB"
+                },
+                "offices": [
+                  {
+                    "line1": "200 East Randolph St.",
+                    "line2": "Chicago, IL 60601, US"
+                  },
+                  {
+                    "line1": "201 Kent St",
+                    "line2": "Sydney, NSW 2000, AU"
+                  },
+                  {
+                    "line1": "1650 Market St",
+                    "line2": "Philadelphia, PA 19103, US"
+                  },
+                  {
+                    "line1": "2 Shenton Way",
+                    "line2": "Singapore, Singapore 068804, SG"
+                  },
+                  {
+                    "line1": "James Joyce Street",
+                    "line2": "Dublin, County Dublin, IE"
+                  },
+                  {
+                    "line1": "Vulkanstrasse 106",
+                    "line2": "Zurich, ZH 8048, CH"
+                  },
+                  {
+                    "line1": "Admiraliteitskade 62",
+                    "line2": "Rotterdam, South Holland 3063 ED Rotterdam, NL"
+                  },
+                  {
+                    "line1": "3565 Piedmont Rd NE",
+                    "line2": "Atlanta, GA 30305, US"
+                  },
+                  {
+                    "line1": "2300 Discovery Dr",
+                    "line2": "Orlando, FL 32826, US"
+                  },
+                  {
+                    "line1": "126-130 George St",
+                    "line2": "Sydney, NSW 2150, AU"
+                  },
+                  {
+                    "line1": "Central Avenue",
+                    "line2": "Gurgaon, Haryana 122001, IN"
+                  },
+                  {
+                    "line1": "Valhallavägen 117",
+                    "line2": "Stockholm, 115 31, SE"
+                  },
+                  {
+                    "line1": "Calle Rosario Pino 16",
+                    "line2": "Madrid, Madrid 28020, ES"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 2041,
+                  "url": "https://www.linkedin.com/company/aon",
+                  "handle": "aon"
+                }
+              },
+              "specialties": [
+                "professional services",
+                "aviation",
+                "energy",
+                "environmental",
+                "power",
+                "risk management",
+                "insurance",
+                "actuarial & analytics",
+                "brokerage",
+                "crisis management",
+                "marine",
+                "consulting",
+                "reinsurance",
+                "human resources",
+                "property",
+                "casualty",
+                "financial services",
+                "construction",
+                "claims consulting",
+                "and space"
+              ],
+              "industry": {
+                "main_industry": "Financial Services"
+              }
+            },
+            "start_at": "1989-03-01T00:00:00Z",
+            "end_at": "2011-10-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Sales",
+                "sub_function": "Account Management"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 31986722,
+          "url": "https://www.linkedin.com/in/elizabeth-lawler-a02866a",
+          "handle": "elizabeth-lawler-a02866a",
+          "connection_count": 977
+        }
+      },
+      "educations": [
+        {
+          "school_name": "New York University",
+          "degree": "BA",
+          "start_at": "1989-01-01T00:00:00Z",
+          "end_at": "1993-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "University of Oxford",
+          "start_at": "1991-01-01T00:00:00Z",
+          "end_at": "1991-01-01T00:00:00Z"
+        }
+      ],
+      "skills": [
+        "Account Management",
+        "Casualty",
+        "Claim",
+        "Commercial Insurance",
+        "Contract Negotiation",
+        "Customer Service",
+        "Employee Benefits",
+        "Enterprise Risk Management",
+        "Financial Risk",
+        "General Insurance",
+        "Key Account Management",
+        "Legal Liability",
+        "Liability",
+        "Marketing Strategy",
+        "Mergers",
+        "Negotiation",
+        "New Business Development",
+        "Risk Management",
+        "Salesforce.com",
+        "Strategic Planning"
+      ]
+    }
+  ],
+  "metadata": {
+    "total": 2525,
+    "credits": 0,
+    "offset": 0,
+    "search_after": "WzIuOTkwMzM4OCwiNjU4Y2E5NjAtMjExYi01NjIzLTllNzAtZTRhODRjNTViZjM5Il0="
+  }
+}

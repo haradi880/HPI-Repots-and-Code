@@ -1,0 +1,1601 @@
+{
+  "people": [
+    {
+      "id": "bf0d8bec-ea61-5b73-aae0-6716d949b4a1",
+      "full_name": "Jianzhuang ZHAO",
+      "first_name": "Jianzhuang",
+      "last_name": "ZHAO",
+      "location": {
+        "country": "Singapore",
+        "country_code": "SG"
+      },
+      "employment": {
+        "current": {
+          "title": "Vice President Regional Compliance Analytics & Insights",
+          "seniority": "VP",
+          "company": {
+            "id": "67ebc2d5-4681-5e6e-9651-6360d50aede4",
+            "name": "UOB",
+            "domain": "uobgroup.com",
+            "description": "We’re here to do Right By You.  \n\nAt UOB, we aspire to build a better future for the people and businesses in the region. \n\nThrough our extensive network and suite of capabilities, we offer financial solutions to the people and businesses within, and connecting with ASEAN. \n\nWe create solutions tailored to your unique needs through data and relationship-led insights.  \n\nOur comprehensive regional network and one-bank approach connects your business to new opportunities in ASEAN.  \n\nWe help businesses to advance responsibly and guide personal wealth to grow sustainably. We foster inclusiveness and environmental well-being for stronger societies.  \n\nThis is how we stay committed to forging a sustainable future for generations to come.  \n\n \n\nNote: For the terms of use of our LinkedIn channel, please visit: https://go.uob.com/socialmedia",
+            "year_founded": 1935,
+            "headcount": 28894,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "80 Raffles Place",
+                "line2": "Singapore, 048624, SG",
+                "region": "Singapore",
+                "city": "Singapore",
+                "country": "Singapore",
+                "country_code": "SG"
+              },
+              "offices": [
+                {
+                  "line1": "408 Jalan Pudu",
+                  "line2": "Kuala Lumpur, Federal Territory of Kuala Lumpur 55100, MY"
+                },
+                {
+                  "line1": "26, Jalan Jend. Sudirman",
+                  "line2": "Jakarta, Jakarta 10220, ID"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 6883,
+                "url": "https://www.linkedin.com/company/uob",
+                "handle": "uob"
+              }
+            },
+            "specialties": [],
+            "industry": {
+              "main_industry": "Banking"
+            }
+          },
+          "is_current": true,
+          "start_at": "2024-07-01T00:00:00Z"
+        },
+        "all": [
+          {
+            "title": "Vice President Regional Compliance Analytics & Insights",
+            "seniority": "VP",
+            "company": {
+              "id": "67ebc2d5-4681-5e6e-9651-6360d50aede4",
+              "name": "UOB",
+              "domain": "uobgroup.com",
+              "description": "We’re here to do Right By You.  \n\nAt UOB, we aspire to build a better future for the people and businesses in the region. \n\nThrough our extensive network and suite of capabilities, we offer financial solutions to the people and businesses within, and connecting with ASEAN. \n\nWe create solutions tailored to your unique needs through data and relationship-led insights.  \n\nOur comprehensive regional network and one-bank approach connects your business to new opportunities in ASEAN.  \n\nWe help businesses to advance responsibly and guide personal wealth to grow sustainably. We foster inclusiveness and environmental well-being for stronger societies.  \n\nThis is how we stay committed to forging a sustainable future for generations to come.  \n\n \n\nNote: For the terms of use of our LinkedIn channel, please visit: https://go.uob.com/socialmedia",
+              "year_founded": 1935,
+              "headcount": 28894,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "80 Raffles Place",
+                  "line2": "Singapore, 048624, SG",
+                  "region": "Singapore",
+                  "city": "Singapore",
+                  "country": "Singapore",
+                  "country_code": "SG"
+                },
+                "offices": [
+                  {
+                    "line1": "408 Jalan Pudu",
+                    "line2": "Kuala Lumpur, Federal Territory of Kuala Lumpur 55100, MY"
+                  },
+                  {
+                    "line1": "26, Jalan Jend. Sudirman",
+                    "line2": "Jakarta, Jakarta 10220, ID"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6883,
+                  "url": "https://www.linkedin.com/company/uob",
+                  "handle": "uob"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Banking"
+              }
+            },
+            "is_current": true,
+            "start_at": "2024-07-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Consultant Financial Services",
+            "seniority": "Senior",
+            "company": {
+              "id": "674e6042-590e-5ef7-8fc9-2fc2a59b340d",
+              "name": "EY",
+              "domain": "ey.com",
+              "description": "EY is building a better working world by creating new value for clients, people, society, the planet, while building trust in the capital markets.\n\nEnabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.\n\nEY teams in more than 150 countries work across a full spectrum of services in assurance, consulting, tax, strategy and transactions, strengthened by sector experience and diverse ecosystem partners.\n \nFind out more about the EY global network: http://ey.com/en_gl/legal-statement",
+              "year_founded": 0,
+              "headcount": 401828,
+              "headcount_range": "10001+",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "6 More London Place",
+                  "line2": "London, SE1 2DA, GB",
+                  "region": "London",
+                  "city": "London",
+                  "country": "United Kingdom",
+                  "country_code": "GB"
+                },
+                "offices": [
+                  {
+                    "line1": "Avenida Presidente Juscelino Kubitschek, 1909",
+                    "line2": "North Tower | 6th to 10th floor São Paulo, SP 04543-011, BR"
+                  },
+                  {
+                    "line1": "Level 16, Ernst & Young Tower, Oriental Plaza",
+                    "line2": "No. 1 East Chang An Avenue, Dong Cheng District Beijing, 100738, CN"
+                  },
+                  {
+                    "line1": "5 Times Square",
+                    "line2": "New York New York, 10036-6530, US"
+                  },
+                  {
+                    "line1": "1 More London Place",
+                    "line2": "London London, SE1 2AF, GB"
+                  },
+                  {
+                    "line1": "Level 23A, Menara Milenium, Jalan Damanlela",
+                    "line2": "Kuala Lumpur, Pusat Bandar Damansara 50490, MY"
+                  },
+                  {
+                    "line1": "Calle de Raimundo Fernandez, Villaverde 65",
+                    "line2": "Madrid, Torre Azca 28003, ES"
+                  },
+                  {
+                    "line1": "The EY Centre, Level 34, 200 George St",
+                    "line2": "Sydney, NSW 2000, AU"
+                  },
+                  {
+                    "line1": "100 Willis St",
+                    "line2": "Wellington, Wellington 6011, NZ"
+                  },
+                  {
+                    "line1": "EY Tower, 100 Adelaide Street West",
+                    "line2": "Toronto, Ontario M5H 0B3, CA"
+                  },
+                  {
+                    "line1": "2 Avenue Hoche",
+                    "line2": "Paris, IdF 75008, FR"
+                  },
+                  {
+                    "line1": "Via Meravigli, 12/14",
+                    "line2": "Milan, Lomb. 20123, IT"
+                  },
+                  {
+                    "line1": "8B Chimarras Str.,",
+                    "line2": "Marousi, Attica 151 25, GR"
+                  },
+                  {
+                    "line1": "Radnicka cesta 50",
+                    "line2": "Zagreb, Zagreb 10000, HR"
+                  },
+                  {
+                    "line1": "33rd Floor, Lake Rajada Office Complex, 193/136-137 Rajadapisek Road",
+                    "line2": "Bangkok, Klongtoey 10110, TH"
+                  },
+                  {
+                    "line1": "3rd & 6th Floor, Wing A & B,Worldmark-1, Aero city, IGI Airport Hospitality District, Opp. Holiday Inn",
+                    "line2": "New Delhi, Mahipalpur 110037 , IN"
+                  },
+                  {
+                    "line1": "Rondo ONZ 1,",
+                    "line2": "Warszawa, Warszawa 00-124, PL"
+                  },
+                  {
+                    "line1": "Harcourt Street",
+                    "line2": "Dublin, County Dublin, IE"
+                  },
+                  {
+                    "line1": "155 N Wacker Dr",
+                    "line2": "Chicago, IL 60606, US"
+                  },
+                  {
+                    "line1": "ulica Rzeznicza 32/33",
+                    "line2": "Wroclaw, DS 50-130, PL"
+                  },
+                  {
+                    "line1": "1 Tim Mei Ave",
+                    "line2": "Central & Western, Hong Kong, HK"
+                  },
+                  {
+                    "line1": "De Kleetlaan 2B",
+                    "line2": "Machelen, Flemish Region 1831, BE"
+                  },
+                  {
+                    "line1": "25 de Mayo 487",
+                    "line2": "Buenos Aires City, Buenos Aires Autonomous City 1002, AR"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1073,
+                  "url": "https://www.linkedin.com/company/ernstandyoung",
+                  "handle": "ernstandyoung"
+                }
+              },
+              "specialties": [
+                "Advisory",
+                "Assurance",
+                "Tax",
+                "Transactions",
+                "Audit",
+                "Mergers",
+                "M&A",
+                "Financial Services",
+                "Accounting",
+                "Professional Services",
+                "Law",
+                "Technology",
+                "Consulting",
+                "Data",
+                "Transformation",
+                "Strategy",
+                "Legal",
+                "Digital transformation",
+                "Legal",
+                "Growth",
+                "and Managed Services"
+              ],
+              "industry": {
+                "main_industry": "Professional Services"
+              }
+            },
+            "start_at": "2021-05-01T00:00:00Z",
+            "end_at": "2024-07-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Data Analyst - Consumer Analytics",
+            "seniority": "Senior",
+            "company": {
+              "id": "ccc23f18-f829-5e12-9cbc-40c8049d60e4",
+              "name": "Lenovo",
+              "domain": "lenovo.com",
+              "description": "Lenovo is a US$69 billion revenue global technology powerhouse, ranked #196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY). \n\nTo find out more visit https://www.lenovo.com, and read about the latest news via our StoryHub at https://news.lenovo.com/.\n\nTo learn more about our career opportunities, visit our careers page at http://jobs.lenovo.com/.",
+              "year_founded": 1984,
+              "headcount": 47189,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "8001 Development Dr",
+                  "line2": "Morrisville, NC 27560, US",
+                  "region": "North Carolina",
+                  "city": "Morrisville",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "10 Xibeiwang East Road, Haidian District",
+                    "line2": "Beijing, 100085, CN"
+                  },
+                  {
+                    "line1": "Rua Werner Von Siemens, 111",
+                    "line2": "Sao Paulo, SP 05069-010, BR"
+                  },
+                  {
+                    "line1": "Carrer Numero 11",
+                    "line2": "Barcelona, Catalonia 08040, ES"
+                  },
+                  {
+                    "line1": "1 Hoi Wan St",
+                    "line2": "Eastern, Hong Kong, HK"
+                  },
+                  {
+                    "line1": "Am Zehnthof 77",
+                    "line2": "Essen, NW 45307, DE"
+                  },
+                  {
+                    "line1": "Carrera 9 76-49",
+                    "line2": "Bogota, Bogota, D.C. 110221, CO"
+                  },
+                  {
+                    "line1": "Rodovia Senador Jose Ermirio de Moraes",
+                    "line2": "Itu, SP 13308-700, BR"
+                  },
+                  {
+                    "line1": "Mexico 2051",
+                    "line2": "Martinez, Buenos Aires 1640, AR"
+                  },
+                  {
+                    "line1": "2",
+                    "line2": "Bengaluru, Karnataka 560037, IN"
+                  },
+                  {
+                    "line1": "ulica Gottlieba Daimlera 1",
+                    "line2": "Warsaw, MA 02-460, PL"
+                  },
+                  {
+                    "line1": "Level 4/12 Help St",
+                    "line2": "Chatswood, Chatswood 2067, AU"
+                  },
+                  {
+                    "line1": "Avni Dilligil Sokak",
+                    "line2": "Istanbul, Istanbul 34394, TR"
+                  },
+                  {
+                    "line1": "4 Kodambakkam High Road",
+                    "line2": "Chennai, Tamil Nadu 600034, IN"
+                  },
+                  {
+                    "line1": "Jalan SS 21/39",
+                    "line2": "Petaling Jaya, Selangor 47400, MY"
+                  },
+                  {
+                    "line1": "Paseo de los Tamarindos 400A",
+                    "line2": "Cuajimalpa de Morelos, CDMX 05110, MX"
+                  },
+                  {
+                    "line1": "Knarrarnasgatan 7",
+                    "line2": "Stockholm, Stockholm County 164 40, SE"
+                  },
+                  {
+                    "line1": "Calle de Serrano Galvache, 56",
+                    "line2": "Madrid, Community of Madrid 28033, ES"
+                  },
+                  {
+                    "line1": "82 Wyndham St",
+                    "line2": "Auckland, Auckland 1010, NZ"
+                  },
+                  {
+                    "line1": "140 Paya Lebar Rd",
+                    "line2": "Singapore, Singapore 409015, SG"
+                  },
+                  {
+                    "line1": "151 Lor Chuan",
+                    "line2": "Braddell Heights,  Singapore 556741, SG"
+                  },
+                  {
+                    "line1": "89 Ratchadaphisek Rd",
+                    "line2": "Khwaeng Din Daeng, Krung Thep Maha Nakhon 10400, TH"
+                  },
+                  {
+                    "line1": "343 ĐƯỜNG Trần Khát Chân",
+                    "line2": "Quận Hai Bà Trưng, Hà Nội 100000, VN"
+                  },
+                  {
+                    "line1": "45 ĐƯỜNG Trần Quang Khải",
+                    "line2": "Quận 1, Thành Phố Hồ Chí Minh 700000, VN"
+                  },
+                  {
+                    "line1": "Lambroekstraat 5c",
+                    "line2": "Diegem, Flemish Region 1831, BE"
+                  },
+                  {
+                    "line1": "Str. Lachezar Stanchev 5, Building A, floor 6th",
+                    "line2": "Sofia, Sofia 1756, BG"
+                  },
+                  {
+                    "line1": "Jankovcova 1603/47a",
+                    "line2": "Praha, Hlavní město Praha 17000, CZ"
+                  },
+                  {
+                    "line1": "Vandtårnsvej 83a",
+                    "line2": "Søborg, Capital Region 2860, DK"
+                  },
+                  {
+                    "line1": "Hevosenkenkä 3",
+                    "line2": "Espoo, Southern Finland 02600, FI"
+                  },
+                  {
+                    "line1": "75, Rue de la Foucaudière",
+                    "line2": "Le Mans, Pays de la Loire 72100, FR"
+                  },
+                  {
+                    "line1": "Vorstadt 2",
+                    "line2": "Oberursel, Hesse 61440, DE"
+                  },
+                  {
+                    "line1": "Meitnerstraße",
+                    "line2": "Stuttgart, Baden-Württemberg 70563, DE"
+                  },
+                  {
+                    "line1": "24 Lagoumitzi",
+                    "line2": "Athens, Attiki 17671, GR"
+                  },
+                  {
+                    "line1": "Lövôház utca 2-6",
+                    "line2": "Budapest, hungary 1024, HU"
+                  },
+                  {
+                    "line1": "Building 1, Swift Square, Northwood Park",
+                    "line2": "Santry Demesne, Dublin  D09 A0E4, IE"
+                  },
+                  {
+                    "line1": "Em Hamoshavot Rd 94",
+                    "line2": "Petah Tikva, Israel 49102, IL"
+                  },
+                  {
+                    "line1": "Dostyk Ave 38",
+                    "line2": "Almaty , Almaty 050000, KZ"
+                  },
+                  {
+                    "line1": "Delta Tower, 7th Floor-Suite 708",
+                    "line2": "Westlands, Nairobi 00800, KE"
+                  },
+                  {
+                    "line1": "Šeimyniškių g 3",
+                    "line2": "Vilnius, Lithuania 09312, LT"
+                  },
+                  {
+                    "line1": "4 Boulevard Sidi Mohammed Ben Abdellah",
+                    "line2": "Casablanca, Morocco 20030, MA"
+                  },
+                  {
+                    "line1": "De Entree 250 a",
+                    "line2": "Amsterdam, North Holland 1101, NL"
+                  },
+                  {
+                    "line1": "Schoutlaan 15-17",
+                    "line2": "Weert, Limburg 6002, NL"
+                  },
+                  {
+                    "line1": "Rosenholmveien 25",
+                    "line2": "Kolbotn, Akershus 1414, NO"
+                  },
+                  {
+                    "line1": "Rua Afonso Praça 30",
+                    "line2": "Lisbon, Portugal 1495-061, PT"
+                  },
+                  {
+                    "line1": "Calea Floreasca 169a",
+                    "line2": "Sector 1, Bucharest 077190, RO"
+                  },
+                  {
+                    "line1": "Bul'var Stroiteley, 4, стр.1",
+                    "line2": "Krasnogorsk, Moskovskaya oblast'​ 143407, RU"
+                  },
+                  {
+                    "line1": "King Fahd Branch Rd",
+                    "line2": "Riyadh, Saudi Arabia 11361, SA"
+                  },
+                  {
+                    "line1": "11070 Belgrade Milentija Popovica 5a",
+                    "line2": "Belgrade, Serbia 11070, RS"
+                  },
+                  {
+                    "line1": "Landererova 12",
+                    "line2": "Bratislava, slovakia 811 09, SK"
+                  },
+                  {
+                    "line1": "17 Muswell Rd",
+                    "line2": "Bryanston, Johannesburg 2021, ZA"
+                  },
+                  {
+                    "line1": "Avenue des Morgines 12",
+                    "line2": "Petit-Lancy, Geneva 1213, CH"
+                  },
+                  {
+                    "line1": "Baslerstrasse 60",
+                    "line2": "Zurich, Switzerland 8048, CH"
+                  },
+                  {
+                    "line1": "Redwood",
+                    "line2": "Basingstoke, England RG24 8, GB"
+                  },
+                  {
+                    "line1": "3 Kings Inch Place",
+                    "line2": "Braehead Glasgow, United Kingdom PA4 8WF, GB"
+                  },
+                  {
+                    "line1": "marginal norte, 438",
+                    "line2": "ciaded nova II, Indaiatuba 13347-613, BR"
+                  },
+                  {
+                    "line1": "Avenida Chedid Jafet 222",
+                    "line2": "São Paulo, Sao Paulo 04551-065, BR"
+                  },
+                  {
+                    "line1": "Avenida Apoquindo 4800",
+                    "line2": "Las Condes, Santiago Metropolitan 7550000, CL"
+                  },
+                  {
+                    "line1": "Calle Nuevo León 100",
+                    "line2": "Fracc San Andrés, Nuevo León 66640, MX"
+                  },
+                  {
+                    "line1": "Boulevard Puerta de Hierro 45116",
+                    "line2": "Fracc Puerta de Hierro, Jalisco 45116, MX"
+                  },
+                  {
+                    "line1": "Alto Caral, Lima 27,, Av Dionisio Derteano 144",
+                    "line2": "Cercado de Lima, Peru 15047, PE"
+                  },
+                  {
+                    "line1": "Conjunto Residencial El Cigarral, Avenida 1",
+                    "line2": "Caracas, Miranda 1083, VE"
+                  },
+                  {
+                    "line1": "55 Idema Rd",
+                    "line2": "Markham, Ontario L3R 1A9, CA"
+                  },
+                  {
+                    "line1": "2010 156th Ave NE",
+                    "line2": "Bellevue, Washington 98007, US"
+                  },
+                  {
+                    "line1": "11555 N Meridian St #150",
+                    "line2": "Carmel, Indiana 46032, US"
+                  },
+                  {
+                    "line1": "222 w Merchandise Mart Plaza, Suite 1800",
+                    "line2": "Chicago, Illinois 60654, US"
+                  },
+                  {
+                    "line1": "3400 E Coliseum Blvd #310",
+                    "line2": "Fort Wayne, Indiana 46805, US"
+                  },
+                  {
+                    "line1": "1904 S University Dr",
+                    "line2": "Davie, Florida 33324, US"
+                  },
+                  {
+                    "line1": "3325 Scott Blvd",
+                    "line2": "Santa Clara, California 95054, US"
+                  },
+                  {
+                    "line1": "6540 Franz Warner Pkwy",
+                    "line2": "Whitsett, North Carolina 27377, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 3653,
+                  "url": "https://www.linkedin.com/company/lenovo",
+                  "handle": "lenovo",
+                  "connection_count": 1310701
+                }
+              },
+              "specialties": [
+                "Computers",
+                "Servers",
+                "Data Center",
+                "Smartphones",
+                "Tablets",
+                "Services",
+                "Software",
+                "Smart Home",
+                "VR",
+                "and AR"
+              ],
+              "industry": {
+                "main_industry": "IT Services and IT Consulting"
+              }
+            },
+            "start_at": "2019-04-01T00:00:00Z",
+            "end_at": "2021-05-01T00:00:00Z"
+          },
+          {
+            "title": "Data Analyst - Pricing Analytics",
+            "seniority": "Unknown",
+            "company": {
+              "id": "ccc23f18-f829-5e12-9cbc-40c8049d60e4",
+              "name": "Lenovo",
+              "domain": "lenovo.com",
+              "description": "Lenovo is a US$69 billion revenue global technology powerhouse, ranked #196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY). \n\nTo find out more visit https://www.lenovo.com, and read about the latest news via our StoryHub at https://news.lenovo.com/.\n\nTo learn more about our career opportunities, visit our careers page at http://jobs.lenovo.com/.",
+              "year_founded": 1984,
+              "headcount": 47189,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "8001 Development Dr",
+                  "line2": "Morrisville, NC 27560, US",
+                  "region": "North Carolina",
+                  "city": "Morrisville",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "10 Xibeiwang East Road, Haidian District",
+                    "line2": "Beijing, 100085, CN"
+                  },
+                  {
+                    "line1": "Rua Werner Von Siemens, 111",
+                    "line2": "Sao Paulo, SP 05069-010, BR"
+                  },
+                  {
+                    "line1": "Carrer Numero 11",
+                    "line2": "Barcelona, Catalonia 08040, ES"
+                  },
+                  {
+                    "line1": "1 Hoi Wan St",
+                    "line2": "Eastern, Hong Kong, HK"
+                  },
+                  {
+                    "line1": "Am Zehnthof 77",
+                    "line2": "Essen, NW 45307, DE"
+                  },
+                  {
+                    "line1": "Carrera 9 76-49",
+                    "line2": "Bogota, Bogota, D.C. 110221, CO"
+                  },
+                  {
+                    "line1": "Rodovia Senador Jose Ermirio de Moraes",
+                    "line2": "Itu, SP 13308-700, BR"
+                  },
+                  {
+                    "line1": "Mexico 2051",
+                    "line2": "Martinez, Buenos Aires 1640, AR"
+                  },
+                  {
+                    "line1": "2",
+                    "line2": "Bengaluru, Karnataka 560037, IN"
+                  },
+                  {
+                    "line1": "ulica Gottlieba Daimlera 1",
+                    "line2": "Warsaw, MA 02-460, PL"
+                  },
+                  {
+                    "line1": "Level 4/12 Help St",
+                    "line2": "Chatswood, Chatswood 2067, AU"
+                  },
+                  {
+                    "line1": "Avni Dilligil Sokak",
+                    "line2": "Istanbul, Istanbul 34394, TR"
+                  },
+                  {
+                    "line1": "4 Kodambakkam High Road",
+                    "line2": "Chennai, Tamil Nadu 600034, IN"
+                  },
+                  {
+                    "line1": "Jalan SS 21/39",
+                    "line2": "Petaling Jaya, Selangor 47400, MY"
+                  },
+                  {
+                    "line1": "Paseo de los Tamarindos 400A",
+                    "line2": "Cuajimalpa de Morelos, CDMX 05110, MX"
+                  },
+                  {
+                    "line1": "Knarrarnasgatan 7",
+                    "line2": "Stockholm, Stockholm County 164 40, SE"
+                  },
+                  {
+                    "line1": "Calle de Serrano Galvache, 56",
+                    "line2": "Madrid, Community of Madrid 28033, ES"
+                  },
+                  {
+                    "line1": "82 Wyndham St",
+                    "line2": "Auckland, Auckland 1010, NZ"
+                  },
+                  {
+                    "line1": "140 Paya Lebar Rd",
+                    "line2": "Singapore, Singapore 409015, SG"
+                  },
+                  {
+                    "line1": "151 Lor Chuan",
+                    "line2": "Braddell Heights,  Singapore 556741, SG"
+                  },
+                  {
+                    "line1": "89 Ratchadaphisek Rd",
+                    "line2": "Khwaeng Din Daeng, Krung Thep Maha Nakhon 10400, TH"
+                  },
+                  {
+                    "line1": "343 ĐƯỜNG Trần Khát Chân",
+                    "line2": "Quận Hai Bà Trưng, Hà Nội 100000, VN"
+                  },
+                  {
+                    "line1": "45 ĐƯỜNG Trần Quang Khải",
+                    "line2": "Quận 1, Thành Phố Hồ Chí Minh 700000, VN"
+                  },
+                  {
+                    "line1": "Lambroekstraat 5c",
+                    "line2": "Diegem, Flemish Region 1831, BE"
+                  },
+                  {
+                    "line1": "Str. Lachezar Stanchev 5, Building A, floor 6th",
+                    "line2": "Sofia, Sofia 1756, BG"
+                  },
+                  {
+                    "line1": "Jankovcova 1603/47a",
+                    "line2": "Praha, Hlavní město Praha 17000, CZ"
+                  },
+                  {
+                    "line1": "Vandtårnsvej 83a",
+                    "line2": "Søborg, Capital Region 2860, DK"
+                  },
+                  {
+                    "line1": "Hevosenkenkä 3",
+                    "line2": "Espoo, Southern Finland 02600, FI"
+                  },
+                  {
+                    "line1": "75, Rue de la Foucaudière",
+                    "line2": "Le Mans, Pays de la Loire 72100, FR"
+                  },
+                  {
+                    "line1": "Vorstadt 2",
+                    "line2": "Oberursel, Hesse 61440, DE"
+                  },
+                  {
+                    "line1": "Meitnerstraße",
+                    "line2": "Stuttgart, Baden-Württemberg 70563, DE"
+                  },
+                  {
+                    "line1": "24 Lagoumitzi",
+                    "line2": "Athens, Attiki 17671, GR"
+                  },
+                  {
+                    "line1": "Lövôház utca 2-6",
+                    "line2": "Budapest, hungary 1024, HU"
+                  },
+                  {
+                    "line1": "Building 1, Swift Square, Northwood Park",
+                    "line2": "Santry Demesne, Dublin  D09 A0E4, IE"
+                  },
+                  {
+                    "line1": "Em Hamoshavot Rd 94",
+                    "line2": "Petah Tikva, Israel 49102, IL"
+                  },
+                  {
+                    "line1": "Dostyk Ave 38",
+                    "line2": "Almaty , Almaty 050000, KZ"
+                  },
+                  {
+                    "line1": "Delta Tower, 7th Floor-Suite 708",
+                    "line2": "Westlands, Nairobi 00800, KE"
+                  },
+                  {
+                    "line1": "Šeimyniškių g 3",
+                    "line2": "Vilnius, Lithuania 09312, LT"
+                  },
+                  {
+                    "line1": "4 Boulevard Sidi Mohammed Ben Abdellah",
+                    "line2": "Casablanca, Morocco 20030, MA"
+                  },
+                  {
+                    "line1": "De Entree 250 a",
+                    "line2": "Amsterdam, North Holland 1101, NL"
+                  },
+                  {
+                    "line1": "Schoutlaan 15-17",
+                    "line2": "Weert, Limburg 6002, NL"
+                  },
+                  {
+                    "line1": "Rosenholmveien 25",
+                    "line2": "Kolbotn, Akershus 1414, NO"
+                  },
+                  {
+                    "line1": "Rua Afonso Praça 30",
+                    "line2": "Lisbon, Portugal 1495-061, PT"
+                  },
+                  {
+                    "line1": "Calea Floreasca 169a",
+                    "line2": "Sector 1, Bucharest 077190, RO"
+                  },
+                  {
+                    "line1": "Bul'var Stroiteley, 4, стр.1",
+                    "line2": "Krasnogorsk, Moskovskaya oblast'​ 143407, RU"
+                  },
+                  {
+                    "line1": "King Fahd Branch Rd",
+                    "line2": "Riyadh, Saudi Arabia 11361, SA"
+                  },
+                  {
+                    "line1": "11070 Belgrade Milentija Popovica 5a",
+                    "line2": "Belgrade, Serbia 11070, RS"
+                  },
+                  {
+                    "line1": "Landererova 12",
+                    "line2": "Bratislava, slovakia 811 09, SK"
+                  },
+                  {
+                    "line1": "17 Muswell Rd",
+                    "line2": "Bryanston, Johannesburg 2021, ZA"
+                  },
+                  {
+                    "line1": "Avenue des Morgines 12",
+                    "line2": "Petit-Lancy, Geneva 1213, CH"
+                  },
+                  {
+                    "line1": "Baslerstrasse 60",
+                    "line2": "Zurich, Switzerland 8048, CH"
+                  },
+                  {
+                    "line1": "Redwood",
+                    "line2": "Basingstoke, England RG24 8, GB"
+                  },
+                  {
+                    "line1": "3 Kings Inch Place",
+                    "line2": "Braehead Glasgow, United Kingdom PA4 8WF, GB"
+                  },
+                  {
+                    "line1": "marginal norte, 438",
+                    "line2": "ciaded nova II, Indaiatuba 13347-613, BR"
+                  },
+                  {
+                    "line1": "Avenida Chedid Jafet 222",
+                    "line2": "São Paulo, Sao Paulo 04551-065, BR"
+                  },
+                  {
+                    "line1": "Avenida Apoquindo 4800",
+                    "line2": "Las Condes, Santiago Metropolitan 7550000, CL"
+                  },
+                  {
+                    "line1": "Calle Nuevo León 100",
+                    "line2": "Fracc San Andrés, Nuevo León 66640, MX"
+                  },
+                  {
+                    "line1": "Boulevard Puerta de Hierro 45116",
+                    "line2": "Fracc Puerta de Hierro, Jalisco 45116, MX"
+                  },
+                  {
+                    "line1": "Alto Caral, Lima 27,, Av Dionisio Derteano 144",
+                    "line2": "Cercado de Lima, Peru 15047, PE"
+                  },
+                  {
+                    "line1": "Conjunto Residencial El Cigarral, Avenida 1",
+                    "line2": "Caracas, Miranda 1083, VE"
+                  },
+                  {
+                    "line1": "55 Idema Rd",
+                    "line2": "Markham, Ontario L3R 1A9, CA"
+                  },
+                  {
+                    "line1": "2010 156th Ave NE",
+                    "line2": "Bellevue, Washington 98007, US"
+                  },
+                  {
+                    "line1": "11555 N Meridian St #150",
+                    "line2": "Carmel, Indiana 46032, US"
+                  },
+                  {
+                    "line1": "222 w Merchandise Mart Plaza, Suite 1800",
+                    "line2": "Chicago, Illinois 60654, US"
+                  },
+                  {
+                    "line1": "3400 E Coliseum Blvd #310",
+                    "line2": "Fort Wayne, Indiana 46805, US"
+                  },
+                  {
+                    "line1": "1904 S University Dr",
+                    "line2": "Davie, Florida 33324, US"
+                  },
+                  {
+                    "line1": "3325 Scott Blvd",
+                    "line2": "Santa Clara, California 95054, US"
+                  },
+                  {
+                    "line1": "6540 Franz Warner Pkwy",
+                    "line2": "Whitsett, North Carolina 27377, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 3653,
+                  "url": "https://www.linkedin.com/company/lenovo",
+                  "handle": "lenovo",
+                  "connection_count": 1310701
+                }
+              },
+              "specialties": [
+                "Computers",
+                "Servers",
+                "Data Center",
+                "Smartphones",
+                "Tablets",
+                "Services",
+                "Software",
+                "Smart Home",
+                "VR",
+                "and AR"
+              ],
+              "industry": {
+                "main_industry": "IT Services and IT Consulting"
+              }
+            },
+            "start_at": "2017-09-01T00:00:00Z",
+            "end_at": "2019-03-01T00:00:00Z"
+          },
+          {
+            "title": "Data Analyst Intern - Supply Chain Analytics",
+            "seniority": "Intern",
+            "company": {
+              "id": "ccc23f18-f829-5e12-9cbc-40c8049d60e4",
+              "name": "Lenovo",
+              "domain": "lenovo.com",
+              "description": "Lenovo is a US$69 billion revenue global technology powerhouse, ranked #196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY). \n\nTo find out more visit https://www.lenovo.com, and read about the latest news via our StoryHub at https://news.lenovo.com/.\n\nTo learn more about our career opportunities, visit our careers page at http://jobs.lenovo.com/.",
+              "year_founded": 1984,
+              "headcount": 47189,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "8001 Development Dr",
+                  "line2": "Morrisville, NC 27560, US",
+                  "region": "North Carolina",
+                  "city": "Morrisville",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "10 Xibeiwang East Road, Haidian District",
+                    "line2": "Beijing, 100085, CN"
+                  },
+                  {
+                    "line1": "Rua Werner Von Siemens, 111",
+                    "line2": "Sao Paulo, SP 05069-010, BR"
+                  },
+                  {
+                    "line1": "Carrer Numero 11",
+                    "line2": "Barcelona, Catalonia 08040, ES"
+                  },
+                  {
+                    "line1": "1 Hoi Wan St",
+                    "line2": "Eastern, Hong Kong, HK"
+                  },
+                  {
+                    "line1": "Am Zehnthof 77",
+                    "line2": "Essen, NW 45307, DE"
+                  },
+                  {
+                    "line1": "Carrera 9 76-49",
+                    "line2": "Bogota, Bogota, D.C. 110221, CO"
+                  },
+                  {
+                    "line1": "Rodovia Senador Jose Ermirio de Moraes",
+                    "line2": "Itu, SP 13308-700, BR"
+                  },
+                  {
+                    "line1": "Mexico 2051",
+                    "line2": "Martinez, Buenos Aires 1640, AR"
+                  },
+                  {
+                    "line1": "2",
+                    "line2": "Bengaluru, Karnataka 560037, IN"
+                  },
+                  {
+                    "line1": "ulica Gottlieba Daimlera 1",
+                    "line2": "Warsaw, MA 02-460, PL"
+                  },
+                  {
+                    "line1": "Level 4/12 Help St",
+                    "line2": "Chatswood, Chatswood 2067, AU"
+                  },
+                  {
+                    "line1": "Avni Dilligil Sokak",
+                    "line2": "Istanbul, Istanbul 34394, TR"
+                  },
+                  {
+                    "line1": "4 Kodambakkam High Road",
+                    "line2": "Chennai, Tamil Nadu 600034, IN"
+                  },
+                  {
+                    "line1": "Jalan SS 21/39",
+                    "line2": "Petaling Jaya, Selangor 47400, MY"
+                  },
+                  {
+                    "line1": "Paseo de los Tamarindos 400A",
+                    "line2": "Cuajimalpa de Morelos, CDMX 05110, MX"
+                  },
+                  {
+                    "line1": "Knarrarnasgatan 7",
+                    "line2": "Stockholm, Stockholm County 164 40, SE"
+                  },
+                  {
+                    "line1": "Calle de Serrano Galvache, 56",
+                    "line2": "Madrid, Community of Madrid 28033, ES"
+                  },
+                  {
+                    "line1": "82 Wyndham St",
+                    "line2": "Auckland, Auckland 1010, NZ"
+                  },
+                  {
+                    "line1": "140 Paya Lebar Rd",
+                    "line2": "Singapore, Singapore 409015, SG"
+                  },
+                  {
+                    "line1": "151 Lor Chuan",
+                    "line2": "Braddell Heights,  Singapore 556741, SG"
+                  },
+                  {
+                    "line1": "89 Ratchadaphisek Rd",
+                    "line2": "Khwaeng Din Daeng, Krung Thep Maha Nakhon 10400, TH"
+                  },
+                  {
+                    "line1": "343 ĐƯỜNG Trần Khát Chân",
+                    "line2": "Quận Hai Bà Trưng, Hà Nội 100000, VN"
+                  },
+                  {
+                    "line1": "45 ĐƯỜNG Trần Quang Khải",
+                    "line2": "Quận 1, Thành Phố Hồ Chí Minh 700000, VN"
+                  },
+                  {
+                    "line1": "Lambroekstraat 5c",
+                    "line2": "Diegem, Flemish Region 1831, BE"
+                  },
+                  {
+                    "line1": "Str. Lachezar Stanchev 5, Building A, floor 6th",
+                    "line2": "Sofia, Sofia 1756, BG"
+                  },
+                  {
+                    "line1": "Jankovcova 1603/47a",
+                    "line2": "Praha, Hlavní město Praha 17000, CZ"
+                  },
+                  {
+                    "line1": "Vandtårnsvej 83a",
+                    "line2": "Søborg, Capital Region 2860, DK"
+                  },
+                  {
+                    "line1": "Hevosenkenkä 3",
+                    "line2": "Espoo, Southern Finland 02600, FI"
+                  },
+                  {
+                    "line1": "75, Rue de la Foucaudière",
+                    "line2": "Le Mans, Pays de la Loire 72100, FR"
+                  },
+                  {
+                    "line1": "Vorstadt 2",
+                    "line2": "Oberursel, Hesse 61440, DE"
+                  },
+                  {
+                    "line1": "Meitnerstraße",
+                    "line2": "Stuttgart, Baden-Württemberg 70563, DE"
+                  },
+                  {
+                    "line1": "24 Lagoumitzi",
+                    "line2": "Athens, Attiki 17671, GR"
+                  },
+                  {
+                    "line1": "Lövôház utca 2-6",
+                    "line2": "Budapest, hungary 1024, HU"
+                  },
+                  {
+                    "line1": "Building 1, Swift Square, Northwood Park",
+                    "line2": "Santry Demesne, Dublin  D09 A0E4, IE"
+                  },
+                  {
+                    "line1": "Em Hamoshavot Rd 94",
+                    "line2": "Petah Tikva, Israel 49102, IL"
+                  },
+                  {
+                    "line1": "Dostyk Ave 38",
+                    "line2": "Almaty , Almaty 050000, KZ"
+                  },
+                  {
+                    "line1": "Delta Tower, 7th Floor-Suite 708",
+                    "line2": "Westlands, Nairobi 00800, KE"
+                  },
+                  {
+                    "line1": "Šeimyniškių g 3",
+                    "line2": "Vilnius, Lithuania 09312, LT"
+                  },
+                  {
+                    "line1": "4 Boulevard Sidi Mohammed Ben Abdellah",
+                    "line2": "Casablanca, Morocco 20030, MA"
+                  },
+                  {
+                    "line1": "De Entree 250 a",
+                    "line2": "Amsterdam, North Holland 1101, NL"
+                  },
+                  {
+                    "line1": "Schoutlaan 15-17",
+                    "line2": "Weert, Limburg 6002, NL"
+                  },
+                  {
+                    "line1": "Rosenholmveien 25",
+                    "line2": "Kolbotn, Akershus 1414, NO"
+                  },
+                  {
+                    "line1": "Rua Afonso Praça 30",
+                    "line2": "Lisbon, Portugal 1495-061, PT"
+                  },
+                  {
+                    "line1": "Calea Floreasca 169a",
+                    "line2": "Sector 1, Bucharest 077190, RO"
+                  },
+                  {
+                    "line1": "Bul'var Stroiteley, 4, стр.1",
+                    "line2": "Krasnogorsk, Moskovskaya oblast'​ 143407, RU"
+                  },
+                  {
+                    "line1": "King Fahd Branch Rd",
+                    "line2": "Riyadh, Saudi Arabia 11361, SA"
+                  },
+                  {
+                    "line1": "11070 Belgrade Milentija Popovica 5a",
+                    "line2": "Belgrade, Serbia 11070, RS"
+                  },
+                  {
+                    "line1": "Landererova 12",
+                    "line2": "Bratislava, slovakia 811 09, SK"
+                  },
+                  {
+                    "line1": "17 Muswell Rd",
+                    "line2": "Bryanston, Johannesburg 2021, ZA"
+                  },
+                  {
+                    "line1": "Avenue des Morgines 12",
+                    "line2": "Petit-Lancy, Geneva 1213, CH"
+                  },
+                  {
+                    "line1": "Baslerstrasse 60",
+                    "line2": "Zurich, Switzerland 8048, CH"
+                  },
+                  {
+                    "line1": "Redwood",
+                    "line2": "Basingstoke, England RG24 8, GB"
+                  },
+                  {
+                    "line1": "3 Kings Inch Place",
+                    "line2": "Braehead Glasgow, United Kingdom PA4 8WF, GB"
+                  },
+                  {
+                    "line1": "marginal norte, 438",
+                    "line2": "ciaded nova II, Indaiatuba 13347-613, BR"
+                  },
+                  {
+                    "line1": "Avenida Chedid Jafet 222",
+                    "line2": "São Paulo, Sao Paulo 04551-065, BR"
+                  },
+                  {
+                    "line1": "Avenida Apoquindo 4800",
+                    "line2": "Las Condes, Santiago Metropolitan 7550000, CL"
+                  },
+                  {
+                    "line1": "Calle Nuevo León 100",
+                    "line2": "Fracc San Andrés, Nuevo León 66640, MX"
+                  },
+                  {
+                    "line1": "Boulevard Puerta de Hierro 45116",
+                    "line2": "Fracc Puerta de Hierro, Jalisco 45116, MX"
+                  },
+                  {
+                    "line1": "Alto Caral, Lima 27,, Av Dionisio Derteano 144",
+                    "line2": "Cercado de Lima, Peru 15047, PE"
+                  },
+                  {
+                    "line1": "Conjunto Residencial El Cigarral, Avenida 1",
+                    "line2": "Caracas, Miranda 1083, VE"
+                  },
+                  {
+                    "line1": "55 Idema Rd",
+                    "line2": "Markham, Ontario L3R 1A9, CA"
+                  },
+                  {
+                    "line1": "2010 156th Ave NE",
+                    "line2": "Bellevue, Washington 98007, US"
+                  },
+                  {
+                    "line1": "11555 N Meridian St #150",
+                    "line2": "Carmel, Indiana 46032, US"
+                  },
+                  {
+                    "line1": "222 w Merchandise Mart Plaza, Suite 1800",
+                    "line2": "Chicago, Illinois 60654, US"
+                  },
+                  {
+                    "line1": "3400 E Coliseum Blvd #310",
+                    "line2": "Fort Wayne, Indiana 46805, US"
+                  },
+                  {
+                    "line1": "1904 S University Dr",
+                    "line2": "Davie, Florida 33324, US"
+                  },
+                  {
+                    "line1": "3325 Scott Blvd",
+                    "line2": "Santa Clara, California 95054, US"
+                  },
+                  {
+                    "line1": "6540 Franz Warner Pkwy",
+                    "line2": "Whitsett, North Carolina 27377, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 3653,
+                  "url": "https://www.linkedin.com/company/lenovo",
+                  "handle": "lenovo",
+                  "connection_count": 1310701
+                }
+              },
+              "specialties": [
+                "Computers",
+                "Servers",
+                "Data Center",
+                "Smartphones",
+                "Tablets",
+                "Services",
+                "Software",
+                "Smart Home",
+                "VR",
+                "and AR"
+              ],
+              "industry": {
+                "main_industry": "IT Services and IT Consulting"
+              }
+            },
+            "start_at": "2016-12-01T00:00:00Z",
+            "end_at": "2017-07-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Process Engineer",
+            "seniority": "Senior",
+            "company": {
+              "id": "9aadeb30-3f80-5938-8855-b455e176056c",
+              "name": "United Microelectronics Corporation (UMC)",
+              "domain": "umc.com",
+              "description": "United Microelectronics Corporation (NYSE: UMC, TWSE: 2303) is a leading global semiconductor foundry with over four decades of innovation powering everyday technologies that shape the modern world. From AI, automotive, connectivity, consumer electronics, to IoT, UMC delivers precise, high-quality integrated circuit (IC) manufacturing services to customers across every major sector of the electronics industry.\n\nAs one of the world’s most established pure-play foundries, UMC offers advanced logic and specialty technologies, including embedded high-voltage, embedded non-volatile Memory, RFSOI, and BCD combined with deep expertise and collaborative engineering partnerships.\n\nHeadquartered in Hsinchu, Taiwan, UMC operates a global footprint that includes manufacturing and R&D in Taiwan and Singapore, as well as fabs across China and Japan. With more than 20,000 employees worldwide, we are committed to delivering both global impact and regional excellence.\n\nAt UMC, innovation is powered by people. We enable stable, meaningful careers through best-in-class training, access to advanced technology, and a culture that values precision, progress, and teamwork. Our people-first approach ensures that every employee has the tools and support to thrive while contributing to solutions that move industries and lives forward as we precision-engineer the future.",
+              "year_founded": 1980,
+              "headcount": 4377,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "No. 3, Li-Hsin 2nd Road",
+                  "line2": "Hsinchu Science Park Hsinchu, 300, TW",
+                  "region": "新竹市",
+                  "city": "新竹市",
+                  "country": "Taiwan",
+                  "country_code": "TW"
+                },
+                "offices": [
+                  {
+                    "line1": "No. 18 Nanke 2nd Rd, Shinshih Township, Tainan Country Tainan Science Park",
+                    "line2": "Tainan, 744, TW"
+                  },
+                  {
+                    "line1": "De Entree 77",
+                    "line2": "Amsterdam, 北荷兰省 1101, NL"
+                  },
+                  {
+                    "line1": "No. 333, Xinghua Street, Suzhou Industrial Park",
+                    "line2": "Suzhou, Jiangsu Province 215025, CN"
+                  },
+                  {
+                    "line1": "488 De Guigne Drive",
+                    "line2": "Sunnyvale, CA 94085, US"
+                  },
+                  {
+                    "line1": "CONCURRED Yokohama, 3-1 Kinko-cho, Kanagawa-ku",
+                    "line2": "Yokohama, Kanagawa 221-0056, JP"
+                  },
+                  {
+                    "line1": "Pasir Ris Drive 12",
+                    "line2": "Singapore, Singapore 519528, SG"
+                  },
+                  {
+                    "line1": "1117, Hanshin Intervally 24, 322, Teheran-ro,",
+                    "line2": "Seoul, Seoul 1117, KR"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 400392,
+                  "url": "https://www.linkedin.com/company/united-microelectronics-corporation-umc-",
+                  "handle": "united-microelectronics-corporation-umc-"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductors"
+              }
+            },
+            "start_at": "2014-08-01T00:00:00Z",
+            "end_at": "2015-07-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Chemical Engineering"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 415017509,
+          "url": "https://www.linkedin.com/in/jianzhuang-zhao-205ba4b6",
+          "handle": "jianzhuang-zhao-205ba4b6",
+          "connection_count": 994
+        }
+      },
+      "educations": [
+        {
+          "school_name": "西安交通大学",
+          "degree": "Bachelor's degree",
+          "start_at": "2008-01-01T00:00:00Z",
+          "end_at": "2012-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "西安交通大学",
+          "degree": "Master of Science (MS)",
+          "start_at": "2012-01-01T00:00:00Z",
+          "end_at": "2014-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Singapore Management University",
+          "degree": "Master of IT in Business",
+          "start_at": "2016-01-01T00:00:00Z",
+          "end_at": "2017-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "International Compliance Association",
+          "degree": "Diploma",
+          "start_at": "2025-02-01T00:00:00Z",
+          "end_at": "2026-01-01T00:00:00Z"
+        }
+      ],
+      "languages": [
+        {
+          "language": "english",
+          "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+          "language": "mandarin",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "skills": [
+        "Amazon EC2",
+        "Amazon S3",
+        "Anti-Money Laundering",
+        "Apache Hadoop",
+        "Banking",
+        "Compliance Management",
+        "Corporate Governance",
+        "Data Visualization",
+        "Enterprise Risk Management",
+        "Financial Risk Management",
+        "Financial Services",
+        "Governance, Risk Management, and Compliance (GRC)",
+        "Know Your Customer",
+        "Machine Learning",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Python",
+        "QlikSense",
+        "R programing",
+        "Regulatory Compliance",
+        "Risk Management",
+        "SAS",
+        "SPC Maintenance and Analysis",
+        "SQL",
+        "Statistical Analysis",
+        "Tableau 智能软件",
+        "Time Series Analysis",
+        "Trade Compliance",
+        "Transaction Monitoring"
+      ]
+    },
+    {
+      "id": "489217c7-455b-57b3-800a-375c50cb8160",
+      "full_name": "Federico Burgoni",
+      "first_name": "Federico",
+      "last_name": "Burgoni",
+      "location": {
+        "country": "Singapore",
+        "country_code": "SG",
+        "city": "Singapore",
+        "region": "Singapore"
+      },
+      "employment": {
+        "current": {
+          "title": "Managing Director",
+          "seniority": "C-Level",
+          "company": {
+            "id": "67ebc2d5-4681-5e6e-9651-6360d50aede4",
+            "name": "UOB",
+            "domain": "uobgroup.com",
+            "description": "We’re here to do Right By You.  \n\nAt UOB, we aspire to build a better future for the people and businesses in the region. \n\nThrough our extensive network and suite of capabilities, we offer financial solutions to the people and businesses within, and connecting with ASEAN. \n\nWe create solutions tailored to your unique needs through data and relationship-led insights.  \n\nOur comprehensive regional network and one-bank approach connects your business to new opportunities in ASEAN.  \n\nWe help businesses to advance responsibly and guide personal wealth to grow sustainably. We foster inclusiveness and environmental well-being for stronger societies.  \n\nThis is how we stay committed to forging a sustainable future for generations to come.  \n\n \n\nNote: For the terms of use of our LinkedIn channel, please visit: https://go.uob.com/socialmedia",
+            "year_founded": 1935,
+            "headcount": 28894,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "80 Raffles Place",
+                "line2": "Singapore, 048624, SG",
+                "region": "Singapore",
+                "city": "Singapore",
+                "country": "Singapore",
+                "country_code": "SG"
+              },
+              "offices": [
+                {
+                  "line1": "408 Jalan Pudu",
+                  "line2": "Kuala Lumpur, Federal Territory of Kuala Lumpur 55100, MY"
+                },
+                {
+                  "line1": "26, Jalan Jend. Sudirman",
+                  "line2": "Jakarta, Jakarta 10220, ID"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 6883,
+                "url": "https://www.linkedin.com/company/uob",
+                "handle": "uob"
+              }
+            },
+            "specialties": [],
+            "industry": {
+              "main_industry": "Banking"
+            }
+          },
+          "is_current": true,
+          "start_at": "2019-09-01T00:00:00Z",
+          "job_functions": [
+            {
+              "function": "Executive & Leadership",
+              "sub_function": "Managing Director"
+            }
+          ]
+        },
+        "all": [
+          {
+            "title": "Managing Director",
+            "seniority": "C-Level",
+            "company": {
+              "id": "67ebc2d5-4681-5e6e-9651-6360d50aede4",
+              "name": "UOB",
+              "domain": "uobgroup.com",
+              "description": "We’re here to do Right By You.  \n\nAt UOB, we aspire to build a better future for the people and businesses in the region. \n\nThrough our extensive network and suite of capabilities, we offer financial solutions to the people and businesses within, and connecting with ASEAN. \n\nWe create solutions tailored to your unique needs through data and relationship-led insights.  \n\nOur comprehensive regional network and one-bank approach connects your business to new opportunities in ASEAN.  \n\nWe help businesses to advance responsibly and guide personal wealth to grow sustainably. We foster inclusiveness and environmental well-being for stronger societies.  \n\nThis is how we stay committed to forging a sustainable future for generations to come.  \n\n \n\nNote: For the terms of use of our LinkedIn channel, please visit: https://go.uob.com/socialmedia",
+              "year_founded": 1935,
+              "headcount": 28894,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "80 Raffles Place",
+                  "line2": "Singapore, 048624, SG",
+                  "region": "Singapore",
+                  "city": "Singapore",
+                  "country": "Singapore",
+                  "country_code": "SG"
+                },
+                "offices": [
+                  {
+                    "line1": "408 Jalan Pudu",
+                    "line2": "Kuala Lumpur, Federal Territory of Kuala Lumpur 55100, MY"
+                  },
+                  {
+                    "line1": "26, Jalan Jend. Sudirman",
+                    "line2": "Jakarta, Jakarta 10220, ID"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6883,
+                  "url": "https://www.linkedin.com/company/uob",
+                  "handle": "uob"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Banking"
+              }
+            },
+            "is_current": true,
+            "start_at": "2019-09-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Managing Director"
+              }
+            ]
+          },
+          {
+            "title": "Managing Partner",
+            "seniority": "Partner",
+            "company": {
+              "id": "0986cd1d-a0c9-5245-bed0-ca1f5c02005b",
+              "name": "Boston Consulting Group (BCG)",
+              "domain": "bcg.com",
+              "description": "Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we work closely with clients to embrace a transformational approach aimed at benefiting all stakeholders—empowering organizations to grow, build sustainable competitive advantage, and drive positive societal impact.\n \nOur diverse, global teams bring deep industry and functional expertise and a range of perspectives that question the status quo and spark change. BCG delivers solutions through leading-edge management consulting, technology and design, and corporate and digital ventures. \n\nWe work in a uniquely collaborative model across the firm and throughout all levels of the client organization, fueled by the goal of helping our clients thrive and enabling them to make the world a better place.\n\nBCG Privacy Policy: https://www.bcg.com/about/privacy-policy.aspx",
+              "year_founded": 1963,
+              "headcount": 41185,
+              "headcount_range": "10001+",
+              "company_type": "Partnership",
+              "locations": {
+                "headquarters": {
+                  "line1": "200 Pier 4 Blvd",
+                  "line2": "Boston, Massachusetts 02210, US",
+                  "region": "Massachusetts",
+                  "city": "Boston",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1784,
+                  "url": "https://www.linkedin.com/company/boston-consulting-group",
+                  "handle": "boston-consulting-group",
+                  "connection_count": 5378352
+                }
+              },
+              "specialties": [
+                "Consumer insight",
+                "corporate development",
+                "corporate finance",
+                "digital economy",
+                "globalization",
+                "growth",
+                "information technology",
+                "innovation",
+                "marketing & sales",
+                "operations",
+                "people & organization",
+                "postmerger integration",
+                "risk management",
+                "strategy",
+                "sustainability",
+                "transformation",
+                "climate",
+                "artificial intelligence",
+                "cost transformation",
+                "and supply chains"
+              ],
+              "industry": {
+                "main_industry": "Business Consulting and Services"
+              }
+            },
+            "start_at": "2005-01-01T00:00:00Z",
+            "end_at": "2019-08-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Partner"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 1002874297,
+          "url": "https://www.linkedin.com/in/federico-burgoni",
+          "handle": "federico-burgoni",
+          "connection_count": 991
+        }
+      },
+      "educations": [
+        {
+          "school_name": "INSEAD",
+          "degree": "Mba"
+        },
+        {
+          "school_name": "Alma Mater Studiorum - Università di Bologna",
+          "degree": "Engineer's degree",
+          "start_at": "1991-09-01T00:00:00Z",
+          "end_at": "1997-03-01T00:00:00Z"
+        }
+      ],
+      "skills": [
+        "Banking",
+        "Change Management",
+        "Digital Transformation",
+        "Management Consulting",
+        "Strategic Planning"
+      ]
+    }
+  ],
+  "metadata": {
+    "total": 7533,
+    "credits": 0,
+    "offset": 0,
+    "search_after": "WzIuOTk2NTExNywiNDg5MjE3YzctNDU1Yi01N2IzLTgwMGEtMzc1YzUwY2I4MTYwIl0="
+  }
+}

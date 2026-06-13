@@ -1,6 +1,6 @@
 # HPI Data Provider Evaluation Reports
 
-This repository contains the cleaned 10-company HPI firmographic and technographic API evaluation package.
+This repository contains the cleaned 10-company HPI data-provider evaluation package through Section 4.4.
 
 ## Current Scope
 
@@ -9,6 +9,7 @@ This repository contains the cleaned 10-company HPI firmographic and technograph
 - Firmographic providers: Apollo and Coresignal
 - Technographic providers: TheirStack and Coresignal
 - Jobs/Hiring providers: TheirStack, Coresignal, Apollo, PredictLeads status, and LinkUp/Aura status
+- Contact-Level providers: Apollo, FullEnrich, Prospeo, SignalHire, and People Data Labs status
 
 ## Folder Structure
 
@@ -31,6 +32,12 @@ JobsHiring/
   raw/                           Raw job/hiring provider responses
   apilogs/                       Per-company API call logs
   reports/                       Final jobs/hiring deliverables and audit CSVs
+
+ContactLevel/
+  input/                         Input company list
+  raw/                           Raw contact-level provider responses
+  apilogs/                       Per-company/contact API call logs
+  reports/                       Final contact-level deliverables and audit CSVs
 ```
 
 ## Final Deliverables
@@ -66,6 +73,15 @@ Jobs / Hiring:
 - `JobsHiring/reports/api_tracing_report.csv`
 - `JobsHiring/reports/api_call_log.csv`
 
+Contact-Level:
+
+- `ContactLevel/reports/hpi_contact_level_api_evaluation_20260613_165851.xlsx`
+- `ContactLevel/reports/hpi_contact_level_api_evaluation_20260613_165851.docx`
+- `ContactLevel/reports/company_contact_level.csv`
+- `ContactLevel/reports/contact_detail.csv`
+- `ContactLevel/reports/api_tracing_report.csv`
+- `ContactLevel/reports/api_call_log.csv`
+
 ## Rebuild Reports
 
 Rebuild firmographic report from saved raw exports:
@@ -86,6 +102,12 @@ Rebuild Jobs/Hiring report from saved raw exports:
 python JobsHiring/jobs_hiring_pipeline.py --limit 10 --reuse-raw
 ```
 
+Rebuild Contact-Level report from saved raw exports:
+
+```powershell
+python ContactLevel/contact_level_pipeline.py --limit 10 --reuse-raw
+```
+
 Run live technographic refresh only for empty/missing TheirStack raw responses:
 
 ```powershell
@@ -103,6 +125,10 @@ APOLLO_API_KEY=
 CORESIGNAL_API_KEY=
 THEIRSTACK_API_KEY=
 PREDICTLEADS_API_KEY=
+FULLENRICH_API_KEY=
+PROSPEO_API_KEY=
+SIGNALHIRE_API_KEY=
+PEOPLE_DATA_LABS_API_KEY=
 ```
 
 Saved raw responses are committed so the final reports can be regenerated without live API calls.

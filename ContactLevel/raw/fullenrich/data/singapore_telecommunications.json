@@ -1,0 +1,14 @@
+{
+  "start_response": {
+    "enrichment_id": "48798a9c-6e93-4f9c-b5aa-1f5704f1fd6b"
+  },
+  "result_response": {
+    "id": "48798a9c-6e93-4f9c-b5aa-1f5704f1fd6b",
+    "name": "HPI contact-level Singapore Telecommunications 20260613_165819",
+    "status": "IN_PROGRESS",
+    "datas": [],
+    "cost": {
+      "credits": 0
+    }
+  }
+}

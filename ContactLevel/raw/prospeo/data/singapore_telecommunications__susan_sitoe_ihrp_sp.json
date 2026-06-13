@@ -1,0 +1,598 @@
+{
+  "error": false,
+  "free_enrichment": false,
+  "person": {
+    "person_id": "aaaa33198a311f7c563d002b",
+    "first_name": "Susan",
+    "last_name": "Sitoe",
+    "full_name": "Susan Sitoe",
+    "linkedin_url": "https://www.linkedin.com/in/susan-sitoe-ihrp-sp-33b12846",
+    "current_job_title": "Senior Director, People & Culture",
+    "current_job_key": null,
+    "headline": "Senior Director, People & Culture at Singtel",
+    "linkedin_member_id": null,
+    "last_job_change_detected_at": null,
+    "job_history": [
+      {
+        "title": "Senior Director, People & Culture",
+        "company_name": "Singtel",
+        "logo_url": "0610bb00-32cb-42c4-9968-a634d344ad2d.jpg",
+        "current": true,
+        "start_year": 2021,
+        "start_month": 7,
+        "end_year": null,
+        "end_month": null,
+        "duration_in_months": 59,
+        "departments": [
+          "Culture, Diversity & Inclusion"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc841a9f6663db0fe6161f",
+        "job_key": "67439943"
+      },
+      {
+        "title": "Director, International HR",
+        "company_name": "Singtel",
+        "logo_url": "0610bb00-32cb-42c4-9968-a634d344ad2d.jpg",
+        "current": false,
+        "start_year": 2014,
+        "start_month": 11,
+        "end_year": 2021,
+        "end_month": 6,
+        "duration_in_months": 79,
+        "departments": [
+          "Other Human Resources"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc841a9f6663db0fe6161f",
+        "job_key": "79789485"
+      },
+      {
+        "title": "Director, Regional HR",
+        "company_name": "NCS Group",
+        "logo_url": "6ecf9788-a0ef-466f-8533-1f5a6ad823ff.jpg",
+        "current": false,
+        "start_year": 2007,
+        "start_month": 9,
+        "end_year": 2014,
+        "end_month": 10,
+        "duration_in_months": 85,
+        "departments": [
+          "Other Human Resources"
+        ],
+        "seniority": "Director",
+        "company_id": "cccc577a7562dac17f40c791",
+        "job_key": "30324102"
+      }
+    ],
+    "mobile": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "mobile": "+65 9826 0022",
+      "mobile_national": "9826 0022",
+      "mobile_international": "+65 9826 0022",
+      "mobile_country": "Singapore",
+      "mobile_country_code": "SG"
+    },
+    "email": {
+      "status": "VERIFIED",
+      "revealed": true,
+      "email": "susansitoe@singtel.com",
+      "verification_method": "SMTP",
+      "email_mx_provider": "Microsoft"
+    },
+    "location": {
+      "country": "Singapore",
+      "country_code": "SG",
+      "state": null,
+      "city": null,
+      "time_zone": "Asia/Singapore",
+      "time_zone_offset": 8.0
+    },
+    "skills": []
+  },
+  "company": {
+    "company_id": "cccc841a9f6663db0fe6161f",
+    "name": "Singtel",
+    "website": "https://singtel.com",
+    "domain": "singtel.com",
+    "other_websites": [],
+    "description": "Singtel is Asia's leading communications technology group, providing a portfolio of services from next-generation communication, 5G and technology services to infotainment to both consumers and businesses. The Group has presence in Asia, Australia and Africa and reaches over 740 million mobile customers in 21 countries. Its infrastructure and technology services for businesses span 21 countries, with more than 428 direct points of presence in 362 cities.  \n\nFor consumers, Singtel delivers a complete and integrated suite of services, including mobile, broadband and TV. For businesses, Singtel offers a complementary array of workforce mobility solutions, data hosting, cloud, network infrastructure, analytics and cyber security capabilities. \n\nSingtel is dedicated to continuous innovation, harnessing next-generation technologies to create new and exciting customer experiences as we shape a more sustainable, digital future. The Group’s purpose is grounded in empowering our people to innovate better ways to connect with customers, unlock new possibilities for future businesses to thrive and foster a sense of ownership and belonging to better serve our stakeholders, partners and communities.",
+    "description_seo": "The Singtel Group, Asia's leading communications group provides a diverse range of services including fixed, mobile, data, internet, TV, infocomms technology (ICT) and digital solutions.",
+    "description_ai": "The Singtel Group is Asia's leading communications group that provides a diverse range of services including fixed, mobile, data, internet, TV, infocomms technology (ICT), and digital solutions.",
+    "type": "Public",
+    "industry": "Telecommunications",
+    "employee_count": 8248,
+    "employee_count_on_prospeo": 6687,
+    "employee_range": "5001-10000",
+    "location": {
+      "country": "Singapore",
+      "country_code": "SG",
+      "state": "Central Region",
+      "city": "Geylang",
+      "raw_address": "10 Eunos Road 8, Singapore Post Centre #07-31, Singapore, 408600, SG"
+    },
+    "sic_codes": [],
+    "naics_codes": [
+      "517"
+    ],
+    "email_tech": {
+      "domain": "singtel.com",
+      "mx_provider": "Microsoft"
+    },
+    "linkedin_url": "https://www.linkedin.com/company/singtel",
+    "twitter_url": "https://x.com/singtel",
+    "facebook_url": "https://www.facebook.com/singtel",
+    "crunchbase_url": "https://www.crunchbase.com/organization/singtel",
+    "instagram_url": "https://www.instagram.com/singtel",
+    "youtube_url": "https://www.youtube.com/c/@singtel",
+    "phone_hq": {
+      "phone_hq": "+6568383388",
+      "phone_hq_national": "6838 3388",
+      "phone_hq_international": "+6568383388",
+      "phone_hq_country": "Singapore",
+      "phone_hq_country_code": "SG"
+    },
+    "linkedin_id": null,
+    "founded": 1879,
+    "revenue_range": {
+      "min": 10000000000,
+      "max": 100000000000
+    },
+    "revenue_range_printed": "10B+",
+    "keywords": [
+      "Digital Marketing",
+      "Telecommunications",
+      "Computer Networking",
+      "Cloud Computing",
+      "Enterprise Solutions",
+      "Cyber Security",
+      "Digital",
+      "R&D",
+      "Internet Of Things",
+      "Internet",
+      "Smart Cities",
+      "Wireless Technology",
+      "It & Services",
+      "Satellite Services",
+      "After-Sales Service",
+      "Mobile Infotainment"
+    ],
+    "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/0610bb00-32cb-42c4-9968-a634d344ad2d.jpg",
+    "attributes": {
+      "is_b2b": true,
+      "has_demo": false,
+      "has_free_trial": false,
+      "has_downloadable": false,
+      "has_mobile_apps": false,
+      "has_online_reviews": false,
+      "has_pricing": false
+    },
+    "funding": {
+      "count": 2,
+      "total_funding": 876400000,
+      "total_funding_printed": "$876.4M",
+      "latest_funding_date": "2025-03-07T00:00:00",
+      "latest_funding_stage": "Post IPO debt",
+      "funding_events": [
+        {
+          "amount": 399900000,
+          "amount_printed": "$399,900,000",
+          "raised_at": "2024-01-04T00:00:00",
+          "stage": "Post IPO debt",
+          "link": "https://www.crunchbase.com/funding_round/singtel-post-ipo-debt--0e6e2bd4"
+        },
+        {
+          "amount": 476500000,
+          "amount_printed": "$476,500,000",
+          "raised_at": "2025-03-07T00:00:00",
+          "stage": "Post IPO debt",
+          "link": "https://www.crunchbase.com/funding_round/singtel-post-ipo-debt--b84cd11a"
+        }
+      ]
+    },
+    "technology": {
+      "count": 58,
+      "technology_names": [
+        "Modernizr",
+        "Reddit Ads",
+        "reCAPTCHA",
+        "Redux",
+        "Amazon SES",
+        "Underscore.js",
+        "HTTP/2",
+        "Highcharts",
+        "Adobe Experience Manager",
+        "D3",
+        "RequireJS",
+        "Swiper",
+        "jQuery UI",
+        "Microsoft 365",
+        "Zoominfo",
+        "Optimizely",
+        "Apache HTTP Server",
+        "jQuery",
+        "Google Ads",
+        "Hammer.js",
+        "HSTS",
+        "Microsoft Advertising",
+        "DoubleClick Floodlight",
+        "Google Analytics",
+        "YouTube",
+        "Bootstrap",
+        "Moment.js",
+        "Outbrain",
+        "styled-components",
+        "Linkedin Insight Tag",
+        "FullStory",
+        "Salesforce",
+        "Amazon S3",
+        "Imperva",
+        "Amazon Web Services",
+        "TikTok Pixel",
+        "Google Tag Manager",
+        "Java",
+        "Linkedin Ads",
+        "Quantcast Measure",
+        "Facebook Pixel",
+        "React",
+        "core-js",
+        "Backbone.js",
+        "DocuSign",
+        "Gatsby",
+        "Dynatrace",
+        "Dynatrace RUM",
+        "Teads",
+        "Open Graph",
+        "Amazon CloudFront",
+        "Taboola",
+        "ZURB Foundation",
+        "LivePerson",
+        "Site Search 360",
+        "Cart Functionality",
+        "Signal",
+        "Webpack"
+      ],
+      "technology_list": [
+        {
+          "name": "Modernizr",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Reddit Ads",
+          "category": "Advertising"
+        },
+        {
+          "name": "reCAPTCHA",
+          "category": "Security"
+        },
+        {
+          "name": "Redux",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "Amazon SES",
+          "category": "Email"
+        },
+        {
+          "name": "Underscore.js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "HTTP/2",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Highcharts",
+          "category": "JavaScript graphics"
+        },
+        {
+          "name": "Adobe Experience Manager",
+          "category": "CMS"
+        },
+        {
+          "name": "D3",
+          "category": "JavaScript graphics"
+        },
+        {
+          "name": "RequireJS",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "Swiper",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "jQuery UI",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Microsoft 365",
+          "category": "Email"
+        },
+        {
+          "name": "Zoominfo",
+          "category": "Analytics"
+        },
+        {
+          "name": "Optimizely",
+          "category": "A/B Testing"
+        },
+        {
+          "name": "Apache HTTP Server",
+          "category": "Web servers"
+        },
+        {
+          "name": "jQuery",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Google Ads",
+          "category": "Advertising"
+        },
+        {
+          "name": "Hammer.js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "HSTS",
+          "category": "Security"
+        },
+        {
+          "name": "Microsoft Advertising",
+          "category": "Advertising"
+        },
+        {
+          "name": "DoubleClick Floodlight",
+          "category": "Advertising"
+        },
+        {
+          "name": "Google Analytics",
+          "category": "Analytics"
+        },
+        {
+          "name": "YouTube",
+          "category": "Video players"
+        },
+        {
+          "name": "Bootstrap",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "Moment.js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Outbrain",
+          "category": "Advertising"
+        },
+        {
+          "name": "styled-components",
+          "category": "Development"
+        },
+        {
+          "name": "Linkedin Insight Tag",
+          "category": "Analytics"
+        },
+        {
+          "name": "FullStory",
+          "category": "Analytics"
+        },
+        {
+          "name": "Salesforce",
+          "category": "CRM"
+        },
+        {
+          "name": "Amazon S3",
+          "category": "CDN"
+        },
+        {
+          "name": "Imperva",
+          "category": "CDN"
+        },
+        {
+          "name": "Amazon Web Services",
+          "category": "PaaS"
+        },
+        {
+          "name": "TikTok Pixel",
+          "category": "Analytics"
+        },
+        {
+          "name": "Google Tag Manager",
+          "category": "Tag managers"
+        },
+        {
+          "name": "Java",
+          "category": "Programming languages"
+        },
+        {
+          "name": "Linkedin Ads",
+          "category": "Advertising"
+        },
+        {
+          "name": "Quantcast Measure",
+          "category": "Analytics"
+        },
+        {
+          "name": "Facebook Pixel",
+          "category": "Analytics"
+        },
+        {
+          "name": "React",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "core-js",
+          "category": "JavaScript libraries"
+        },
+        {
+          "name": "Backbone.js",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "DocuSign",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Gatsby",
+          "category": "JavaScript frameworks"
+        },
+        {
+          "name": "Dynatrace",
+          "category": "Analytics"
+        },
+        {
+          "name": "Dynatrace RUM",
+          "category": "RUM"
+        },
+        {
+          "name": "Teads",
+          "category": "Advertising"
+        },
+        {
+          "name": "Open Graph",
+          "category": "Miscellaneous"
+        },
+        {
+          "name": "Amazon CloudFront",
+          "category": "CDN"
+        },
+        {
+          "name": "Taboola",
+          "category": "Advertising"
+        },
+        {
+          "name": "ZURB Foundation",
+          "category": "UI frameworks"
+        },
+        {
+          "name": "LivePerson",
+          "category": "Live chat"
+        },
+        {
+          "name": "Site Search 360",
+          "category": "Search engines"
+        },
+        {
+          "name": "Cart Functionality",
+          "category": "Ecommerce"
+        },
+        {
+          "name": "Signal",
+          "category": "Marketing automation"
+        },
+        {
+          "name": "Webpack",
+          "category": "Miscellaneous"
+        }
+      ]
+    },
+    "job_postings": {
+      "active_count": 254,
+      "active_titles": [
+        "api developer intern",
+        "commission executive",
+        "trade development intern #generalinternship",
+        "credit management executive (sap master data specialist)",
+        "network security engineer",
+        "senior strategic channel manager",
+        "engineer",
+        "network engineer, mobile data operation (networks)",
+        "sap master data specialist",
+        "cloud devops engineer #generalinternship",
+        "network/ senior network engineer",
+        "information security, senior specialist",
+        "senior social media relations officer",
+        "senior data scientist- #aida",
+        "devops engineer - #catalystwsp",
+        "lifecycle marketing manager",
+        "senior architect",
+        "content designer",
+        "it automation engineer",
+        "senior insurance product marketing manager",
+        "internal audit associate",
+        "senior digital transformation & delivery manager",
+        "associate engineer",
+        "claim assistant - 6 months contract",
+        "devops engineer - #catalystwsp",
+        "associate director, operations - gpu cloud",
+        "satellite associate engineer (tt&c) - #catalystwsp",
+        "finance manager",
+        "category manager, enterprise procurement",
+        "associate engineer (network security) - #catalystwsp",
+        "lead ai platform operations engineer- #aida",
+        "business manager, managed roaming",
+        "staff devops engineer",
+        "billing manager",
+        "senior engineering officer",
+        "manager, business planning & performance",
+        "senior engineering officer",
+        "iot software architect",
+        "senior data & ai operations engineer- #aida",
+        "singtel management associate programme internship #map",
+        "citrix vdi engineer",
+        "senior director (future technology development and ran architect)",
+        "product manager",
+        "mobile core architect & snr planning mgr",
+        "senior data scientist- #aida",
+        "lead architect - ai/ml",
+        "software engineer / senior software engineer (java)",
+        "system manager (networks)",
+        "ai sales intern - chatbot #generalinternships",
+        "associate engineer",
+        "data scientist- #aida",
+        "devops engineer",
+        "cyber delivery manager",
+        "director, enterprise iot & solutions",
+        "billing executive",
+        "ai platform operations engineer- #aida",
+        "credit management executive (corporate ar chaser/collections)",
+        "product manager",
+        "data & ai platform engineer- #aida",
+        "data scientist",
+        "analytics and insights intern",
+        "engineer,messaging security & operations- #catalystwsp",
+        "product marketing manager, digital content & mobile vases",
+        "assoc director/ director, value creation",
+        "pre-sales, managed roaming",
+        "software developer #generalinternship",
+        "network engineer",
+        "associate engineer",
+        "software developer #generalinternship",
+        "senior manager, content",
+        "principal specialist, service & orchestration (networks)",
+        "senior business manager",
+        "cloud infrastructure engineer (azure/ aws)",
+        "sales commission executive",
+        "sales specialist, cyber & nss",
+        "senior associate engineer - #catalystwsp",
+        "senior manager, group risk & compliance",
+        "credit management executive (corporate ar chaser/collector)",
+        "senior data scientist- #aida",
+        "product marketing manager (based in singapore)",
+        "procurement buyer",
+        "principal specialist, platforms reliability engineering (networks)",
+        "assistant officer, operations & maintenance",
+        "content designer",
+        "ai sales intern - product knowledge #generalinternships",
+        "digital channels manager",
+        "senior associate engineer - #catalystwsp",
+        "fixed bundling product & content synergy lead",
+        "network specialist (quantum network)",
+        "senior manager, talent development",
+        "manager, tactical sourcing",
+        "service delivery & operations engineer",
+        "iot software engineer",
+        "senior associate engineer",
+        "manager, desa planning & delivery (networks)",
+        "senior ai finops engineer- #aida",
+        "senior ai platform operations engineer- #aida",
+        "network/ senior network engineer",
+        "senior cloud engineer",
+        "submarine cable planning, engr/manager",
+        "legal contract manager (it, networks)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1503 @@
+{
+  "people": [
+    {
+      "id": "0d2cb28c-4013-5f82-a967-6bed17093c4d",
+      "full_name": "Chang Liu",
+      "first_name": "Chang",
+      "last_name": "Liu",
+      "location": {
+        "country": "China",
+        "country_code": "CN",
+        "city": "大连市",
+        "region": "辽宁"
+      },
+      "employment": {
+        "current": {
+          "title": "Vice President",
+          "description": "Head of Semiconductor Fab Automation and AI Development and Operations",
+          "seniority": "C-Level",
+          "company": {
+            "id": "75b8f908-c89f-5649-a8f6-67b93ba089b0",
+            "name": "SK hynix",
+            "domain": "skhynix.com",
+            "description": "Semiconductors are essential to all IT products, and its performance often determines the performance of the final products. SK hynix is a global leader in producing semiconductor, such as DRAM, NAND Flash. With these technology driven semiconductor products, SK hynix consistently led the industry and is now the second largest memory chip maker. \n\nIT devices become more pervasive as new imaginative and innovative IT products continue to grab imagination and desires of consumers. SK hynix has enhanced its competency with the best level of technology and a wide range of business portfolios in order to satisfy all those demand from customers. As a member of SK Group*, SK hynix is aiming at becoming the world’s best semiconductor company. \n\n\n\n*SK Group is one of South Korea's top three industrial conglomerates.\nIt has about 198 affiliated companies, ranging from energy, telecommunications, finance, and construction.",
+            "year_founded": 0,
+            "headcount": 7915,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "2091 Gyeongchung-daero Bubal-eub",
+                "line2": "Icheon, Gyeonggi-do, KR",
+                "region": "경기도",
+                "city": "이천시",
+                "country": "South Korea",
+                "country_code": "KR"
+              },
+              "offices": [
+                {
+                  "line1": "3101 North First Street",
+                  "line2": "San Jose, CA 95134, US"
+                },
+                {
+                  "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                  "line2": "Wuxi, Jiangsu 214028, CN"
+                },
+                {
+                  "line1": "MAC(Main Airport Center) 7F, Unterschweinstiege 2-14",
+                  "line2": "Frankfurt am Main, 60549, DE"
+                },
+                {
+                  "line1": "Unit 4, Horizon Business Village, 1 Brooklands Road",
+                  "line2": "Weybridge, Surrey KT13 0TJ, GB"
+                },
+                {
+                  "line1": "Nemiga str., 5, 4th floor, Office 75",
+                  "line2": "Minsk, 220030, BY"
+                },
+                {
+                  "line1": "Viale Colleoni",
+                  "line2": "Agrate Brianza(MB), 15 20864, IT"
+                },
+                {
+                  "line1": "Xiyong Comprehensive Bonded Zone B Block v2-4/02, Shapingba district",
+                  "line2": "Chongqing, 400030, CN"
+                },
+                {
+                  "line1": "Room 1901~1907, TowerB Jinhongqiao International center, No. 533 loushanguan Road",
+                  "line2": "Shanghai, 200051, CN"
+                },
+                {
+                  "line1": "23F Shiroyama Trust Tower, 4-3-1 Toranomon, minato-ku",
+                  "line2": "Tokyo, 105-6023, JP"
+                },
+                {
+                  "line1": "12-07/12 at 9 Staits View, Marina One West Tower",
+                  "line2": "Singapore, 018937, SG"
+                },
+                {
+                  "line1": "Unit No. 3D, Uppals Plaza M6, 3rd Floor, Plot No. 6 Jasola District Centre",
+                  "line2": "New Delhi, 110025, IN"
+                },
+                {
+                  "line1": "Suite 4401-02 & 11-12, 44/F, One lsland East, 18 Westlands Road, Taikoo Place",
+                  "line2": "Hong Kong, HK"
+                },
+                {
+                  "line1": "10F, CBD Times Square Taipei Building, No. 308, Zhifu Rd., Zhongshan Dist",
+                  "line2": "Taipei City, 10466, TW"
+                },
+                {
+                  "line1": "SK u-Tower, 9, Seongnam-daero 343beon-gil, Bundang-gu",
+                  "line2": "Seongnam-si, Gyeonggi-do 13558, KR"
+                },
+                {
+                  "line1": "215, Daesin-ro, Heungdeok-gu",
+                  "line2": "Cheongju-si, Chungcheongbuk-do 28429, KR"
+                },
+                {
+                  "line1": "511 Capital Center Dr",
+                  "line2": "Raleigh, North Carolina 27606, US"
+                },
+                {
+                  "line1": "4201 W Parmer Lane, Bldg. B Suite 245",
+                  "line2": "Austin, TX 78727, US"
+                },
+                {
+                  "line1": "10940 NE 33rd Pl",
+                  "line2": "Bellevue, Washington 98004, US"
+                },
+                {
+                  "line1": "20333 Tomball Pkwy",
+                  "line2": "Houston, Texas 77070, US"
+                },
+                {
+                  "line1": "Kuskinkatu 3",
+                  "line2": "Kaarina, Southwest Finland 20780, FI"
+                },
+                {
+                  "line1": "191-195 Avenue Charles de Gaulle,",
+                  "line2": "Neuilly-sur-Seine, 922000 , FR"
+                },
+                {
+                  "line1": "Office 21B, BlockB, Maynoonth Business Campus, Stranffan Road, Co.",
+                  "line2": "Kildare, IE"
+                },
+                {
+                  "line1": "Room 1804,Xinda International Building No. 67, Middle Section of Huangshan Avenue",
+                  "line2": "Chongqing, 401121, CN"
+                },
+                {
+                  "line1": "2501~02, SK Tower, No. 6 Jia, Jianguomenwai Avenue",
+                  "line2": "Beijing, 100022, CN"
+                },
+                {
+                  "line1": "Room 1503~1504, Xi'an Center of China Railway, No. 10 Zhangba Road",
+                  "line2": "Xi'an High-tech Zone, 710077, CN"
+                },
+                {
+                  "line1": "18/F, Building B, East Pacific International Center, No.7888 Shennan Rd",
+                  "line2": "Shenzhen, 518040, CN"
+                },
+                {
+                  "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                  "line2": "Wuxi, Jiangsu Province 214028, CN"
+                },
+                {
+                  "line1": "5F Hamamatsu-cho Bldg. 1-1-1, Shibaura, Minato-ku",
+                  "line2": "Tokyo, 105-0023, JP"
+                },
+                {
+                  "line1": "10F LUCID SQUARE SHIN-OSAKA Bldg. 1-19-4 Higashinakajima, Higashiyodogawa-ku",
+                  "line2": "Osaka, 533-0033, JP"
+                },
+                {
+                  "line1": "2501-5 Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay New Urban Area, Me Triward, South Tu Liem district",
+                  "line2": "Hanoi, 100000, VN"
+                },
+                {
+                  "line1": "Ixora Hotel Plot P, No 3096, Jalan Baru, Bandar Perai Jaya",
+                  "line2": "Perai, Pulau Pinang 13600 , MY"
+                },
+                {
+                  "line1": "6F-1, No. 6, Taiyuen 1st St. (Taiyuen Hi-Tech Industrial Park)",
+                  "line2": "Zhubei City, Hsinchu County 30288, TW"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 19120,
+                "url": "https://www.linkedin.com/company/sk-hynix",
+                "handle": "sk-hynix",
+                "connection_count": 218400
+              }
+            },
+            "specialties": [
+              "Computing Memory",
+              "Consumer&Network Memory",
+              "Mobile Memory",
+              "NAND Flash",
+              "Memory Solutions",
+              "Semiconductor Design and Manufacturing",
+              "Enterprise SSD",
+              "Client SSD",
+              "Solutions for Datacenter",
+              "Automotive Memory",
+              "Solid State Drive",
+              "DRAM",
+              "Graphics Memory",
+              "Gaming Memory",
+              "eMMC",
+              "UFS",
+              "HBM",
+              "DDR",
+              "LPDDR",
+              "GDDR",
+              "MCP",
+              "SSD",
+              "Module",
+              "Buffer Memory",
+              "Semiconductor",
+              "and Memory"
+            ],
+            "industry": {
+              "main_industry": "Semiconductor Manufacturing"
+            }
+          },
+          "is_current": true,
+          "start_at": "2025-03-01T00:00:00Z",
+          "job_functions": [
+            {
+              "function": "Executive & Leadership",
+              "sub_function": "VP/Executive"
+            }
+          ]
+        },
+        "all": [
+          {
+            "title": "Vice President",
+            "description": "Head of Semiconductor Fab Automation and AI Development and Operations",
+            "seniority": "C-Level",
+            "company": {
+              "id": "75b8f908-c89f-5649-a8f6-67b93ba089b0",
+              "name": "SK hynix",
+              "domain": "skhynix.com",
+              "description": "Semiconductors are essential to all IT products, and its performance often determines the performance of the final products. SK hynix is a global leader in producing semiconductor, such as DRAM, NAND Flash. With these technology driven semiconductor products, SK hynix consistently led the industry and is now the second largest memory chip maker. \n\nIT devices become more pervasive as new imaginative and innovative IT products continue to grab imagination and desires of consumers. SK hynix has enhanced its competency with the best level of technology and a wide range of business portfolios in order to satisfy all those demand from customers. As a member of SK Group*, SK hynix is aiming at becoming the world’s best semiconductor company. \n\n\n\n*SK Group is one of South Korea's top three industrial conglomerates.\nIt has about 198 affiliated companies, ranging from energy, telecommunications, finance, and construction.",
+              "year_founded": 0,
+              "headcount": 7915,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "2091 Gyeongchung-daero Bubal-eub",
+                  "line2": "Icheon, Gyeonggi-do, KR",
+                  "region": "경기도",
+                  "city": "이천시",
+                  "country": "South Korea",
+                  "country_code": "KR"
+                },
+                "offices": [
+                  {
+                    "line1": "3101 North First Street",
+                    "line2": "San Jose, CA 95134, US"
+                  },
+                  {
+                    "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                    "line2": "Wuxi, Jiangsu 214028, CN"
+                  },
+                  {
+                    "line1": "MAC(Main Airport Center) 7F, Unterschweinstiege 2-14",
+                    "line2": "Frankfurt am Main, 60549, DE"
+                  },
+                  {
+                    "line1": "Unit 4, Horizon Business Village, 1 Brooklands Road",
+                    "line2": "Weybridge, Surrey KT13 0TJ, GB"
+                  },
+                  {
+                    "line1": "Nemiga str., 5, 4th floor, Office 75",
+                    "line2": "Minsk, 220030, BY"
+                  },
+                  {
+                    "line1": "Viale Colleoni",
+                    "line2": "Agrate Brianza(MB), 15 20864, IT"
+                  },
+                  {
+                    "line1": "Xiyong Comprehensive Bonded Zone B Block v2-4/02, Shapingba district",
+                    "line2": "Chongqing, 400030, CN"
+                  },
+                  {
+                    "line1": "Room 1901~1907, TowerB Jinhongqiao International center, No. 533 loushanguan Road",
+                    "line2": "Shanghai, 200051, CN"
+                  },
+                  {
+                    "line1": "23F Shiroyama Trust Tower, 4-3-1 Toranomon, minato-ku",
+                    "line2": "Tokyo, 105-6023, JP"
+                  },
+                  {
+                    "line1": "12-07/12 at 9 Staits View, Marina One West Tower",
+                    "line2": "Singapore, 018937, SG"
+                  },
+                  {
+                    "line1": "Unit No. 3D, Uppals Plaza M6, 3rd Floor, Plot No. 6 Jasola District Centre",
+                    "line2": "New Delhi, 110025, IN"
+                  },
+                  {
+                    "line1": "Suite 4401-02 & 11-12, 44/F, One lsland East, 18 Westlands Road, Taikoo Place",
+                    "line2": "Hong Kong, HK"
+                  },
+                  {
+                    "line1": "10F, CBD Times Square Taipei Building, No. 308, Zhifu Rd., Zhongshan Dist",
+                    "line2": "Taipei City, 10466, TW"
+                  },
+                  {
+                    "line1": "SK u-Tower, 9, Seongnam-daero 343beon-gil, Bundang-gu",
+                    "line2": "Seongnam-si, Gyeonggi-do 13558, KR"
+                  },
+                  {
+                    "line1": "215, Daesin-ro, Heungdeok-gu",
+                    "line2": "Cheongju-si, Chungcheongbuk-do 28429, KR"
+                  },
+                  {
+                    "line1": "511 Capital Center Dr",
+                    "line2": "Raleigh, North Carolina 27606, US"
+                  },
+                  {
+                    "line1": "4201 W Parmer Lane, Bldg. B Suite 245",
+                    "line2": "Austin, TX 78727, US"
+                  },
+                  {
+                    "line1": "10940 NE 33rd Pl",
+                    "line2": "Bellevue, Washington 98004, US"
+                  },
+                  {
+                    "line1": "20333 Tomball Pkwy",
+                    "line2": "Houston, Texas 77070, US"
+                  },
+                  {
+                    "line1": "Kuskinkatu 3",
+                    "line2": "Kaarina, Southwest Finland 20780, FI"
+                  },
+                  {
+                    "line1": "191-195 Avenue Charles de Gaulle,",
+                    "line2": "Neuilly-sur-Seine, 922000 , FR"
+                  },
+                  {
+                    "line1": "Office 21B, BlockB, Maynoonth Business Campus, Stranffan Road, Co.",
+                    "line2": "Kildare, IE"
+                  },
+                  {
+                    "line1": "Room 1804,Xinda International Building No. 67, Middle Section of Huangshan Avenue",
+                    "line2": "Chongqing, 401121, CN"
+                  },
+                  {
+                    "line1": "2501~02, SK Tower, No. 6 Jia, Jianguomenwai Avenue",
+                    "line2": "Beijing, 100022, CN"
+                  },
+                  {
+                    "line1": "Room 1503~1504, Xi'an Center of China Railway, No. 10 Zhangba Road",
+                    "line2": "Xi'an High-tech Zone, 710077, CN"
+                  },
+                  {
+                    "line1": "18/F, Building B, East Pacific International Center, No.7888 Shennan Rd",
+                    "line2": "Shenzhen, 518040, CN"
+                  },
+                  {
+                    "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                    "line2": "Wuxi, Jiangsu Province 214028, CN"
+                  },
+                  {
+                    "line1": "5F Hamamatsu-cho Bldg. 1-1-1, Shibaura, Minato-ku",
+                    "line2": "Tokyo, 105-0023, JP"
+                  },
+                  {
+                    "line1": "10F LUCID SQUARE SHIN-OSAKA Bldg. 1-19-4 Higashinakajima, Higashiyodogawa-ku",
+                    "line2": "Osaka, 533-0033, JP"
+                  },
+                  {
+                    "line1": "2501-5 Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay New Urban Area, Me Triward, South Tu Liem district",
+                    "line2": "Hanoi, 100000, VN"
+                  },
+                  {
+                    "line1": "Ixora Hotel Plot P, No 3096, Jalan Baru, Bandar Perai Jaya",
+                    "line2": "Perai, Pulau Pinang 13600 , MY"
+                  },
+                  {
+                    "line1": "6F-1, No. 6, Taiyuen 1st St. (Taiyuen Hi-Tech Industrial Park)",
+                    "line2": "Zhubei City, Hsinchu County 30288, TW"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 19120,
+                  "url": "https://www.linkedin.com/company/sk-hynix",
+                  "handle": "sk-hynix",
+                  "connection_count": 218400
+                }
+              },
+              "specialties": [
+                "Computing Memory",
+                "Consumer&Network Memory",
+                "Mobile Memory",
+                "NAND Flash",
+                "Memory Solutions",
+                "Semiconductor Design and Manufacturing",
+                "Enterprise SSD",
+                "Client SSD",
+                "Solutions for Datacenter",
+                "Automotive Memory",
+                "Solid State Drive",
+                "DRAM",
+                "Graphics Memory",
+                "Gaming Memory",
+                "eMMC",
+                "UFS",
+                "HBM",
+                "DDR",
+                "LPDDR",
+                "GDDR",
+                "MCP",
+                "SSD",
+                "Module",
+                "Buffer Memory",
+                "Semiconductor",
+                "and Memory"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "is_current": true,
+            "start_at": "2025-03-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "VP/Executive"
+              }
+            ]
+          },
+          {
+            "title": "Director Manufacturing IT and Automation, China",
+            "description": "Semiconductor Automation and AI development and operations",
+            "seniority": "Director",
+            "company": {
+              "id": "752b550e-8533-5c87-b53b-4dc8093b2dd9",
+              "name": "Intel",
+              "domain": "intel.com",
+              "description": "Our mission is to shape the future of technology to help create a better future for the entire world, that’s the power of Intel Inside. With more ingenuity and creativity inside, our work is at the heart of countless innovations. From major breakthroughs to things that make everyday life better— they’re all powered by Intel technology. With a career at Intel, you can help make the future more wonderful for everyone.\n\n• Need help or have a support question? Visit Intel Support: http://ms.spr.ly/6054tmaop \n\n.",
+              "year_founded": 0,
+              "headcount": 109102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "Robert Noyce Building",
+                  "line2": "Santa Clara, California 95052, US",
+                  "region": "California",
+                  "city": "Santa Clara",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "1 NE Jones Farm Pkwy",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "4500 S Dobson Road",
+                    "line2": "OC2-257 Chandler, Arizona 85226, US"
+                  },
+                  {
+                    "line1": "Derekh Em HaMoshavot 94",
+                    "line2": "Petah Tikva, Merkaz 49000, IL"
+                  },
+                  {
+                    "line1": "1900 Prairie City Rd",
+                    "line2": "Folsom, CA 95630, US"
+                  },
+                  {
+                    "line1": "Avats Avenue 2",
+                    "line2": "Kiryat Gat, Darom 82000, IL"
+                  },
+                  {
+                    "line1": "2 Rue de Paris",
+                    "line2": "Meudon, IdF 92190, FR"
+                  },
+                  {
+                    "line1": "51 Cuppage Rd",
+                    "line2": "Singapore, Singapore 229469, SG"
+                  },
+                  {
+                    "line1": "3100 NE Shute Rd",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "5000 W Chandler Blvd",
+                    "line2": "Chandler, AZ 85226, US"
+                  },
+                  {
+                    "line1": "ulica Juliusza Slowackiego 173",
+                    "line2": "Gdansk, PM 80-298, PL"
+                  },
+                  {
+                    "line1": "111 Theory",
+                    "line2": "Irvine, CA 92617, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1053,
+                  "url": "https://www.linkedin.com/company/intel-corporation",
+                  "handle": "intel-corporation",
+                  "connection_count": 4193609
+                }
+              },
+              "specialties": [
+                "semiconductor design and manufacturing",
+                "artificial intelligence",
+                "autonomous driving",
+                "and non-volatile memory solutions"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2009-05-01T00:00:00Z",
+            "end_at": "2025-03-01T00:00:00Z"
+          },
+          {
+            "title": "Engineer",
+            "description": "Supply Chain Planning and Scheduling Development\nInventory Planning and Reconciliation Development",
+            "seniority": "Unknown",
+            "company": {
+              "id": "752b550e-8533-5c87-b53b-4dc8093b2dd9",
+              "name": "Intel",
+              "domain": "intel.com",
+              "description": "Our mission is to shape the future of technology to help create a better future for the entire world, that’s the power of Intel Inside. With more ingenuity and creativity inside, our work is at the heart of countless innovations. From major breakthroughs to things that make everyday life better— they’re all powered by Intel technology. With a career at Intel, you can help make the future more wonderful for everyone.\n\n• Need help or have a support question? Visit Intel Support: http://ms.spr.ly/6054tmaop \n\n.",
+              "year_founded": 0,
+              "headcount": 109102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "Robert Noyce Building",
+                  "line2": "Santa Clara, California 95052, US",
+                  "region": "California",
+                  "city": "Santa Clara",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "1 NE Jones Farm Pkwy",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "4500 S Dobson Road",
+                    "line2": "OC2-257 Chandler, Arizona 85226, US"
+                  },
+                  {
+                    "line1": "Derekh Em HaMoshavot 94",
+                    "line2": "Petah Tikva, Merkaz 49000, IL"
+                  },
+                  {
+                    "line1": "1900 Prairie City Rd",
+                    "line2": "Folsom, CA 95630, US"
+                  },
+                  {
+                    "line1": "Avats Avenue 2",
+                    "line2": "Kiryat Gat, Darom 82000, IL"
+                  },
+                  {
+                    "line1": "2 Rue de Paris",
+                    "line2": "Meudon, IdF 92190, FR"
+                  },
+                  {
+                    "line1": "51 Cuppage Rd",
+                    "line2": "Singapore, Singapore 229469, SG"
+                  },
+                  {
+                    "line1": "3100 NE Shute Rd",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "5000 W Chandler Blvd",
+                    "line2": "Chandler, AZ 85226, US"
+                  },
+                  {
+                    "line1": "ulica Juliusza Slowackiego 173",
+                    "line2": "Gdansk, PM 80-298, PL"
+                  },
+                  {
+                    "line1": "111 Theory",
+                    "line2": "Irvine, CA 92617, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1053,
+                  "url": "https://www.linkedin.com/company/intel-corporation",
+                  "handle": "intel-corporation",
+                  "connection_count": 4193609
+                }
+              },
+              "specialties": [
+                "semiconductor design and manufacturing",
+                "artificial intelligence",
+                "autonomous driving",
+                "and non-volatile memory solutions"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2007-07-01T00:00:00Z",
+            "end_at": "2009-04-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          },
+          {
+            "title": "Engineer",
+            "description": "Manufacturing Process Automation Development\nFactory Planning and Scheduling Development",
+            "seniority": "Unknown",
+            "company": {
+              "id": "752b550e-8533-5c87-b53b-4dc8093b2dd9",
+              "name": "Intel",
+              "domain": "intel.com",
+              "description": "Our mission is to shape the future of technology to help create a better future for the entire world, that’s the power of Intel Inside. With more ingenuity and creativity inside, our work is at the heart of countless innovations. From major breakthroughs to things that make everyday life better— they’re all powered by Intel technology. With a career at Intel, you can help make the future more wonderful for everyone.\n\n• Need help or have a support question? Visit Intel Support: http://ms.spr.ly/6054tmaop \n\n.",
+              "year_founded": 0,
+              "headcount": 109102,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "Robert Noyce Building",
+                  "line2": "Santa Clara, California 95052, US",
+                  "region": "California",
+                  "city": "Santa Clara",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "1 NE Jones Farm Pkwy",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "4500 S Dobson Road",
+                    "line2": "OC2-257 Chandler, Arizona 85226, US"
+                  },
+                  {
+                    "line1": "Derekh Em HaMoshavot 94",
+                    "line2": "Petah Tikva, Merkaz 49000, IL"
+                  },
+                  {
+                    "line1": "1900 Prairie City Rd",
+                    "line2": "Folsom, CA 95630, US"
+                  },
+                  {
+                    "line1": "Avats Avenue 2",
+                    "line2": "Kiryat Gat, Darom 82000, IL"
+                  },
+                  {
+                    "line1": "2 Rue de Paris",
+                    "line2": "Meudon, IdF 92190, FR"
+                  },
+                  {
+                    "line1": "51 Cuppage Rd",
+                    "line2": "Singapore, Singapore 229469, SG"
+                  },
+                  {
+                    "line1": "3100 NE Shute Rd",
+                    "line2": "Hillsboro, Oregon 97124, US"
+                  },
+                  {
+                    "line1": "5000 W Chandler Blvd",
+                    "line2": "Chandler, AZ 85226, US"
+                  },
+                  {
+                    "line1": "ulica Juliusza Slowackiego 173",
+                    "line2": "Gdansk, PM 80-298, PL"
+                  },
+                  {
+                    "line1": "111 Theory",
+                    "line2": "Irvine, CA 92617, US"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1053,
+                  "url": "https://www.linkedin.com/company/intel-corporation",
+                  "handle": "intel-corporation",
+                  "connection_count": 4193609
+                }
+              },
+              "specialties": [
+                "semiconductor design and manufacturing",
+                "artificial intelligence",
+                "autonomous driving",
+                "and non-volatile memory solutions"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "1998-01-01T00:00:00Z",
+            "end_at": "2007-07-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 7379157,
+          "url": "https://www.linkedin.com/in/chang-liu-41957a2",
+          "handle": "chang-liu-41957a2",
+          "connection_count": 934
+        }
+      },
+      "educations": [
+        {
+          "school_name": "Arizona State University",
+          "degree": "Bachelor of Science and Engineering (B.S.E.)",
+          "start_at": "1992-01-01T00:00:00Z",
+          "end_at": "1997-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Thunderbird School of Global Management",
+          "degree": "Advanced Global Leadership Progr",
+          "start_at": "2011-01-01T00:00:00Z",
+          "end_at": "2012-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Handelshøyskolen BI",
+          "degree": "Master of Business Administration (MBA)",
+          "start_at": "2014-01-01T00:00:00Z",
+          "end_at": "2016-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "复旦大学",
+          "degree": "Joint M.B.A. Program with BI Norwegian Business School",
+          "start_at": "2014-01-01T00:00:00Z",
+          "end_at": "2016-01-01T00:00:00Z"
+        }
+      ],
+      "languages": [
+        {
+          "language": "chinese",
+          "proficiency": ""
+        },
+        {
+          "language": "english",
+          "proficiency": ""
+        }
+      ],
+      "skills": [
+        "AI",
+        "Automation",
+        "C",
+        "C++",
+        "Cross-functional Team Leadership",
+        "Debugging",
+        "Embedded Systems",
+        "Engineering",
+        "Facility Expansion",
+        "Intel",
+        "Management",
+        "Manufacturing",
+        "Mergers & Acquisitions (M&A)",
+        "Perl",
+        "Program Management",
+        "Project Management",
+        "Semiconductor Fabrication",
+        "Semiconductors",
+        "Software Development",
+        "Software Engineering",
+        "Testing",
+        "Wafer Fab"
+      ]
+    },
+    {
+      "id": "f1a3894c-12aa-575b-8a3f-6f7d3beac17e",
+      "full_name": "Soo YoungPaul Park",
+      "first_name": "Soo YoungPaul",
+      "last_name": "Park",
+      "location": {
+        "country": "South Korea",
+        "country_code": "KR"
+      },
+      "employment": {
+        "current": {
+          "title": "Director",
+          "description": "Business Strategy",
+          "seniority": "Director",
+          "company": {
+            "id": "75b8f908-c89f-5649-a8f6-67b93ba089b0",
+            "name": "SK hynix",
+            "domain": "skhynix.com",
+            "description": "Semiconductors are essential to all IT products, and its performance often determines the performance of the final products. SK hynix is a global leader in producing semiconductor, such as DRAM, NAND Flash. With these technology driven semiconductor products, SK hynix consistently led the industry and is now the second largest memory chip maker. \n\nIT devices become more pervasive as new imaginative and innovative IT products continue to grab imagination and desires of consumers. SK hynix has enhanced its competency with the best level of technology and a wide range of business portfolios in order to satisfy all those demand from customers. As a member of SK Group*, SK hynix is aiming at becoming the world’s best semiconductor company. \n\n\n\n*SK Group is one of South Korea's top three industrial conglomerates.\nIt has about 198 affiliated companies, ranging from energy, telecommunications, finance, and construction.",
+            "year_founded": 0,
+            "headcount": 7915,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "2091 Gyeongchung-daero Bubal-eub",
+                "line2": "Icheon, Gyeonggi-do, KR",
+                "region": "경기도",
+                "city": "이천시",
+                "country": "South Korea",
+                "country_code": "KR"
+              },
+              "offices": [
+                {
+                  "line1": "3101 North First Street",
+                  "line2": "San Jose, CA 95134, US"
+                },
+                {
+                  "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                  "line2": "Wuxi, Jiangsu 214028, CN"
+                },
+                {
+                  "line1": "MAC(Main Airport Center) 7F, Unterschweinstiege 2-14",
+                  "line2": "Frankfurt am Main, 60549, DE"
+                },
+                {
+                  "line1": "Unit 4, Horizon Business Village, 1 Brooklands Road",
+                  "line2": "Weybridge, Surrey KT13 0TJ, GB"
+                },
+                {
+                  "line1": "Nemiga str., 5, 4th floor, Office 75",
+                  "line2": "Minsk, 220030, BY"
+                },
+                {
+                  "line1": "Viale Colleoni",
+                  "line2": "Agrate Brianza(MB), 15 20864, IT"
+                },
+                {
+                  "line1": "Xiyong Comprehensive Bonded Zone B Block v2-4/02, Shapingba district",
+                  "line2": "Chongqing, 400030, CN"
+                },
+                {
+                  "line1": "Room 1901~1907, TowerB Jinhongqiao International center, No. 533 loushanguan Road",
+                  "line2": "Shanghai, 200051, CN"
+                },
+                {
+                  "line1": "23F Shiroyama Trust Tower, 4-3-1 Toranomon, minato-ku",
+                  "line2": "Tokyo, 105-6023, JP"
+                },
+                {
+                  "line1": "12-07/12 at 9 Staits View, Marina One West Tower",
+                  "line2": "Singapore, 018937, SG"
+                },
+                {
+                  "line1": "Unit No. 3D, Uppals Plaza M6, 3rd Floor, Plot No. 6 Jasola District Centre",
+                  "line2": "New Delhi, 110025, IN"
+                },
+                {
+                  "line1": "Suite 4401-02 & 11-12, 44/F, One lsland East, 18 Westlands Road, Taikoo Place",
+                  "line2": "Hong Kong, HK"
+                },
+                {
+                  "line1": "10F, CBD Times Square Taipei Building, No. 308, Zhifu Rd., Zhongshan Dist",
+                  "line2": "Taipei City, 10466, TW"
+                },
+                {
+                  "line1": "SK u-Tower, 9, Seongnam-daero 343beon-gil, Bundang-gu",
+                  "line2": "Seongnam-si, Gyeonggi-do 13558, KR"
+                },
+                {
+                  "line1": "215, Daesin-ro, Heungdeok-gu",
+                  "line2": "Cheongju-si, Chungcheongbuk-do 28429, KR"
+                },
+                {
+                  "line1": "511 Capital Center Dr",
+                  "line2": "Raleigh, North Carolina 27606, US"
+                },
+                {
+                  "line1": "4201 W Parmer Lane, Bldg. B Suite 245",
+                  "line2": "Austin, TX 78727, US"
+                },
+                {
+                  "line1": "10940 NE 33rd Pl",
+                  "line2": "Bellevue, Washington 98004, US"
+                },
+                {
+                  "line1": "20333 Tomball Pkwy",
+                  "line2": "Houston, Texas 77070, US"
+                },
+                {
+                  "line1": "Kuskinkatu 3",
+                  "line2": "Kaarina, Southwest Finland 20780, FI"
+                },
+                {
+                  "line1": "191-195 Avenue Charles de Gaulle,",
+                  "line2": "Neuilly-sur-Seine, 922000 , FR"
+                },
+                {
+                  "line1": "Office 21B, BlockB, Maynoonth Business Campus, Stranffan Road, Co.",
+                  "line2": "Kildare, IE"
+                },
+                {
+                  "line1": "Room 1804,Xinda International Building No. 67, Middle Section of Huangshan Avenue",
+                  "line2": "Chongqing, 401121, CN"
+                },
+                {
+                  "line1": "2501~02, SK Tower, No. 6 Jia, Jianguomenwai Avenue",
+                  "line2": "Beijing, 100022, CN"
+                },
+                {
+                  "line1": "Room 1503~1504, Xi'an Center of China Railway, No. 10 Zhangba Road",
+                  "line2": "Xi'an High-tech Zone, 710077, CN"
+                },
+                {
+                  "line1": "18/F, Building B, East Pacific International Center, No.7888 Shennan Rd",
+                  "line2": "Shenzhen, 518040, CN"
+                },
+                {
+                  "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                  "line2": "Wuxi, Jiangsu Province 214028, CN"
+                },
+                {
+                  "line1": "5F Hamamatsu-cho Bldg. 1-1-1, Shibaura, Minato-ku",
+                  "line2": "Tokyo, 105-0023, JP"
+                },
+                {
+                  "line1": "10F LUCID SQUARE SHIN-OSAKA Bldg. 1-19-4 Higashinakajima, Higashiyodogawa-ku",
+                  "line2": "Osaka, 533-0033, JP"
+                },
+                {
+                  "line1": "2501-5 Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay New Urban Area, Me Triward, South Tu Liem district",
+                  "line2": "Hanoi, 100000, VN"
+                },
+                {
+                  "line1": "Ixora Hotel Plot P, No 3096, Jalan Baru, Bandar Perai Jaya",
+                  "line2": "Perai, Pulau Pinang 13600 , MY"
+                },
+                {
+                  "line1": "6F-1, No. 6, Taiyuen 1st St. (Taiyuen Hi-Tech Industrial Park)",
+                  "line2": "Zhubei City, Hsinchu County 30288, TW"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 19120,
+                "url": "https://www.linkedin.com/company/sk-hynix",
+                "handle": "sk-hynix",
+                "connection_count": 218400
+              }
+            },
+            "specialties": [
+              "Computing Memory",
+              "Consumer&Network Memory",
+              "Mobile Memory",
+              "NAND Flash",
+              "Memory Solutions",
+              "Semiconductor Design and Manufacturing",
+              "Enterprise SSD",
+              "Client SSD",
+              "Solutions for Datacenter",
+              "Automotive Memory",
+              "Solid State Drive",
+              "DRAM",
+              "Graphics Memory",
+              "Gaming Memory",
+              "eMMC",
+              "UFS",
+              "HBM",
+              "DDR",
+              "LPDDR",
+              "GDDR",
+              "MCP",
+              "SSD",
+              "Module",
+              "Buffer Memory",
+              "Semiconductor",
+              "and Memory"
+            ],
+            "industry": {
+              "main_industry": "Semiconductor Manufacturing"
+            }
+          },
+          "is_current": true,
+          "start_at": "2014-07-01T00:00:00Z",
+          "job_functions": [
+            {
+              "function": "Media & Communications",
+              "sub_function": "Film/Entertainment"
+            },
+            {
+              "function": "Executive & Leadership",
+              "sub_function": "Executive/C-Level"
+            }
+          ]
+        },
+        "all": [
+          {
+            "title": "Director",
+            "description": "Business Strategy",
+            "seniority": "Director",
+            "company": {
+              "id": "75b8f908-c89f-5649-a8f6-67b93ba089b0",
+              "name": "SK hynix",
+              "domain": "skhynix.com",
+              "description": "Semiconductors are essential to all IT products, and its performance often determines the performance of the final products. SK hynix is a global leader in producing semiconductor, such as DRAM, NAND Flash. With these technology driven semiconductor products, SK hynix consistently led the industry and is now the second largest memory chip maker. \n\nIT devices become more pervasive as new imaginative and innovative IT products continue to grab imagination and desires of consumers. SK hynix has enhanced its competency with the best level of technology and a wide range of business portfolios in order to satisfy all those demand from customers. As a member of SK Group*, SK hynix is aiming at becoming the world’s best semiconductor company. \n\n\n\n*SK Group is one of South Korea's top three industrial conglomerates.\nIt has about 198 affiliated companies, ranging from energy, telecommunications, finance, and construction.",
+              "year_founded": 0,
+              "headcount": 7915,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "2091 Gyeongchung-daero Bubal-eub",
+                  "line2": "Icheon, Gyeonggi-do, KR",
+                  "region": "경기도",
+                  "city": "이천시",
+                  "country": "South Korea",
+                  "country_code": "KR"
+                },
+                "offices": [
+                  {
+                    "line1": "3101 North First Street",
+                    "line2": "San Jose, CA 95134, US"
+                  },
+                  {
+                    "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                    "line2": "Wuxi, Jiangsu 214028, CN"
+                  },
+                  {
+                    "line1": "MAC(Main Airport Center) 7F, Unterschweinstiege 2-14",
+                    "line2": "Frankfurt am Main, 60549, DE"
+                  },
+                  {
+                    "line1": "Unit 4, Horizon Business Village, 1 Brooklands Road",
+                    "line2": "Weybridge, Surrey KT13 0TJ, GB"
+                  },
+                  {
+                    "line1": "Nemiga str., 5, 4th floor, Office 75",
+                    "line2": "Minsk, 220030, BY"
+                  },
+                  {
+                    "line1": "Viale Colleoni",
+                    "line2": "Agrate Brianza(MB), 15 20864, IT"
+                  },
+                  {
+                    "line1": "Xiyong Comprehensive Bonded Zone B Block v2-4/02, Shapingba district",
+                    "line2": "Chongqing, 400030, CN"
+                  },
+                  {
+                    "line1": "Room 1901~1907, TowerB Jinhongqiao International center, No. 533 loushanguan Road",
+                    "line2": "Shanghai, 200051, CN"
+                  },
+                  {
+                    "line1": "23F Shiroyama Trust Tower, 4-3-1 Toranomon, minato-ku",
+                    "line2": "Tokyo, 105-6023, JP"
+                  },
+                  {
+                    "line1": "12-07/12 at 9 Staits View, Marina One West Tower",
+                    "line2": "Singapore, 018937, SG"
+                  },
+                  {
+                    "line1": "Unit No. 3D, Uppals Plaza M6, 3rd Floor, Plot No. 6 Jasola District Centre",
+                    "line2": "New Delhi, 110025, IN"
+                  },
+                  {
+                    "line1": "Suite 4401-02 & 11-12, 44/F, One lsland East, 18 Westlands Road, Taikoo Place",
+                    "line2": "Hong Kong, HK"
+                  },
+                  {
+                    "line1": "10F, CBD Times Square Taipei Building, No. 308, Zhifu Rd., Zhongshan Dist",
+                    "line2": "Taipei City, 10466, TW"
+                  },
+                  {
+                    "line1": "SK u-Tower, 9, Seongnam-daero 343beon-gil, Bundang-gu",
+                    "line2": "Seongnam-si, Gyeonggi-do 13558, KR"
+                  },
+                  {
+                    "line1": "215, Daesin-ro, Heungdeok-gu",
+                    "line2": "Cheongju-si, Chungcheongbuk-do 28429, KR"
+                  },
+                  {
+                    "line1": "511 Capital Center Dr",
+                    "line2": "Raleigh, North Carolina 27606, US"
+                  },
+                  {
+                    "line1": "4201 W Parmer Lane, Bldg. B Suite 245",
+                    "line2": "Austin, TX 78727, US"
+                  },
+                  {
+                    "line1": "10940 NE 33rd Pl",
+                    "line2": "Bellevue, Washington 98004, US"
+                  },
+                  {
+                    "line1": "20333 Tomball Pkwy",
+                    "line2": "Houston, Texas 77070, US"
+                  },
+                  {
+                    "line1": "Kuskinkatu 3",
+                    "line2": "Kaarina, Southwest Finland 20780, FI"
+                  },
+                  {
+                    "line1": "191-195 Avenue Charles de Gaulle,",
+                    "line2": "Neuilly-sur-Seine, 922000 , FR"
+                  },
+                  {
+                    "line1": "Office 21B, BlockB, Maynoonth Business Campus, Stranffan Road, Co.",
+                    "line2": "Kildare, IE"
+                  },
+                  {
+                    "line1": "Room 1804,Xinda International Building No. 67, Middle Section of Huangshan Avenue",
+                    "line2": "Chongqing, 401121, CN"
+                  },
+                  {
+                    "line1": "2501~02, SK Tower, No. 6 Jia, Jianguomenwai Avenue",
+                    "line2": "Beijing, 100022, CN"
+                  },
+                  {
+                    "line1": "Room 1503~1504, Xi'an Center of China Railway, No. 10 Zhangba Road",
+                    "line2": "Xi'an High-tech Zone, 710077, CN"
+                  },
+                  {
+                    "line1": "18/F, Building B, East Pacific International Center, No.7888 Shennan Rd",
+                    "line2": "Shenzhen, 518040, CN"
+                  },
+                  {
+                    "line1": "Lot K7, Wuxi High-tech Zone Comprehensive Bonded Zone in New District",
+                    "line2": "Wuxi, Jiangsu Province 214028, CN"
+                  },
+                  {
+                    "line1": "5F Hamamatsu-cho Bldg. 1-1-1, Shibaura, Minato-ku",
+                    "line2": "Tokyo, 105-0023, JP"
+                  },
+                  {
+                    "line1": "10F LUCID SQUARE SHIN-OSAKA Bldg. 1-19-4 Higashinakajima, Higashiyodogawa-ku",
+                    "line2": "Osaka, 533-0033, JP"
+                  },
+                  {
+                    "line1": "2501-5 Keangnam Hanoi Landmark Tower, Plot E6, Cau Giay New Urban Area, Me Triward, South Tu Liem district",
+                    "line2": "Hanoi, 100000, VN"
+                  },
+                  {
+                    "line1": "Ixora Hotel Plot P, No 3096, Jalan Baru, Bandar Perai Jaya",
+                    "line2": "Perai, Pulau Pinang 13600 , MY"
+                  },
+                  {
+                    "line1": "6F-1, No. 6, Taiyuen 1st St. (Taiyuen Hi-Tech Industrial Park)",
+                    "line2": "Zhubei City, Hsinchu County 30288, TW"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 19120,
+                  "url": "https://www.linkedin.com/company/sk-hynix",
+                  "handle": "sk-hynix",
+                  "connection_count": 218400
+                }
+              },
+              "specialties": [
+                "Computing Memory",
+                "Consumer&Network Memory",
+                "Mobile Memory",
+                "NAND Flash",
+                "Memory Solutions",
+                "Semiconductor Design and Manufacturing",
+                "Enterprise SSD",
+                "Client SSD",
+                "Solutions for Datacenter",
+                "Automotive Memory",
+                "Solid State Drive",
+                "DRAM",
+                "Graphics Memory",
+                "Gaming Memory",
+                "eMMC",
+                "UFS",
+                "HBM",
+                "DDR",
+                "LPDDR",
+                "GDDR",
+                "MCP",
+                "SSD",
+                "Module",
+                "Buffer Memory",
+                "Semiconductor",
+                "and Memory"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "is_current": true,
+            "start_at": "2014-07-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Media & Communications",
+                "sub_function": "Film/Entertainment"
+              },
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Executive/C-Level"
+              }
+            ]
+          },
+          {
+            "title": "General Manager",
+            "description": "- Sales & Marketing : \n Customers- Samsung Electronics, Samsung Electro-Mechanics, Pantech , LGIT\n Job Desc.- Promotion, Pricing, Negotiation, Market Research & Analysis, Contracting, Presentation, Delivery, etc\n Items : AF Motor driver IC, Haptic driver IC, BLDC Motor driver IC, Analog Semiconductors.",
+            "seniority": "Manager",
+            "company": {
+              "id": "",
+              "name": "Zinitix",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2013-09-01T00:00:00Z",
+            "end_at": "2014-06-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Executive & Leadership",
+                "sub_function": "Executive/C-Level"
+              },
+              {
+                "function": "Operations",
+                "sub_function": "Operations/General Mgmt"
+              }
+            ]
+          },
+          {
+            "title": "Sales Account Manager",
+            "description": "- Sales & Marketing : \n   Customers- Samsung Electronics, Samsung Electro-Mechanics, Samsung Fiberoptics\n    Job Desc.- Promotion, Pricing, Negotiation, Market Research & Analysis, Contracting, Presentation, Delivery, etc\n    Items : CMOS Image Sensors",
+            "seniority": "Manager",
+            "company": {
+              "id": "dbc7c8f1-0fe2-57b9-9b21-f1be93329bd6",
+              "name": "Aptina",
+              "domain": "aptina.com",
+              "description": "Aptina is a global provider of intelligent imaging solutions. Aptina has created unique innovations with image sensor technologies such as Aptina Clarity+™ to deliver high-quality, rich images in challenging environments. Aptina patented imaging solutions are in leading consumer electronics devices like smartphones, tablets, laptops, gaming, wearables and digital cameras, as well as embedded and industrial solutions for automotive, surveillance, video conferencing, scanning and medical.",
+              "year_founded": 2009,
+              "headcount": 116,
+              "headcount_range": "501-1000",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 219949,
+                  "url": "https://www.linkedin.com/company/aptina",
+                  "handle": "aptina",
+                  "connection_count": 5194
+                }
+              },
+              "specialties": [
+                "Intelligent Imaging Solutions",
+                "CMOS Image Sensors",
+                "Mobile and Consumer Devices",
+                "Automotive Viewing & Safety systems",
+                "Surveillance systems",
+                "Digital Cameras",
+                "Scanning solutions",
+                "and Industry-specific imaging solutions"
+              ],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2011-04-01T00:00:00Z",
+            "end_at": "2013-05-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Sales",
+                "sub_function": "Account Management"
+              }
+            ]
+          },
+          {
+            "title": "Sales General Manager",
+            "description": "Samsung Mobile, SEMCO Account Management",
+            "seniority": "Manager",
+            "company": {
+              "id": "c445b807-88e3-5213-84ea-a72f97e704f6",
+              "name": "Rianta Solutions",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 29,
+              "headcount_range": "201-500",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 75871,
+                  "url": "https://www.linkedin.com/company/mtekvision",
+                  "handle": "mtekvision"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2004-10-01T00:00:00Z",
+            "end_at": "2011-03-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Engineer",
+            "description": "Developed MP3 Player for mobile phone.",
+            "seniority": "Senior",
+            "company": {
+              "id": "",
+              "name": "Panko Technology",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2002-01-01T00:00:00Z",
+            "end_at": "2004-10-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          },
+          {
+            "title": "Assistant Engineer",
+            "description": "L&H Korea was a Voice & Speech Software solution company.\nDeveloped Voice Recognition ARS, Voice Toys, and provided many coustomers with Voice & Speech Software engines.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "",
+              "name": "L AND H Korea",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "1998-01-01T00:00:00Z",
+            "end_at": "2001-12-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          },
+          {
+            "title": "Engineer",
+            "description": "Worked in Factory Automation Team as software engineer.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "a6b255cd-f3a1-5284-9487-a62e8342f464",
+              "name": "Samsung Electro-Mechanics",
+              "domain": "samsungsem.com",
+              "description": "Core technologies shaping the future!\n\nSamsung Electro-Mechanics (SEM) is a global B2B company specializing in core electronic components, modules, and advanced substrates.\n\nWith deep expertise in materials technology and precision engineering, SEM develops high-reliability products such as MLCCs, inductors, camera and communication modules—supporting key industries including AI, automotive, and next-generation computing.\n\nThrough continuous technological innovation and a global manufacturing network, Samsung Electro-Mechanics delivers stable, high-quality solutions that serve as the foundation of advanced technology.",
+              "year_founded": 1973,
+              "headcount": 3019,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "16674 Gyeonggi-do Yeongtong-gu, Suwon-si Maeyeong-ro 150",
+                  "line2": "Suwon, Gyeonggi 16674, KR",
+                  "region": "경기도",
+                  "city": "수원시 영통구",
+                  "country": "Korea, Republic Of",
+                  "country_code": "KR"
+                },
+                "offices": [
+                  {
+                    "line1": "3655 N 1st St",
+                    "line2": "San Jose, California 95134, US"
+                  },
+                  {
+                    "line1": "Kölner Straße 12",
+                    "line2": "Eschborn, Hesse 65760, DE"
+                  },
+                  {
+                    "line1": "14F, Tower A, SCC Building, Junction of Houhai Blvd. and Haide 1st Rd., Nanshan Dist.",
+                    "line2": "Shenzhen, Shenzhen 518064, CN"
+                  },
+                  {
+                    "line1": "Shinagawa Grand Tower 9F Kounan 2-16-4 Minato-ku",
+                    "line2": "Tokyo, JP"
+                  },
+                  {
+                    "line1": "3 Church Street #23-01 Samsung Hub, Singapore",
+                    "line2": "Singapore, SG"
+                  },
+                  {
+                    "line1": "Laguna Red Cross Calamba City Friendship Avenue",
+                    "line2": "BLK 5&6 Calamba Premiere International Park Brgy. Batino Calamba, Laguna Philippines calamba, Calabarzon 4027, PH"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 18333864,
+                  "url": "https://www.linkedin.com/company/samsung-electro-mechanics",
+                  "handle": "samsung-electro-mechanics",
+                  "connection_count": 46278
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Appliances, Electrical, and Electronics Manufacturing"
+              }
+            },
+            "start_at": "1996-01-01T00:00:00Z",
+            "end_at": "1997-12-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Traditional Engineering",
+                "sub_function": "Engineering (Unspecified)"
+              }
+            ]
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 106819252,
+          "url": "https://www.linkedin.com/in/soo-young-paul-park-8449342b",
+          "handle": "soo-young-paul-park-8449342b",
+          "connection_count": 916
+        }
+      },
+      "educations": [
+        {
+          "school_name": "Inha University 인하대학교",
+          "degree": "BA",
+          "start_at": "1990-01-01T00:00:00Z",
+          "end_at": "1996-01-01T00:00:00Z"
+        }
+      ],
+      "languages": [
+        {
+          "language": "english",
+          "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+          "language": "korean",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "skills": [
+        "ARM",
+        "ASIC",
+        "Analog",
+        "Competitive Analysis",
+        "Consumer Electronics",
+        "Digital Signal Processors",
+        "EDA",
+        "Embedded Systems",
+        "FPGA",
+        "Fast Learner",
+        "IC",
+        "Mixed Signal",
+        "Mobile Devices",
+        "Open Minded",
+        "Semiconductor Industry",
+        "Semiconductors",
+        "Sensors",
+        "SoC"
+      ]
+    }
+  ],
+  "metadata": {
+    "total": 665,
+    "credits": 0,
+    "offset": 0,
+    "search_after": "WzIuOTYyMzY5NCwiZjFhMzg5NGMtMTJhYS01NzViLThhM2YtNmY3ZDNiZWFjMTdlIl0="
+  }
+}

@@ -1,0 +1,1297 @@
+{
+  "people": [
+    {
+      "id": "210b2db5-81d5-574d-bba5-09579cc16e88",
+      "full_name": "Norifumi Nagatomo",
+      "first_name": "Norifumi",
+      "last_name": "Nagatomo",
+      "location": {
+        "country": "Japan",
+        "country_code": "JP",
+        "city": "東京",
+        "region": "東京"
+      },
+      "employment": {
+        "current": {
+          "title": "Enegry Business Lead of Lexus SDV Promotion Division, Lexus International  Company",
+          "description": "Concurrently working for Lexus BEV related business strategy",
+          "seniority": "VP",
+          "company": {
+            "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+            "name": "Toyota Motor Corporation",
+            "domain": "global.toyota",
+            "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+            "year_founded": 1937,
+            "headcount": 37487,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "1 Toyota-Cho",
+                "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                "region": "愛知",
+                "city": "豊田市",
+                "country": "Japan",
+                "country_code": "JP"
+              },
+              "offices": [
+                {
+                  "line1": "4-18, Koraku 1-chome",
+                  "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                },
+                {
+                  "line1": "4-7-1 Meieki",
+                  "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 2109,
+                "url": "https://www.linkedin.com/company/toyota",
+                "handle": "toyota",
+                "connection_count": 2332468
+              }
+            },
+            "specialties": [
+              "Automotive"
+            ],
+            "industry": {
+              "main_industry": "Motor Vehicle Manufacturing"
+            }
+          },
+          "is_current": true,
+          "start_at": "2025-01-01T00:00:00Z"
+        },
+        "all": [
+          {
+            "title": "Enegry Business Lead of Lexus SDV Promotion Division, Lexus International  Company",
+            "description": "Concurrently working for Lexus BEV related business strategy",
+            "seniority": "VP",
+            "company": {
+              "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+              "name": "Toyota Motor Corporation",
+              "domain": "global.toyota",
+              "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+              "year_founded": 1937,
+              "headcount": 37487,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1 Toyota-Cho",
+                  "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                  "region": "愛知",
+                  "city": "豊田市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "4-18, Koraku 1-chome",
+                    "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                  },
+                  {
+                    "line1": "4-7-1 Meieki",
+                    "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 2109,
+                  "url": "https://www.linkedin.com/company/toyota",
+                  "handle": "toyota",
+                  "connection_count": 2332468
+                }
+              },
+              "specialties": [
+                "Automotive"
+              ],
+              "industry": {
+                "main_industry": "Motor Vehicle Manufacturing"
+              }
+            },
+            "is_current": true,
+            "start_at": "2025-01-01T00:00:00Z"
+          },
+          {
+            "title": "Lead of Energy",
+            "seniority": "Senior",
+            "company": {
+              "id": "21c0772c-5c26-543f-b960-1e9d09c9283f",
+              "name": "Woven by Toyota",
+              "domain": "",
+              "description": "Woven by Toyota exists to accelerate Toyota’s once-in-a-century transformation from a car company into a mobility company. Rooted in a legacy of reinvention, we carry forward a singular founding principle: to innovate for the benefit of others. \n\nToday, we are driving this transformation from two vantage points: redefining how vehicles are built, experienced, and connected to the world to realize a true software-defined vehicle, and reimagining how people, goods, information, and energy move and interact in society to empower individuals from all walks of life. \n\nThrough these two lenses, we combine bold innovation with real-world execution, bridging the gap between present and future to help Toyota evolve its business and its role in society.",
+              "year_founded": 2023,
+              "headcount": 2408,
+              "headcount_range": "1001-5000",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "3-2-1 Nihonbashimuromachi",
+                  "line2": "Nihonbashi Muromachi Mitsui Tower Chuo-ku, Tokyo 103-0022, JP",
+                  "region": "東京",
+                  "city": "東京",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 68831855,
+                  "url": "https://www.linkedin.com/company/wovenbytoyota",
+                  "handle": "wovenbytoyota",
+                  "connection_count": 71112
+                }
+              },
+              "specialties": [
+                "software development",
+                "automated driving",
+                "and vehicle software platform"
+              ],
+              "industry": {
+                "main_industry": "Software Development"
+              }
+            },
+            "is_current": true,
+            "start_at": "2023-09-01T00:00:00Z"
+          },
+          {
+            "title": "Strategy Planning Manager",
+            "seniority": "Manager",
+            "company": {
+              "id": "21c0772c-5c26-543f-b960-1e9d09c9283f",
+              "name": "Woven by Toyota",
+              "domain": "",
+              "description": "Woven by Toyota exists to accelerate Toyota’s once-in-a-century transformation from a car company into a mobility company. Rooted in a legacy of reinvention, we carry forward a singular founding principle: to innovate for the benefit of others. \n\nToday, we are driving this transformation from two vantage points: redefining how vehicles are built, experienced, and connected to the world to realize a true software-defined vehicle, and reimagining how people, goods, information, and energy move and interact in society to empower individuals from all walks of life. \n\nThrough these two lenses, we combine bold innovation with real-world execution, bridging the gap between present and future to help Toyota evolve its business and its role in society.",
+              "year_founded": 2023,
+              "headcount": 2408,
+              "headcount_range": "1001-5000",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "3-2-1 Nihonbashimuromachi",
+                  "line2": "Nihonbashi Muromachi Mitsui Tower Chuo-ku, Tokyo 103-0022, JP",
+                  "region": "東京",
+                  "city": "東京",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 68831855,
+                  "url": "https://www.linkedin.com/company/wovenbytoyota",
+                  "handle": "wovenbytoyota",
+                  "connection_count": 71112
+                }
+              },
+              "specialties": [
+                "software development",
+                "automated driving",
+                "and vehicle software platform"
+              ],
+              "industry": {
+                "main_industry": "Software Development"
+              }
+            },
+            "start_at": "2022-09-01T00:00:00Z",
+            "end_at": "2023-09-01T00:00:00Z"
+          },
+          {
+            "title": "Deputy Head of Power Business Division",
+            "seniority": "Head",
+            "company": {
+              "id": "2785245f-a984-5b61-beb6-373e72f7899c",
+              "name": "Terras Energy Corporation",
+              "domain": "terras-energy.com",
+              "description": "テラスエナジー株式会社は2011年の創業以来、再生可能エネルギーの発電事業を手掛けています。2024年1月1日現在、国内外に51か所の太陽光や風力など発電所を運転しています。",
+              "year_founded": 2011,
+              "headcount": 20,
+              "headcount_range": "51-200",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "海岸1-7-1",
+                  "line2": "東京ポートシティ竹芝オフィスタワー 港区, 東京都 105-7529, JP",
+                  "region": "Tokyo To",
+                  "city": "Kaigan Tokyopotoshiteitakeshibaofui",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 18717997,
+                  "url": "https://www.linkedin.com/company/sbenergy",
+                  "handle": "sbenergy",
+                  "connection_count": 1408
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Renewable Energy Power Generation"
+              }
+            },
+            "start_at": "2020-03-01T00:00:00Z",
+            "end_at": "2022-08-01T00:00:00Z"
+          },
+          {
+            "title": "Head of CEO’s Office",
+            "seniority": "Head",
+            "company": {
+              "id": "",
+              "name": "Bloom Energy Japan",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2020-03-01T00:00:00Z",
+            "end_at": "2021-10-01T00:00:00Z"
+          },
+          {
+            "title": "Business Planning Manager",
+            "seniority": "Manager",
+            "company": {
+              "id": "",
+              "name": "Bloom Energy Japan",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2017-08-01T00:00:00Z",
+            "end_at": "2021-10-01T00:00:00Z"
+          },
+          {
+            "title": "Corporate Planning Manager",
+            "seniority": "Manager",
+            "company": {
+              "id": "2785245f-a984-5b61-beb6-373e72f7899c",
+              "name": "Terras Energy Corporation",
+              "domain": "terras-energy.com",
+              "description": "テラスエナジー株式会社は2011年の創業以来、再生可能エネルギーの発電事業を手掛けています。2024年1月1日現在、国内外に51か所の太陽光や風力など発電所を運転しています。",
+              "year_founded": 2011,
+              "headcount": 20,
+              "headcount_range": "51-200",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "海岸1-7-1",
+                  "line2": "東京ポートシティ竹芝オフィスタワー 港区, 東京都 105-7529, JP",
+                  "region": "Tokyo To",
+                  "city": "Kaigan Tokyopotoshiteitakeshibaofui",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 18717997,
+                  "url": "https://www.linkedin.com/company/sbenergy",
+                  "handle": "sbenergy",
+                  "connection_count": 1408
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Renewable Energy Power Generation"
+              }
+            },
+            "start_at": "2017-07-01T00:00:00Z",
+            "end_at": "2020-03-01T00:00:00Z"
+          },
+          {
+            "title": "Sales Division Manager",
+            "description": "- Promoted joint product development projects with 4 partner companies as marketing manager and led to start test sales.\n\n- Spearheaded optimization of manufacturing process of BtoC product line by utilizing OEM and reduced manufacturing cost by 30%.",
+            "seniority": "Manager",
+            "company": {
+              "id": "f38ffedb-4c62-5256-af93-3bcc09945611",
+              "name": "Sphelar Power Corporation",
+              "domain": "sphelarpower.com",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "2-10",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6959805,
+                  "url": "https://www.linkedin.com/company/sphelar-power-corporation",
+                  "handle": "sphelar-power-corporation",
+                  "connection_count": 26
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2015-02-01T00:00:00Z",
+            "end_at": "2016-09-01T00:00:00Z"
+          },
+          {
+            "title": "Corporate Officer",
+            "seniority": "Unknown",
+            "company": {
+              "id": "f38ffedb-4c62-5256-af93-3bcc09945611",
+              "name": "Sphelar Power Corporation",
+              "domain": "sphelarpower.com",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "2-10",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6959805,
+                  "url": "https://www.linkedin.com/company/sphelar-power-corporation",
+                  "handle": "sphelar-power-corporation",
+                  "connection_count": 26
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2015-02-01T00:00:00Z",
+            "end_at": "2017-06-01T00:00:00Z"
+          },
+          {
+            "title": "General Administration Division Manager",
+            "description": "- Rebuilt the financial planning model from scratch, synchronized it with budget control and extracted KPI from it for each department to manage the tasks of charge.\n\n- Managed companywide project (18 employees and 6 contract-workers) with systemized methods and procured 400 million JPY as additional investment by clearing the phase gates of business development (marketing, development and IPR protection). Assisted alliances with major materials / equipment suppliers by taking charge of negotiations and contracts.\n\n- Transferred the accounting and administrative work from the parent company to its own, launched operations with 1 new employee and put the job on track. Planned comprehensive budget and formed manufacturing cost management system.",
+            "seniority": "Manager",
+            "company": {
+              "id": "f38ffedb-4c62-5256-af93-3bcc09945611",
+              "name": "Sphelar Power Corporation",
+              "domain": "sphelarpower.com",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "2-10",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6959805,
+                  "url": "https://www.linkedin.com/company/sphelar-power-corporation",
+                  "handle": "sphelar-power-corporation",
+                  "connection_count": 26
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2014-02-01T00:00:00Z",
+            "end_at": "2016-09-01T00:00:00Z"
+          },
+          {
+            "title": "Group Manager, Sales Division",
+            "description": "- Traveled to overseas (Europe and Chine) on a pace 3 times a year for new business marketing and identified alliance partner candidates. Concluded contract with 1 Japanese multi-national company and 4 European companies as partner, facilitated collaborative R&D projects with 8 other companies and improved market entry strategy. With this result, contributed to raise 380 million JPY as additional investment from shareholders.\n\n- Enlarged BtoC product sales besides main BtoB business, building sales channels exceeding 100 stores with 1 sales staff and 1 sales assistant, added 1 new item to the product line.",
+            "seniority": "Manager",
+            "company": {
+              "id": "f38ffedb-4c62-5256-af93-3bcc09945611",
+              "name": "Sphelar Power Corporation",
+              "domain": "sphelarpower.com",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "2-10",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6959805,
+                  "url": "https://www.linkedin.com/company/sphelar-power-corporation",
+                  "handle": "sphelar-power-corporation",
+                  "connection_count": 26
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2014-02-01T00:00:00Z",
+            "end_at": "2015-02-01T00:00:00Z"
+          },
+          {
+            "title": "Group Manager, Corporate Strategy Division",
+            "description": "- Coordinated with different divisions and formulated a financial planning model with a subcontractor, based on business strategy and development planning.\n\n- In charge of department reporting at the Board of Directors on behalf of the department head (outside director). Mediated with external/internal shareholders as responsible of the department which accepted 6 seconded employees from the stockholders.\n\n- Developed CI/VI accompanying the launch of the new company, and built up the corporate website in a short time. Acquired Google search top with important keywords of new business with appropriate SEO design.",
+            "seniority": "Manager",
+            "company": {
+              "id": "f38ffedb-4c62-5256-af93-3bcc09945611",
+              "name": "Sphelar Power Corporation",
+              "domain": "sphelarpower.com",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "2-10",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 6959805,
+                  "url": "https://www.linkedin.com/company/sphelar-power-corporation",
+                  "handle": "sphelar-power-corporation",
+                  "connection_count": 26
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Semiconductor Manufacturing"
+              }
+            },
+            "start_at": "2012-05-01T00:00:00Z",
+            "end_at": "2014-02-01T00:00:00Z"
+          },
+          {
+            "title": "Sphelar sales and marketing Group Manager",
+            "description": "- Acquired 3 sales representatives in Denmark, France and Italy for targeting the energy harvest and M2M market. Made business trip several times a year into Europe and accompany visits to customers from major telecommunication company to ODM of electrical appliance.\n\n- Carried out product development projects with European luxury brands, focusing on the combination of functionality, aesthetic design and user experience.\n\n- Proposed to develop a BtoC original product as communication tool of new technology, successfully executed it by acquiring public subsidies as development fund and developed a continuous business (tens of millions JPY annually).\n\n- Contributed to fundraising of 600 million JPY and to establishment of spin-off company (Sphelar Power), with describing business strategy after interviewing of potential customers, partners, end-users in different industries.",
+            "seniority": "Manager",
+            "company": {
+              "id": "55d5c512-3a30-575f-b75e-8ada80664583",
+              "name": "Kyosemi Corporation",
+              "domain": "kyosemi.co.jp",
+              "description": "Manufacturer of optoelectronic components (Optical communication devices and Sensoring & Control devices) and spherical micro solar cell (Sphelar).",
+              "year_founded": 0,
+              "headcount": 6,
+              "headcount_range": "51-200",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 434949,
+                  "url": "https://www.linkedin.com/company/kyosemi-corporation",
+                  "handle": "kyosemi-corporation"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Appliances, Electrical, and Electronics Manufacturing"
+              }
+            },
+            "start_at": "2011-04-01T00:00:00Z",
+            "end_at": "2012-05-01T00:00:00Z"
+          },
+          {
+            "title": "Assistant to President",
+            "description": "- As attendant to the president’s overseas business trips, assisted him to negotiate with joint developer companies, business partner candidates and investors.\n\n- Provided legal assistance by briefing contracts in Japanese and English.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "55d5c512-3a30-575f-b75e-8ada80664583",
+              "name": "Kyosemi Corporation",
+              "domain": "kyosemi.co.jp",
+              "description": "Manufacturer of optoelectronic components (Optical communication devices and Sensoring & Control devices) and spherical micro solar cell (Sphelar).",
+              "year_founded": 0,
+              "headcount": 6,
+              "headcount_range": "51-200",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 434949,
+                  "url": "https://www.linkedin.com/company/kyosemi-corporation",
+                  "handle": "kyosemi-corporation"
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Appliances, Electrical, and Electronics Manufacturing"
+              }
+            },
+            "start_at": "2009-04-01T00:00:00Z",
+            "end_at": "2012-05-01T00:00:00Z"
+          },
+          {
+            "title": "lecturer",
+            "description": "Art History (Modern and Post-Modern) and Philosophy",
+            "seniority": "Unknown",
+            "company": {
+              "id": "7606597b-5df9-584f-aa36-ccd55b7f5ee6",
+              "name": "Kyoto University",
+              "domain": "kyoto-u.ac.jp",
+              "description": "Kyoto University is one of Japan and Asia's premier research institutions, founded in 1897 and responsible for producing numerous Nobel laureates and winners of other prestigious international prizes. A broad curriculum across the arts and sciences at undergraduate and graduate levels complements several research centers, facilities, and offices around Japan and the world.",
+              "year_founded": 0,
+              "headcount": 3967,
+              "headcount_range": "5001-10000",
+              "company_type": "Educational",
+              "locations": {
+                "headquarters": {
+                  "line1": "Yoshida-Honmachi, Sakyo-ku, Kyoto 606-8501 JAPAN",
+                  "line2": "kyoto, kyoto, JP",
+                  "region": "kyoto",
+                  "city": "kyoto",
+                  "country": "japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 15094531,
+                  "url": "https://www.linkedin.com/school/京都大学",
+                  "handle": "京都大学",
+                  "connection_count": 81047
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Higher Education"
+              }
+            },
+            "start_at": "2008-10-01T00:00:00Z",
+            "end_at": "2009-03-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Education",
+                "sub_function": "Higher Education"
+              }
+            ]
+          },
+          {
+            "title": "Chargé de cours à la section de japonais",
+            "description": "Gave lectures to bachelor and master students in Japanese Culture & Language course.",
+            "seniority": "Unknown",
+            "company": {
+              "id": "",
+              "name": "Université de Toulouse-le-Mirail Toulouse II",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2007-10-01T00:00:00Z",
+            "end_at": "2008-09-01T00:00:00Z"
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 37180072,
+          "url": "https://www.linkedin.com/in/norifumi-nagatomo-2b455010",
+          "handle": "norifumi-nagatomo-2b455010",
+          "connection_count": 992
+        }
+      },
+      "educations": [
+        {
+          "school_name": "Kyoto University",
+          "degree": "Bachelor",
+          "start_at": "1995-01-01T00:00:00Z",
+          "end_at": "2000-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Kyoto University",
+          "degree": "Master",
+          "start_at": "2000-01-01T00:00:00Z",
+          "end_at": "2003-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Kyoto University",
+          "degree": "Completed Doctor's program",
+          "start_at": "2003-01-01T00:00:00Z",
+          "end_at": "2009-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Université de Montpellier Paul-Valéry",
+          "degree": "Master",
+          "start_at": "2005-01-01T00:00:00Z",
+          "end_at": "2006-01-01T00:00:00Z"
+        },
+        {
+          "school_name": "Université Toulouse - Jean Jaurès",
+          "degree": "Master 2",
+          "start_at": "2006-01-01T00:00:00Z",
+          "end_at": "2007-01-01T00:00:00Z"
+        }
+      ],
+      "languages": [
+        {
+          "language": "english",
+          "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+          "language": "french",
+          "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+          "language": "italian",
+          "proficiency": "LIMITED_WORKING"
+        },
+        {
+          "language": "japanese",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "skills": [
+        "Alternative Energy",
+        "Business Development",
+        "Business Planning",
+        "Business Strategy",
+        "Cleantech",
+        "Energy",
+        "Energy Efficiency",
+        "International Sales",
+        "Management",
+        "Photovoltaics",
+        "Product Development",
+        "Renewable Energy",
+        "Research",
+        "Sales",
+        "Solar Energy",
+        "Sustainability",
+        "Sustainable Energy"
+      ]
+    },
+    {
+      "id": "a673261d-da15-5272-bf70-a9bde8cef391",
+      "full_name": "Ryo Neyama",
+      "first_name": "Ryo",
+      "last_name": "Neyama",
+      "location": {
+        "country": "Japan",
+        "country_code": "JP",
+        "city": "東京",
+        "region": "東京"
+      },
+      "employment": {
+        "current": {
+          "title": "Group Manager & Senior Researcher, InfoTech-AS, Social System Platform Development Division",
+          "seniority": "Manager",
+          "company": {
+            "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+            "name": "Toyota Motor Corporation",
+            "domain": "global.toyota",
+            "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+            "year_founded": 1937,
+            "headcount": 37487,
+            "headcount_range": "10001+",
+            "company_type": "Public Company",
+            "locations": {
+              "headquarters": {
+                "line1": "1 Toyota-Cho",
+                "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                "region": "愛知",
+                "city": "豊田市",
+                "country": "Japan",
+                "country_code": "JP"
+              },
+              "offices": [
+                {
+                  "line1": "4-18, Koraku 1-chome",
+                  "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                },
+                {
+                  "line1": "4-7-1 Meieki",
+                  "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                }
+              ]
+            },
+            "social_profiles": {
+              "professional_network": {
+                "id": 2109,
+                "url": "https://www.linkedin.com/company/toyota",
+                "handle": "toyota",
+                "connection_count": 2332468
+              }
+            },
+            "specialties": [
+              "Automotive"
+            ],
+            "industry": {
+              "main_industry": "Motor Vehicle Manufacturing"
+            }
+          },
+          "is_current": true,
+          "start_at": "2023-10-01T00:00:00Z"
+        },
+        "all": [
+          {
+            "title": "Group Manager & Senior Researcher, InfoTech-AS, Social System Platform Development Division",
+            "seniority": "Manager",
+            "company": {
+              "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+              "name": "Toyota Motor Corporation",
+              "domain": "global.toyota",
+              "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+              "year_founded": 1937,
+              "headcount": 37487,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1 Toyota-Cho",
+                  "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                  "region": "愛知",
+                  "city": "豊田市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "4-18, Koraku 1-chome",
+                    "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                  },
+                  {
+                    "line1": "4-7-1 Meieki",
+                    "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 2109,
+                  "url": "https://www.linkedin.com/company/toyota",
+                  "handle": "toyota",
+                  "connection_count": 2332468
+                }
+              },
+              "specialties": [
+                "Automotive"
+              ],
+              "industry": {
+                "main_industry": "Motor Vehicle Manufacturing"
+              }
+            },
+            "is_current": true,
+            "start_at": "2023-10-01T00:00:00Z"
+          },
+          {
+            "title": "Executive Advisor",
+            "seniority": "Unknown",
+            "company": {
+              "id": "",
+              "name": "Toyota Research Institute - Advanced Development",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2019-08-01T00:00:00Z",
+            "end_at": "2020-03-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Consulting & Advisory",
+                "sub_function": "Advisors"
+              }
+            ]
+          },
+          {
+            "title": "Senior Researcher, Database Systems, InfoTech, Connected Advanced Development Division",
+            "seniority": "Senior",
+            "company": {
+              "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+              "name": "Toyota Motor Corporation",
+              "domain": "global.toyota",
+              "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+              "year_founded": 1937,
+              "headcount": 37487,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1 Toyota-Cho",
+                  "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                  "region": "愛知",
+                  "city": "豊田市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "4-18, Koraku 1-chome",
+                    "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                  },
+                  {
+                    "line1": "4-7-1 Meieki",
+                    "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 2109,
+                  "url": "https://www.linkedin.com/company/toyota",
+                  "handle": "toyota",
+                  "connection_count": 2332468
+                }
+              },
+              "specialties": [
+                "Automotive"
+              ],
+              "industry": {
+                "main_industry": "Motor Vehicle Manufacturing"
+              }
+            },
+            "is_current": true,
+            "start_at": "2019-04-01T00:00:00Z"
+          },
+          {
+            "title": "Assistant Manager (assignee)",
+            "seniority": "Manager",
+            "company": {
+              "id": "bfbf8c0f-a27d-52bd-a88e-acbe2a41c03b",
+              "name": "Toyota Motor Corporation",
+              "domain": "global.toyota",
+              "description": "Toyota Motor Corporation is a global automotive industry leader manufacturing vehicles in 27 countries or regions and marketing the company’s products in over 170 countries and regions. Founded in 1937 and headquartered in Toyota City, Japan, Toyota Motor Corporation employs nearly 350,000 people globally.",
+              "year_founded": 1937,
+              "headcount": 37487,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "1 Toyota-Cho",
+                  "line2": "Toyota City, Aichi Prefecture 471-8571, JP",
+                  "region": "愛知",
+                  "city": "豊田市",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": [
+                  {
+                    "line1": "4-18, Koraku 1-chome",
+                    "line2": "Bunkyo-ku, Tokyo 112-8701, JP"
+                  },
+                  {
+                    "line1": "4-7-1 Meieki",
+                    "line2": "Nakamura-ku Nagoya, Aichi Prefecture 450-8711, JP"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 2109,
+                  "url": "https://www.linkedin.com/company/toyota",
+                  "handle": "toyota",
+                  "connection_count": 2332468
+                }
+              },
+              "specialties": [
+                "Automotive"
+              ],
+              "industry": {
+                "main_industry": "Motor Vehicle Manufacturing"
+              }
+            },
+            "start_at": "2011-04-01T00:00:00Z",
+            "end_at": "2014-03-01T00:00:00Z"
+          },
+          {
+            "title": "Group Leader of Database Systems",
+            "seniority": "Senior",
+            "company": {
+              "id": "74088d59-7bf8-53fa-a3e2-5a23408bbe2e",
+              "name": "TOYOTA InfoTechnology Center Co., Ltd.",
+              "domain": "",
+              "description": "Corporate Goals\nValue creation: We provide cutting-edge technology and create value with superior intelligence and greater innovation throughout the IT business.\nInnovation: We have a clear vision for business growth using globally-focused innovative strategies that allow our people and communities to prosper.\nCompliance: We, as good corporate citizens, set a high standard to do business with integrity, leading to mutual success for the company and its individuals.\n\nCorporate Mission\nWithout being bound by the way things have been done in the past, we collaborate with our stakeholders to grapple with the challenges involved in applying IT to the car. We are helping bring to life diverse and inspirational new ways for cars and people to interact.\n\nCorporate Culture\nWe are dedicated to supporting and encourage an environment that values the individual and inspires everyone to be their personal best. We are a diverse community of talented people, all of whom are integral to the success of our business. We value, respect, and include everyone, and create a corporate culture that fosters innovation.",
+              "year_founded": 2001,
+              "headcount": 7,
+              "headcount_range": "11-50",
+              "company_type": "Privately Held",
+              "locations": {
+                "headquarters": {
+                  "line1": "6-6-20 Akasaka",
+                  "line2": "Minato-ku, Tokyo 107-0052, JP",
+                  "region": "東京",
+                  "city": "東京",
+                  "country": "Japan",
+                  "country_code": "JP"
+                },
+                "offices": []
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 13697074,
+                  "url": "https://www.linkedin.com/company/toyota-infotechnology-center-co-ltd",
+                  "handle": "toyota-infotechnology-center-co-ltd",
+                  "connection_count": 157
+                }
+              },
+              "specialties": [],
+              "industry": {
+                "main_industry": "Research Services"
+              }
+            },
+            "start_at": "2008-04-01T00:00:00Z",
+            "end_at": "2019-03-01T00:00:00Z"
+          },
+          {
+            "title": "Senior Researcher",
+            "seniority": "Senior",
+            "company": {
+              "id": "",
+              "name": "Utagoe",
+              "domain": "",
+              "description": "",
+              "year_founded": 0,
+              "headcount": 0,
+              "headcount_range": "",
+              "company_type": "",
+              "locations": {
+                "headquarters": {},
+                "offices": null
+              },
+              "social_profiles": {},
+              "specialties": [],
+              "industry": {
+                "main_industry": ""
+              }
+            },
+            "start_at": "2007-04-01T00:00:00Z",
+            "end_at": "2008-04-01T00:00:00Z",
+            "job_functions": [
+              {
+                "function": "Research & Science",
+                "sub_function": "Scientific Research"
+              }
+            ]
+          },
+          {
+            "title": "Staff Researcher, IBM Research, Tokyo Research Laboratory",
+            "seniority": "Senior",
+            "company": {
+              "id": "07e6b2f5-46a2-50e9-8c87-56f1530a8213",
+              "name": "IBM",
+              "domain": "ibm.com",
+              "description": "At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with our competitors. If you're searching for ways to make the world work better through technology and infrastructure, software and consulting, then we want to work with you.\n\nWe're here to help every creator turn their \"what if\" into what is. Let's create something that will change everything.",
+              "year_founded": 0,
+              "headcount": 330292,
+              "headcount_range": "10001+",
+              "company_type": "Public Company",
+              "locations": {
+                "headquarters": {
+                  "line1": "International Business Machines Corp.",
+                  "line2": "New Orchard Road Armonk, New York, NY 10504, US",
+                  "region": "New York",
+                  "city": "Armonk",
+                  "country": "United States",
+                  "country_code": "US"
+                },
+                "offices": [
+                  {
+                    "line1": "590 Madison Ave",
+                    "line2": "New York, NY 10022, US"
+                  },
+                  {
+                    "line1": "90 Grayston Dr",
+                    "line2": "Sandton, Gauteng 2196, ZA"
+                  },
+                  {
+                    "line1": "Plaza Independencia 721",
+                    "line2": "Montevideo, 11000, UY"
+                  },
+                  {
+                    "line1": "388 Phahon Yothin Road",
+                    "line2": "Phaya Thai, Bangkok City 10400, TH"
+                  },
+                  {
+                    "line1": "Jalan Prof. Dr. Latumenten",
+                    "line2": "Jakarta Barat, Jakarta 11330, ID"
+                  },
+                  {
+                    "line1": "30 S 17th St",
+                    "line2": "Philadelphia, PA 19103, US"
+                  },
+                  {
+                    "line1": "60 City Rd",
+                    "line2": "Melbourne, VIC 3006, AU"
+                  },
+                  {
+                    "line1": "V Parku 2294/4",
+                    "line2": "Prague, Prague 148 00, CZ"
+                  },
+                  {
+                    "line1": "9 Changi Business Park Central 1",
+                    "line2": "Singapore, Singapore 486048, SG"
+                  },
+                  {
+                    "line1": "Via Sciangai",
+                    "line2": "Rome, Laz. 00144, IT"
+                  },
+                  {
+                    "line1": "Nahmitzer Damm 12",
+                    "line2": "Berlin, BE 12277, DE"
+                  },
+                  {
+                    "line1": "3031 N Rocky Point Dr W",
+                    "line2": "Tampa, FL 33607, US"
+                  },
+                  {
+                    "line1": "First Avenue",
+                    "line2": "Petaling Jaya, Selangor 47800, MY"
+                  },
+                  {
+                    "line1": "Laajalahdentie 23",
+                    "line2": "Helsinki, Southern Finland 00330, FI"
+                  },
+                  {
+                    "line1": "Carrera 53 100-25",
+                    "line2": "Bogota, Bogota, D.C. 111111, CO"
+                  },
+                  {
+                    "line1": "Presnenskaya naberezhnaya 10",
+                    "line2": "Moscow, Central Federal District 123112, RU"
+                  },
+                  {
+                    "line1": "3 Road",
+                    "line2": "Dubai, Dubai, AE"
+                  },
+                  {
+                    "line1": "71 S Wacker Dr",
+                    "line2": "Chicago, IL 60606, US"
+                  },
+                  {
+                    "line1": "50 Rue de Picpus",
+                    "line2": "Paris, IdF 75012, FR"
+                  },
+                  {
+                    "line1": "Mlynske nivy 16688/49",
+                    "line2": "Bratislava, Bratislava 821 09, SK"
+                  },
+                  {
+                    "line1": "Shuhada'A Street",
+                    "line2": "Kuwait City, Kuwait City, KW"
+                  },
+                  {
+                    "line1": "Vasant Kunj Road",
+                    "line2": "Delhi, Delhi 110070, IN"
+                  },
+                  {
+                    "line1": "Avenida Pasteur, 138",
+                    "line2": "Rio de Janeiro, RJ 22290-240, BR"
+                  },
+                  {
+                    "line1": "284 Leoforos Kifisias",
+                    "line2": "Chalandri, Attica 152 32, GR"
+                  },
+                  {
+                    "line1": "14212 Cochran Rd SW",
+                    "line2": "Huntsville, AL 35824, US"
+                  },
+                  {
+                    "line1": "Carretera al Castillo",
+                    "line2": "El Salto, JAL 45680, MX"
+                  },
+                  {
+                    "line1": "Calle de Corazon de Maria, 44",
+                    "line2": "Madrid, Community of Madrid 28002, ES"
+                  },
+                  {
+                    "line1": "Technicka 2995/21",
+                    "line2": "Brno, South Moravia 612 00, CZ"
+                  },
+                  {
+                    "line1": "150 Kettletown Rd",
+                    "line2": "Southbury, CT 06488, US"
+                  },
+                  {
+                    "line1": "601 Pacific Hwy",
+                    "line2": "Sydney, NSW 2065, AU"
+                  },
+                  {
+                    "line1": "505 Howard St",
+                    "line2": "San Francisco, CA 94105, US"
+                  },
+                  {
+                    "line1": "600 14th St NW",
+                    "line2": "Washington, DC 20005, US"
+                  },
+                  {
+                    "line1": "7100 Highlands Pkwy SE",
+                    "line2": "Smyrna, GA 30082, US"
+                  },
+                  {
+                    "line1": "1000 Belleview St",
+                    "line2": "Dallas, TX 75215, US"
+                  },
+                  {
+                    "line1": "3039 E Cornwallis Rd",
+                    "line2": "Durham, NC 27709, US"
+                  },
+                  {
+                    "line1": "Avenida Hipolito Yrigoyen 2149",
+                    "line2": "Martinez, Buenos Aires 1640, AR"
+                  },
+                  {
+                    "line1": "Soseaua Bucuresti-Ploiesti 1A",
+                    "line2": "Bucharest, Bucharest, RO"
+                  },
+                  {
+                    "line1": "Rodovia Jorn. Francisco Aguirre Proenca",
+                    "line2": "Hortolandia, SP 13186-624, BR"
+                  },
+                  {
+                    "line1": "B-19",
+                    "line2": "Noida, Uttar Pradesh 201307, IN"
+                  },
+                  {
+                    "line1": "Cairo Alexandria Desert Road",
+                    "line2": "Sixth of October, Al Jizah, EG"
+                  }
+                ]
+              },
+              "social_profiles": {
+                "professional_network": {
+                  "id": 1009,
+                  "url": "https://www.linkedin.com/company/ibm",
+                  "handle": "ibm",
+                  "connection_count": 19402393
+                }
+              },
+              "specialties": [
+                "Cloud",
+                "Mobile",
+                "Cognitive",
+                "Security",
+                "Research",
+                "Watson",
+                "Analytics",
+                "Consulting",
+                "Commerce",
+                "Experience Design",
+                "Internet of Things",
+                "Technology support",
+                "Industry solutions",
+                "Systems services",
+                "Resiliency services",
+                "Financing",
+                "and IT infrastructure"
+              ],
+              "industry": {
+                "main_industry": "IT Services and IT Consulting"
+              }
+            },
+            "start_at": "1999-04-01T00:00:00Z",
+            "end_at": "2007-03-01T00:00:00Z"
+          }
+        ]
+      },
+      "social_profiles": {
+        "professional_network": {
+          "id": 10360438,
+          "url": "https://www.linkedin.com/in/neyama",
+          "handle": "neyama",
+          "connection_count": 977
+        }
+      },
+      "educations": [
+        {
+          "school_name": "早稲田大学 WASEDA University",
+          "degree": "Master's Degree",
+          "start_at": "1993-01-01T00:00:00Z",
+          "end_at": "1999-01-01T00:00:00Z"
+        }
+      ],
+      "languages": [
+        {
+          "language": "english",
+          "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+          "language": "japanese",
+          "proficiency": ""
+        }
+      ],
+      "skills": [
+        "Algorithms",
+        "Computer Science",
+        "Distributed Systems",
+        "Java",
+        "JavaScript",
+        "Linux",
+        "Programming",
+        "Python",
+        "Ruby",
+        "Rust (Programming Language)",
+        "Scala",
+        "Software Development",
+        "Software Engineering",
+        "コンピューターサイエンス",
+        "データベース"
+      ]
+    }
+  ],
+  "metadata": {
+    "total": 2436,
+    "credits": 0,
+    "offset": 0,
+    "search_after": "WzIuOTkwMzM4OCwiYTY3MzI2MWQtZGExNS01MjcyLWJmNzAtYTliZGU4Y2VmMzkxIl0="
+  }
+}
