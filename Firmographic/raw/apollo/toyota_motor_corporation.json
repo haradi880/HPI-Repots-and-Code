@@ -1,0 +1,2831 @@
+{
+  "organization": {
+    "id": "5f483e27369a630001be034c",
+    "name": "Toyota Motor Corporation",
+    "website_url": "http://www.global.toyota",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/toyota",
+    "twitter_url": null,
+    "facebook_url": null,
+    "primary_phone": {
+      "number": "+81 800-331-4331",
+      "source": "Scraped",
+      "sanitized_number": "+818003314331"
+    },
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": 187485,
+    "phone": "+81 800-331-4331",
+    "linkedin_uid": "2109",
+    "founded_year": 1937,
+    "publicly_traded_symbol": "TM",
+    "publicly_traded_exchange": "nasdaq",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b2498a7d53c800017e4756/picture",
+    "crunchbase_url": null,
+    "primary_domain": "global.toyota",
+    "sic_codes": [
+      "3711"
+    ],
+    "naics_codes": [
+      "33611"
+    ],
+    "sanitized_phone": "+818003314331",
+    "market_cap": "244.7B",
+    "industry": "automotive",
+    "estimated_num_employees": 384000,
+    "keywords": [
+      "automotive",
+      "enterprise software",
+      "software",
+      "information technology",
+      "auto manufacturing",
+      "industrials",
+      "motor vehicle manufacturing",
+      "global operations",
+      "market expansion",
+      "brand reputation",
+      "autonomous driving",
+      "automotive innovation",
+      "manufacturing",
+      "toyota production system",
+      "market adaptation",
+      "car-sharing",
+      "hybrid vehicle technology",
+      "environmental initiatives",
+      "vehicle durability testing",
+      "ride-sharing",
+      "customer service",
+      "autonomous driving research",
+      "sustainability",
+      "kaizen",
+      "jidoka automation",
+      "luxury hybrid vehicles",
+      "electric powertrains",
+      "mobility services",
+      "automobile and light duty motor vehicle manufacturing",
+      "vehicle models",
+      "lexus",
+      "reliability",
+      "mobility platform services",
+      "financial services",
+      "consumer goods & retail",
+      "global automotive",
+      "smart manufacturing",
+      "services",
+      "global manufacturing footprint",
+      "supply chain management",
+      "electric vehicle expansion",
+      "b2b",
+      "transportation & logistics",
+      "jidoka",
+      "customer base",
+      "autonomous vehicle technology",
+      "manufacturing efficiency",
+      "supply chain optimization",
+      "corporate social responsibility",
+      "passenger vehicles",
+      "vehicle production",
+      "retail",
+      "commercial vehicles",
+      "sustainability initiatives",
+      "advanced manufacturing techniques",
+      "market diversification",
+      "digitalization in manufacturing",
+      "vehicle design",
+      "automotive parts",
+      "environmental sustainability",
+      "autonomous driving systems",
+      "vehicle reliability",
+      "quality management",
+      "car models",
+      "manufacturing system",
+      "hybrid vehicles",
+      "quality principles",
+      "e-commerce",
+      "sustainable automotive practices",
+      "electric vehicle development",
+      "manufacturing automation",
+      "hybrid technology",
+      "electric vehicle charging infrastructure",
+      "kaizen principles",
+      "b2c",
+      "automobile manufacturing",
+      "community programs",
+      "automotive innovation labs",
+      "digital manufacturing",
+      "electric vehicles",
+      "automotive technology",
+      "innovation",
+      "automotive r&d",
+      "toyota prius",
+      "luxury vehicles",
+      "durability",
+      "automotive manufacturing",
+      "vehicle safety technology",
+      "efficiency principles",
+      "hybrid powertrains",
+      "fleet management",
+      "global markets",
+      "vehicle innovation",
+      "global presence",
+      "d2c",
+      "consumer products & retail",
+      "enterprises",
+      "computer software",
+      "information technology & services",
+      "mechanical or industrial engineering",
+      "environmental services",
+      "renewables & environment",
+      "logistics & supply chain",
+      "consumer internet",
+      "consumers",
+      "internet",
+      "clean energy & technology"
+    ],
+    "organization_revenue_printed": "336.8B",
+    "organization_revenue": 336770401000.0,
+    "industries": [
+      "automotive"
+    ],
+    "secondary_industries": [],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cdf27369644cfd800000",
+    "industry_tag_hash": {
+      "automotive": "5567cdf27369644cfd800000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571, JP",
+    "street_address": "",
+    "city": "豊田市",
+    "state": "愛知県",
+    "postal_code": "471-0826",
+    "country": "Japan",
+    "owned_by_organization_id": null,
+    "short_description": "Toyota Motor Corporation is a leading Japanese automotive manufacturer, established in 1937. It has grown to become the world's largest automobile manufacturer by volume. The company originated from Toyoda Automatic Loom Works and launched its first passenger car, the Model AA, in 1936. Over the years, Toyota has introduced several iconic models, including the Corolla, which is recognized as the world's best-selling car.\n\nToyota produces a diverse range of vehicles, focusing on reliability, fuel efficiency, and innovation. Its lineup includes popular passenger cars like the Corolla and Prius, as well as SUVs and trucks such as the Land Cruiser and Tundra. The company also offers luxury vehicles under the Lexus brand, which was launched in 1989. Toyota operates manufacturing plants globally, including in the U.S., Europe, and Asia, and provides financial services through its subsidiary, Toyota Motor Credit Corp. The company serves a wide array of markets, targeting individual consumers, fleets, and motorsport enthusiasts across more than 140 countries.",
+    "suborganizations": [
+      {
+        "id": "54a122b069702d918c88e602",
+        "name": "Toyota Motor Manufacturing Poland",
+        "website_url": "http://www.toyotapl.com"
+      },
+      {
+        "id": "55ea548df3e5bb58f80029a1",
+        "name": "Wagner Toyota",
+        "website_url": "http://www.wagnertoyota.com"
+      },
+      {
+        "id": "57c4f639a6da986a274fef77",
+        "name": "Toyota Research Institute",
+        "website_url": "http://www.tri.global"
+      },
+      {
+        "id": "5ed7f3d6308c7f0001226d72",
+        "name": "Bendigo Toyota",
+        "website_url": "http://www.bendigotoyota.com.au"
+      },
+      {
+        "id": "5f45aec0c954f2000131b8c6",
+        "name": "Toyota Motor Thailand, Co. Ltd.",
+        "website_url": "http://www.toyota.co.th"
+      },
+      {
+        "id": "5fc888baa0b252000160b074",
+        "name": "Toyota Motorsport",
+        "website_url": "http://www.toyota-motorsport.com"
+      },
+      {
+        "id": "60070ad887852a00a4451e2d",
+        "name": "Woven by Toyota",
+        "website_url": "http://www.woven.toyota"
+      },
+      {
+        "id": "604a90d57c70eb0001cb12a7",
+        "name": "Weiand Toyota",
+        "website_url": "http://www.terrasoltoyota.com.br"
+      },
+      {
+        "id": "66782d3380413700010581ca",
+        "name": "Lexus Of Tacoma At Fife",
+        "website_url": "http://www.lexusoftacoma.com"
+      },
+      {
+        "id": "6742f806c7d30700017b62e0",
+        "name": "TOM WILLIAMS LEXUS",
+        "website_url": "http://www.lexusofbirmingham.com"
+      },
+      {
+        "id": "5569d06d73696425bca29c00",
+        "name": "Toyota Certified Used Vehicles",
+        "website_url": "http://www.toyotacertified.com"
+      },
+      {
+        "id": "55f79809f3e5bb205c001892",
+        "name": "FOWLER TOYOTA",
+        "website_url": null
+      },
+      {
+        "id": "5a9f0a5aa6da98d98c71bc26",
+        "name": "丰田汽车公司",
+        "website_url": "http://www.toyota.com.cn"
+      },
+      {
+        "id": "5fd1b9604d88950001bbb41e",
+        "name": "Baldwin Toyota",
+        "website_url": "http://www.baldwintoyota.com"
+      },
+      {
+        "id": "54a11dac69702da10f182a01",
+        "name": "Torque Toyota",
+        "website_url": "http://www.torquetoyota.com.au"
+      },
+      {
+        "id": "5fd1b9c05b92630001fa0fff",
+        "name": "Watson Toyota",
+        "website_url": "http://www.watsontoyota.com.au"
+      },
+      {
+        "id": "63668e1314ccfa000143e862",
+        "name": "Owen Toyota",
+        "website_url": "http://www.owentoyota.com.au"
+      },
+      {
+        "id": "66fa278fd1f5c900013766a3",
+        "name": "Loyalty Toyota",
+        "website_url": "http://www.loyaltytoyotarichmond.com"
+      },
+      {
+        "id": "5c282168a3ae61dc887e0ef4",
+        "name": "Hyde Park Toyota",
+        "website_url": "http://www.hydeparktoyota.co.za"
+      },
+      {
+        "id": "5d344744f651258044870156",
+        "name": "Toyota Kirloskar Motor",
+        "website_url": "http://www.toyotabharat.com"
+      },
+      {
+        "id": "5db6b2624c05ca00982e0f33",
+        "name": "Toyota Insurance",
+        "website_url": "http://www.toyotaims.com"
+      },
+      {
+        "id": "5e58e9d3e0b74b00012a4f6e",
+        "name": "Hino Motors Middle East FZE",
+        "website_url": "http://www.hino-global.com"
+      },
+      {
+        "id": "5e6a5801f202670108f8ed04",
+        "name": "Toyota Canada Inc.",
+        "website_url": "http://www.toyota.ca"
+      },
+      {
+        "id": "5ed669f2b5c73000018e506b",
+        "name": "トヨタ自動車株式会社 大手町Office",
+        "website_url": "http://www.toyota-tokyo.tech"
+      },
+      {
+        "id": "60afa2ebd9477d0001577aed",
+        "name": "Toyota 91 - Car Lovers",
+        "website_url": "http://www.toyota-corbeil.fr"
+      },
+      {
+        "id": "60ffea430f888200a4a3ecfe",
+        "name": "Toyota Motor Europe",
+        "website_url": "http://www.toyota-europe.com"
+      },
+      {
+        "id": "6382fac7efd4ea0001c99b00",
+        "name": "Family Toyota of Arlington",
+        "website_url": "http://www.familytoyotaofarlington.com"
+      },
+      {
+        "id": "63d0d165790eb40001d4c3c9",
+        "name": "Lexus of Arlington",
+        "website_url": "http://www.lexusofarlington.com"
+      },
+      {
+        "id": "6731a1fdcfd91b0001221445",
+        "name": "Toyota Trucks Bonus Bucks",
+        "website_url": "http://www.toyotatrucksbonusbucks.com"
+      },
+      {
+        "id": "6731c65257a3dd0001701a27",
+        "name": "Toyota van der Linde",
+        "website_url": "http://www.toyota-vanderlinde.nl"
+      },
+      {
+        "id": "683d067ba66c440001b9318c",
+        "name": "Toyota Motor Manufacturing Indonesia (Official)",
+        "website_url": "http://www.toyota.co.id"
+      },
+      {
+        "id": "54a1a2a17468695475d48303",
+        "name": "Valley Lexus",
+        "website_url": "http://www.valleylexus.com"
+      },
+      {
+        "id": "54a1273469702db8788f1b00",
+        "name": "Toyota Motor Manufacturing UK",
+        "website_url": "http://www.toyotauk.com"
+      },
+      {
+        "id": "55694af87369642190d32b00",
+        "name": "Seymour Toyota",
+        "website_url": "http://www.seymourtoyota.com.au"
+      },
+      {
+        "id": "671497c68d35110001e96c8c",
+        "name": "Briggs Toyota",
+        "website_url": "http://www.briggstoyota.com"
+      },
+      {
+        "id": "678be129bb54b30001547fe6",
+        "name": "Toyota PR",
+        "website_url": "http://www.toyotapr.com"
+      },
+      {
+        "id": "67d6c371edd1340001d164f4",
+        "name": "toyota riviera maya",
+        "website_url": "http://www.toyotarivieramaya.com.mx"
+      },
+      {
+        "id": "559227bc73696419124c9e00",
+        "name": "Hilton Head Lexus",
+        "website_url": "http://www.hiltonheadlexus.com"
+      },
+      {
+        "id": "5fc88559cc77cc00017b10a7",
+        "name": "Toyota Bolivia",
+        "website_url": "http://www.toyota.bo"
+      },
+      {
+        "id": "5fd19b79524d9b00011218bd",
+        "name": "Toyota Motor Sales, Usa",
+        "website_url": "http://www.toyotamobility.com"
+      },
+      {
+        "id": "55ec9c4ff3e5bb12b20052c6",
+        "name": "Reliable Lexus",
+        "website_url": "http://www.reliablelexus.com"
+      },
+      {
+        "id": "66e79c86cdedb40001058b34",
+        "name": "Landers McLarty Toyota",
+        "website_url": "http://www.landersmclartytoyota.com"
+      },
+      {
+        "id": "67285aa03ca5f70001ab448e",
+        "name": "Moses Toyota",
+        "website_url": "http://www.mosestoyota.com"
+      },
+      {
+        "id": "6728672e93302b000109b8c8",
+        "name": "Toyota of Erie",
+        "website_url": "http://www.toyotaoferie.com"
+      },
+      {
+        "id": "5d0a6f2280f93e5d45753c22",
+        "name": "Toyota Motor Corporation Australia",
+        "website_url": "http://www.toyota.com.au"
+      },
+      {
+        "id": "5f444a7aa876b8000142e99c",
+        "name": "Toyota W&J Wiśniewski",
+        "website_url": "http://www.toyota-wisniewski.pl"
+      },
+      {
+        "id": "54a23adb7468693a7e23e417",
+        "name": "Lexus of Towson",
+        "website_url": "http://www.lexusoftowson.com"
+      },
+      {
+        "id": "63678c04da6f30000117a5be",
+        "name": "Columbia Gorge Toyota",
+        "website_url": "http://www.columbiagorgetoyota.com"
+      },
+      {
+        "id": "63b128b25e22d60001e9024e",
+        "name": "Lexus Santa Fe Mx",
+        "website_url": "http://www.lexus.mx"
+      },
+      {
+        "id": "6688d036ac6fce0001103714",
+        "name": "Lexus of Wesley Chapel",
+        "website_url": "http://www.lexusofwesleychapel.com"
+      },
+      {
+        "id": "66e5400095133b00015679b3",
+        "name": "Colville Toyota",
+        "website_url": "http://www.colvilletoyota.com"
+      },
+      {
+        "id": "66ed1074f386ba0001630989",
+        "name": "Toyota Automobile Museum",
+        "website_url": "http://www.toyota-automobile-museum.jp"
+      },
+      {
+        "id": "670c7b1fc59da90001c4ec34",
+        "name": "Tait Toyota Moree",
+        "website_url": "http://www.taittoyota.com.au"
+      },
+      {
+        "id": "67271faa93302b0001fc7e60",
+        "name": "山口トヨタ自動車（株）",
+        "website_url": "http://www.yamaguchi-toyota.jp"
+      },
+      {
+        "id": "6741c8cdb583900001b2af69",
+        "name": "Mark McLarty Toyota",
+        "website_url": "http://www.markmclartytoyota.com"
+      },
+      {
+        "id": "674c82070fde430001a4797f",
+        "name": "ネッツトヨタ石川（株）",
+        "website_url": "http://www.netztoyota.co.jp"
+      },
+      {
+        "id": "54a11bed69702da4250c6e00",
+        "name": "Lexus of Queens",
+        "website_url": "http://www.lexusofqueens.com"
+      },
+      {
+        "id": "54a11c4a69702d97c19e9d00",
+        "name": "Cardiff Toyota",
+        "website_url": "http://www.cardifftoyota.com.au"
+      },
+      {
+        "id": "5e56cb2d6ba8c200017fec1e",
+        "name": "Central Atlantic Buy a Toyota",
+        "website_url": "http://www.buyatoyota.com"
+      },
+      {
+        "id": "56d38333f3e5bb2281002611",
+        "name": "Brighton Toyota",
+        "website_url": "http://www.brightontoyota.com.au"
+      },
+      {
+        "id": "6048bc22a510f500016cff80",
+        "name": "Toyota-motor Sales, U.s.a. Inc",
+        "website_url": "http://www.toyotapartsandservice.com"
+      },
+      {
+        "id": "633dddae9d5eba00cb13fc5e",
+        "name": "Aisin Automotive",
+        "website_url": "http://www.aisin.com"
+      },
+      {
+        "id": "67032dbf33aa65000163e6af",
+        "name": "Coad Toyota",
+        "website_url": "http://www.coadtoyota.com"
+      },
+      {
+        "id": "672b1a8068695e00016dbefc",
+        "name": "Toyota Motor Manufacturing Texas Visitor Education Center",
+        "website_url": "http://www.tourtoyota.com"
+      },
+      {
+        "id": "67458e65b55fd9000161822b",
+        "name": "トヨタ自動車九州（株）",
+        "website_url": "http://www.toyota-kyushu.com"
+      },
+      {
+        "id": "54a1357969702d2f9fd50a01",
+        "name": "Lexus of Chattanooga",
+        "website_url": "http://www.lexusofchattanooga.com"
+      },
+      {
+        "id": "670a895c9dc7fa00010e67c9",
+        "name": "Autobedrijf Lantinga V.O.F.",
+        "website_url": "http://www.toyota-lantinga.nl"
+      },
+      {
+        "id": "672f3ca2cfd91b00010ad561",
+        "name": "ToyotaBerkeley",
+        "website_url": "http://www.toyotaofberkeleyservicecenter.com"
+      },
+      {
+        "id": "64f71a4be773a3008bbcdd56",
+        "name": "TOYOTA CENTRAL R&D LABS., INC.",
+        "website_url": "http://www.tytlabs.co.jp"
+      }
+    ],
+    "num_suborganizations": 69,
+    "annual_revenue_printed": "336.8B",
+    "annual_revenue": 336770401000.0,
+    "technology_names": [
+      ".NET",
+      "3M 360 Encompass - Health Analytics Suite",
+      "ABAP",
+      "ABB Robotics",
+      "AC500 PLC",
+      "AI",
+      "AMP",
+      "API Gateway",
+      "AT&T",
+      "ATOSS Time Recording",
+      "AVEVA PDMS",
+      "AWS Amplify",
+      "AWS Analytics",
+      "AWS Bedrock",
+      "AWS Cloud Development Kit (AWS CDK)",
+      "AWS Cloud WAN",
+      "AWS CloudFormation",
+      "AWS CodePipeline",
+      "AWS Config",
+      "AWS Control Tower",
+      "AWS Direct Connect",
+      "AWS EventBridge",
+      "AWS Fargate",
+      "AWS Glue",
+      "AWS Lambda",
+      "AWS Lambda@Edge",
+      "AWS Organizations",
+      "AWS SDK for JavaScript",
+      "AWS Secrets Manager",
+      "AWS Step Functions",
+      "AWS Systems Manager Parameter Store",
+      "AWS Transit Gateway",
+      "AWS Trusted Advisor",
+      "AWS VPN",
+      "AWS WAF",
+      "Abandonaid",
+      "Acme Packet",
+      "Act!",
+      "Acxiom",
+      "Ad Astra",
+      "Adform DMP",
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Adobe Media Optimizer",
+      "Air",
+      "Airflow",
+      "Akamai",
+      "Akamai CDN Solutions",
+      "Akamai DNS",
+      "Alteryx",
+      "Amazon API Gateway",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon Associates",
+      "Amazon CloudFront",
+      "Amazon CloudWatch",
+      "Amazon DocumentDB",
+      "Amazon DynamoDB",
+      "Amazon EC2",
+      "Amazon EKS Anywhere",
+      "Amazon Elastic File System (Amazon EFS)",
+      "Amazon Elastic Load Balancing",
+      "Amazon Kinesis",
+      "Amazon Linux 2",
+      "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+      "Amazon QuickSight",
+      "Amazon S3",
+      "Amazon SES",
+      "Amazon SES",
+      "Amazon SageMaker",
+      "Amazon Simple Queue Service (SQS)",
+      "Amazon Virtual Private Cloud (Amazon VPC)",
+      "Angular",
+      "AngularJS",
+      "Apache",
+      "Apache Kafka",
+      "AppDynamics",
+      "AppDynamics",
+      "Aruba CX Switches",
+      "Atlassian Cloud",
+      "Atlassian Confluence",
+      "Attendance on Demand",
+      "Aurora",
+      "Auth0",
+      "AutoCAD",
+      "AutoSys Workload Automation",
+      "Axis",
+      "Azure Analysis Services",
+      "Azure Devops",
+      "Azure Linux Virtual Machines",
+      "BILL",
+      "BMC Helix Discovery",
+      "Bash",
+      "Bevywise MQTT Broker",
+      "Blackline",
+      "Bluebeam",
+      "Bluekai",
+      "Bootstrap Framework",
+      "Bosch Services",
+      "Brocade Switches",
+      "C#",
+      "C# (C Sharp)",
+      "C-Link",
+      "CAT",
+      "CATIA",
+      "CCC ONE",
+      "CDK",
+      "CNC Software",
+      "Calypso",
+      "Cascade CMS",
+      "Cisco DNA Center",
+      "Cisco Unified Intelligence Center",
+      "Cisco VPN",
+      "Cisco WebEx Teams",
+      "Cisco Wireless LAN Controllers",
+      "Copilot",
+      "CrazyEgg",
+      "Cross Pixel Media",
+      "CrowdStrike",
+      "CyberArk",
+      "Cypress",
+      "D&B Credit",
+      "Dassault DELMIA",
+      "Dassault Dymola",
+      "Datadog",
+      "Dell EMC PowerScale",
+      "Dell Encryption",
+      "Docker",
+      "DocuSign",
+      "DotNetNuke",
+      "DoubleClick",
+      "DoubleClick Floodlight",
+      "ECS",
+      "EFI",
+      "ELK Stack",
+      "Elasticsearch",
+      "Endpoint Protection",
+      "Equifax Prequalification of One",
+      "Exabeam Fusion SIEM",
+      "ExactTarget",
+      "Excel4Apps",
+      "FANUC FIELD System",
+      "Fastapi",
+      "Flexera IT Asset Management (ITAM)",
+      "ForgeRock Identity Platform",
+      "Fortinet FortiGate",
+      "Frame",
+      "Front",
+      "Gem",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "GitLab",
+      "Glide",
+      "GoToAssist (FASTchat)",
+      "Google AdWords Conversion",
+      "Google Analytics",
+      "Google Cloud Data Loss Prevention",
+      "Google Firebase Crashlytics",
+      "Google Firebase Remote Config",
+      "Google Maps",
+      "Google Maps (Non Paid Users)",
+      "Google Play",
+      "Google Plus",
+      "Google Tag Manager",
+      "Grafana",
+      "GraphQL",
+      "Gravitee.io",
+      "Harness",
+      "Hex",
+      "Homestead",
+      "Hugging Face",
+      "IBM ILOG CPLEX Optimization Studio",
+      "IBM Maximo",
+      "IBM Maximo IT",
+      "IBM z/OS Operating System",
+      "IBX SmartView",
+      "IDC",
+      "Ignition SCADA",
+      "InMoment Text Analytics",
+      "Inductive Automation Ignition",
+      "Informatica PowerCenter",
+      "Intel Cloud Services",
+      "J2EE",
+      "JFrog Artifactory",
+      "JUnit",
+      "JWT",
+      "Jaeger",
+      "Javascript",
+      "Jenkins",
+      "Jira",
+      "Juniper Networks SRX-Series Firewalls",
+      "Kiosked",
+      "Kubernetes",
+      "Lambda Cloud",
+      "Langchain",
+      "Less",
+      "LlamaIndex",
+      "LogIC",
+      "LogMeIn Hamachi",
+      "MATLAB",
+      "MITRE ATT&CK",
+      "Magento",
+      "Magento 2 Enterprise",
+      "Magento Enterprise",
+      "Maven",
+      "McAfee Total Protection for Data Loss (DLP)",
+      "Medallia Video",
+      "Mendix",
+      "MercuryGate TMS",
+      "Micro Focus Universal CMDB",
+      "Microsoft 365",
+      "Microsoft Active Directory Federation Services",
+      "Microsoft Advanced Group Policy Management",
+      "Microsoft Azure Monitor",
+      "Microsoft Entra ID",
+      "Microsoft Excel",
+      "Microsoft Intune Enterprise Application Management",
+      "Microsoft Office",
+      "Microsoft Office 365",
+      "Microsoft OneDrive",
+      "Microsoft PowerPoint",
+      "Microsoft PowerShell",
+      "Microsoft Project",
+      "Microsoft Sql Server",
+      "Microsoft Teams Rooms",
+      "Microsoft Windows Server 2012",
+      "Minteye / AdsCaptcha",
+      "Mitsubishi Adroit Process Suite (MAPS)",
+      "Moat",
+      "Mobile Friendly",
+      "Mockito",
+      "Modbus",
+      "Mode",
+      "MongoDB",
+      "Mulesoft",
+      "MySQL",
+      "MySQL",
+      "NVIDIA",
+      "NVIDIA Jetson",
+      "Nagios",
+      "Next.js",
+      "Ning",
+      "Nuxtjs",
+      "OMRON SOFTWARE",
+      "Office365",
+      "Okta",
+      "Omniture (Adobe)",
+      "Opcenter RD&L",
+      "OpenAI",
+      "OpenAPI",
+      "OpenSearch",
+      "Oracle Analytics Cloud",
+      "Oracle Argus",
+      "Oracle Enterprise Manager",
+      "Oracle Hyperion Enterprise",
+      "Orca Security",
+      "Outlook",
+      "PL/SQL",
+      "PRTG Network Monitor",
+      "Palo Alto Networks",
+      "Palo Alto Networks Panorama",
+      "Palo Alto PA-5200 Series",
+      "Pega Case Management",
+      "Piano Media",
+      "Pinecone",
+      "Playwright",
+      "Posit",
+      "PostgreSQL",
+      "Postman",
+      "Postpresso",
+      "Power BI Documenter",
+      "Prefect",
+      "Prometheus",
+      "PySpark",
+      "Pytest",
+      "Python",
+      "QlikView",
+      "Qualtrics",
+      "Quickbase",
+      "Quip",
+      "R",
+      "REST",
+      "RS2",
+      "React",
+      "React Native",
+      "React Redux",
+      "ReadyAPI",
+      "Redshift",
+      "Redux",
+      "Remote",
+      "Revit",
+      "Route 53",
+      "RouteOne",
+      "SAM",
+      "SAP",
+      "SAP Ariba Platform",
+      "SAP BTP for Spend Management",
+      "SAP Business Planning and Consolidation (BPC)",
+      "SAP Business Workflow",
+      "SAP Integration Suite",
+      "SAP Solution Manager",
+      "SAS Enterprise Guide",
+      "SNS",
+      "SOTI",
+      "SPS Commerce Analytics",
+      "SailPoint",
+      "SailPoint IdentityIQ",
+      "Salesforce",
+      "Salesforce Live Agent",
+      "Salesforce Platform",
+      "Salesforce Service Cloud",
+      "Scene7",
+      "Security",
+      "Selenium",
+      "ServiceNow",
+      "ServiceNow Flow Designer",
+      "ServiceNow IT Operations Management (ITOM)",
+      "ServiceNow IT Service Management (ITSM)",
+      "ServiceNow Service Mapping",
+      "SharePoint",
+      "Siemens Opcenter",
+      "Siemens PROFIBUS",
+      "Siemens SIMATIC SCADA",
+      "Simcenter STAR-CCM+",
+      "Simulink",
+      "Sizmek (MediaMind)",
+      "Slack",
+      "Smartsheet",
+      "Snow",
+      "Snowflake",
+      "Snyk Code (SAST)",
+      "Splunk",
+      "Splunk SOAR",
+      "Spring Boot",
+      "Spring Cloud",
+      "Streamlit",
+      "Stripe",
+      "Sumologic",
+      "Swagger UI",
+      "Symantec Altiris",
+      "Tableau",
+      "Tailwind",
+      "Taleo",
+      "Terraform",
+      "Tor",
+      "Trello",
+      "TypeScript",
+      "UKG",
+      "UltraDns",
+      "Unity",
+      "UptimeRobot",
+      "VLAN",
+      "Vector",
+      "Veeva Vault PromoMats",
+      "Vimeo",
+      "Visio",
+      "VueJS",
+      "WP Engine",
+      "Wallstreet Suite",
+      "Weaviate",
+      "Webex",
+      "Wider Planet",
+      "Wistia",
+      "WordPress.org",
+      "Workday",
+      "Workday Recruit",
+      "Xray",
+      "Zendesk",
+      "aPriori Digital Manufacturing Simulation Software",
+      "dynaTrace",
+      "go+",
+      "iPerceptions",
+      "mO Jira OAuth SSO, Jira OpenID Connect SSO, Jira OIDC SSO",
+      "mabl",
+      "pcAnywhere",
+      "poly",
+      "reCAPTCHA",
+      "webpack"
+    ],
+    "current_technologies": [
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "3m_360_encompass_health_analytics_suite",
+        "name": "3M 360 Encompass - Health Analytics Suite",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "abap",
+        "name": "ABAP",
+        "category": "ERP"
+      },
+      {
+        "uid": "abb_robotics",
+        "name": "ABB Robotics",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "ac500_plc",
+        "name": "AC500 PLC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amp",
+        "name": "AMP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "api_gateway",
+        "name": "API Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "atoss_time_recording",
+        "name": "ATOSS Time Recording",
+        "category": "ERP"
+      },
+      {
+        "uid": "aveva_pdms",
+        "name": "AVEVA PDMS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_amplify",
+        "name": "AWS Amplify",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_bedrock",
+        "name": "AWS Bedrock",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud_development_kit_aws_cdk",
+        "name": "AWS Cloud Development Kit (AWS CDK)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud_wan",
+        "name": "AWS Cloud WAN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloudformation",
+        "name": "AWS CloudFormation",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_codepipeline",
+        "name": "AWS CodePipeline",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_config",
+        "name": "AWS Config",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_control_tower",
+        "name": "AWS Control Tower",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_direct_connect",
+        "name": "AWS Direct Connect",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_eventbridge",
+        "name": "AWS EventBridge",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_fargate",
+        "name": "AWS Fargate",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_glue",
+        "name": "AWS Glue",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "aws_lambda",
+        "name": "AWS Lambda",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_lambdaedge",
+        "name": "AWS Lambda@Edge",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_organizations",
+        "name": "AWS Organizations",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_secrets_manager",
+        "name": "AWS Secrets Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_step_functions",
+        "name": "AWS Step Functions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_systems_manager_parameter_store",
+        "name": "AWS Systems Manager Parameter Store",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_transit_gateway",
+        "name": "AWS Transit Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_vpn",
+        "name": "AWS VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_waf",
+        "name": "AWS WAF",
+        "category": "Security"
+      },
+      {
+        "uid": "abandonaid",
+        "name": "Abandonaid",
+        "category": "Site and Cart Abandonment"
+      },
+      {
+        "uid": "acme_packet",
+        "name": "Acme Packet",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "acxiom",
+        "name": "Acxiom",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "ad_astra",
+        "name": "Ad Astra",
+        "category": "Other"
+      },
+      {
+        "uid": "adform_dmp",
+        "name": "Adform DMP",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "adobe_cq",
+        "name": "Adobe CQ",
+        "category": "CMS"
+      },
+      {
+        "uid": "adobe_experience_manager",
+        "name": "Adobe Experience Manager",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "adobe_marketing_cloud",
+        "name": "Adobe Marketing Cloud",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "adobe_media_optimizer",
+        "name": "Adobe Media Optimizer",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "air",
+        "name": "Air",
+        "category": "Other"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_cdn_solutions",
+        "name": "Akamai CDN Solutions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "akamai_dns",
+        "name": "Akamai DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_api_gateway",
+        "name": "Amazon API Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_associates",
+        "name": "Amazon Associates",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_cloudwatch",
+        "name": "Amazon CloudWatch",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_documentdb",
+        "name": "Amazon DocumentDB",
+        "category": "Database"
+      },
+      {
+        "uid": "amazon_dynamodb",
+        "name": "Amazon DynamoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "amazon_ec2",
+        "name": "Amazon EC2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_eks_anywhere",
+        "name": "Amazon EKS Anywhere",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elastic_file_system_amazon_efs",
+        "name": "Amazon Elastic File System (Amazon EFS)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elastic_load_balancing",
+        "name": "Amazon Elastic Load Balancing",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_kinesis",
+        "name": "Amazon Kinesis",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+        "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_quicksight",
+        "name": "Amazon QuickSight",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_sagemaker",
+        "name": "Amazon SageMaker",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_simple_queue_service_sqs",
+        "name": "Amazon Simple Queue Service (SQS)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_virtual_private_cloud_amazon_vpc",
+        "name": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "angular",
+        "name": "Angular",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "angularjs",
+        "name": "AngularJS",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apache",
+        "name": "Apache",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "apache_kafka",
+        "name": "Apache Kafka",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "appdynamics",
+        "name": "AppDynamics",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "appdynamics",
+        "name": "AppDynamics",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "aruba_cx_switches",
+        "name": "Aruba CX Switches",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "atlassian_confluence",
+        "name": "Atlassian Confluence",
+        "category": "CMS"
+      },
+      {
+        "uid": "attendance_on_demand",
+        "name": "Attendance on Demand",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "aurora",
+        "name": "Aurora",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "auth0",
+        "name": "Auth0",
+        "category": "Security"
+      },
+      {
+        "uid": "autocad",
+        "name": "AutoCAD",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "autosys_workload_automation",
+        "name": "AutoSys Workload Automation",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "axis",
+        "name": "Axis",
+        "category": "Property Management Software"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure devops",
+        "name": "Azure Devops",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "azure_linux_virtual_machines",
+        "name": "Azure Linux Virtual Machines",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bill",
+        "name": "BILL",
+        "category": "Payments"
+      },
+      {
+        "uid": "bmc_helix_discovery",
+        "name": "BMC Helix Discovery",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "bevywise_mqtt_broker",
+        "name": "Bevywise MQTT Broker",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "blackline",
+        "name": "Blackline",
+        "category": "Other"
+      },
+      {
+        "uid": "bluebeam",
+        "name": "Bluebeam",
+        "category": "Other"
+      },
+      {
+        "uid": "bluekai",
+        "name": "Bluekai",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "bootstrap_framework",
+        "name": "Bootstrap Framework",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "bosch_services",
+        "name": "Bosch Services",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "brocade_switches",
+        "name": "Brocade Switches",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "c#",
+        "name": "C#",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "c_c_sharp",
+        "name": "C# (C Sharp)",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "clink",
+        "name": "C-Link",
+        "category": "Other"
+      },
+      {
+        "uid": "cat",
+        "name": "CAT",
+        "category": "ERP"
+      },
+      {
+        "uid": "catia",
+        "name": "CATIA",
+        "category": "Other"
+      },
+      {
+        "uid": "ccc_one",
+        "name": "CCC ONE",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "cdk",
+        "name": "CDK",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cnc_software",
+        "name": "CNC Software",
+        "category": "Other"
+      },
+      {
+        "uid": "calypso",
+        "name": "Calypso",
+        "category": "Other"
+      },
+      {
+        "uid": "cascade_cms",
+        "name": "Cascade CMS",
+        "category": "CMS"
+      },
+      {
+        "uid": "cisco_dna_center",
+        "name": "Cisco DNA Center",
+        "category": "Security"
+      },
+      {
+        "uid": "cisco_unified_intelligence_center",
+        "name": "Cisco Unified Intelligence Center",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cisco_vpn",
+        "name": "Cisco VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_webex_teams",
+        "name": "Cisco WebEx Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cisco_wireless_lan_controllers",
+        "name": "Cisco Wireless LAN Controllers",
+        "category": "Other"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "crazyegg",
+        "name": "CrazyEgg",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cross_pixel_media",
+        "name": "Cross Pixel Media",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "crowdstrike",
+        "name": "CrowdStrike",
+        "category": "Event Management"
+      },
+      {
+        "uid": "cyberark",
+        "name": "CyberArk",
+        "category": "Security"
+      },
+      {
+        "uid": "cypress",
+        "name": "Cypress",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "db_credit",
+        "name": "D&B Credit",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "dassault_delmia",
+        "name": "Dassault DELMIA",
+        "category": "ERP"
+      },
+      {
+        "uid": "dassault_dymola",
+        "name": "Dassault Dymola",
+        "category": "Other"
+      },
+      {
+        "uid": "datadog",
+        "name": "Datadog",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "dell_emc_powerscale",
+        "name": "Dell EMC PowerScale",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dell_encryption",
+        "name": "Dell Encryption",
+        "category": "Security"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "docusign",
+        "name": "DocuSign",
+        "category": "Other"
+      },
+      {
+        "uid": "dotnetnuke",
+        "name": "DotNetNuke",
+        "category": "CMS"
+      },
+      {
+        "uid": "doubleclick",
+        "name": "DoubleClick",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "doubleclick_floodlight",
+        "name": "DoubleClick Floodlight",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "ecs",
+        "name": "ECS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "efi",
+        "name": "EFI",
+        "category": "Other"
+      },
+      {
+        "uid": "elk_stack",
+        "name": "ELK Stack",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "elasticsearch",
+        "name": "Elasticsearch",
+        "category": "Search Appliances"
+      },
+      {
+        "uid": "endpoint_protection",
+        "name": "Endpoint Protection",
+        "category": "Security"
+      },
+      {
+        "uid": "equifax_prequalification_of_one",
+        "name": "Equifax Prequalification of One",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "exabeam_fusion_siem",
+        "name": "Exabeam Fusion SIEM",
+        "category": "Event Management"
+      },
+      {
+        "uid": "exacttarget",
+        "name": "ExactTarget",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "fanuc_field_system",
+        "name": "FANUC FIELD System",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "fastapi",
+        "name": "Fastapi",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "flexera_it_asset_management_itam",
+        "name": "Flexera IT Asset Management (ITAM)",
+        "category": "Enterprise Resource Planning"
+      },
+      {
+        "uid": "forgerock_identity_platform",
+        "name": "ForgeRock Identity Platform",
+        "category": "Event Management"
+      },
+      {
+        "uid": "fortinet_fortigate",
+        "name": "Fortinet FortiGate",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "frame",
+        "name": "Frame",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "front",
+        "name": "Front",
+        "category": "Widgets"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github_actions",
+        "name": "GitHub Actions",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "glide",
+        "name": "Glide",
+        "category": "Other"
+      },
+      {
+        "uid": "gotoassist_fastchat",
+        "name": "GoToAssist (FASTchat)",
+        "category": "Chats"
+      },
+      {
+        "uid": "google_adwords_conversion",
+        "name": "Google AdWords Conversion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud_data_loss_prevention",
+        "name": "Google Cloud Data Loss Prevention",
+        "category": "Event Management"
+      },
+      {
+        "uid": "google_firebase_crashlytics",
+        "name": "Google Firebase Crashlytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_firebase_remote_config",
+        "name": "Google Firebase Remote Config",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_maps",
+        "name": "Google Maps",
+        "category": "Other"
+      },
+      {
+        "uid": "google_maps_non_paid_users",
+        "name": "Google Maps (Non Paid Users)",
+        "category": "Other"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_plus_login",
+        "name": "Google Plus",
+        "category": "Social Login"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "graphql",
+        "name": "GraphQL",
+        "category": "Database"
+      },
+      {
+        "uid": "graviteeio",
+        "name": "Gravitee.io",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "harness",
+        "name": "Harness",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "hex",
+        "name": "Hex",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "homestead",
+        "name": "Homestead",
+        "category": "CMS"
+      },
+      {
+        "uid": "hugging_face",
+        "name": "Hugging Face",
+        "category": "Other"
+      },
+      {
+        "uid": "ibm_ilog_cplex_optimization_studio",
+        "name": "IBM ILOG CPLEX Optimization Studio",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ibm_maximo",
+        "name": "IBM Maximo",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "ibm_maximo_it",
+        "name": "IBM Maximo IT",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "ibm_zos_operating_system",
+        "name": "IBM z/OS Operating System",
+        "category": "Other"
+      },
+      {
+        "uid": "ibx_smartview",
+        "name": "IBX SmartView",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "idc",
+        "name": "IDC",
+        "category": "Other"
+      },
+      {
+        "uid": "ignition_scada",
+        "name": "Ignition SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "inmoment_text_analytics",
+        "name": "InMoment Text Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "inductive_automation_ignition",
+        "name": "Inductive Automation Ignition",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "informatica_powercenter",
+        "name": "Informatica PowerCenter",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "intel",
+        "name": "Intel Cloud Services",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "j2ee",
+        "name": "J2EE",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jfrog_artifactory",
+        "name": "JFrog Artifactory",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "junit",
+        "name": "JUnit",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jwt",
+        "name": "JWT",
+        "category": "Security"
+      },
+      {
+        "uid": "jaeger",
+        "name": "Jaeger",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "javascript",
+        "name": "Javascript",
+        "category": "Other"
+      },
+      {
+        "uid": "jenkins",
+        "name": "Jenkins",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "juniper_networks_srxseries_firewalls",
+        "name": "Juniper Networks SRX-Series Firewalls",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kiosked",
+        "name": "Kiosked",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "lambda_cloud",
+        "name": "Lambda Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "langchain",
+        "name": "Langchain",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "less",
+        "name": "Less",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "llamaindex",
+        "name": "LlamaIndex",
+        "category": "Other"
+      },
+      {
+        "uid": "logic",
+        "name": "LogIC",
+        "category": "Other"
+      },
+      {
+        "uid": "logmein_hamachi",
+        "name": "LogMeIn Hamachi",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "matlab",
+        "name": "MATLAB",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mitre_attck",
+        "name": "MITRE ATT&CK",
+        "category": "Event Management"
+      },
+      {
+        "uid": "magento",
+        "name": "Magento",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "magento_2_enterprise",
+        "name": "Magento 2 Enterprise",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "magento_enterprise",
+        "name": "Magento Enterprise",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "maven",
+        "name": "Maven",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mcafee_total_protection_for_data_loss_dlp",
+        "name": "McAfee Total Protection for Data Loss (DLP)",
+        "category": "Event Management"
+      },
+      {
+        "uid": "medallia_video",
+        "name": "Medallia Video",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "mendix",
+        "name": "Mendix",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "mercurygate_tms",
+        "name": "MercuryGate TMS",
+        "category": "Other"
+      },
+      {
+        "uid": "micro_focus_universal_cmdb",
+        "name": "Micro Focus Universal CMDB",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_active_directory_federation_services",
+        "name": "Microsoft Active Directory Federation Services",
+        "category": "Event Management"
+      },
+      {
+        "uid": "microsoft_advanced_group_policy_management",
+        "name": "Microsoft Advanced Group Policy Management",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_entra_id",
+        "name": "Microsoft Entra ID",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_intune_enterprise_application_management",
+        "name": "Microsoft Intune Enterprise Application Management",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "office_365",
+        "name": "Microsoft Office 365",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_onedrive",
+        "name": "Microsoft OneDrive",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft project",
+        "name": "Microsoft Project",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft sql server",
+        "name": "Microsoft Sql Server",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "microsoft_teams_rooms",
+        "name": "Microsoft Teams Rooms",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_windows_server_2012",
+        "name": "Microsoft Windows Server 2012",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "minteye_/_adscaptcha",
+        "name": "Minteye / AdsCaptcha",
+        "category": "Captcha"
+      },
+      {
+        "uid": "mitsubishi_adroit_process_suite_maps",
+        "name": "Mitsubishi Adroit Process Suite (MAPS)",
+        "category": "Other"
+      },
+      {
+        "uid": "moat",
+        "name": "Moat",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mockito",
+        "name": "Mockito",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "modbus",
+        "name": "Modbus",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mongodb",
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "mulesoft",
+        "name": "Mulesoft",
+        "category": "Other"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nvidia",
+        "name": "NVIDIA",
+        "category": "Other"
+      },
+      {
+        "uid": "nvidia_jetson",
+        "name": "NVIDIA Jetson",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "nagios",
+        "name": "Nagios",
+        "category": "ERP"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "nuxtjs",
+        "name": "Nuxtjs",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "omron_software",
+        "name": "OMRON SOFTWARE",
+        "category": "Other"
+      },
+      {
+        "uid": "office365",
+        "name": "Office365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "okta",
+        "name": "Okta",
+        "category": "Security"
+      },
+      {
+        "uid": "omniture_adobe",
+        "name": "Omniture (Adobe)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "opcenter_rdl",
+        "name": "Opcenter RD&L",
+        "category": "ERP"
+      },
+      {
+        "uid": "openai",
+        "name": "OpenAI",
+        "category": "Other"
+      },
+      {
+        "uid": "openapi",
+        "name": "OpenAPI",
+        "category": "Other"
+      },
+      {
+        "uid": "opensearch",
+        "name": "OpenSearch",
+        "category": "ERP"
+      },
+      {
+        "uid": "oracle_analytics_cloud",
+        "name": "Oracle Analytics Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "oracle_argus",
+        "name": "Oracle Argus",
+        "category": "Case Management"
+      },
+      {
+        "uid": "oracle_enterprise_manager",
+        "name": "Oracle Enterprise Manager",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_hyperion_enterprise",
+        "name": "Oracle Hyperion Enterprise",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "orca_security",
+        "name": "Orca Security",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "plsql",
+        "name": "PL/SQL",
+        "category": "Database"
+      },
+      {
+        "uid": "prtg_network_monitor",
+        "name": "PRTG Network Monitor",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "palo_alto_networks",
+        "name": "Palo Alto Networks",
+        "category": "Event Management"
+      },
+      {
+        "uid": "palo_alto_networks_panorama",
+        "name": "Palo Alto Networks Panorama",
+        "category": "Security"
+      },
+      {
+        "uid": "palo_alto_pa5200_series",
+        "name": "Palo Alto PA-5200 Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "pega_case_management",
+        "name": "Pega Case Management",
+        "category": "Case Management"
+      },
+      {
+        "uid": "piano_media",
+        "name": "Piano Media",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "pinecone",
+        "name": "Pinecone",
+        "category": "Database"
+      },
+      {
+        "uid": "playwright",
+        "name": "Playwright",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "posit",
+        "name": "Posit",
+        "category": "Other"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "postman",
+        "name": "Postman",
+        "category": "Other"
+      },
+      {
+        "uid": "postpresso",
+        "name": "Postpresso",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "prefect",
+        "name": "Prefect",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Database"
+      },
+      {
+        "uid": "pyspark",
+        "name": "PySpark",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pytest",
+        "name": "Pytest",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "qlikview",
+        "name": "QlikView",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "qualtrics_intercept",
+        "name": "Qualtrics",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "quickbase",
+        "name": "Quickbase",
+        "category": "Database"
+      },
+      {
+        "uid": "quip",
+        "name": "Quip",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "r",
+        "name": "R",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rest",
+        "name": "REST",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rs2",
+        "name": "RS2",
+        "category": "Other"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react native",
+        "name": "React Native",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "readyapi",
+        "name": "ReadyAPI",
+        "category": "Other"
+      },
+      {
+        "uid": "redshift",
+        "name": "Redshift",
+        "category": "Database"
+      },
+      {
+        "uid": "redux",
+        "name": "Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "revit",
+        "name": "Revit",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "route_53",
+        "name": "Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "routeone",
+        "name": "RouteOne",
+        "category": "Other"
+      },
+      {
+        "uid": "sam",
+        "name": "SAM",
+        "category": "Other"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sap_ariba_platform",
+        "name": "SAP Ariba Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "sap_btp_for_spend_management",
+        "name": "SAP BTP for Spend Management",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_business_planning_and_consolidation_bpc",
+        "name": "SAP Business Planning and Consolidation (BPC)",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "sap_business_workflow",
+        "name": "SAP Business Workflow",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_integration_suite",
+        "name": "SAP Integration Suite",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "sap_solution_manager",
+        "name": "SAP Solution Manager",
+        "category": "ERP"
+      },
+      {
+        "uid": "sas_enterprise_guide",
+        "name": "SAS Enterprise Guide",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "sns",
+        "name": "SNS",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "soti",
+        "name": "SOTI",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "sps_commerce_analytics",
+        "name": "SPS Commerce Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "sailpoint",
+        "name": "SailPoint",
+        "category": "Other"
+      },
+      {
+        "uid": "sailpoint_identityiq",
+        "name": "SailPoint IdentityIQ",
+        "category": "Event Management"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_live_agent",
+        "name": "Salesforce Live Agent",
+        "category": "Chats"
+      },
+      {
+        "uid": "salesforce_platform",
+        "name": "Salesforce Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "salesforce_service_cloud",
+        "name": "Salesforce Service Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "scene7",
+        "name": "Scene7",
+        "category": "E-commerce Tools"
+      },
+      {
+        "uid": "security",
+        "name": "Security",
+        "category": "Security"
+      },
+      {
+        "uid": "selenium",
+        "name": "Selenium",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "service_now",
+        "name": "ServiceNow",
+        "category": "Case Management"
+      },
+      {
+        "uid": "servicenow_flow_designer",
+        "name": "ServiceNow Flow Designer",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "servicenow_it_operations_management_itom",
+        "name": "ServiceNow IT Operations Management (ITOM)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "servicenow_it_service_management_itsm",
+        "name": "ServiceNow IT Service Management (ITSM)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "servicenow_service_mapping",
+        "name": "ServiceNow Service Mapping",
+        "category": "Other"
+      },
+      {
+        "uid": "sharepoint",
+        "name": "SharePoint",
+        "category": "CMS"
+      },
+      {
+        "uid": "siemens_opcenter",
+        "name": "Siemens Opcenter",
+        "category": "ERP"
+      },
+      {
+        "uid": "siemens_profibus",
+        "name": "Siemens PROFIBUS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "siemens_simatic_scada",
+        "name": "Siemens SIMATIC SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "simcenter_starccm",
+        "name": "Simcenter STAR-CCM+",
+        "category": "Other"
+      },
+      {
+        "uid": "simulink",
+        "name": "Simulink",
+        "category": "Other"
+      },
+      {
+        "uid": "sizmek_mediamind",
+        "name": "Sizmek (MediaMind)",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "smartsheet",
+        "name": "Smartsheet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "snow",
+        "name": "Snow",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "snowflake",
+        "name": "Snowflake",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "snyk_code_sast",
+        "name": "Snyk Code (SAST)",
+        "category": "Event Management"
+      },
+      {
+        "uid": "splunk",
+        "name": "Splunk",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "splunk_soar",
+        "name": "Splunk SOAR",
+        "category": "Event Management"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_cloud",
+        "name": "Spring Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "streamlit",
+        "name": "Streamlit",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "stripe",
+        "name": "Stripe",
+        "category": "Payments"
+      },
+      {
+        "uid": "sumologic",
+        "name": "Sumologic",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "swagger_ui",
+        "name": "Swagger UI",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "symantec_altiris",
+        "name": "Symantec Altiris",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "tailwind",
+        "name": "Tailwind",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "taleo",
+        "name": "Taleo",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "trello",
+        "name": "Trello",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ukg",
+        "name": "UKG",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "ultradns",
+        "name": "UltraDns",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "unity",
+        "name": "Unity",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "uptimerobot",
+        "name": "UptimeRobot",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "vlan",
+        "name": "VLAN",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vector",
+        "name": "Vector",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "veeva_vault_promomats",
+        "name": "Veeva Vault PromoMats",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "vimeo",
+        "name": "Vimeo",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "visio",
+        "name": "Visio",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wp_engine",
+        "name": "WP Engine",
+        "category": "CMS"
+      },
+      {
+        "uid": "wallstreet_suite",
+        "name": "Wallstreet Suite",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "weaviate",
+        "name": "Weaviate",
+        "category": "Database"
+      },
+      {
+        "uid": "webex",
+        "name": "Webex",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "wider_planet",
+        "name": "Wider Planet",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "wistia",
+        "name": "Wistia",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "workday",
+        "name": "Workday",
+        "category": "CMS"
+      },
+      {
+        "uid": "workday_recruit",
+        "name": "Workday Recruit",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "xray",
+        "name": "Xray",
+        "category": "Other"
+      },
+      {
+        "uid": "zendesk",
+        "name": "Zendesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "apriori_digital_manufacturing_simulation_software",
+        "name": "aPriori Digital Manufacturing Simulation Software",
+        "category": "Other"
+      },
+      {
+        "uid": "dynatrace",
+        "name": "dynaTrace",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "go",
+        "name": "go+",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "iperceptions",
+        "name": "iPerceptions",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "mo_jira_oauth_sso_jira_openid_connect_sso_jira_oidc_sso",
+        "name": "mO Jira OAuth SSO, Jira OpenID Connect SSO, Jira OIDC SSO",
+        "category": "Social Login"
+      },
+      {
+        "uid": "mabl",
+        "name": "mabl",
+        "category": "Other"
+      },
+      {
+        "uid": "pcanywhere",
+        "name": "pcAnywhere",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "poly",
+        "name": "poly",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "recaptcha",
+        "name": "reCAPTCHA",
+        "category": "Captcha"
+      },
+      {
+        "uid": "webpack",
+        "name": "webpack",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "616939d89a253700018a4fef"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "operations": 1109,
+      "sales": 1544,
+      "consulting": 376,
+      "finance": 408,
+      "marketing": 383,
+      "accounting": 170,
+      "business_development": 271,
+      "engineering": 2000,
+      "information_technology": 1090,
+      "human_resources": 211,
+      "administrative": 202,
+      "legal": 33,
+      "support": 538,
+      "media_and_commmunication": 71,
+      "product_management": 28,
+      "education": 26,
+      "arts_and_design": 187,
+      "data_science": 78,
+      "entrepreneurship": 6
+    },
+    "organization_headcount_six_month_growth": 0.007161390762843799,
+    "organization_headcount_twelve_month_growth": 0.01986337362059905,
+    "organization_headcount_twenty_four_month_growth": 0.05512667174078504
+  }
+}

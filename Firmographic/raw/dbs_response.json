@@ -1,0 +1,2452 @@
+{
+  "organization": {
+    "id": "54a1b9227468695860915e0b",
+    "name": "DBS Bank",
+    "website_url": "http://www.dbs.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/dbs-bank",
+    "twitter_url": "https://twitter.com/dbsbank",
+    "facebook_url": "https://www.facebook.com/dbs",
+    "primary_phone": {
+      "number": "+65 6327 2288",
+      "source": "Owler",
+      "sanitized_number": "+6563272288"
+    },
+    "languages": [
+      "English",
+      "Chinese",
+      "English"
+    ],
+    "alexa_ranking": 5285,
+    "phone": "+65 6327 2288",
+    "linkedin_uid": "163379",
+    "founded_year": 1968,
+    "publicly_traded_symbol": "D05",
+    "publicly_traded_exchange": "sgx",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a4e1711a8b53000134b965/picture",
+    "crunchbase_url": null,
+    "primary_domain": "dbs.com",
+    "sic_codes": [
+      "6021",
+      "6211"
+    ],
+    "naics_codes": [
+      "522110",
+      "523940"
+    ],
+    "sanitized_phone": "+6563272288",
+    "industry": "banking",
+    "estimated_num_employees": 38000,
+    "keywords": [
+      "banking & finance",
+      "banking",
+      "finance",
+      "regtech",
+      "banking digital innovation",
+      "banking for social impact",
+      "regional banking awards",
+      "banking services",
+      "regional trade finance",
+      "banking performance",
+      "urban development financing",
+      "cybersecurity",
+      "corporate finance",
+      "sustainable finance",
+      "credit reporting",
+      "commercial banking",
+      "corporate banking",
+      "banking strategy",
+      "banking heritage",
+      "banking digitalization",
+      "regional banking innovation",
+      "banking awards",
+      "sustainability",
+      "banking digital channels",
+      "services",
+      "credit risk assessment",
+      "digital transformation",
+      "financial innovation",
+      "banking for smes",
+      "financial services",
+      "consumer banking",
+      "banking digital transformation",
+      "banking risk management",
+      "sustainability-linked loans",
+      "digital payments",
+      "digital banking",
+      "customer-centric",
+      "banking growth",
+      "regional economic support",
+      "banking sustainability",
+      "banking for emerging markets",
+      "regional expansion",
+      "impact investing",
+      "fintech partnerships",
+      "risk management",
+      "banking customer engagement",
+      "esg",
+      "private banking",
+      "banking excellence",
+      "capital markets",
+      "blockchain",
+      "banking in asia",
+      "digital banking in asia",
+      "digital platforms",
+      "banking regulation",
+      "banking innovation",
+      "urban development finance",
+      "asia's safest bank",
+      "retail",
+      "fintech",
+      "banking partnerships",
+      "credit ratings",
+      "asset management",
+      "banking history",
+      "banking and financial services",
+      "banking infrastructure",
+      "regulatory compliance",
+      "digital payment solutions",
+      "digital banking platforms",
+      "government",
+      "banking digital platforms",
+      "digital banking security",
+      "financial technology",
+      "banking customer experience",
+      "regional bank",
+      "banking regional offices",
+      "wealth management",
+      "banking solutions",
+      "regional banking",
+      "customer engagement",
+      "bank awards",
+      "regional banking growth",
+      "banking for social good",
+      "bank innovation",
+      "digital asset management",
+      "innovation",
+      "banking digital solutions",
+      "banking sustainability initiatives",
+      "b2c",
+      "data analytics",
+      "customer service",
+      "b2b",
+      "sustainable banking",
+      "regional presence",
+      "banking industry",
+      "customer experience",
+      "trade finance",
+      "banking leadership",
+      "urban infrastructure finance",
+      "regional financial inclusion",
+      "banking compliance",
+      "banking digital services",
+      "ai",
+      "sme banking",
+      "investment banking",
+      "consumer finance",
+      "banking technology",
+      "best bank",
+      "libor",
+      "sor",
+      "international banking",
+      "transaction banking",
+      "financial market",
+      "inclusive banking",
+      "trust",
+      "corporate responsibility",
+      "economic research",
+      "community impact",
+      "venture financing",
+      "credit solutions",
+      "financial literacy",
+      "real-time banking",
+      "mobile banking",
+      "e-banking",
+      "personal finance",
+      "cost efficiency",
+      "cross-border transactions",
+      "customer education",
+      "green finance",
+      "digital wallets",
+      "financial inclusion",
+      "market expansion",
+      "strategic partnerships",
+      "digital engagement",
+      "social responsibility",
+      "investment solutions",
+      "customer satisfaction",
+      "global presence",
+      "financial performance",
+      "economic sustainability",
+      "non-profit",
+      "construction & real estate",
+      "environmental services",
+      "renewables & environment",
+      "finance technology",
+      "information technology & services",
+      "investment management",
+      "nonprofit organization management"
+    ],
+    "organization_revenue_printed": "16.4B",
+    "organization_revenue": 16413713000.0,
+    "industries": [
+      "banking",
+      "financial services"
+    ],
+    "secondary_industries": [
+      "financial services"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567ce237369644ee5490000",
+    "industry_tag_hash": {
+      "banking": "5567ce237369644ee5490000",
+      "financial services": "5567cdd67369643e64020000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "12 Marina Boulevard, DBS Asia Central @ Marina Bay Financial Centre Tower 3, Singapore, 018982, SG",
+    "street_address": "12 Marina Boulevard",
+    "city": "Singapore",
+    "state": null,
+    "postal_code": "018982",
+    "country": "Singapore",
+    "owned_by_organization_id": null,
+    "short_description": "DBS Bank is a prominent multinational banking and financial services corporation based in Singapore. Established on July 16, 1968, as the Development Bank of Singapore Limited, it has evolved into Southeast Asia's largest bank, with over 280 branches across the region. DBS has received accolades such as being named the \"world's best bank\" by Euromoney for four consecutive years and recognized as the \"safest bank in Asia\" by Global Finance from 2009 to 2013.\n\nThe bank offers a wide range of banking and financial services for consumers, SMEs, corporations, and institutions. Its core services include consumer and retail banking, SME and business financing, corporate and institutional services, and wealth management. DBS is known for its innovative digital products, including comprehensive internet banking and the mobile-only digibank. The bank plays a significant role in supporting Singapore's economic development and social enterprises through initiatives like the DBS Foundation and various financing projects.",
+    "suborganizations": [
+      {
+        "id": "54a11c6769702d8ed49c9e00",
+        "name": "The Islamic Bank of Asia Limited, Singapore",
+        "website_url": "http://www.islamicbankasia.com"
+      },
+      {
+        "id": "5fd84859c2d73300015125ec",
+        "name": "Posb",
+        "website_url": "http://www.posb.com.sg"
+      },
+      {
+        "id": "618b4c9512e5c20001c98605",
+        "name": "DBS Bank Taiwan",
+        "website_url": "http://www.dbs.com.tw"
+      },
+      {
+        "id": "683984aa14b4d00001a4adf8",
+        "name": "DigiBZN",
+        "website_url": null
+      }
+    ],
+    "num_suborganizations": 4,
+    "annual_revenue_printed": "16.4B",
+    "annual_revenue": 16413713000.0,
+    "technology_names": [
+      ".GIS",
+      ".NET",
+      "A Small Orange",
+      "ACL",
+      "ADAPT",
+      "AI",
+      "AT&T",
+      "AVEVA PDMS",
+      "AWS Analytics",
+      "AWS Public Cloud",
+      "AWS SDK for JavaScript",
+      "AWS Schema Conversion Tool",
+      "AWS Trusted Advisor",
+      "Acronis True Image",
+      "Act!",
+      "Ad Astra",
+      "Adara",
+      "AddThis",
+      "Adobe Marketing Cloud",
+      "Adobe Media Optimizer",
+      "Airflow",
+      "Akamai DNS",
+      "AlgoSec",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon Associates",
+      "Amazon EC2 Auto Scaling",
+      "Amazon Elastic Load Balancing",
+      "Amazon Linux 2",
+      "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+      "Amazon Product Advertising API",
+      "Amazon S3",
+      "Amazon Simple Storage Service (S3)",
+      "Android",
+      "Angular",
+      "Ansible",
+      "Anthropic Claude",
+      "Apache Kafka",
+      "Apache Superset",
+      "AppDynamics",
+      "AppDynamics",
+      "Appium",
+      "Aqua",
+      "Aqua Trivy",
+      "ArubaOS",
+      "Aryson MySQL to MSSQL Converter",
+      "Atlassian Bitbucket",
+      "Atlassian Confluence",
+      "AutoCAD LT",
+      "AutoSys Workload Automation",
+      "Avaloq",
+      "Azure AD Notifications",
+      "Azure Active Directory B2C",
+      "Azure Analysis Services",
+      "Azure Blockchain Service",
+      "Azure Cloud Shell",
+      "Azure Data Factory",
+      "Azure Data Lake Analytics",
+      "Azure Devops",
+      "Azure Key Vault",
+      "Azure Linux Virtual Machines",
+      "Azure VPN Gateway",
+      "Barracuda Spam Firewall",
+      "Bash",
+      "Black Duck",
+      "Blip",
+      "Bloomberg Professional Services",
+      "Blue Coat ProxySG",
+      "Bootstrap Framework",
+      "Branch",
+      "Burp Suite",
+      "CAT",
+      "CLEAR",
+      "CPI",
+      "CPMStar",
+      "CSS",
+      "Calabrio Teleopti Workforce Management",
+      "CallMiner Eureka",
+      "Catylist SiteLink",
+      "ChatBot",
+      "ChatGPT",
+      "CheckPoint",
+      "Checkmarx",
+      "Cisco ACI Orchestration",
+      "Cisco Catalyst 9800 Series Wireless Controllers",
+      "Cisco Nexus 2000",
+      "Cisco Nexus Switches",
+      "Cisco Secure Firewall Management Center",
+      "Cisco VPN",
+      "Cisco WebEx Teams",
+      "Citrix Director",
+      "Citrix NetScaler",
+      "Click",
+      "CloudFlare",
+      "CloudFlare CDN",
+      "CloudFlare Hosting",
+      "Cloudera",
+      "Commission Junction",
+      "ConnectWise Control",
+      "Control-M",
+      "Conversant (ValueClick)",
+      "Copilot",
+      "Coupa",
+      "CritSend",
+      "CrowdStrike Falcon X",
+      "CyberArk",
+      "Cytoscape",
+      "DXC Hogan Systems",
+      "Data Analytics",
+      "DeepStream",
+      "Dell EMC Disaster Recovery",
+      "Develatio's ExpressJS AMI",
+      "DeviceAtlas",
+      "Docker",
+      "ECS",
+      "ELK Stack",
+      "EMC",
+      "EPiServer",
+      "EnergyCAP SmartAnalytics",
+      "Ethereum",
+      "Evolve IP",
+      "Excel4Apps",
+      "Experian Hunter",
+      "FFmpeg",
+      "FICO Safe Driving Score",
+      "FUSION",
+      "Facebook",
+      "Fastapi",
+      "Fidessa",
+      "Finacle",
+      "FlipHTML5",
+      "Flow",
+      "Flux",
+      "Forcepoint ONE",
+      "Fortinet",
+      "Fortinet FortiGate",
+      "Frame",
+      "Front",
+      "Fujifilm Synapse",
+      "GC Digital",
+      "Gem",
+      "Git",
+      "GitHub Copilot",
+      "GitLab",
+      "Google",
+      "Google AdWords Conversion",
+      "Google Ads",
+      "Google AlloyDB for PostgreSQL",
+      "Google Analytics",
+      "Google Cloud AI Platform",
+      "Google Cloud Document AI",
+      "Google Cloud Machine Learning Engine",
+      "Google Cloud Platform",
+      "Google Font API",
+      "Google Play",
+      "Google Publisher Tag (GPT)",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Gorilla Nation",
+      "Grafana",
+      "HCL AppScan",
+      "HELM",
+      "HP Web Jetadmin",
+      "Harness",
+      "Hibernate",
+      "Hotjar",
+      "Huawei",
+      "IBM Db2 for Linux, UNIX, and Microsoft Windows",
+      "IBM ILOG CPLEX Optimization Studio",
+      "IBM Mainframe",
+      "IBM QRadar SIEM",
+      "IBM Spectrum LSF",
+      "ISO+™",
+      "Infoblox",
+      "Infoblox DHCP",
+      "Informatica Data as a Service",
+      "Instagram",
+      "Instinctive Ads",
+      "Intel Cloud Services",
+      "Intel MAX",
+      "Internet Explorer",
+      "IoT",
+      "Ipswitch WhatsUp Gold",
+      "J2EE",
+      "Java EE",
+      "Javascript",
+      "Jenkins",
+      "Jimdo",
+      "Jira",
+      "Juniper Networks SRX-Series Firewalls",
+      "KVM",
+      "Kaspersky Anti-Virus",
+      "Kiosked",
+      "Kong",
+      "Kubernetes",
+      "LEAP",
+      "Less",
+      "LexisNexis",
+      "Liferay",
+      "LinkedIn Ads",
+      "Looker",
+      "Loom",
+      "Lumen5",
+      "Lytics",
+      "MITRE ATT&CK",
+      "MariaDB",
+      "Maven",
+      "Mend",
+      "Metadata Hub",
+      "Metasploit",
+      "Micro Focus Fortify",
+      "Microsoft 365",
+      "Microsoft ADFS for Genesys Cloud",
+      "Microsoft Azure",
+      "Microsoft Azure Monitor",
+      "Microsoft Excel",
+      "Microsoft Graph",
+      "Microsoft Office",
+      "Microsoft Office 365",
+      "Microsoft Power Apps",
+      "Microsoft Power Automate",
+      "Microsoft Power Platform",
+      "Microsoft PowerPoint",
+      "Microsoft PowerShell",
+      "Microsoft SQL Server Reporting Services",
+      "Microsoft Sql Server",
+      "Microsoft System Center Configuration Manager",
+      "Microsoft Teams",
+      "Microsoft Windows Defender Antivirus",
+      "Microsoft Windows Server 2000",
+      "Microsoft Windows Server 2012",
+      "Microsoft Word",
+      "Mobile Friendly",
+      "Mode",
+      "MySQL",
+      "MySQL",
+      "NICE",
+      "NTENT",
+      "Nginx",
+      "Ning",
+      "Nmap",
+      "Objective-C",
+      "Odoo CRM",
+      "Olo",
+      "Omniture (Adobe)",
+      "OneTrust Tech Risk & Compliance",
+      "OpenLDAP",
+      "Oracle Active Data Guard",
+      "Oracle Analytics Cloud",
+      "Oracle Automatic Storage Management (ASM)",
+      "Oracle GRC",
+      "Oracle Hyperion Enterprise",
+      "Oracle RAC One Node",
+      "Outlook",
+      "Outlook",
+      "PL/SQL",
+      "Palo Alto Networks VM-Series Virtual Firewall",
+      "Palo Alto PA-5000 Series",
+      "Palo Alto PA-5200 Series",
+      "Palo Alto Prisma Cloud",
+      "Parallels Mac Management for Microsoft SCCM",
+      "Pega Robotic Process Automation",
+      "Playwright",
+      "PostgreSQL",
+      "Postman",
+      "Postpresso",
+      "Power BI Documenter",
+      "PowerBI Tiles",
+      "Presto",
+      "ProclivityMedia",
+      "Profitero",
+      "Prometheus",
+      "PySpark",
+      "PyTorch",
+      "Python",
+      "Qlik Sense",
+      "QlikView",
+      "Qualys Penetration Testing",
+      "R",
+      "REST",
+      "Rapid7",
+      "Rapid7 InsightVM",
+      "React",
+      "Red Hat",
+      "Red Hat AMQ",
+      "Red Hat JBoss Enterprise SOA Platform",
+      "Red Hat OpenShift",
+      "Redis",
+      "Remote",
+      "Resi",
+      "Route",
+      "Route 53",
+      "SAS Enterprise Guide",
+      "SMTP",
+      "SOAPUI",
+      "SOASTA",
+      "SS&C",
+      "SWIFT",
+      "Salesforce",
+      "Salesforce CRM Analytics",
+      "Salesforce Customer Data Platform (CDP)",
+      "Salesforce Service Cloud",
+      "Samsung Pay",
+      "Scupio",
+      "Secured MVC Forum on Windows 2012 R2",
+      "Selenium",
+      "Sentinel",
+      "Serenity",
+      "ServiceNow IT Service Management (ITSM)",
+      "SharePoint",
+      "ShipStation",
+      "Shutterstock",
+      "Siemens PROFIBUS",
+      "Sizmek (MediaMind)",
+      "Slack",
+      "Snyk",
+      "Snyk Code (SAST)",
+      "SonarQube",
+      "Spark",
+      "Splunk",
+      "Splunk SOAR",
+      "Spring",
+      "Spring Boot",
+      "Spring Boot",
+      "Stormshield",
+      "Superset",
+      "Syncsort MFX",
+      "SysTools VBA Password Recovery",
+      "Tableau",
+      "TelmarHelixa",
+      "Tenable Nessus",
+      "TensorFlow",
+      "The Trade Desk",
+      "Thomson Reuters ONESOURCE",
+      "Tor",
+      "TypeScript",
+      "UKG Pro Benefits Administration",
+      "Unica",
+      "Unix",
+      "VLAN",
+      "VMware",
+      "VMware Storage vMotion",
+      "VMware Virtual Desktop Infrastructure",
+      "Vector",
+      "Veracode",
+      "Verizon WAF",
+      "VisiStat",
+      "Visio",
+      "WeChat Work",
+      "WebGreeter",
+      "WebPay",
+      "Webex",
+      "Weborama",
+      "Winky-AXE",
+      "Wireshark",
+      "Wodify",
+      "Workday",
+      "XGBoost",
+      "YouTube",
+      "accessiBe",
+      "ezFlow for Google Docs for G Suite",
+      "scikit-learn"
+    ],
+    "current_technologies": [
+      {
+        "uid": "gis",
+        "name": ".GIS",
+        "category": "Other"
+      },
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "a_small_orange",
+        "name": "A Small Orange",
+        "category": "Hosting"
+      },
+      {
+        "uid": "acl",
+        "name": "ACL",
+        "category": "Other"
+      },
+      {
+        "uid": "adapt",
+        "name": "ADAPT",
+        "category": "Other"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "aveva_pdms",
+        "name": "AVEVA PDMS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_public_cloud",
+        "name": "AWS Public Cloud",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_schema_conversion_tool",
+        "name": "AWS Schema Conversion Tool",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "acronis_true_image",
+        "name": "Acronis True Image",
+        "category": "Security"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "ad_astra",
+        "name": "Ad Astra",
+        "category": "Other"
+      },
+      {
+        "uid": "adara",
+        "name": "Adara",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "addthis",
+        "name": "AddThis",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "adobe_marketing_cloud",
+        "name": "Adobe Marketing Cloud",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "adobe_media_optimizer",
+        "name": "Adobe Media Optimizer",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai_dns",
+        "name": "Akamai DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "algosec",
+        "name": "AlgoSec",
+        "category": "Security"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_associates",
+        "name": "Amazon Associates",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "amazon_ec2_auto_scaling",
+        "name": "Amazon EC2 Auto Scaling",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elastic_load_balancing",
+        "name": "Amazon Elastic Load Balancing",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+        "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_product_advertising_api",
+        "name": "Amazon Product Advertising API",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_simple_storage_service_s3",
+        "name": "Amazon Simple Storage Service (S3)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "angular",
+        "name": "Angular",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ansible",
+        "name": "Ansible",
+        "category": "Other"
+      },
+      {
+        "uid": "anthropic_claude",
+        "name": "Anthropic Claude",
+        "category": "Other"
+      },
+      {
+        "uid": "apache_kafka",
+        "name": "Apache Kafka",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_superset",
+        "name": "Apache Superset",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "appdynamics",
+        "name": "AppDynamics",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "appdynamics",
+        "name": "AppDynamics",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "appium",
+        "name": "Appium",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "aqua",
+        "name": "Aqua",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aqua_trivy",
+        "name": "Aqua Trivy",
+        "category": "Event Management"
+      },
+      {
+        "uid": "arubaos",
+        "name": "ArubaOS",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "aryson_mysql_to_mssql_converter",
+        "name": "Aryson MySQL to MSSQL Converter",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "atlassian_bitbucket",
+        "name": "Atlassian Bitbucket",
+        "category": "CMS"
+      },
+      {
+        "uid": "atlassian_confluence",
+        "name": "Atlassian Confluence",
+        "category": "CMS"
+      },
+      {
+        "uid": "autocad_lt",
+        "name": "AutoCAD LT",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "autosys_workload_automation",
+        "name": "AutoSys Workload Automation",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "avaloq",
+        "name": "Avaloq",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "azure_ad_notifications",
+        "name": "Azure AD Notifications",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_active_directory_b2c",
+        "name": "Azure Active Directory B2C",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_blockchain_service",
+        "name": "Azure Blockchain Service",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_cloud_shell",
+        "name": "Azure Cloud Shell",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_data_factory",
+        "name": "Azure Data Factory",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_data_lake_analytics",
+        "name": "Azure Data Lake Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure devops",
+        "name": "Azure Devops",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "azure_key_vault",
+        "name": "Azure Key Vault",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_linux_virtual_machines",
+        "name": "Azure Linux Virtual Machines",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_vpn_gateway",
+        "name": "Azure VPN Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "barracuda_spam_firewall",
+        "name": "Barracuda Spam Firewall",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "black_duck",
+        "name": "Black Duck",
+        "category": "Security"
+      },
+      {
+        "uid": "blip",
+        "name": "Blip",
+        "category": "Other"
+      },
+      {
+        "uid": "bloomberg_professional_services",
+        "name": "Bloomberg Professional Services",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "blue_coat_proxysg",
+        "name": "Blue Coat ProxySG",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bootstrap_framework",
+        "name": "Bootstrap Framework",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "branch",
+        "name": "Branch",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "burp_suite",
+        "name": "Burp Suite",
+        "category": "Security"
+      },
+      {
+        "uid": "cat",
+        "name": "CAT",
+        "category": "ERP"
+      },
+      {
+        "uid": "clear",
+        "name": "CLEAR",
+        "category": "Other"
+      },
+      {
+        "uid": "cpi",
+        "name": "CPI",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cpmstar",
+        "name": "CPMStar",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "css",
+        "name": "CSS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "calabrio_teleopti_workforce_management",
+        "name": "Calabrio Teleopti Workforce Management",
+        "category": "ERP"
+      },
+      {
+        "uid": "callminer_eureka",
+        "name": "CallMiner Eureka",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "catylist_sitelink",
+        "name": "Catylist SiteLink",
+        "category": "CMS"
+      },
+      {
+        "uid": "chatbot",
+        "name": "ChatBot",
+        "category": "Chats"
+      },
+      {
+        "uid": "chatgpt",
+        "name": "ChatGPT",
+        "category": "Chats"
+      },
+      {
+        "uid": "checkpoint",
+        "name": "CheckPoint",
+        "category": "Security"
+      },
+      {
+        "uid": "checkmarx",
+        "name": "Checkmarx",
+        "category": "Security"
+      },
+      {
+        "uid": "cisco_aci_orchestration",
+        "name": "Cisco ACI Orchestration",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_catalyst_9800_series_wireless_controllers",
+        "name": "Cisco Catalyst 9800 Series Wireless Controllers",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_nexus_2000",
+        "name": "Cisco Nexus 2000",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_nexus_switches",
+        "name": "Cisco Nexus Switches",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_secure_firewall_management_center",
+        "name": "Cisco Secure Firewall Management Center",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_vpn",
+        "name": "Cisco VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_webex_teams",
+        "name": "Cisco WebEx Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "citrix_director",
+        "name": "Citrix Director",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "citrix_netscaler",
+        "name": "Citrix NetScaler",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "click",
+        "name": "Click",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "cloudflare_hosting",
+        "name": "CloudFlare Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "cloudera",
+        "name": "Cloudera",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "commission_junction",
+        "name": "Commission Junction",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "connectwise_control",
+        "name": "ConnectWise Control",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "controlm",
+        "name": "Control-M",
+        "category": "Other"
+      },
+      {
+        "uid": "conversant_valueclick",
+        "name": "Conversant (ValueClick)",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "coupa",
+        "name": "Coupa",
+        "category": "Other"
+      },
+      {
+        "uid": "critsend",
+        "name": "CritSend",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "crowdstrike_falcon_x",
+        "name": "CrowdStrike Falcon X",
+        "category": "ERP"
+      },
+      {
+        "uid": "cyberark",
+        "name": "CyberArk",
+        "category": "Security"
+      },
+      {
+        "uid": "cytoscape",
+        "name": "Cytoscape",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dxc_hogan_systems",
+        "name": "DXC Hogan Systems",
+        "category": "ERP"
+      },
+      {
+        "uid": "data analytics",
+        "name": "Data Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "deepstream",
+        "name": "DeepStream",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dell_emc_disaster_recovery",
+        "name": "Dell EMC Disaster Recovery",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "develatios_expressjs_ami",
+        "name": "Develatio's ExpressJS AMI",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "deviceatlas",
+        "name": "DeviceAtlas",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "ecs",
+        "name": "ECS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "elk_stack",
+        "name": "ELK Stack",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "emc",
+        "name": "EMC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "episerver",
+        "name": "EPiServer",
+        "category": "CMS"
+      },
+      {
+        "uid": "energycap_smartanalytics",
+        "name": "EnergyCAP SmartAnalytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ethereum",
+        "name": "Ethereum",
+        "category": "Other"
+      },
+      {
+        "uid": "evolve_ip",
+        "name": "Evolve IP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "experian_hunter",
+        "name": "Experian Hunter",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "ffmpeg",
+        "name": "FFmpeg",
+        "category": "Other"
+      },
+      {
+        "uid": "fico_safe_driving_score",
+        "name": "FICO Safe Driving Score",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "fusion",
+        "name": "FUSION",
+        "category": "Other"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "fastapi",
+        "name": "Fastapi",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "fidessa",
+        "name": "Fidessa",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "finacle",
+        "name": "Finacle",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "fliphtml5",
+        "name": "FlipHTML5",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "flow",
+        "name": "Flow",
+        "category": "Other"
+      },
+      {
+        "uid": "flux",
+        "name": "Flux",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "forcepoint_one",
+        "name": "Forcepoint ONE",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "fortinet",
+        "name": "Fortinet",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "fortinet_fortigate",
+        "name": "Fortinet FortiGate",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "frame",
+        "name": "Frame",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "front",
+        "name": "Front",
+        "category": "Widgets"
+      },
+      {
+        "uid": "fujifilm_synapse",
+        "name": "Fujifilm Synapse",
+        "category": "Other"
+      },
+      {
+        "uid": "gc_digital",
+        "name": "GC Digital",
+        "category": "Other"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github_copilot",
+        "name": "GitHub Copilot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_adwords_conversion",
+        "name": "Google AdWords Conversion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_ads",
+        "name": "Google Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_alloydb_for_postgresql",
+        "name": "Google AlloyDB for PostgreSQL",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud_ai_platform",
+        "name": "Google Cloud AI Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_document_ai",
+        "name": "Google Cloud Document AI",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_machine_learning_engine",
+        "name": "Google Cloud Machine Learning Engine",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_platform",
+        "name": "Google Cloud Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_publisher_tag_gpt",
+        "name": "Google Publisher Tag (GPT)",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "gorilla_nation",
+        "name": "Gorilla Nation",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "hcl_appscan",
+        "name": "HCL AppScan",
+        "category": "Security"
+      },
+      {
+        "uid": "helm",
+        "name": "HELM",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "hp_web_jetadmin",
+        "name": "HP Web Jetadmin",
+        "category": "Other"
+      },
+      {
+        "uid": "harness",
+        "name": "Harness",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "hibernate",
+        "name": "Hibernate",
+        "category": "Database"
+      },
+      {
+        "uid": "hotjar",
+        "name": "Hotjar",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "huawei",
+        "name": "Huawei",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ibm_db2_for_linux_unix_and_microsoft_windows",
+        "name": "IBM Db2 for Linux, UNIX, and Microsoft Windows",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "ibm_ilog_cplex_optimization_studio",
+        "name": "IBM ILOG CPLEX Optimization Studio",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ibm_mainframe",
+        "name": "IBM Mainframe",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ibm_qradar_siem",
+        "name": "IBM QRadar SIEM",
+        "category": "Event Management"
+      },
+      {
+        "uid": "ibm_spectrum_lsf",
+        "name": "IBM Spectrum LSF",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "iso",
+        "name": "ISO+™",
+        "category": "Other"
+      },
+      {
+        "uid": "infoblox",
+        "name": "Infoblox",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "infoblox_dhcp",
+        "name": "Infoblox DHCP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "informatica_data_as_a_service",
+        "name": "Informatica Data as a Service",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "instinctive_ads",
+        "name": "Instinctive Ads",
+        "category": "Content Syndication Networks"
+      },
+      {
+        "uid": "intel",
+        "name": "Intel Cloud Services",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "intel_max",
+        "name": "Intel MAX",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "internet_explorer",
+        "name": "Internet Explorer",
+        "category": "Other"
+      },
+      {
+        "uid": "iot",
+        "name": "IoT",
+        "category": "Other"
+      },
+      {
+        "uid": "ipswitch_whatsup_gold",
+        "name": "Ipswitch WhatsUp Gold",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "j2ee",
+        "name": "J2EE",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "java ee",
+        "name": "Java EE",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "javascript",
+        "name": "Javascript",
+        "category": "Other"
+      },
+      {
+        "uid": "jenkins",
+        "name": "Jenkins",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jimdo",
+        "name": "Jimdo",
+        "category": "CMS"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "juniper_networks_srxseries_firewalls",
+        "name": "Juniper Networks SRX-Series Firewalls",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kvm",
+        "name": "KVM",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kaspersky_antivirus",
+        "name": "Kaspersky Anti-Virus",
+        "category": "Event Management"
+      },
+      {
+        "uid": "kiosked",
+        "name": "Kiosked",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "kong",
+        "name": "Kong",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "leap",
+        "name": "LEAP",
+        "category": "ERP"
+      },
+      {
+        "uid": "less",
+        "name": "Less",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "lexisnexis",
+        "name": "LexisNexis",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "liferay",
+        "name": "Liferay",
+        "category": "CMS"
+      },
+      {
+        "uid": "linkedin_ads",
+        "name": "LinkedIn Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "looker",
+        "name": "Looker",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "loom",
+        "name": "Loom",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "lumen5",
+        "name": "Lumen5",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "lytics",
+        "name": "Lytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mitre_attck",
+        "name": "MITRE ATT&CK",
+        "category": "Event Management"
+      },
+      {
+        "uid": "mariadb",
+        "name": "MariaDB",
+        "category": "Database"
+      },
+      {
+        "uid": "maven",
+        "name": "Maven",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mend",
+        "name": "Mend",
+        "category": "Other"
+      },
+      {
+        "uid": "metadata_hub",
+        "name": "Metadata Hub",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "metasploit",
+        "name": "Metasploit",
+        "category": "Security"
+      },
+      {
+        "uid": "micro_focus_fortify",
+        "name": "Micro Focus Fortify",
+        "category": "Event Management"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_adfs_for_genesys_cloud",
+        "name": "Microsoft ADFS for Genesys Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_azure",
+        "name": "Microsoft Azure",
+        "category": "Hosting"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_graph",
+        "name": "Microsoft Graph",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "office_365",
+        "name": "Microsoft Office 365",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_power_apps",
+        "name": "Microsoft Power Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_power_automate",
+        "name": "Microsoft Power Automate",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "microsoft_power_platform",
+        "name": "Microsoft Power Platform",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft_sql_server_reporting_services",
+        "name": "Microsoft SQL Server Reporting Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft sql server",
+        "name": "Microsoft Sql Server",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "microsoft_system_center_configuration_manager",
+        "name": "Microsoft System Center Configuration Manager",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_teams",
+        "name": "Microsoft Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_windows_defender_antivirus",
+        "name": "Microsoft Windows Defender Antivirus",
+        "category": "Event Management"
+      },
+      {
+        "uid": "microsoft_windows_server_2000",
+        "name": "Microsoft Windows Server 2000",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_windows_server_2012",
+        "name": "Microsoft Windows Server 2012",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_word",
+        "name": "Microsoft Word",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nice",
+        "name": "NICE",
+        "category": "Other"
+      },
+      {
+        "uid": "ntent",
+        "name": "NTENT",
+        "category": "Content Syndication Networks"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "nmap",
+        "name": "Nmap",
+        "category": "Security"
+      },
+      {
+        "uid": "objectivec",
+        "name": "Objective-C",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "odoo_crm",
+        "name": "Odoo CRM",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "olo",
+        "name": "Olo",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "omniture_adobe",
+        "name": "Omniture (Adobe)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "onetrust_tech_risk_compliance",
+        "name": "OneTrust Tech Risk & Compliance",
+        "category": "ERP"
+      },
+      {
+        "uid": "openldap",
+        "name": "OpenLDAP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "oracle_active_data_guard",
+        "name": "Oracle Active Data Guard",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_analytics_cloud",
+        "name": "Oracle Analytics Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "oracle_automatic_storage_management_asm",
+        "name": "Oracle Automatic Storage Management (ASM)",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "oracle_grc",
+        "name": "Oracle GRC",
+        "category": "ERP"
+      },
+      {
+        "uid": "oracle_hyperion_enterprise",
+        "name": "Oracle Hyperion Enterprise",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "oracle_rac_one_node",
+        "name": "Oracle RAC One Node",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "plsql",
+        "name": "PL/SQL",
+        "category": "Database"
+      },
+      {
+        "uid": "palo_alto_networks_vmseries_virtual_firewall",
+        "name": "Palo Alto Networks VM-Series Virtual Firewall",
+        "category": "Security"
+      },
+      {
+        "uid": "palo_alto_pa5000_series",
+        "name": "Palo Alto PA-5000 Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "palo_alto_pa5200_series",
+        "name": "Palo Alto PA-5200 Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "palo_alto_prisma_cloud",
+        "name": "Palo Alto Prisma Cloud",
+        "category": "Event Management"
+      },
+      {
+        "uid": "parallels_mac_management_for_microsoft_sccm",
+        "name": "Parallels Mac Management for Microsoft SCCM",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "pega_robotic_process_automation",
+        "name": "Pega Robotic Process Automation",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "playwright",
+        "name": "Playwright",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "postman",
+        "name": "Postman",
+        "category": "Other"
+      },
+      {
+        "uid": "postpresso",
+        "name": "Postpresso",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "powerbi_tiles",
+        "name": "PowerBI Tiles",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "presto",
+        "name": "Presto",
+        "category": "Database"
+      },
+      {
+        "uid": "proclivitymedia",
+        "name": "ProclivityMedia",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "profitero",
+        "name": "Profitero",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Database"
+      },
+      {
+        "uid": "pyspark",
+        "name": "PySpark",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pytorch",
+        "name": "PyTorch",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "qlik sense",
+        "name": "Qlik Sense",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "qlikview",
+        "name": "QlikView",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "qualys_penetration_testing",
+        "name": "Qualys Penetration Testing",
+        "category": "Event Management"
+      },
+      {
+        "uid": "r",
+        "name": "R",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rest",
+        "name": "REST",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rapid7",
+        "name": "Rapid7",
+        "category": "Security"
+      },
+      {
+        "uid": "rapid7_insightvm",
+        "name": "Rapid7 InsightVM",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "red_hat",
+        "name": "Red Hat",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "red_hat_amq",
+        "name": "Red Hat AMQ",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "red_hat_jboss_enterprise_soa_platform",
+        "name": "Red Hat JBoss Enterprise SOA Platform",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "red_hat_openshift",
+        "name": "Red Hat OpenShift",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "redis",
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "resi",
+        "name": "Resi",
+        "category": "Other"
+      },
+      {
+        "uid": "route",
+        "name": "Route",
+        "category": "Other"
+      },
+      {
+        "uid": "route_53",
+        "name": "Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "sas_enterprise_guide",
+        "name": "SAS Enterprise Guide",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "smtp",
+        "name": "SMTP",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "soapui",
+        "name": "SOAPUI",
+        "category": "Other"
+      },
+      {
+        "uid": "soasta",
+        "name": "SOASTA",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "ssc",
+        "name": "SS&C",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "swift",
+        "name": "SWIFT",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce crm analytics",
+        "name": "Salesforce CRM Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "salesforce_customer_data_platform_cdp",
+        "name": "Salesforce Customer Data Platform (CDP)",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_service_cloud",
+        "name": "Salesforce Service Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "samsung_pay",
+        "name": "Samsung Pay",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "scupio",
+        "name": "Scupio",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "secured_mvc_forum_on_windows_2012_r2",
+        "name": "Secured MVC Forum on Windows 2012 R2",
+        "category": "CMS"
+      },
+      {
+        "uid": "selenium",
+        "name": "Selenium",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "sentinel",
+        "name": "Sentinel",
+        "category": "Security"
+      },
+      {
+        "uid": "serenity",
+        "name": "Serenity",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "servicenow_it_service_management_itsm",
+        "name": "ServiceNow IT Service Management (ITSM)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "sharepoint",
+        "name": "SharePoint",
+        "category": "CMS"
+      },
+      {
+        "uid": "shipstation",
+        "name": "ShipStation",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "shutterstock",
+        "name": "Shutterstock",
+        "category": "Other"
+      },
+      {
+        "uid": "siemens_profibus",
+        "name": "Siemens PROFIBUS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "sizmek_mediamind",
+        "name": "Sizmek (MediaMind)",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "snyk",
+        "name": "Snyk",
+        "category": "Security"
+      },
+      {
+        "uid": "snyk_code_sast",
+        "name": "Snyk Code (SAST)",
+        "category": "Event Management"
+      },
+      {
+        "uid": "sonarqube",
+        "name": "SonarQube",
+        "category": "Other"
+      },
+      {
+        "uid": "spark",
+        "name": "Spark",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "splunk",
+        "name": "Splunk",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "splunk_soar",
+        "name": "Splunk SOAR",
+        "category": "Event Management"
+      },
+      {
+        "uid": "spring",
+        "name": "Spring",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "stormshield",
+        "name": "Stormshield",
+        "category": "Event Management"
+      },
+      {
+        "uid": "superset",
+        "name": "Superset",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "syncsort_mfx",
+        "name": "Syncsort MFX",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "systools_vba_password_recovery",
+        "name": "SysTools VBA Password Recovery",
+        "category": "Security"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "telmarhelixa",
+        "name": "TelmarHelixa",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "tenable_nessus",
+        "name": "Tenable Nessus",
+        "category": "Security"
+      },
+      {
+        "uid": "tensorflow",
+        "name": "TensorFlow",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "the_trade_desk",
+        "name": "The Trade Desk",
+        "category": "Demand Side Platforms"
+      },
+      {
+        "uid": "thomson_reuters_onesource",
+        "name": "Thomson Reuters ONESOURCE",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ukg_pro_benefits_administration",
+        "name": "UKG Pro Benefits Administration",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "unica",
+        "name": "Unica",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "unix",
+        "name": "Unix",
+        "category": "Other"
+      },
+      {
+        "uid": "vlan",
+        "name": "VLAN",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vmware",
+        "name": "VMware",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vmware_storage_vmotion",
+        "name": "VMware Storage vMotion",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vmware_virtual_desktop_infrastructure",
+        "name": "VMware Virtual Desktop Infrastructure",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vector",
+        "name": "Vector",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "veracode",
+        "name": "Veracode",
+        "category": "Event Management"
+      },
+      {
+        "uid": "verizon_waf",
+        "name": "Verizon WAF",
+        "category": "Security"
+      },
+      {
+        "uid": "visistat",
+        "name": "VisiStat",
+        "category": "Lead Generation Software"
+      },
+      {
+        "uid": "visio",
+        "name": "Visio",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "wechat_work",
+        "name": "WeChat Work",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "webgreeter",
+        "name": "WebGreeter",
+        "category": "Chats"
+      },
+      {
+        "uid": "webpay",
+        "name": "WebPay",
+        "category": "Payments"
+      },
+      {
+        "uid": "webex",
+        "name": "Webex",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "weborama",
+        "name": "Weborama",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "winkyaxe",
+        "name": "Winky-AXE",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "wireshark",
+        "name": "Wireshark",
+        "category": "Security"
+      },
+      {
+        "uid": "wodify",
+        "name": "Wodify",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "workday",
+        "name": "Workday",
+        "category": "CMS"
+      },
+      {
+        "uid": "xgboost",
+        "name": "XGBoost",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "accessibe",
+        "name": "accessiBe",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ezflow_for_google_docs_for_g_suite",
+        "name": "ezFlow for Google Docs for G Suite",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "scikitlearn",
+        "name": "scikit-learn",
+        "category": "Frameworks and Programming Languages"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "5f73d6aab0bfa90001939693"
+    ],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::Finance",
+    "org_chart_removed": true,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "finance": 2844,
+      "sales": 873,
+      "product_management": 377,
+      "operations": 1727,
+      "engineering": 2116,
+      "marketing": 574,
+      "media_and_commmunication": 164,
+      "accounting": 173,
+      "legal": 287,
+      "human_resources": 501,
+      "business_development": 1303,
+      "arts_and_design": 140,
+      "support": 1005,
+      "data_science": 619,
+      "information_technology": 389,
+      "consulting": 188,
+      "administrative": 134,
+      "entrepreneurship": 5,
+      "education": 4
+    },
+    "organization_headcount_six_month_growth": 0.005498507027893089,
+    "organization_headcount_twelve_month_growth": 0.006414695484200168,
+    "organization_headcount_twenty_four_month_growth": 0.05752364903680441
+  }
+}

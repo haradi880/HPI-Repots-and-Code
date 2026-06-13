@@ -1,0 +1,4 @@
+﻿Company,Field,Value,Status,Source Field,Reason,Raw Response Path
+DBS Group,Legal Name,Not Verified,Not Verified,organization.name,Apollo did not return an explicit legal_name or registered_name field. API name was returned at organization.name.,raw\apollo\dbs_group.json
+DBS Group,Number of Sites/Locations,Not Verified,Not Verified,organization.retail_location_count,"Apollo returned retail_location_count, but not a verified total site/location count.",raw\apollo\dbs_group.json
+DBS Group,Total Funding Raised,Not Available,Not Available,Not Available,Field absent in Apollo response.,raw\apollo\dbs_group.json

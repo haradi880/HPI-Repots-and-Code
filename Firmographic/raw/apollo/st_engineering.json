@@ -1,0 +1,2915 @@
+{
+  "organization": {
+    "id": "61821bf0884ae600a49819e1",
+    "name": "ST Engineering",
+    "website_url": "http://www.stengg.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/st-engineering",
+    "twitter_url": null,
+    "facebook_url": "https://www.facebook.com/singaporetechnologiesengineeringltd",
+    "primary_phone": {
+      "number": "+65 6722 1818",
+      "source": "Owler",
+      "sanitized_number": "+6567221818"
+    },
+    "languages": [],
+    "alexa_ranking": 430222,
+    "phone": "+65 6722 1818",
+    "linkedin_uid": "11911488",
+    "founded_year": 1967,
+    "publicly_traded_symbol": "S63",
+    "publicly_traded_exchange": "sgx",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ae7283f68668000151b443/picture",
+    "crunchbase_url": null,
+    "primary_domain": "stengg.com",
+    "sic_codes": [
+      "3531"
+    ],
+    "naics_codes": [
+      "33641"
+    ],
+    "sanitized_phone": "+6567221818",
+    "industry": "information technology & services",
+    "estimated_num_employees": 27000,
+    "keywords": [
+      "public security",
+      "innovation",
+      "robotics",
+      "healthcare",
+      "electronics",
+      "technology",
+      "aerospace",
+      "land systems",
+      "engineering",
+      "digital technologies",
+      "analytics",
+      "transportation",
+      "mobility",
+      "defence",
+      "smart cities",
+      "quantum technology",
+      "artificial intelligence",
+      "cybersecurity",
+      "ai",
+      "critical infrastructure",
+      "autonomy",
+      "marine",
+      "simulation",
+      "aviation",
+      "security",
+      "financial services",
+      "mro",
+      "engineering services",
+      "shipbuilding technology",
+      "defense systems",
+      "environmental monitoring",
+      "digital twin technology",
+      "cloud orchestration",
+      "urban digital infrastructure",
+      "urban environmental solutions",
+      "manufacturing",
+      "satellite imagery analysis",
+      "satellite data analytics",
+      "urban infrastructure ai",
+      "repair",
+      "advanced manufacturing",
+      "ship repair services",
+      "data security",
+      "urban mobility solutions",
+      "sustainability",
+      "satellite imagery for defense",
+      "urban environment monitoring",
+      "urban environmental sensors",
+      "energy management",
+      "smart infrastructure",
+      "urban environmental ai",
+      "smart sensors deployment",
+      "digital solutions",
+      "urban traffic management",
+      "smart city iot platforms",
+      "cybersecurity services",
+      "defense satellite technology",
+      "satellite imagery processing",
+      "security management",
+      "aerospace product and parts manufacturing",
+      "marine engineering",
+      "integrated security systems",
+      "advanced satellite imagery",
+      "smart city digital twins",
+      "satellite geospatial analytics",
+      "advanced satellite communications",
+      "iot platform",
+      "satellite data security",
+      "digital platforms",
+      "urban environment",
+      "smart city iot",
+      "satellite data governance",
+      "maritime",
+      "digital transformation",
+      "transportation & logistics",
+      "urban mobility",
+      "cyber risk compliance",
+      "smart city environmental sensors",
+      "construction & real estate",
+      "iot platform development",
+      "defense cybersecurity",
+      "risk management",
+      "smart city security automation",
+      "satellite systems engineering",
+      "satellite imagery",
+      "security systems",
+      "satcom network management",
+      "public security systems",
+      "data platform modernization",
+      "urban iot deployment",
+      "ai-powered urban analytics",
+      "mro services",
+      "cyber threat detection",
+      "b2b",
+      "operational efficiency",
+      "fleet management",
+      "aircraft maintenance",
+      "cyber threat intelligence",
+      "satellite-based disaster management",
+      "urban digital transformation",
+      "defense satellite systems",
+      "aircraft systems engineering",
+      "environmental engineering solutions",
+      "ai threat elimination",
+      "satellite network deployment",
+      "smart city environmental management",
+      "satellite technology",
+      "consulting",
+      "maritime engineering",
+      "energy & utilities",
+      "satellite communications",
+      "digital platform modernization",
+      "aircraft systems integration",
+      "defense satellite communications",
+      "smart city solutions",
+      "security robotics",
+      "shipbuilding",
+      "ai-powered solutions",
+      "cybersecurity solutions",
+      "ship repair",
+      "urban traffic control",
+      "cybersecurity threat detection ai",
+      "urban digital solutions",
+      "smart security",
+      "defense technology",
+      "cloud computing",
+      "smart sensors",
+      "public safety technology",
+      "integrated systems",
+      "ai-driven urban planning",
+      "critical infrastructure protection",
+      "aircraft leasing",
+      "maintenance",
+      "generative ai",
+      "cybersecurity automation",
+      "satellite imagery for urban planning",
+      "smart transportation systems",
+      "public safety",
+      "ai threat detection",
+      "data analytics",
+      "cloud security monitoring",
+      "smart transportation",
+      "environmental engineering",
+      "aerospace engineering",
+      "ai-driven cybersecurity",
+      "government",
+      "satellite geospatial solutions",
+      "aircraft systems",
+      "satellite data integration",
+      "security automation",
+      "iot solutions",
+      "urban solutions",
+      "cloud migration",
+      "smart security platforms",
+      "services",
+      "shipbuilding and repair",
+      "urban infrastructure",
+      "urban infrastructure development",
+      "cybersecurity training",
+      "ai-powered security",
+      "ai for satellite data analysis",
+      "smart city digital platforms",
+      "satellite-based environmental monitoring",
+      "ai-enabled threat response",
+      "electric vehicles",
+      "data analytics solutions",
+      "urban infrastructure security",
+      "smart city infrastructure",
+      "smart security solutions",
+      "ai solutions",
+      "shipbuilding services",
+      "urban environment solutions",
+      "cloud management services",
+      "aircraft leasing services",
+      "data governance",
+      "urban environmental management",
+      "urban mobility platforms",
+      "satellite imagery for environmental monitoring",
+      "satcom systems",
+      "defense technology solutions",
+      "defense",
+      "urban iot sensor networks",
+      "urban security robotics",
+      "cyber threat intelligence platforms",
+      "ai analytics",
+      "smart city",
+      "satellite systems",
+      "smart mobility",
+      "defence solutions",
+      "transportation systems",
+      "integrated solutions",
+      "surveillance systems",
+      "healthcare robotics",
+      "vessel traffic management",
+      "homeland security",
+      "smart lighting",
+      "data centre solutions",
+      "mobile command systems",
+      "integrated security",
+      "ai technologies",
+      "community safety",
+      "sensor networks",
+      "advanced computing",
+      "geospatial solutions",
+      "smart utilities",
+      "incident response",
+      "augmented reality",
+      "coastal surveillance",
+      "smart traffic management",
+      "public infrastructure",
+      "training and simulation",
+      "global engineering",
+      "safety solutions",
+      "military defense",
+      "finance",
+      "distribution",
+      "mechanical or industrial engineering",
+      "information technology & services",
+      "health care",
+      "health, wellness & fitness",
+      "hospital & health care",
+      "computer hardware",
+      "hardware",
+      "computer & network security",
+      "environmental services",
+      "renewables & environment",
+      "oil & energy",
+      "enterprise software",
+      "enterprises",
+      "computer software",
+      "clean energy & technology",
+      "aviation & aerospace"
+    ],
+    "organization_revenue_printed": "8.3B",
+    "organization_revenue": 8286000000.0,
+    "industries": [
+      "information technology & services",
+      "computer hardware"
+    ],
+    "secondary_industries": [
+      "computer hardware"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4773696439b10b0000",
+    "industry_tag_hash": {
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer hardware": "5567e0d47369641233eb0600"
+    },
+    "retail_location_count": 0,
+    "raw_address": "ST Engineering Hub, 1 Ang Mo Kio Electronics Park Road, #07-01, Singapore, 567710, SG",
+    "street_address": "1 Ang Mo Kio Electronics Park Road",
+    "city": "Singapore",
+    "state": null,
+    "postal_code": "567710",
+    "country": "Singapore",
+    "owned_by_organization_id": null,
+    "short_description": "ST Engineering is a global technology, defense, and engineering group based in Singapore. Established in 1997, the company has evolved from earlier defense-related firms and is now one of Asia's largest defense and engineering groups. It operates through four main divisions: Aerospace, Electronics, Land Systems, and Marine, providing a wide range of services and solutions.\n\nIn the Aerospace division, ST Engineering offers maintenance, repair, and overhaul services for commercial airframes and engines. The Electronics division delivers innovative solutions for various sectors, while the Land Systems division focuses on integrated land systems and specialty vehicles. The Marine division provides shipbuilding and repair services for naval and commercial vessels. Additionally, the company is involved in smart city solutions, cybersecurity, and critical systems, serving both commercial and defense customers in over 100 countries. With a workforce of more than 27,000 employees, ST Engineering is committed to addressing real-world challenges through engineering and technology.",
+    "suborganizations": [
+      {
+        "id": "615dec917704d200012cc571",
+        "name": "ST Engineering, Aethon",
+        "website_url": "http://www.aethon.com"
+      },
+      {
+        "id": "610e36edfa152c00a4c48cdc",
+        "name": "Experia Events",
+        "website_url": "http://www.experiaevents.com"
+      },
+      {
+        "id": "54a26de174686933182ff821",
+        "name": "ST Engineering D'Crypt",
+        "website_url": null
+      },
+      {
+        "id": "54a121f769702d88c4e58602",
+        "name": "TransCore",
+        "website_url": "http://www.transcore.com"
+      },
+      {
+        "id": "5a9db152a6da98d977f5bb7b",
+        "name": "AgilFence",
+        "website_url": "http://www.agillites.com"
+      },
+      {
+        "id": "5d0995f2a3ae6114d518d462",
+        "name": "ST Engineering MRAS",
+        "website_url": "http://www.mras-usa.com"
+      },
+      {
+        "id": "54a25f1174686938254df01d",
+        "name": "ST Engineering North America",
+        "website_url": null
+      }
+    ],
+    "num_suborganizations": 7,
+    "annual_revenue_printed": "8.3B",
+    "annual_revenue": 8286000000.0,
+    "technology_names": [
+      ".NET",
+      "ABB Robotics",
+      "AC500 PLC",
+      "ACL",
+      "ADP",
+      "ADP SmartCompliance®",
+      "AI",
+      "AMD Xilinx",
+      "ANGEL LMS",
+      "ASP.NET",
+      "AT&T",
+      "AWS Analytics",
+      "AWS App Mesh",
+      "AWS Application Load Balancer",
+      "AWS Bedrock",
+      "AWS CloudFormation",
+      "AWS Control Tower",
+      "AWS IAM Identity Center",
+      "AWS Public Cloud",
+      "AWS SDK for JavaScript",
+      "AWS Shield",
+      "AWS Step Functions",
+      "AWS Transfer for SFTP",
+      "AWS Transit Gateway",
+      "AWS Trusted Advisor",
+      "AWS VPN",
+      "AWS WAF",
+      "Absorb LMS",
+      "Acronis Cyber Backup",
+      "Act!",
+      "Adconion",
+      "Adobe Creative Suite",
+      "Adobe Marketing Cloud",
+      "Air",
+      "Akamai CDN Solutions",
+      "Alcatel-Lucent",
+      "Alteryx",
+      "Altitude ARENA",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon AWS Platform",
+      "Amazon CloudFront",
+      "Amazon CloudWatch",
+      "Amazon Connect",
+      "Amazon EC2",
+      "Amazon ElastiCache",
+      "Amazon Elastic File System (Amazon EFS)",
+      "Amazon Elastic Load Balancer",
+      "Amazon Elastic Load Balancing",
+      "Amazon FreeRTOS",
+      "Amazon Linux 2",
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amazon SageMaker",
+      "Amazon Virtual Private Cloud (Amazon VPC)",
+      "Analyzer",
+      "Android",
+      "Ansible",
+      "Ansys Fluids",
+      "Apache Kafka",
+      "Apache Parquet",
+      "Apricot Software",
+      "Aptean Industrial Manufacturing ERP Made2Manage Edition",
+      "ArcGIS",
+      "Argon CI/CD Security",
+      "Aruba",
+      "Aruba ClearPass Access Control and Policy Management",
+      "Aruba Mobility Controllers",
+      "Aryson MySQL to MSSQL Converter",
+      "Atex",
+      "Atlassian Bitbucket",
+      "Aurora",
+      "AutoCAD",
+      "Autodesk BIM Collaborate",
+      "Autopilot",
+      "Axonius",
+      "Azure Active Directory",
+      "Azure Active Directory B2C",
+      "Azure Analysis Services",
+      "Azure Data Lake Storage",
+      "Azure Devops",
+      "Azure Linux Virtual Machines",
+      "Azure Maps",
+      "Azure Virtual Machine Scale Sets",
+      "BASE",
+      "Barracuda MSP",
+      "Barracuda Spam Firewall",
+      "Bash",
+      "Bevywise MQTT Broker",
+      "Blazor",
+      "BlueTie Vault",
+      "Bootstrap",
+      "Bugzilla",
+      "C#",
+      "C/C++",
+      "CAT",
+      "CET",
+      "CMake",
+      "CNC Software",
+      "CPMStar",
+      "CSS",
+      "CallMiner Eureka",
+      "Carousel",
+      "ChatGPT",
+      "Check Point CloudGuard Harmony Connect (CloudGuard Connect)",
+      "Check Point Maestro",
+      "CheckPoint",
+      "Chorus by ZoomInfo",
+      "Cisco ASR 1000",
+      "Cisco Firepower 9300",
+      "Cisco Nexus 2000",
+      "Cisco Prime Infrastructure",
+      "Cisco Unified Intelligence Center",
+      "Cisco VPN",
+      "Commvault",
+      "Compete",
+      "ConnectWise Control",
+      "Conversant (ValueClick)",
+      "Cookdown SCOM Connector",
+      "Copilot",
+      "CourseSites by Blackboard",
+      "Craneware",
+      "Cross Pixel Media",
+      "Crownpeak Universal Consent Platform (formerly Evidon)",
+      "CyberArk",
+      "DC Storm",
+      "DDS-CAD",
+      "DNN",
+      "Dassault SOLIDWORKS",
+      "Data Analytics",
+      "Datadog",
+      "Datadog Infrastructure Monitoring",
+      "Dataiku",
+      "Dealer.com",
+      "Dell EMC Isilon",
+      "Django",
+      "Docker",
+      "Docker Swarm",
+      "Drone",
+      "Dynamics 365 Customer Service",
+      "E-planning",
+      "ECS",
+      "EFI",
+      "ELK Stack",
+      "ETQ Reliance QMS",
+      "EVS",
+      "Electron",
+      "Elite Software HVAC Solution",
+      "Etracker",
+      "Excel4Apps",
+      "Express",
+      "FIS",
+      "FMOD",
+      "Facebook",
+      "Facebook Custom Audiences",
+      "Facebook Login (Connect)",
+      "Facebook Meta",
+      "Facebook Pixel",
+      "Facebook Widget",
+      "Facebook for Business",
+      "Faronics Deep Freeze",
+      "Fastapi",
+      "Figma",
+      "Flask",
+      "FlipHTML5",
+      "FortiManager",
+      "Fortinet",
+      "Fortinet FortiGate",
+      "GAS",
+      "GRIN",
+      "GRPC",
+      "Gauges",
+      "Gem",
+      "Gingr",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "GitHub Copilot",
+      "GitLab",
+      "Google",
+      "Google AdWords Conversion",
+      "Google Ads",
+      "Google Ads Conversion",
+      "Google Cloud",
+      "Google Cloud Data Fusion",
+      "Google Cloud Platform",
+      "Google Cloud Spanner",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Grafana",
+      "Groundtruth",
+      "Gunicorn",
+      "HPE Blade Servers",
+      "HPE Primera",
+      "HTML Pro",
+      "HTML5 Maker",
+      "HashiCorp Vault",
+      "HipChat",
+      "Hitachi Vantara",
+      "Huawei",
+      "Hugging Face",
+      "IBM ILOG CPLEX Optimization Studio",
+      "IBM Maximo",
+      "IBM Maximo IT",
+      "IQMS",
+      "ISO+™",
+      "Ignition SCADA",
+      "Instagram",
+      "Intel Cloud Services",
+      "JTL-Shop 3",
+      "Jack Henry & Associates",
+      "Jaeger",
+      "Javascript",
+      "Jetpack",
+      "Jira",
+      "Kiosked",
+      "Kotlin",
+      "Kubeflow",
+      "Kubernetes",
+      "Lambda Cloud",
+      "Langchain",
+      "Laserfiche",
+      "Less",
+      "Level 3 Communications",
+      "Lever",
+      "Linkedin Marketing Solutions",
+      "Linkshare",
+      "LogIC",
+      "Lytics",
+      "MATLAB",
+      "MITRE ATT&CK",
+      "MLflow",
+      "Magento",
+      "Mari",
+      "Mastercam",
+      "Meta Ads",
+      "Meta Ads Manager",
+      "Micro",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Active Directory Federation Services",
+      "Microsoft Advanced Group Policy Management",
+      "Microsoft Azure",
+      "Microsoft Azure Monitor",
+      "Microsoft BitLocker",
+      "Microsoft Defender for Endpoint",
+      "Microsoft Distributed File System (DFS)",
+      "Microsoft Excel",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Hyper-V Server",
+      "Microsoft Office",
+      "Microsoft Office 365",
+      "Microsoft PowerPoint",
+      "Microsoft PowerShell",
+      "Microsoft Project",
+      "Microsoft SQL Server Reporting Services",
+      "Microsoft Teams Rooms",
+      "Microsoft Windows Server 2012",
+      "Microsoft Windows Server 2022",
+      "Microsoft-IIS",
+      "Microsoft.NET Core 3.1",
+      "Mint",
+      "Mobile Friendly",
+      "Modbus",
+      "Mode",
+      "MySQL",
+      "MySQL 8 With RHEL 8",
+      "NICE",
+      "NLP",
+      "NVIDIA",
+      "NVIDIA A100 Tensor Core GPU",
+      "NVIDIA Jetson",
+      "NVIDIA TensorRT",
+      "NetApp",
+      "NetApp iSCSI SAN Storage System",
+      "Ning",
+      "Nokia",
+      "NumPy",
+      "Nutanix",
+      "Nutanix AHV",
+      "OWASP Zed Attack Proxy (ZAP)",
+      "Office365",
+      "Olo",
+      "OneTrust Tech Risk & Compliance",
+      "OpenCV",
+      "OpenLDAP",
+      "OpenStack",
+      "OpenTelemetry",
+      "Opt-Intelligence",
+      "OpticStudio",
+      "Oracle Analytics Cloud",
+      "Oracle Cloud",
+      "Oracle Container Engine for Kubernetes (OKE)",
+      "Oracle Data Masking and Subsetting",
+      "Oracle Hyperion Enterprise",
+      "Outlook",
+      "Outsystems",
+      "PRO.FILE",
+      "Palo Alto Networks",
+      "Palo Alto Networks GlobalProtect",
+      "Palo Alto PA-5200 Series",
+      "Parallels Mac Management for Microsoft SCCM",
+      "Payara Server",
+      "Paylocity",
+      "Pearson MyMathLab",
+      "Posit",
+      "PostgreSQL",
+      "Power BI Documenter",
+      "PowerBI Tiles",
+      "Prometheus",
+      "Ptengine",
+      "PyTorch",
+      "Pytest",
+      "Python",
+      "Quartic",
+      "Quip",
+      "REST",
+      "RabbitMQ",
+      "Radarstats",
+      "Raygun",
+      "React",
+      "React Router",
+      "Red Hat",
+      "Red Hat Enterprise Linux",
+      "Red Hat OpenShift",
+      "Red Hat Satellite",
+      "Redis",
+      "Resi",
+      "Riverbed Technology",
+      "Route",
+      "Route 53",
+      "SAP",
+      "SAP ERP Central Component (ECC)",
+      "SAP Fiori",
+      "SAP HANA",
+      "SAP Material Requirement Planning (MRP)",
+      "SAP Production Planning",
+      "SAP Project System",
+      "SAP S/4HANA",
+      "SAS Enterprise Guide",
+      "SUSE",
+      "Salesforce",
+      "Salesforce Web-To-Lead",
+      "Sass",
+      "Scipy",
+      "Secured MVC Forum on Windows 2012 R2",
+      "Security",
+      "Selenium",
+      "ServiceNow",
+      "SharePoint",
+      "Siemens NX",
+      "Siemens PROFIBUS",
+      "Siemens SIMATIC HMI (Human Machine Interface)",
+      "Siemens SIMATIC S7",
+      "Siemens SIMATIC SCADA",
+      "Sigma",
+      "Signal",
+      "Simcenter Amesim",
+      "Simulink",
+      "Sizmek (MediaMind)",
+      "Slack",
+      "SolarWinds",
+      "SonarQube Server (formerly SonarQube)",
+      "Spark",
+      "Spectrum",
+      "Splunk",
+      "Splunk SOAR",
+      "Star",
+      "Streams",
+      "SuccessFactors (SAP)",
+      "Switch Concepts",
+      "SystemVerilog",
+      "TSheets",
+      "TUNE",
+      "Tableau",
+      "Tanium",
+      "TelmarHelixa",
+      "Tenable.sc",
+      "TensorFlow",
+      "Terraform",
+      "TestRail",
+      "Thales",
+      "Thales HSM",
+      "Tor",
+      "Torque",
+      "Trellix",
+      "Turn",
+      "UKG Pro Advanced Scheduling",
+      "UKG Pro Benefits Administration",
+      "UPS",
+      "Umbraco",
+      "Unisys DevSecOps",
+      "VHDL",
+      "VLAN",
+      "VMware",
+      "Veeam",
+      "Vena",
+      "Verilog",
+      "Veritas",
+      "Verizon (ACS)",
+      "Viewport Meta",
+      "Virgin Pulse",
+      "Visio",
+      "Vista",
+      "Visual-Basic-.NET",
+      "WSUS",
+      "Wasp Barcode",
+      "Weights & Biases",
+      "Wider Planet",
+      "Windows 11",
+      "Windows Server Update Services",
+      "Workday",
+      "Wowanalytics",
+      "Xray",
+      "Yocto",
+      "YouTube",
+      "Zephyr",
+      "comScore",
+      "ebs",
+      "iManage",
+      "jQuery",
+      "pandas",
+      "redvertisement",
+      "vSphere"
+    ],
+    "current_technologies": [
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "abb_robotics",
+        "name": "ABB Robotics",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "ac500_plc",
+        "name": "AC500 PLC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "acl",
+        "name": "ACL",
+        "category": "Other"
+      },
+      {
+        "uid": "adp",
+        "name": "ADP",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "adp_smartcompliance",
+        "name": "ADP SmartCompliance®",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amd_xilinx",
+        "name": "AMD Xilinx",
+        "category": "Other"
+      },
+      {
+        "uid": "angel_lms",
+        "name": "ANGEL LMS",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "asp_net",
+        "name": "ASP.NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_app_mesh",
+        "name": "AWS App Mesh",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_application_load_balancer",
+        "name": "AWS Application Load Balancer",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_bedrock",
+        "name": "AWS Bedrock",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloudformation",
+        "name": "AWS CloudFormation",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_control_tower",
+        "name": "AWS Control Tower",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_iam_identity_center",
+        "name": "AWS IAM Identity Center",
+        "category": "Event Management"
+      },
+      {
+        "uid": "aws_public_cloud",
+        "name": "AWS Public Cloud",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_shield",
+        "name": "AWS Shield",
+        "category": "Security"
+      },
+      {
+        "uid": "aws_step_functions",
+        "name": "AWS Step Functions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_transfer_for_sftp",
+        "name": "AWS Transfer for SFTP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_transit_gateway",
+        "name": "AWS Transit Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_vpn",
+        "name": "AWS VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_waf",
+        "name": "AWS WAF",
+        "category": "Security"
+      },
+      {
+        "uid": "absorb_lms",
+        "name": "Absorb LMS",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "acronis_cyber_backup",
+        "name": "Acronis Cyber Backup",
+        "category": "Security"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "adconion",
+        "name": "Adconion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "adobe_creative_suite",
+        "name": "Adobe Creative Suite",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "adobe_marketing_cloud",
+        "name": "Adobe Marketing Cloud",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "air",
+        "name": "Air",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai_cdn_solutions",
+        "name": "Akamai CDN Solutions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "alcatellucent",
+        "name": "Alcatel-Lucent",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "altitude_arena",
+        "name": "Altitude ARENA",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws_platform",
+        "name": "Amazon AWS Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_cloudwatch",
+        "name": "Amazon CloudWatch",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_connect",
+        "name": "Amazon Connect",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "amazon_ec2",
+        "name": "Amazon EC2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elasticache",
+        "name": "Amazon ElastiCache",
+        "category": "Database"
+      },
+      {
+        "uid": "amazon_elastic_file_system_amazon_efs",
+        "name": "Amazon Elastic File System (Amazon EFS)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elastic_load_balancer",
+        "name": "Amazon Elastic Load Balancer",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "amazon_elastic_load_balancing",
+        "name": "Amazon Elastic Load Balancing",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_freertos",
+        "name": "Amazon FreeRTOS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_sagemaker",
+        "name": "Amazon SageMaker",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_virtual_private_cloud_amazon_vpc",
+        "name": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "analyzer",
+        "name": "Analyzer",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ansible",
+        "name": "Ansible",
+        "category": "Other"
+      },
+      {
+        "uid": "ansys_fluids",
+        "name": "Ansys Fluids",
+        "category": "Other"
+      },
+      {
+        "uid": "apache_kafka",
+        "name": "Apache Kafka",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_parquet",
+        "name": "Apache Parquet",
+        "category": "Database"
+      },
+      {
+        "uid": "apricot_software",
+        "name": "Apricot Software",
+        "category": "Case Management"
+      },
+      {
+        "uid": "aptean_industrial_manufacturing_erp_made2manage_edition",
+        "name": "Aptean Industrial Manufacturing ERP Made2Manage Edition",
+        "category": "ERP"
+      },
+      {
+        "uid": "arcgis",
+        "name": "ArcGIS",
+        "category": "Other"
+      },
+      {
+        "uid": "argon_cicd_security",
+        "name": "Argon CI/CD Security",
+        "category": "Security"
+      },
+      {
+        "uid": "aruba",
+        "name": "Aruba",
+        "category": "Hosting"
+      },
+      {
+        "uid": "aruba_clearpass_access_control_and_policy_management",
+        "name": "Aruba ClearPass Access Control and Policy Management",
+        "category": "Security"
+      },
+      {
+        "uid": "aruba_mobility_controllers",
+        "name": "Aruba Mobility Controllers",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aryson_mysql_to_mssql_converter",
+        "name": "Aryson MySQL to MSSQL Converter",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "atex",
+        "name": "Atex",
+        "category": "CMS"
+      },
+      {
+        "uid": "atlassian_bitbucket",
+        "name": "Atlassian Bitbucket",
+        "category": "CMS"
+      },
+      {
+        "uid": "aurora",
+        "name": "Aurora",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "autocad",
+        "name": "AutoCAD",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "autodesk_bim_collaborate",
+        "name": "Autodesk BIM Collaborate",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "autopilot",
+        "name": "Autopilot",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "axonius",
+        "name": "Axonius",
+        "category": "Security"
+      },
+      {
+        "uid": "azure_active_directory",
+        "name": "Azure Active Directory",
+        "category": "Security"
+      },
+      {
+        "uid": "azure_active_directory_b2c",
+        "name": "Azure Active Directory B2C",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_data_lake_storage",
+        "name": "Azure Data Lake Storage",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure devops",
+        "name": "Azure Devops",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "azure_linux_virtual_machines",
+        "name": "Azure Linux Virtual Machines",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_maps",
+        "name": "Azure Maps",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_virtual_machine_scale_sets",
+        "name": "Azure Virtual Machine Scale Sets",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "base",
+        "name": "BASE",
+        "category": "Other"
+      },
+      {
+        "uid": "barracuda",
+        "name": "Barracuda MSP",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "barracuda_spam_firewall",
+        "name": "Barracuda Spam Firewall",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "bevywise_mqtt_broker",
+        "name": "Bevywise MQTT Broker",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "blazor",
+        "name": "Blazor",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "bluetie_vault",
+        "name": "BlueTie Vault",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "bugzilla",
+        "name": "Bugzilla",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "c#",
+        "name": "C#",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "c_c++",
+        "name": "C/C++",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cat",
+        "name": "CAT",
+        "category": "ERP"
+      },
+      {
+        "uid": "cet",
+        "name": "CET",
+        "category": "Other"
+      },
+      {
+        "uid": "cmake",
+        "name": "CMake",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cnc_software",
+        "name": "CNC Software",
+        "category": "Other"
+      },
+      {
+        "uid": "cpmstar",
+        "name": "CPMStar",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "css",
+        "name": "CSS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "callminer_eureka",
+        "name": "CallMiner Eureka",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "carousel",
+        "name": "Carousel",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "chatgpt",
+        "name": "ChatGPT",
+        "category": "Chats"
+      },
+      {
+        "uid": "check_point_cloudguard_harmony_connect_cloudguard_connect",
+        "name": "Check Point CloudGuard Harmony Connect (CloudGuard Connect)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "check_point_maestro",
+        "name": "Check Point Maestro",
+        "category": "Event Management"
+      },
+      {
+        "uid": "checkpoint",
+        "name": "CheckPoint",
+        "category": "Security"
+      },
+      {
+        "uid": "chorus_by_zoominfo",
+        "name": "Chorus by ZoomInfo",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cisco_asr_1000",
+        "name": "Cisco ASR 1000",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_firepower_9300",
+        "name": "Cisco Firepower 9300",
+        "category": "Event Management"
+      },
+      {
+        "uid": "cisco_nexus_2000",
+        "name": "Cisco Nexus 2000",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_prime_infrastructure",
+        "name": "Cisco Prime Infrastructure",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_unified_intelligence_center",
+        "name": "Cisco Unified Intelligence Center",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cisco_vpn",
+        "name": "Cisco VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "commvault",
+        "name": "Commvault",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "compete",
+        "name": "Compete",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "connectwise_control",
+        "name": "ConnectWise Control",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "conversant_valueclick",
+        "name": "Conversant (ValueClick)",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "cookdown_scom_connector",
+        "name": "Cookdown SCOM Connector",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "coursesites_by_blackboard",
+        "name": "CourseSites by Blackboard",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "craneware",
+        "name": "Craneware",
+        "category": "Other"
+      },
+      {
+        "uid": "cross_pixel_media",
+        "name": "Cross Pixel Media",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "crownpeak_universal_consent_platform_formerly_evidon",
+        "name": "Crownpeak Universal Consent Platform (formerly Evidon)",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "cyberark",
+        "name": "CyberArk",
+        "category": "Security"
+      },
+      {
+        "uid": "dc_storm",
+        "name": "DC Storm",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ddscad",
+        "name": "DDS-CAD",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "dnn",
+        "name": "DNN",
+        "category": "CMS"
+      },
+      {
+        "uid": "dassault_solidworks",
+        "name": "Dassault SOLIDWORKS",
+        "category": "Other"
+      },
+      {
+        "uid": "data analytics",
+        "name": "Data Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "datadog",
+        "name": "Datadog",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "datadog_infrastructure_monitoring",
+        "name": "Datadog Infrastructure Monitoring",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dataiku",
+        "name": "Dataiku",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dealer_com",
+        "name": "Dealer.com",
+        "category": "CMS"
+      },
+      {
+        "uid": "dell_emc_isilon",
+        "name": "Dell EMC Isilon",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "django",
+        "name": "Django",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "docker_swarm",
+        "name": "Docker Swarm",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "drone",
+        "name": "Drone",
+        "category": "Other"
+      },
+      {
+        "uid": "dynamics_365_customer_service",
+        "name": "Dynamics 365 Customer Service",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "e-planning",
+        "name": "E-planning",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "ecs",
+        "name": "ECS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "efi",
+        "name": "EFI",
+        "category": "Other"
+      },
+      {
+        "uid": "elk_stack",
+        "name": "ELK Stack",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "etq_reliance_qms",
+        "name": "ETQ Reliance QMS",
+        "category": "ERP"
+      },
+      {
+        "uid": "evs",
+        "name": "EVS",
+        "category": "Live Streaming Platforms"
+      },
+      {
+        "uid": "electron",
+        "name": "Electron",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "elite_software_hvac_solution",
+        "name": "Elite Software HVAC Solution",
+        "category": "Other"
+      },
+      {
+        "uid": "etracker",
+        "name": "Etracker",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "express",
+        "name": "Express",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "fis",
+        "name": "FIS",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "fmod",
+        "name": "FMOD",
+        "category": "Other"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "facebook_web_custom_audiences",
+        "name": "Facebook Custom Audiences",
+        "category": "Retargeting"
+      },
+      {
+        "uid": "facebook_login",
+        "name": "Facebook Login (Connect)",
+        "category": "Social Login"
+      },
+      {
+        "uid": "facebook_meta",
+        "name": "Facebook Meta",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_widget",
+        "name": "Facebook Widget",
+        "category": "Widgets"
+      },
+      {
+        "uid": "facebook_for_business",
+        "name": "Facebook for Business",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "faronics_deep_freeze",
+        "name": "Faronics Deep Freeze",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "fastapi",
+        "name": "Fastapi",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "figma",
+        "name": "Figma",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "flask",
+        "name": "Flask",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "fliphtml5",
+        "name": "FlipHTML5",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "fortimanager",
+        "name": "FortiManager",
+        "category": "Security"
+      },
+      {
+        "uid": "fortinet",
+        "name": "Fortinet",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "fortinet_fortigate",
+        "name": "Fortinet FortiGate",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "gas",
+        "name": "GAS",
+        "category": "Other"
+      },
+      {
+        "uid": "grin",
+        "name": "GRIN",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "grpc",
+        "name": "GRPC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "gauges",
+        "name": "Gauges",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "gingr",
+        "name": "Gingr",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github_actions",
+        "name": "GitHub Actions",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github_copilot",
+        "name": "GitHub Copilot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_adwords_conversion",
+        "name": "Google AdWords Conversion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_ads",
+        "name": "Google Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_ads_conversion",
+        "name": "Google Ads Conversion",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud",
+        "name": "Google Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_data_fusion",
+        "name": "Google Cloud Data Fusion",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_platform",
+        "name": "Google Cloud Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_spanner",
+        "name": "Google Cloud Spanner",
+        "category": "Database"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "groundtruth",
+        "name": "Groundtruth",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "gunicorn",
+        "name": "Gunicorn",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "hpe_blade_servers",
+        "name": "HPE Blade Servers",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "hpe_primera",
+        "name": "HPE Primera",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "html_pro",
+        "name": "HTML Pro",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "html5_maker",
+        "name": "HTML5 Maker",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "hashicorp_vault",
+        "name": "HashiCorp Vault",
+        "category": "Security"
+      },
+      {
+        "uid": "hipchat",
+        "name": "HipChat",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "hitachi_vantara",
+        "name": "Hitachi Vantara",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "huawei",
+        "name": "Huawei",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "hugging_face",
+        "name": "Hugging Face",
+        "category": "Other"
+      },
+      {
+        "uid": "ibm_ilog_cplex_optimization_studio",
+        "name": "IBM ILOG CPLEX Optimization Studio",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ibm_maximo",
+        "name": "IBM Maximo",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "ibm_maximo_it",
+        "name": "IBM Maximo IT",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "iqms",
+        "name": "IQMS",
+        "category": "ERP"
+      },
+      {
+        "uid": "iso",
+        "name": "ISO+™",
+        "category": "Other"
+      },
+      {
+        "uid": "ignition_scada",
+        "name": "Ignition SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "intel",
+        "name": "Intel Cloud Services",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "jtl-shop_3",
+        "name": "JTL-Shop 3",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "jack_henry_associates",
+        "name": "Jack Henry & Associates",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "jaeger",
+        "name": "Jaeger",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "javascript",
+        "name": "Javascript",
+        "category": "Other"
+      },
+      {
+        "uid": "jetpack",
+        "name": "Jetpack",
+        "category": "CMS"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "kiosked",
+        "name": "Kiosked",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "kotlin",
+        "name": "Kotlin",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "kubeflow",
+        "name": "Kubeflow",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "lambda_cloud",
+        "name": "Lambda Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "langchain",
+        "name": "Langchain",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "laserfiche",
+        "name": "Laserfiche",
+        "category": "ERP"
+      },
+      {
+        "uid": "less",
+        "name": "Less",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "level_3_communications",
+        "name": "Level 3 Communications",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "lever",
+        "name": "Lever",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "linkedin_display_ads__formerly_bizo",
+        "name": "Linkedin Marketing Solutions",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "linkshare",
+        "name": "Linkshare",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "logic",
+        "name": "LogIC",
+        "category": "Other"
+      },
+      {
+        "uid": "lytics",
+        "name": "Lytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "matlab",
+        "name": "MATLAB",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mitre_attck",
+        "name": "MITRE ATT&CK",
+        "category": "Event Management"
+      },
+      {
+        "uid": "mlflow",
+        "name": "MLflow",
+        "category": "Other"
+      },
+      {
+        "uid": "magento",
+        "name": "Magento",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "mari",
+        "name": "Mari",
+        "category": "Other"
+      },
+      {
+        "uid": "mastercam",
+        "name": "Mastercam",
+        "category": "Other"
+      },
+      {
+        "uid": "meta_ads",
+        "name": "Meta Ads",
+        "category": "Database"
+      },
+      {
+        "uid": "meta ads manager",
+        "name": "Meta Ads Manager",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "micro",
+        "name": "Micro",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_active_directory_federation_services",
+        "name": "Microsoft Active Directory Federation Services",
+        "category": "Event Management"
+      },
+      {
+        "uid": "microsoft_advanced_group_policy_management",
+        "name": "Microsoft Advanced Group Policy Management",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_azure",
+        "name": "Microsoft Azure",
+        "category": "Hosting"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_bitlocker",
+        "name": "Microsoft BitLocker",
+        "category": "Security"
+      },
+      {
+        "uid": "microsoft_defender_for_endpoint",
+        "name": "Microsoft Defender for Endpoint",
+        "category": "Security"
+      },
+      {
+        "uid": "microsoft_distributed_file_system_dfs",
+        "name": "Microsoft Distributed File System (DFS)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_hyperv_server",
+        "name": "Microsoft Hyper-V Server",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "office_365",
+        "name": "Microsoft Office 365",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft project",
+        "name": "Microsoft Project",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_sql_server_reporting_services",
+        "name": "Microsoft SQL Server Reporting Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_teams_rooms",
+        "name": "Microsoft Teams Rooms",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_windows_server_2012",
+        "name": "Microsoft Windows Server 2012",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_windows_server_2022",
+        "name": "Microsoft Windows Server 2022",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft-iis",
+        "name": "Microsoft-IIS",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "microsoftnet_core_31",
+        "name": "Microsoft.NET Core 3.1",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "mint",
+        "name": "Mint",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "modbus",
+        "name": "Modbus",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql_8_with_rhel_8",
+        "name": "MySQL 8 With RHEL 8",
+        "category": "Database"
+      },
+      {
+        "uid": "nice",
+        "name": "NICE",
+        "category": "Other"
+      },
+      {
+        "uid": "nlp",
+        "name": "NLP",
+        "category": "Other"
+      },
+      {
+        "uid": "nvidia",
+        "name": "NVIDIA",
+        "category": "Other"
+      },
+      {
+        "uid": "nvidia_a100_tensor_core_gpu",
+        "name": "NVIDIA A100 Tensor Core GPU",
+        "category": "Other"
+      },
+      {
+        "uid": "nvidia_jetson",
+        "name": "NVIDIA Jetson",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "nvidia_tensorrt",
+        "name": "NVIDIA TensorRT",
+        "category": "Other"
+      },
+      {
+        "uid": "netapp",
+        "name": "NetApp",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "netapp_iscsi_san_storage_system",
+        "name": "NetApp iSCSI SAN Storage System",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "nokia",
+        "name": "Nokia",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "numpy",
+        "name": "NumPy",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nutanix",
+        "name": "Nutanix",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "nutanix_ahv",
+        "name": "Nutanix AHV",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "owasp_zed_attack_proxy_zap",
+        "name": "OWASP Zed Attack Proxy (ZAP)",
+        "category": "Security"
+      },
+      {
+        "uid": "office365",
+        "name": "Office365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "olo",
+        "name": "Olo",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "onetrust_tech_risk_compliance",
+        "name": "OneTrust Tech Risk & Compliance",
+        "category": "ERP"
+      },
+      {
+        "uid": "opencv",
+        "name": "OpenCV",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "openldap",
+        "name": "OpenLDAP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "openstack",
+        "name": "OpenStack",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "opentelemetry",
+        "name": "OpenTelemetry",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "opt-intelligence",
+        "name": "Opt-Intelligence",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "opticstudio",
+        "name": "OpticStudio",
+        "category": "Other"
+      },
+      {
+        "uid": "oracle_analytics_cloud",
+        "name": "Oracle Analytics Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "oracle_cloud",
+        "name": "Oracle Cloud",
+        "category": "Hosting"
+      },
+      {
+        "uid": "oracle_container_engine_for_kubernetes_oke",
+        "name": "Oracle Container Engine for Kubernetes (OKE)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "oracle_data_masking_and_subsetting",
+        "name": "Oracle Data Masking and Subsetting",
+        "category": "Security"
+      },
+      {
+        "uid": "oracle_hyperion_enterprise",
+        "name": "Oracle Hyperion Enterprise",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "outsystems",
+        "name": "Outsystems",
+        "category": "CMS"
+      },
+      {
+        "uid": "profile",
+        "name": "PRO.FILE",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "palo_alto_networks",
+        "name": "Palo Alto Networks",
+        "category": "Event Management"
+      },
+      {
+        "uid": "palo_alto_networks_globalprotect",
+        "name": "Palo Alto Networks GlobalProtect",
+        "category": "Security"
+      },
+      {
+        "uid": "palo_alto_pa5200_series",
+        "name": "Palo Alto PA-5200 Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "parallels_mac_management_for_microsoft_sccm",
+        "name": "Parallels Mac Management for Microsoft SCCM",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "payara_server",
+        "name": "Payara Server",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "paylocity",
+        "name": "Paylocity",
+        "category": "Payments"
+      },
+      {
+        "uid": "pearson_mymathlab",
+        "name": "Pearson MyMathLab",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "posit",
+        "name": "Posit",
+        "category": "Other"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "powerbi_tiles",
+        "name": "PowerBI Tiles",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Database"
+      },
+      {
+        "uid": "ptengine",
+        "name": "Ptengine",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "pytorch",
+        "name": "PyTorch",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pytest",
+        "name": "Pytest",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "quartic",
+        "name": "Quartic",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "quip",
+        "name": "Quip",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "rest",
+        "name": "REST",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rabbitmq",
+        "name": "RabbitMQ",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "radarstats",
+        "name": "Radarstats",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "raygun",
+        "name": "Raygun",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react_router",
+        "name": "React Router",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "red_hat",
+        "name": "Red Hat",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "red_hat_enterprise_linux",
+        "name": "Red Hat Enterprise Linux",
+        "category": "Other"
+      },
+      {
+        "uid": "red_hat_openshift",
+        "name": "Red Hat OpenShift",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "red_hat_satellite",
+        "name": "Red Hat Satellite",
+        "category": "ERP"
+      },
+      {
+        "uid": "redis",
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "uid": "resi",
+        "name": "Resi",
+        "category": "Other"
+      },
+      {
+        "uid": "riverbed_technology",
+        "name": "Riverbed Technology",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "route",
+        "name": "Route",
+        "category": "Other"
+      },
+      {
+        "uid": "route_53",
+        "name": "Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sap_erp_central_component_ecc",
+        "name": "SAP ERP Central Component (ECC)",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_fiori",
+        "name": "SAP Fiori",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_hana",
+        "name": "SAP HANA",
+        "category": "Database"
+      },
+      {
+        "uid": "sap_material_requirement_planning_mrp",
+        "name": "SAP Material Requirement Planning (MRP)",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_production_planning",
+        "name": "SAP Production Planning",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_project_system",
+        "name": "SAP Project System",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_s4hana",
+        "name": "SAP S/4HANA",
+        "category": "ERP"
+      },
+      {
+        "uid": "sas_enterprise_guide",
+        "name": "SAS Enterprise Guide",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "suse",
+        "name": "SUSE",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_webtolead",
+        "name": "Salesforce Web-To-Lead",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sass",
+        "name": "Sass",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "scipy",
+        "name": "Scipy",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "secured_mvc_forum_on_windows_2012_r2",
+        "name": "Secured MVC Forum on Windows 2012 R2",
+        "category": "CMS"
+      },
+      {
+        "uid": "security",
+        "name": "Security",
+        "category": "Security"
+      },
+      {
+        "uid": "selenium",
+        "name": "Selenium",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "service_now",
+        "name": "ServiceNow",
+        "category": "Case Management"
+      },
+      {
+        "uid": "sharepoint",
+        "name": "SharePoint",
+        "category": "CMS"
+      },
+      {
+        "uid": "siemens_nx",
+        "name": "Siemens NX",
+        "category": "Other"
+      },
+      {
+        "uid": "siemens_profibus",
+        "name": "Siemens PROFIBUS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "siemens_simatic_hmi_human_machine_interface",
+        "name": "Siemens SIMATIC HMI (Human Machine Interface)",
+        "category": "Other"
+      },
+      {
+        "uid": "siemens_simatic_s7",
+        "name": "Siemens SIMATIC S7",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "siemens_simatic_scada",
+        "name": "Siemens SIMATIC SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "sigma",
+        "name": "Sigma",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "signal",
+        "name": "Signal",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "simcenter_amesim",
+        "name": "Simcenter Amesim",
+        "category": "Other"
+      },
+      {
+        "uid": "simulink",
+        "name": "Simulink",
+        "category": "Other"
+      },
+      {
+        "uid": "sizmek_mediamind",
+        "name": "Sizmek (MediaMind)",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "solarwinds",
+        "name": "SolarWinds",
+        "category": "Hosting"
+      },
+      {
+        "uid": "sonarqube_server_formerly_sonarqube",
+        "name": "SonarQube Server (formerly SonarQube)",
+        "category": "Other"
+      },
+      {
+        "uid": "spark",
+        "name": "Spark",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spectrum",
+        "name": "Spectrum",
+        "category": "ERP"
+      },
+      {
+        "uid": "splunk",
+        "name": "Splunk",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "splunk_soar",
+        "name": "Splunk SOAR",
+        "category": "Event Management"
+      },
+      {
+        "uid": "star",
+        "name": "Star",
+        "category": "Other"
+      },
+      {
+        "uid": "streams",
+        "name": "Streams",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "successfactors_sap",
+        "name": "SuccessFactors (SAP)",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "switch_concepts",
+        "name": "Switch Concepts",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "systemverilog",
+        "name": "SystemVerilog",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "tsheets",
+        "name": "TSheets",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "tune",
+        "name": "TUNE",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "tanium",
+        "name": "Tanium",
+        "category": "Security"
+      },
+      {
+        "uid": "telmarhelixa",
+        "name": "TelmarHelixa",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "tenablesc",
+        "name": "Tenable.sc",
+        "category": "Event Management"
+      },
+      {
+        "uid": "tensorflow",
+        "name": "TensorFlow",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "testrail",
+        "name": "TestRail",
+        "category": "Online Testing Platforms"
+      },
+      {
+        "uid": "thales",
+        "name": "Thales",
+        "category": "Security"
+      },
+      {
+        "uid": "thales_hsm",
+        "name": "Thales HSM",
+        "category": "Event Management"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "torque",
+        "name": "Torque",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "trellix",
+        "name": "Trellix",
+        "category": "Security"
+      },
+      {
+        "uid": "turn",
+        "name": "Turn",
+        "category": "Demand Side Platforms"
+      },
+      {
+        "uid": "ukg_pro_advanced_scheduling",
+        "name": "UKG Pro Advanced Scheduling",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "ukg_pro_benefits_administration",
+        "name": "UKG Pro Benefits Administration",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "ups",
+        "name": "UPS",
+        "category": "Shipping"
+      },
+      {
+        "uid": "umbraco",
+        "name": "Umbraco",
+        "category": "CMS"
+      },
+      {
+        "uid": "unisys_devsecops",
+        "name": "Unisys DevSecOps",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "vhdl",
+        "name": "VHDL",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vlan",
+        "name": "VLAN",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vmware",
+        "name": "VMware",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "veeam",
+        "name": "Veeam",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vena",
+        "name": "Vena",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "verilog",
+        "name": "Verilog",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "veritas",
+        "name": "Veritas",
+        "category": "Other"
+      },
+      {
+        "uid": "verizon_acs",
+        "name": "Verizon (ACS)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "virgin_pulse",
+        "name": "Virgin Pulse",
+        "category": "Other"
+      },
+      {
+        "uid": "visio",
+        "name": "Visio",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "vista",
+        "name": "Vista",
+        "category": "ERP"
+      },
+      {
+        "uid": "visual_basic",
+        "name": "Visual-Basic-.NET",
+        "category": "CMS"
+      },
+      {
+        "uid": "wsus",
+        "name": "WSUS",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "wasp_barcode",
+        "name": "Wasp Barcode",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "weights_biases",
+        "name": "Weights & Biases",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "wider_planet",
+        "name": "Wider Planet",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "windows_11",
+        "name": "Windows 11",
+        "category": "Other"
+      },
+      {
+        "uid": "windows_server_update_services",
+        "name": "Windows Server Update Services",
+        "category": "Other"
+      },
+      {
+        "uid": "workday",
+        "name": "Workday",
+        "category": "CMS"
+      },
+      {
+        "uid": "wowanalytics",
+        "name": "Wowanalytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "xray",
+        "name": "Xray",
+        "category": "Other"
+      },
+      {
+        "uid": "yocto",
+        "name": "Yocto",
+        "category": "Other"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zephyr",
+        "name": "Zephyr",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "comscore",
+        "name": "comScore",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ebs",
+        "name": "ebs",
+        "category": "Other"
+      },
+      {
+        "uid": "imanage",
+        "name": "iManage",
+        "category": "Case Management"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "pandas",
+        "name": "pandas",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "redvertisement",
+        "name": "redvertisement",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "vsphere",
+        "name": "vSphere",
+        "category": "ERP"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "operations": 439,
+      "finance": 389,
+      "information_technology": 802,
+      "engineering": 4909,
+      "consulting": 96,
+      "marketing": 95,
+      "business_development": 317,
+      "sales": 172,
+      "administrative": 86,
+      "human_resources": 213,
+      "accounting": 29,
+      "support": 136,
+      "data_science": 68,
+      "arts_and_design": 157,
+      "legal": 16,
+      "media_and_commmunication": 27,
+      "product_management": 28,
+      "education": 25,
+      "entrepreneurship": 0
+    },
+    "organization_headcount_six_month_growth": 0.01414056771760763,
+    "organization_headcount_twelve_month_growth": 0.06995248093712013,
+    "organization_headcount_twenty_four_month_growth": 0.1721549636803874
+  }
+}

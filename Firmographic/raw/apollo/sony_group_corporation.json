@@ -1,0 +1,1919 @@
+{
+  "organization": {
+    "id": "5f905e899a6e0b00dc9989de",
+    "name": "Sony",
+    "website_url": "http://www.sony.com",
+    "angellist_url": "http://angel.co/sony",
+    "linkedin_url": "http://www.linkedin.com/company/sony",
+    "twitter_url": "https://twitter.com/sonymusic",
+    "facebook_url": "http://www.facebook.com/Sony",
+    "primary_phone": {
+      "number": "+81 20-2342-6221",
+      "source": "Scraped",
+      "sanitized_number": "+812023426221"
+    },
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": 1276,
+    "phone": "+81 20-2342-6221",
+    "linkedin_uid": "1252",
+    "founded_year": 1946,
+    "publicly_traded_symbol": "SONY",
+    "publicly_traded_exchange": "nyse",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69aab40769fedc00010a5014/picture",
+    "crunchbase_url": null,
+    "primary_domain": "sony.com",
+    "sic_codes": [
+      "4833",
+      "2741"
+    ],
+    "naics_codes": [
+      "334310",
+      "513210",
+      "512250"
+    ],
+    "sanitized_phone": "+812023426221",
+    "industry": "entertainment",
+    "estimated_num_employees": 113000,
+    "keywords": [
+      "game",
+      "financial services sectors",
+      "sony group is primarily focused on the electronics",
+      "entertainment",
+      "consumer electronics",
+      "hardware + software",
+      "hardware",
+      "information technology",
+      "entertainment providers",
+      "consumers",
+      "computer hardware",
+      "computer software",
+      "information technology & services"
+    ],
+    "organization_revenue_printed": "82.9B",
+    "organization_revenue": 82919416000.0,
+    "industries": [
+      "entertainment",
+      "consumer electronics",
+      "computer games",
+      "music",
+      "information technology & services",
+      "computer hardware"
+    ],
+    "secondary_industries": [
+      "consumer electronics",
+      "computer games",
+      "music",
+      "information technology & services",
+      "computer hardware"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cdd37369643b80510000",
+    "industry_tag_hash": {
+      "entertainment": "5567cdd37369643b80510000",
+      "consumer electronics": "5567e1947369641ead570000",
+      "computer games": "5567cd8b736964540d0f0000",
+      "music": "5567cd4f736964540d050000",
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer hardware": "5567e0d47369641233eb0600"
+    },
+    "retail_location_count": 0,
+    "raw_address": "1-7-1 Konan,, Minato-ku, Tokyo, 108-0075, JP",
+    "street_address": "",
+    "city": "Minato",
+    "state": "Tokyo",
+    "postal_code": null,
+    "country": "Japan",
+    "owned_by_organization_id": "5fc95406e229330001e6cfb9",
+    "owned_by_organization": {
+      "id": "5fc95406e229330001e6cfb9",
+      "name": "Sony Research India",
+      "website_url": "http://www.sonyresearchindia.com"
+    },
+    "short_description": "Sony Corporation is a Japanese multinational conglomerate founded in 1946. Originally a radio repair shop, it has grown into a global leader in consumer electronics, entertainment, gaming, music, financial services, and network communications. The company was renamed Sony in 1958, reflecting its international appeal and commitment to innovation.\n\nSony has a rich history of pioneering technologies, including Japan's first tape recorder and transistor radio. It introduced iconic products such as the Walkman, PlayStation, and BRAVIA televisions. The company operates across various segments, offering a wide range of consumer electronics, gaming consoles, music production, and financial services. Sony is known for its high-quality, compact technology that has significantly influenced consumer markets worldwide. With a strong global presence, Sony continues to focus on innovation and quality in its diverse offerings.",
+    "suborganizations": [
+      {
+        "id": "5592349073696418ae0bca00",
+        "name": "Elvis Press",
+        "website_url": "http://www.elvisthemusic.com"
+      },
+      {
+        "id": "55e187aaf3e5bb2c6f0002ca",
+        "name": "PlayStation",
+        "website_url": "http://www.playstation.com"
+      },
+      {
+        "id": "55f610baf3e5bb1961002d5a",
+        "name": "PlayStationBit",
+        "website_url": "http://www.playstationbit.com"
+      },
+      {
+        "id": "5b12ee68a6da98dcc6710692",
+        "name": "Sony Brasil",
+        "website_url": "http://www.sony.com.br"
+      },
+      {
+        "id": "5d58188780f93e204212100f",
+        "name": "Sony Acceleration Platform",
+        "website_url": "http://www.sony-acceleration-platform.com"
+      },
+      {
+        "id": "5da55cb321f73a0001bb282d",
+        "name": "Sony Bank",
+        "website_url": "http://www.sonybank.jp"
+      },
+      {
+        "id": "60894588103f8a00a489a67e",
+        "name": "Firewalk Studios",
+        "website_url": "http://www.firewalkstudios.com"
+      },
+      {
+        "id": "632cc68d33dfb000e1bb5a17",
+        "name": "Sony Pictures Classics",
+        "website_url": "http://www.sonyclassics.com"
+      },
+      {
+        "id": "6560a7d8e1545b00a32b3b53",
+        "name": "Sony CSL (Paris)",
+        "website_url": "http://www.sony.fr"
+      },
+      {
+        "id": "659fa0bfa125fa0300319c04",
+        "name": "Sony Block Solutions Singapore",
+        "website_url": "http://www.sonynetwork.co.jp"
+      },
+      {
+        "id": "67289c7462f46c0001d5bda7",
+        "name": "ソニーマーケティング（株）",
+        "website_url": "http://www.sony.jp"
+      },
+      {
+        "id": "67346be06b0e840001647331",
+        "name": "Sony De México, S.A. De C.V.",
+        "website_url": "http://www.sony.com.mx"
+      },
+      {
+        "id": "691d4f6080cae100017c0bee",
+        "name": "Nurulize Inc.",
+        "website_url": "http://www.sonyinnovationstudios.com"
+      },
+      {
+        "id": "695e69b50b1044000131354c",
+        "name": "Supraphon",
+        "website_url": "http://www.supraphon.com"
+      },
+      {
+        "id": "556cde0273696411c1614200",
+        "name": "Sony Network Communications Inc.",
+        "website_url": null
+      },
+      {
+        "id": "556d1d1e7369641261169700",
+        "name": "Sony Music Entertainment Belgium",
+        "website_url": "http://www.sonymusic.be"
+      },
+      {
+        "id": "559238537369641893f8d600",
+        "name": "Sony Pictures Entertainment",
+        "website_url": "http://www.sonypictures.com"
+      },
+      {
+        "id": "5e57cd00b906a40001860ce7",
+        "name": "Sony Music Entertainment Switzerland",
+        "website_url": "http://www.sonymusic.ch"
+      },
+      {
+        "id": "5e59d3c99798fa0001c36661",
+        "name": "Sony India",
+        "website_url": "http://www.sony.co.in"
+      },
+      {
+        "id": "5fd1a2d19e720b00011c1670",
+        "name": "Cine Sony Television",
+        "website_url": "http://www.cinesony.com"
+      },
+      {
+        "id": "618190a8bd9196008cb6e38f",
+        "name": "Sony Electronics",
+        "website_url": "http://www.sonyjobs.com"
+      },
+      {
+        "id": "66de0ffbd6a4bc000160f47b",
+        "name": "ソニー希望・光株式会社",
+        "website_url": "http://www.sonykibou-hikari.co.jp"
+      },
+      {
+        "id": "672676bb6919ee00012a18d6",
+        "name": "Arista Recordings",
+        "website_url": "http://www.aristarecordings.com"
+      },
+      {
+        "id": "6730212fcb4dd60001a6a112",
+        "name": "ソニー（株）",
+        "website_url": "http://www.sony.co.jp"
+      },
+      {
+        "id": "5569927373696425b83d5e00",
+        "name": "Columbia Records",
+        "website_url": "http://www.columbiarecords.com"
+      },
+      {
+        "id": "5b146effa6da9870efd4167b",
+        "name": "The Orchard",
+        "website_url": "http://www.theorchard.com"
+      },
+      {
+        "id": "5e7cecf60e4e3a00de657be9",
+        "name": "Ministry of Sound",
+        "website_url": "http://www.ministryofsound.com"
+      },
+      {
+        "id": "5fd5daf618587d0001ca6b4e",
+        "name": "Human Re Sources",
+        "website_url": "http://www.human-re-sources.com"
+      },
+      {
+        "id": "66ef27b17317d1000134e629",
+        "name": "ソニーフィナンシャルホールディングス(株)",
+        "website_url": "http://www.sonyfg.co.jp"
+      },
+      {
+        "id": "6828aeafcfefba00013fa403",
+        "name": "Sony Deutschland",
+        "website_url": "http://www.sony.de"
+      },
+      {
+        "id": "55922c3273696418fbb5aa00",
+        "name": "Sony Music Entertainment",
+        "website_url": "http://www.sonymusic.com"
+      },
+      {
+        "id": "55923caf736964583e7e8000",
+        "name": "SMEJ",
+        "website_url": "http://www.sonymusic.co.jp"
+      },
+      {
+        "id": "5da3d2e003225e0001ec4f78",
+        "name": "LUSAFRICA",
+        "website_url": "http://www.lusafrica.com"
+      },
+      {
+        "id": "5db13d9ed84d22000125537e",
+        "name": "Sony Classical International",
+        "website_url": "http://www.sonyclassical.com"
+      },
+      {
+        "id": "5e0a07b788cd7e00d7e60f30",
+        "name": "Sony Music Entertainment Brasil",
+        "website_url": "http://www.sonymusic.com.br"
+      },
+      {
+        "id": "5f9809b28859cb008cd7524c",
+        "name": "Somethin' Else",
+        "website_url": "http://www.somethinelse.com"
+      },
+      {
+        "id": "60af9d2af9ae000001d86fa3",
+        "name": "Sony Semicon | ELTRES (global)",
+        "website_url": null
+      },
+      {
+        "id": "61ec77ade3f8ca0001d9c919",
+        "name": "Sony Music Entertainment Poland",
+        "website_url": "http://www.sonymusic.pl"
+      },
+      {
+        "id": "633a672ba8150000a377f7d1",
+        "name": "WhaleFin",
+        "website_url": "http://www.whalefin.com"
+      },
+      {
+        "id": "670280e1c799280001254f72",
+        "name": "ソニーグローバルマニュファクチャリング＆オペレーションズ（株）",
+        "website_url": "http://www.sony-global-mo.co.jp"
+      },
+      {
+        "id": "67259d0722fb730001329025",
+        "name": "ソニー・太陽株式会社",
+        "website_url": "http://www.sony-taiyo.co.jp"
+      },
+      {
+        "id": "67441801116061000137f697",
+        "name": "ソニープロテクノサポート（株）",
+        "website_url": "http://www.sonyprotechnosupport.co.jp"
+      },
+      {
+        "id": "5f42f60f1b3b720001bd5c18",
+        "name": "Sony Marketing",
+        "website_url": null
+      },
+      {
+        "id": "54a1d14574686949e7e29213",
+        "name": "AWAL",
+        "website_url": "http://www.awal.com"
+      },
+      {
+        "id": "556dd58873696411de3fa701",
+        "name": "VEVA",
+        "website_url": "http://www.sonymusicnashvilleprojectdelivery.com"
+      },
+      {
+        "id": "5da687e4364e550001c1badf",
+        "name": "Sony Music Masterworks",
+        "website_url": "http://www.sonymusicmasterworks.com"
+      },
+      {
+        "id": "54a1283269702d8b194a6301",
+        "name": "Sony Biotechnology Inc.",
+        "website_url": "http://www.sonybiotechnology.com"
+      },
+      {
+        "id": "5fd1a292dd4c1f0001d78966",
+        "name": "Sony Music Entertainment",
+        "website_url": "http://www.legacyrecordings.com"
+      },
+      {
+        "id": "5e574eb0f2f7d500010cd34f",
+        "name": "Sony Music Entertainment Middle East",
+        "website_url": "http://www.sonymusic.me"
+      },
+      {
+        "id": "63bb8aa303e596000118ebad",
+        "name": "Sony Music Entertainment Korea Inc.",
+        "website_url": "http://www.sonymusic.co.kr"
+      },
+      {
+        "id": "66e76f43cdedb4000103f531",
+        "name": "ソニーフィナンシャルホールディングス（株）",
+        "website_url": "http://www.sonyfh.co.jp"
+      },
+      {
+        "id": "672b5b23b723b9000122de19",
+        "name": "Sony Music Latin",
+        "website_url": "http://www.sonymusiclatin.com"
+      },
+      {
+        "id": "673a98383f77100001b11dd3",
+        "name": "ソニー企業（株）",
+        "website_url": "http://www.sonykigyo.jp"
+      },
+      {
+        "id": "676c40f2a89fe80198b39360",
+        "name": "Sony Music Entertainment France",
+        "website_url": "http://www.sonymusic.fr"
+      },
+      {
+        "id": "5dc1b90bf9abe30098d3efba",
+        "name": "Sony Network Communications Europe",
+        "website_url": "http://www.sonynetworkcom.com"
+      },
+      {
+        "id": "5b84e1be324d4435ba502d54",
+        "name": "Alamo Records",
+        "website_url": "http://www.alamo-records.com"
+      },
+      {
+        "id": "5c26e55980f93e23b1173352",
+        "name": "Sony Music Sweden",
+        "website_url": "http://www.sonymusic.se"
+      },
+      {
+        "id": "5e57f4abd2bd68000121cee7",
+        "name": "Sony Music Entertainment Colombia SA",
+        "website_url": "http://www.sonymusic.com.co"
+      },
+      {
+        "id": "5ed3567e74ba040001bbad11",
+        "name": "SN Systems Ltd",
+        "website_url": null
+      },
+      {
+        "id": "559233e173696418d270c900",
+        "name": "Epic Records",
+        "website_url": "http://www.epicrecords.com"
+      },
+      {
+        "id": "54a134e569702d4b2e1a4200",
+        "name": "Sony Pictures | Stock Footage",
+        "website_url": "http://www.sonypicturesstockfootage.com"
+      },
+      {
+        "id": "6048b8539db29f00019c2ff3",
+        "name": "Sony Latin America, Inc. Todos los Derechos Reservados",
+        "website_url": "http://www.sony.com.ar"
+      },
+      {
+        "id": "6564f5b4443e2000bab613ad",
+        "name": "Sony Semicon | AITRIOS (global)",
+        "website_url": null
+      },
+      {
+        "id": "6708d9013e583d0001361b23",
+        "name": "Sony CSL (Rome)",
+        "website_url": "http://www.sony.it"
+      },
+      {
+        "id": "6731d8a651bf91000153abb7",
+        "name": "Sony Music Nashville",
+        "website_url": "http://www.sonymusicnashville.com"
+      },
+      {
+        "id": "689aee5d335a500001532341",
+        "name": "Sony Global Education, Inc",
+        "website_url": "http://www.sonyged.com"
+      },
+      {
+        "id": "5b135bdaa6da98dd0cef8dcb",
+        "name": "Sony Music Entertainment NL",
+        "website_url": "http://www.sonymusic.nl"
+      },
+      {
+        "id": "5ed0665a370e8100011ebb87",
+        "name": "Sony Interactive Entertainment",
+        "website_url": "http://www.sonyinteractive.com"
+      },
+      {
+        "id": "5fd1ac25dd4c1f0001d7d545",
+        "name": "Sony Nederland",
+        "website_url": "http://www.sony.nl"
+      },
+      {
+        "id": "54a1341969702d333da11a00",
+        "name": "STATSports",
+        "website_url": "http://www.statsports.com"
+      },
+      {
+        "id": "5fd85eb480f3a8000179af3e",
+        "name": "Sony Music Entertainment",
+        "website_url": "http://www.sonymusic.com.ar"
+      },
+      {
+        "id": "612da220a3ce6100015a586b",
+        "name": "Altair Semiconductor",
+        "website_url": "http://www.sony-semicon.com"
+      },
+      {
+        "id": "61ec7ad92a40920001ed79fd",
+        "name": "Sony Music Finland",
+        "website_url": "http://www.sonymusic.fi"
+      },
+      {
+        "id": "64fce1865d2eb700015618f0",
+        "name": "Sony Music Entertainment Norway",
+        "website_url": "http://www.sonymusic.no"
+      },
+      {
+        "id": "6655a71e8398dd04a4e829ce",
+        "name": "Sony Electronics Singapore",
+        "website_url": "http://www.sony.com.sg"
+      },
+      {
+        "id": "6663ecedd7b09a0001e96e58",
+        "name": "Sony Computer Science Laboratories",
+        "website_url": "http://www.sonycsl.co.jp"
+      },
+      {
+        "id": "66d46a0a70ecc90001337d51",
+        "name": "Sony Store - Christchurch",
+        "website_url": "http://www.sony.co.nz"
+      },
+      {
+        "id": "67109e52e13532000191a6fe",
+        "name": "Servicio técnico Sony",
+        "website_url": "http://www.sony.cl"
+      },
+      {
+        "id": "672702d20b702b00014fa3d6",
+        "name": "Sony Semiconductor Solutions",
+        "website_url": "http://www.sony-semicon.co.jp"
+      },
+      {
+        "id": "67357a656a0f87000185c1ca",
+        "name": "Sony Device Technology",
+        "website_url": "http://www.sonydevicetechnology.co.th"
+      },
+      {
+        "id": "674ac780dbf17400012a36fd",
+        "name": "ソニーストレージメディアマニュファクチャリング（株）",
+        "website_url": "http://www.sonystoragemedia.co.jp"
+      },
+      {
+        "id": "6a0e8a99a64bde000146324c",
+        "name": "Sony Electronics Malaysia",
+        "website_url": "http://www.sony.com.my"
+      },
+      {
+        "id": "5f49cca316bd7f0001e01244",
+        "name": "RCA Records",
+        "website_url": "http://www.rcarecords.com"
+      },
+      {
+        "id": "56dbd651f3e5bb7eca001e4a",
+        "name": "Sony Creative Software",
+        "website_url": "http://www.sonycreativesoftware.com"
+      },
+      {
+        "id": "54a1baa2746869547509ad0b",
+        "name": "SONY (CHINA) CO., LTD",
+        "website_url": null
+      },
+      {
+        "id": "54a11c5369702da10f329d00",
+        "name": "Som Livre",
+        "website_url": "http://www.somlivre.com"
+      },
+      {
+        "id": "5500cfc973696460d6238000",
+        "name": "Extreme Music",
+        "website_url": "http://www.extrememusic.com"
+      },
+      {
+        "id": "55f3e345f3e5bb1de9003635",
+        "name": "Universal Sony Pictures Home Entertainment",
+        "website_url": "http://www.sonypictures.com.au"
+      },
+      {
+        "id": "5e55c38bcc06f70001321e52",
+        "name": "Sony Music Partnerships GSA",
+        "website_url": "http://www.sonymusic.de"
+      },
+      {
+        "id": "5b858971f874f7120ef3ebf2",
+        "name": "Neon Hum Media",
+        "website_url": "http://www.neonhum.com"
+      },
+      {
+        "id": "6048f82ee3842b0001325f04",
+        "name": "Sony PCL Inc",
+        "website_url": "http://www.sonypcl.jp"
+      },
+      {
+        "id": "60668c32bd8b0f00a4e9fb79",
+        "name": "Sony MEA",
+        "website_url": "http://www.sony-mea.com"
+      },
+      {
+        "id": "65201828c0658c0001293c22",
+        "name": "Sony Europe B.V",
+        "website_url": "http://www.sony.at"
+      },
+      {
+        "id": "6738de620412c40001615b7e",
+        "name": "Sony Music UK",
+        "website_url": "http://www.sonymusic.co.uk"
+      },
+      {
+        "id": "67401d638607a90001d8b436",
+        "name": "上海井上贸易有限公司",
+        "website_url": "http://www.sony.com.cn"
+      },
+      {
+        "id": "6748397620e9c9000120543b",
+        "name": "索尼移动通信产品(中国)有限公司",
+        "website_url": "http://www.sonymobile.com"
+      },
+      {
+        "id": "6771a228eb53b10001ace71b",
+        "name": "Sony Music Entertainment Australia and New Zealand",
+        "website_url": "http://www.sonymusic.co.nz"
+      },
+      {
+        "id": "6852424b00481d0001793098",
+        "name": "Sony Global Solutions",
+        "website_url": "http://www.sonyglobalsolutions.jp"
+      }
+    ],
+    "num_suborganizations": 98,
+    "annual_revenue_printed": "82.9B",
+    "annual_revenue": 82919416000.0,
+    "technology_names": [
+      ".GIS",
+      ".NET",
+      "ABB Robotics",
+      "AI",
+      "AMP",
+      "AVEVA PDMS",
+      "AVImark Rapport",
+      "AWS Analytics",
+      "AWS Cloud WAN",
+      "AWS CloudFormation",
+      "AWS Database Migration Service",
+      "AWS SDK for JavaScript",
+      "AWS Trusted Advisor",
+      "Acquia Cloud",
+      "Act!",
+      "Adobe Marketing Cloud",
+      "Adobe Tag Management",
+      "Affirm",
+      "Airflow",
+      "Akamai",
+      "Akamai Bot Manager",
+      "Alteryx",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon CloudWatch",
+      "Amazon Linux 2",
+      "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+      "Amazon SES",
+      "Analyzer",
+      "Android",
+      "Apache",
+      "Apple Music",
+      "Apple macOS",
+      "Asana",
+      "Atlassian Cloud",
+      "Automation Anywhere",
+      "Autopilot",
+      "Avid Pro Tools",
+      "Azure AD P2",
+      "Azure Analysis Services",
+      "Azure Blockchain Service",
+      "Azure Linux Virtual Machines",
+      "BASE",
+      "Backblaze Computer Backup",
+      "Bash",
+      "Basware",
+      "BigCommerce",
+      "BlipTV",
+      "Bloomberg BNA",
+      "Blueprism",
+      "C#",
+      "CDK",
+      "CSC Corporate Domains",
+      "CSS",
+      "Canva",
+      "CircleCI",
+      "Cisco Anyconnect",
+      "Cisco DNA Spaces",
+      "Cisco Unified IP Interactive Voice Response",
+      "Citrix",
+      "CloudFlare Hosting",
+      "Cloudflare Bot Management",
+      "Concur",
+      "Copilot",
+      "Cross Pixel Media",
+      "DATAflow",
+      "DAX",
+      "Databricks",
+      "Datadog",
+      "Deezer",
+      "Demandware Analytics",
+      "Discord",
+      "Docker",
+      "Drupal",
+      "ExactTarget",
+      "Excel4Apps",
+      "Eyefinity OfficeMate",
+      "Facebook",
+      "FileVault",
+      "Gem",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "GitLab",
+      "GoDataFeed",
+      "Google AdSense",
+      "Google AdWords Conversion",
+      "Google Ads",
+      "Google Analytics",
+      "Google Font API",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Google translate API",
+      "Google translate widget",
+      "HREF Lang",
+      "HTML Pro",
+      "Hubspot",
+      "ICP",
+      "Instagram",
+      "IntelliJ IDEA",
+      "Jamf Pro",
+      "Jira",
+      "Kiosked",
+      "Limble",
+      "LinkedIn Sales Navigator",
+      "Luminate",
+      "Lytics",
+      "Mag+",
+      "MailJet",
+      "Memcached",
+      "Meta Ads Manager",
+      "Microsoft 365",
+      "Microsoft Active Directory Federation Services",
+      "Microsoft Azure Monitor",
+      "Microsoft Defender for Endpoint",
+      "Microsoft Dynamics",
+      "Microsoft Excel",
+      "Microsoft Intune Enterprise Application Management",
+      "Microsoft Lists",
+      "Microsoft Office",
+      "Microsoft Office 365",
+      "Microsoft OneDrive",
+      "Microsoft Power Apps",
+      "Microsoft Power Automate",
+      "Microsoft PowerPoint",
+      "Microsoft PowerShell",
+      "Microsoft SQL Server Reporting Services",
+      "Microsoft Teams Rooms",
+      "Microsoft Windows Server 2000",
+      "Microsoft Windows Server 2012",
+      "Microsoft Word",
+      "Mobile Friendly",
+      "Mocha",
+      "Mode",
+      "Multilingual",
+      "MySQL",
+      "MySQL",
+      "NVIDIA Jetson",
+      "Neo4j",
+      "New Relic",
+      "New Relic APM",
+      "New Relic Application Monitoring",
+      "New Relic Insights",
+      "New Relic One",
+      "Next.js",
+      "Nexthink",
+      "Nginx",
+      "Ning",
+      "Office365",
+      "Okta",
+      "Olo",
+      "OneTrust",
+      "OpenStreetMap",
+      "Opsgenie",
+      "Outlook",
+      "Pipedrive",
+      "PitchBook",
+      "Power BI Documenter",
+      "PowerBI Tiles",
+      "Python",
+      "Quest KACE Systems Deployment Appliance",
+      "ROSS",
+      "React",
+      "React Redux",
+      "Reddit for business",
+      "Redis",
+      "Render",
+      "Ruby On Rails",
+      "SAP",
+      "SAP S/4HANA",
+      "Salesforce",
+      "Salesforce Commerce Cloud",
+      "Salesforce Marketing Cloud",
+      "Salesforce Service Cloud",
+      "Secured MVC Forum on Windows 2012 R2",
+      "Securonix Security Operations and Analytics Platform",
+      "ServiceMax",
+      "SharePoint",
+      "Shopauskunft",
+      "Shopify",
+      "Signal",
+      "Slack",
+      "Snap",
+      "SnapLogic Anaplan Services",
+      "Snowflake",
+      "SolarWinds",
+      "Spotify",
+      "Tableau",
+      "Tealium",
+      "Telegram",
+      "Terraform",
+      "The Trade Desk",
+      "Thomson Reuters ONESOURCE",
+      "TikTok",
+      "TikTok Ads",
+      "Tor",
+      "TypeScript",
+      "Typekit",
+      "Unity",
+      "Unreal Engine",
+      "Vagrant",
+      "Viewport Meta",
+      "Visio",
+      "Visual Studio Code",
+      "Visual-Basic-.NET",
+      "VueJS",
+      "WordPress.org",
+      "Wordpress",
+      "Workday",
+      "X (Twitter)",
+      "Yoast",
+      "YouTube",
+      "Zendesk",
+      "comScore",
+      "dbt",
+      "webpack"
+    ],
+    "current_technologies": [
+      {
+        "uid": "gis",
+        "name": ".GIS",
+        "category": "Other"
+      },
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "abb_robotics",
+        "name": "ABB Robotics",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amp",
+        "name": "AMP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aveva_pdms",
+        "name": "AVEVA PDMS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "avimark_rapport",
+        "name": "AVImark Rapport",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_cloud_wan",
+        "name": "AWS Cloud WAN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloudformation",
+        "name": "AWS CloudFormation",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_database_migration_service",
+        "name": "AWS Database Migration Service",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "acquia_cloud",
+        "name": "Acquia Cloud",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "adobe_marketing_cloud",
+        "name": "Adobe Marketing Cloud",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "adobe_tag_management",
+        "name": "Adobe Tag Management",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "affirm",
+        "name": "Affirm",
+        "category": "Payments"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_bot_manager",
+        "name": "Akamai Bot Manager",
+        "category": "Security"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudwatch",
+        "name": "Amazon CloudWatch",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+        "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "analyzer",
+        "name": "Analyzer",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apache",
+        "name": "Apache",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "apple_music",
+        "name": "Apple Music",
+        "category": "Other"
+      },
+      {
+        "uid": "apple_macos",
+        "name": "Apple macOS",
+        "category": "Other"
+      },
+      {
+        "uid": "asana",
+        "name": "Asana",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "automation anywhere",
+        "name": "Automation Anywhere",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "autopilot",
+        "name": "Autopilot",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "avid_pro_tools",
+        "name": "Avid Pro Tools",
+        "category": "Other"
+      },
+      {
+        "uid": "azure_ad_p2",
+        "name": "Azure AD P2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_blockchain_service",
+        "name": "Azure Blockchain Service",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_linux_virtual_machines",
+        "name": "Azure Linux Virtual Machines",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "base",
+        "name": "BASE",
+        "category": "Other"
+      },
+      {
+        "uid": "backblaze_computer_backup",
+        "name": "Backblaze Computer Backup",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "basware",
+        "name": "Basware",
+        "category": "ERP"
+      },
+      {
+        "uid": "bigcommerce",
+        "name": "BigCommerce",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "bliptv",
+        "name": "BlipTV",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "bloomberg_bna",
+        "name": "Bloomberg BNA",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "blueprism",
+        "name": "Blueprism",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "c#",
+        "name": "C#",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cdk",
+        "name": "CDK",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "csc_corporate_domains",
+        "name": "CSC Corporate Domains",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "css",
+        "name": "CSS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "canva",
+        "name": "Canva",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "circleci",
+        "name": "CircleCI",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "cisco anyconnect",
+        "name": "Cisco Anyconnect",
+        "category": "Security"
+      },
+      {
+        "uid": "cisco_dna_spaces",
+        "name": "Cisco DNA Spaces",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cisco_unified_ip_interactive_voice_response",
+        "name": "Cisco Unified IP Interactive Voice Response",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "citrix",
+        "name": "Citrix",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cloudflare_hosting",
+        "name": "CloudFlare Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "cloudflare_bot_management",
+        "name": "Cloudflare Bot Management",
+        "category": "Security"
+      },
+      {
+        "uid": "concur",
+        "name": "Concur",
+        "category": "Other"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cross_pixel_media",
+        "name": "Cross Pixel Media",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "dataflow",
+        "name": "DATAflow",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "dax",
+        "name": "DAX",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "databricks",
+        "name": "Databricks",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "datadog",
+        "name": "Datadog",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "deezer",
+        "name": "Deezer",
+        "category": "Other"
+      },
+      {
+        "uid": "demandware_analytics",
+        "name": "Demandware Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "discord",
+        "name": "Discord",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "drupal",
+        "name": "Drupal",
+        "category": "CMS"
+      },
+      {
+        "uid": "exacttarget",
+        "name": "ExactTarget",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "eyefinity_officemate",
+        "name": "Eyefinity OfficeMate",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "filevault",
+        "name": "FileVault",
+        "category": "Security"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github_actions",
+        "name": "GitHub Actions",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "godatafeed",
+        "name": "GoDataFeed",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "google_adsense",
+        "name": "Google AdSense",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_adwords_conversion",
+        "name": "Google AdWords Conversion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_ads",
+        "name": "Google Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "google_translate_api",
+        "name": "Google translate API",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_translate_widget",
+        "name": "Google translate widget",
+        "category": "Widgets"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "html_pro",
+        "name": "HTML Pro",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "hubspot",
+        "name": "Hubspot",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "icp",
+        "name": "ICP",
+        "category": "Other"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "intellij_idea",
+        "name": "IntelliJ IDEA",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jamf_pro",
+        "name": "Jamf Pro",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "kiosked",
+        "name": "Kiosked",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "limble",
+        "name": "Limble",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "linkedin_sales_navigator",
+        "name": "LinkedIn Sales Navigator",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "luminate",
+        "name": "Luminate",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "lytics",
+        "name": "Lytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mag",
+        "name": "Mag+",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "mailjet",
+        "name": "MailJet",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "memcached",
+        "name": "Memcached",
+        "category": "Database"
+      },
+      {
+        "uid": "meta ads manager",
+        "name": "Meta Ads Manager",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_active_directory_federation_services",
+        "name": "Microsoft Active Directory Federation Services",
+        "category": "Event Management"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_defender_for_endpoint",
+        "name": "Microsoft Defender for Endpoint",
+        "category": "Security"
+      },
+      {
+        "uid": "microsoft_dynamics",
+        "name": "Microsoft Dynamics",
+        "category": "ERP"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_intune_enterprise_application_management",
+        "name": "Microsoft Intune Enterprise Application Management",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_lists",
+        "name": "Microsoft Lists",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "office_365",
+        "name": "Microsoft Office 365",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_onedrive",
+        "name": "Microsoft OneDrive",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_power_apps",
+        "name": "Microsoft Power Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_power_automate",
+        "name": "Microsoft Power Automate",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft_sql_server_reporting_services",
+        "name": "Microsoft SQL Server Reporting Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_teams_rooms",
+        "name": "Microsoft Teams Rooms",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_windows_server_2000",
+        "name": "Microsoft Windows Server 2000",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_windows_server_2012",
+        "name": "Microsoft Windows Server 2012",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_word",
+        "name": "Microsoft Word",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mocha",
+        "name": "Mocha",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "multilingual",
+        "name": "Multilingual",
+        "category": "Widgets"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nvidia_jetson",
+        "name": "NVIDIA Jetson",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "neo4j",
+        "name": "Neo4j",
+        "category": "Database"
+      },
+      {
+        "uid": "new_relic",
+        "name": "New Relic",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "new_relic_apm",
+        "name": "New Relic APM",
+        "category": "ERP"
+      },
+      {
+        "uid": "new_relic_application_monitoring",
+        "name": "New Relic Application Monitoring",
+        "category": "ERP"
+      },
+      {
+        "uid": "new_relic_insights",
+        "name": "New Relic Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "new_relic_one",
+        "name": "New Relic One",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nexthink",
+        "name": "Nexthink",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "office365",
+        "name": "Office365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "okta",
+        "name": "Okta",
+        "category": "Security"
+      },
+      {
+        "uid": "olo",
+        "name": "Olo",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "onetrust",
+        "name": "OneTrust",
+        "category": "Widgets"
+      },
+      {
+        "uid": "openstreetmap",
+        "name": "OpenStreetMap",
+        "category": "Other"
+      },
+      {
+        "uid": "opsgenie",
+        "name": "Opsgenie",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "pipedrive",
+        "name": "Pipedrive",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "pitchbook",
+        "name": "PitchBook",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "powerbi_tiles",
+        "name": "PowerBI Tiles",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "quest_kace_systems_deployment_appliance",
+        "name": "Quest KACE Systems Deployment Appliance",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "ross",
+        "name": "ROSS",
+        "category": "Other"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "reddit_for_business",
+        "name": "Reddit for business",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "redis",
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "uid": "render",
+        "name": "Render",
+        "category": "Other"
+      },
+      {
+        "uid": "ruby_on_rails",
+        "name": "Ruby On Rails",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sap_s4hana",
+        "name": "SAP S/4HANA",
+        "category": "ERP"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_commerce_cloud",
+        "name": "Salesforce Commerce Cloud",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "salesforce_marketing_cloud",
+        "name": "Salesforce Marketing Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "salesforce_service_cloud",
+        "name": "Salesforce Service Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "secured_mvc_forum_on_windows_2012_r2",
+        "name": "Secured MVC Forum on Windows 2012 R2",
+        "category": "CMS"
+      },
+      {
+        "uid": "securonix_security_operations_and_analytics_platform",
+        "name": "Securonix Security Operations and Analytics Platform",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "servicemax",
+        "name": "ServiceMax",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "sharepoint",
+        "name": "SharePoint",
+        "category": "CMS"
+      },
+      {
+        "uid": "shopauskunft",
+        "name": "Shopauskunft",
+        "category": "Customer Reviews"
+      },
+      {
+        "uid": "shopify",
+        "name": "Shopify",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "signal",
+        "name": "Signal",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "snap",
+        "name": "Snap",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "snaplogic_anaplan_services",
+        "name": "SnapLogic Anaplan Services",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "snowflake",
+        "name": "Snowflake",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "solarwinds",
+        "name": "SolarWinds",
+        "category": "Hosting"
+      },
+      {
+        "uid": "spotify",
+        "name": "Spotify",
+        "category": "Other"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "tealium",
+        "name": "Tealium",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "telegram",
+        "name": "Telegram",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "the_trade_desk",
+        "name": "The Trade Desk",
+        "category": "Demand Side Platforms"
+      },
+      {
+        "uid": "thomson_reuters_onesource",
+        "name": "Thomson Reuters ONESOURCE",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "tiktok",
+        "name": "TikTok",
+        "category": "Other"
+      },
+      {
+        "uid": "tiktok_ads",
+        "name": "TikTok Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "typekit",
+        "name": "Typekit",
+        "category": "Fonts"
+      },
+      {
+        "uid": "unity",
+        "name": "Unity",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "unreal_engine",
+        "name": "Unreal Engine",
+        "category": "Other"
+      },
+      {
+        "uid": "vagrant",
+        "name": "Vagrant",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "visio",
+        "name": "Visio",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "visual_studio_code",
+        "name": "Visual Studio Code",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "visual_basic",
+        "name": "Visual-Basic-.NET",
+        "category": "CMS"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress",
+        "name": "Wordpress",
+        "category": "CMS"
+      },
+      {
+        "uid": "workday",
+        "name": "Workday",
+        "category": "CMS"
+      },
+      {
+        "uid": "x_twitter",
+        "name": "X (Twitter)",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "yoast",
+        "name": "Yoast",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zendesk",
+        "name": "Zendesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "comscore",
+        "name": "comScore",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "dbt",
+        "name": "dbt",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "webpack",
+        "name": "webpack",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "sales": 1091,
+      "information_technology": 301,
+      "support": 290,
+      "engineering": 1922,
+      "marketing": 750,
+      "legal": 73,
+      "arts_and_design": 479,
+      "operations": 497,
+      "media_and_commmunication": 177,
+      "human_resources": 242,
+      "finance": 282,
+      "business_development": 423,
+      "education": 45,
+      "accounting": 120,
+      "consulting": 203,
+      "data_science": 102,
+      "product_management": 96,
+      "administrative": 71,
+      "entrepreneurship": 11
+    },
+    "organization_headcount_six_month_growth": -0.002758620689655172,
+    "organization_headcount_twelve_month_growth": 0.003469812630117973,
+    "organization_headcount_twenty_four_month_growth": 0.01104740595720878
+  }
+}

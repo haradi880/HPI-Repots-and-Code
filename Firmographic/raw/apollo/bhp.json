@@ -1,0 +1,1357 @@
+{
+  "organization": {
+    "id": "54a1231f69702d84c5875503",
+    "name": "BHP",
+    "website_url": "http://www.bhp.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/bhp",
+    "twitter_url": "https://twitter.com/bhp",
+    "facebook_url": "https://facebook.com/BHP",
+    "primary_phone": {
+      "number": "61-3-1300-55-47-57",
+      "source": "Owler",
+      "sanitized_number": null
+    },
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": 54437,
+    "phone": "61-3-1300-55-47-57",
+    "linkedin_uid": "4509",
+    "founded_year": 1851,
+    "publicly_traded_symbol": "BHP",
+    "publicly_traded_exchange": "nasdaq",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69afe686eeff990001808073/picture",
+    "crunchbase_url": null,
+    "primary_domain": "bhp.com",
+    "sic_codes": [
+      "1031",
+      "10",
+      "12",
+      "14"
+    ],
+    "naics_codes": [
+      "21221",
+      "2121",
+      "2123"
+    ],
+    "sanitized_phone": null,
+    "market_cap": "214.3B",
+    "industry": "mining & metals",
+    "estimated_num_employees": 39000,
+    "keywords": [
+      "evaluation",
+      "marketing & logistics",
+      "processing & transportation",
+      "extraction",
+      "mining",
+      "development",
+      "exploration",
+      "coal mining",
+      "energy",
+      "resource development",
+      "long-term value",
+      "industrial supply",
+      "potash for agriculture",
+      "government",
+      "market leader",
+      "employee benefits",
+      "metallurgical coal for steel",
+      "sustainable development",
+      "risk management",
+      "resource exploration",
+      "operational efficiency",
+      "potash",
+      "sustainability",
+      "coal",
+      "carbon reduction initiatives",
+      "asset management",
+      "industrial minerals",
+      "mineral extraction",
+      "customer service",
+      "environmental services",
+      "market capitalization",
+      "innovation",
+      "copper",
+      "mining technology",
+      "responsible sourcing",
+      "global supply network",
+      "resources",
+      "b2b",
+      "innovation in mining",
+      "sustainable mining",
+      "resource management",
+      "resource diversification",
+      "agriculture",
+      "iron ore",
+      "energy resources",
+      "diversified portfolio",
+      "renewable energy",
+      "global commodities",
+      "metals and minerals",
+      "environmental performance",
+      "environmental stewardship",
+      "iron ore mining",
+      "supply chain",
+      "global operations",
+      "climate change mitigation",
+      "long-term resource strategy",
+      "copper for renewable energy",
+      "mining safety standards",
+      "nickel",
+      "metallurgical coal",
+      "economic contribution",
+      "social value",
+      "decarbonization",
+      "community investments",
+      "climate change",
+      "safety protocols",
+      "health management",
+      "biodiversity",
+      "essential infrastructure",
+      "energy transition",
+      "sustainable farming",
+      "ethical operations",
+      "mineral resources",
+      "global workforce",
+      "mining operations",
+      "corporate governance",
+      "stakeholder engagement",
+      "diverse operations",
+      "long-term investments",
+      "shareholder value",
+      "community engagement",
+      "greenhouse gas emissions",
+      "resilience",
+      "workforce safety",
+      "indigenous partnerships",
+      "industry associations",
+      "philanthropy",
+      "environmental reporting",
+      "carbon offsetting",
+      "stakeholder value",
+      "strategic portfolio",
+      "critical minerals",
+      "transformational leadership",
+      "distribution",
+      "transportation & logistics",
+      "energy & utilities",
+      "mining & metals",
+      "renewables & environment",
+      "clean energy & technology",
+      "civic & social organization"
+    ],
+    "organization_revenue_printed": "51.3B",
+    "organization_revenue": 51262000000.0,
+    "industries": [
+      "mining & metals",
+      "oil & energy"
+    ],
+    "secondary_industries": [
+      "oil & energy"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567e3f3736964395d7a0000",
+    "industry_tag_hash": {
+      "mining & metals": "5567e3f3736964395d7a0000",
+      "oil & energy": "5567cdd97369645624020000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "171 Collins Street, Melbourne, Victoria 3000, AU",
+    "street_address": "171 Collins Street",
+    "city": "Melbourne",
+    "state": "Victoria",
+    "postal_code": "3000",
+    "country": "Australia",
+    "owned_by_organization_id": null,
+    "short_description": "BHP Group Limited is an Australian multinational mining and metals corporation, established in 1885. Headquartered in Melbourne, it is the world's largest mining company by market capitalization. BHP specializes in producing and selling iron ore, copper, and metallurgical coal, and is expanding its operations into potash.\n\nThe company has a rich history, originating from a silver mining claim in Broken Hill, New South Wales. Over the years, BHP has expanded its operations across Australia, South America, the US, and Canada, with around 90 locations. It has been a key player in the development of Australia's steel industry and has diversified its portfolio through various acquisitions and innovations in mining techniques. BHP focuses on the extraction, processing, and global distribution of commodities, adapting its strategy to prioritize high-quality ore for industrial use.",
+    "suborganizations": [
+      {
+        "id": "54a12afc69702dab37816c02",
+        "name": "Woodside Energy",
+        "website_url": "http://www.woodside.com"
+      },
+      {
+        "id": "56e47d41f3e5bb66eb001cdd",
+        "name": "OZ Minerals Brazil",
+        "website_url": "http://www.ozminerals.com"
+      },
+      {
+        "id": "54a1289769702d9ebcbe0d01",
+        "name": "Petrohawk Energy",
+        "website_url": null
+      }
+    ],
+    "num_suborganizations": 3,
+    "annual_revenue_printed": "51.3B",
+    "annual_revenue": 51262000000.0,
+    "technology_names": [
+      ".GIS",
+      ".NET",
+      "AC500 PLC",
+      "AI",
+      "AMP",
+      "ANGEL LMS",
+      "AT&T",
+      "AWS Analytics",
+      "AWS Bedrock",
+      "AcquireTM",
+      "Act!",
+      "Affinity Internet (Hostway)",
+      "Air",
+      "Akamai",
+      "Akamai CDN Solutions",
+      "Alteryx",
+      "Amadeus",
+      "Amazon Managed Workflows for Apache Airflow (MWAA)",
+      "Amazon SES",
+      "Amazon SageMaker",
+      "Amazon Virtual Private Cloud (Amazon VPC)",
+      "AnyLogic",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "ArcGIS",
+      "Archer",
+      "Argo",
+      "Arista EOS",
+      "Aspect Workforce",
+      "Astro by Astronomer",
+      "Atlas",
+      "Atlassian Cloud",
+      "AutoCAD",
+      "Azure Analysis Services",
+      "Azure Machine Learning",
+      "Azure Purview",
+      "BASE",
+      "Barracuda Spam Firewall",
+      "BlackMesh",
+      "Bread",
+      "CAT",
+      "CPSI",
+      "Caliso Calibration Toolbox ADO",
+      "Cisco Catalyst 9400",
+      "Cisco Industrial Switches",
+      "Cisco Secure Firewall Management Center",
+      "Cisco Unified Intelligence Center",
+      "CloudFlare",
+      "CloudFlare CDN",
+      "CloudFlare Hosting",
+      "Cloudflare DNS",
+      "Cloudflare Rocket Loader",
+      "Collibra",
+      "Confluent",
+      "ConnectWise Control",
+      "Copilot",
+      "Cority Platform",
+      "Cortex A53",
+      "CyberArk",
+      "DC Storm",
+      "Drone",
+      "Econda",
+      "Elite Software HVAC Solution",
+      "Epsilon Data",
+      "Esri",
+      "Excel4Apps",
+      "Extend",
+      "Facebook",
+      "Flow",
+      "Flutter",
+      "Front",
+      "GRIN",
+      "Gem",
+      "Git",
+      "GoldSim",
+      "Google AdWords Conversion",
+      "Google Search Console",
+      "Icertis Contract Management Software",
+      "Ignition SCADA",
+      "Informatica",
+      "InsideView",
+      "Insider",
+      "InsightExpress Flex",
+      "Instagram",
+      "Laser Scanning",
+      "Less",
+      "LinkedIn Ads",
+      "Logitech Video Conferencing",
+      "Lucky Orange",
+      "Lytics",
+      "Mailchimp Mandrill",
+      "Mailchimp Transactional Email (formerly Mandrill)",
+      "MapMarker",
+      "Maptek",
+      "Matillion ETL",
+      "MatrikonOPC",
+      "Micro",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Email Providers",
+      "Microsoft Entra ID",
+      "Microsoft Excel",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Office",
+      "Microsoft Office 365",
+      "Microsoft Power Apps",
+      "Microsoft Power Automate",
+      "Microsoft Power BI",
+      "Microsoft PowerPoint",
+      "Microsoft Project",
+      "Microsoft SQL Server Reporting Services",
+      "Microsoft Teams",
+      "Microsoft Teams Rooms",
+      "Mint",
+      "Monte Carlo",
+      "Motorola",
+      "MySQL",
+      "MySQL",
+      "NMU AB",
+      "Navisworks",
+      "Neo4j",
+      "Nevron Vision for SSRS",
+      "Ning",
+      "Office365",
+      "Okta",
+      "Olo",
+      "Onit",
+      "OpenAI",
+      "OpenID",
+      "OpenText Documentum",
+      "Oracle Aconex",
+      "Oracle XML DB",
+      "Outlook",
+      "Outsystems",
+      "Palo Alto PA-3200 Series",
+      "Pandora FMS",
+      "Planview LeanKit",
+      "Power BI Documenter",
+      "PowerBI Tiles",
+      "Proofpoint",
+      "Proofpoint Email Security and Protection",
+      "Python",
+      "ROSS",
+      "React",
+      "Red Hat JBoss Enterprise SOA Platform",
+      "Remote",
+      "SAM",
+      "SAP",
+      "SAP Fiori",
+      "SAP Plant Maintenance",
+      "SAP SuccessFactors",
+      "SMART Board",
+      "SS&C",
+      "Sabre Scribe",
+      "Salesforce",
+      "Saviynt IGA",
+      "Security",
+      "Seeq",
+      "ServiceNow",
+      "ServiceNow Virtual Agent",
+      "SharePoint",
+      "Siemens SIMATIC HMI (Human Machine Interface)",
+      "Siemens SIMATIC S7",
+      "Siemens SIMATIC SCADA",
+      "Signal",
+      "Skype",
+      "Slack",
+      "Snowflake",
+      "SolarWinds Security Event Manager",
+      "Splunk SOAR",
+      "Star",
+      "SuccessFactors (SAP)",
+      "TSYS",
+      "Taleo Applicant Tracking Systems (ATS)",
+      "Tekla",
+      "The PI System",
+      "TikTok",
+      "Tor",
+      "VLAN",
+      "Visio",
+      "Visual-Basic-.NET",
+      "VueJS",
+      "Wavefront",
+      "Wider Planet",
+      "X (Twitter)",
+      "dbt",
+      "eCentral",
+      "eMaint CMMS"
+    ],
+    "current_technologies": [
+      {
+        "uid": "gis",
+        "name": ".GIS",
+        "category": "Other"
+      },
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ac500_plc",
+        "name": "AC500 PLC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amp",
+        "name": "AMP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "angel_lms",
+        "name": "ANGEL LMS",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_bedrock",
+        "name": "AWS Bedrock",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "acquiretm",
+        "name": "AcquireTM",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "affinity_internet_hostway",
+        "name": "Affinity Internet (Hostway)",
+        "category": "Hosting"
+      },
+      {
+        "uid": "air",
+        "name": "Air",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_cdn_solutions",
+        "name": "Akamai CDN Solutions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amadeus",
+        "name": "Amadeus",
+        "category": "Other"
+      },
+      {
+        "uid": "amazon_managed_workflows_for_apache_airflow_mwaa",
+        "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_sagemaker",
+        "name": "Amazon SageMaker",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_virtual_private_cloud_amazon_vpc",
+        "name": "Amazon Virtual Private Cloud (Amazon VPC)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "anylogic",
+        "name": "AnyLogic",
+        "category": "Other"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "arcgis",
+        "name": "ArcGIS",
+        "category": "Other"
+      },
+      {
+        "uid": "archer",
+        "name": "Archer",
+        "category": "ERP"
+      },
+      {
+        "uid": "argo",
+        "name": "Argo",
+        "category": "Other"
+      },
+      {
+        "uid": "arista_eos",
+        "name": "Arista EOS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aspect_workforce",
+        "name": "Aspect Workforce",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "astro_by_astronomer",
+        "name": "Astro by Astronomer",
+        "category": "Other"
+      },
+      {
+        "uid": "atlas",
+        "name": "Atlas",
+        "category": "Other"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "autocad",
+        "name": "AutoCAD",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_machine_learning",
+        "name": "Azure Machine Learning",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure_purview",
+        "name": "Azure Purview",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "base",
+        "name": "BASE",
+        "category": "Other"
+      },
+      {
+        "uid": "barracuda_spam_firewall",
+        "name": "Barracuda Spam Firewall",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "blackmesh",
+        "name": "BlackMesh",
+        "category": "Hosting"
+      },
+      {
+        "uid": "bread",
+        "name": "Bread",
+        "category": "Payments"
+      },
+      {
+        "uid": "cat",
+        "name": "CAT",
+        "category": "ERP"
+      },
+      {
+        "uid": "cpsi",
+        "name": "CPSI",
+        "category": "Other"
+      },
+      {
+        "uid": "caliso_calibration_toolbox_ado",
+        "name": "Caliso Calibration Toolbox ADO",
+        "category": "Other"
+      },
+      {
+        "uid": "cisco_catalyst_9400",
+        "name": "Cisco Catalyst 9400",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_industrial_switches",
+        "name": "Cisco Industrial Switches",
+        "category": "Other"
+      },
+      {
+        "uid": "cisco_secure_firewall_management_center",
+        "name": "Cisco Secure Firewall Management Center",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_unified_intelligence_center",
+        "name": "Cisco Unified Intelligence Center",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "cloudflare_hosting",
+        "name": "CloudFlare Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "cloudflare_dns",
+        "name": "Cloudflare DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "cloudflare_rocket_loader",
+        "name": "Cloudflare Rocket Loader",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "collibra",
+        "name": "Collibra",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "confluent",
+        "name": "Confluent",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "connectwise_control",
+        "name": "ConnectWise Control",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cority_platform",
+        "name": "Cority Platform",
+        "category": "Other"
+      },
+      {
+        "uid": "cortex_a53",
+        "name": "Cortex A53",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cyberark",
+        "name": "CyberArk",
+        "category": "Security"
+      },
+      {
+        "uid": "dc_storm",
+        "name": "DC Storm",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "drone",
+        "name": "Drone",
+        "category": "Other"
+      },
+      {
+        "uid": "econda",
+        "name": "Econda",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "elite_software_hvac_solution",
+        "name": "Elite Software HVAC Solution",
+        "category": "Other"
+      },
+      {
+        "uid": "epsilon_data",
+        "name": "Epsilon Data",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "esri",
+        "name": "Esri",
+        "category": "Other"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "extend",
+        "name": "Extend",
+        "category": "Other"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "flow",
+        "name": "Flow",
+        "category": "Other"
+      },
+      {
+        "uid": "flutter",
+        "name": "Flutter",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "front",
+        "name": "Front",
+        "category": "Widgets"
+      },
+      {
+        "uid": "grin",
+        "name": "GRIN",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "goldsim",
+        "name": "GoldSim",
+        "category": "Other"
+      },
+      {
+        "uid": "google_adwords_conversion",
+        "name": "Google AdWords Conversion",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "icertis_contract_management_software",
+        "name": "Icertis Contract Management Software",
+        "category": "Other"
+      },
+      {
+        "uid": "ignition_scada",
+        "name": "Ignition SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "informatica",
+        "name": "Informatica",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "insideview",
+        "name": "InsideView",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "insider",
+        "name": "Insider",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "insightexpress_flex",
+        "name": "InsightExpress Flex",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "laser_scanning",
+        "name": "Laser Scanning",
+        "category": "Other"
+      },
+      {
+        "uid": "less",
+        "name": "Less",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "linkedin_ads",
+        "name": "LinkedIn Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "logitech_video_conferencing",
+        "name": "Logitech Video Conferencing",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "lucky_orange",
+        "name": "Lucky Orange",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "lytics",
+        "name": "Lytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mailchimp_mandrill",
+        "name": "Mailchimp Mandrill",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "mailchimp_transactional_email_formerly_mandrill",
+        "name": "Mailchimp Transactional Email (formerly Mandrill)",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "mapmarker",
+        "name": "MapMarker",
+        "category": "ERP"
+      },
+      {
+        "uid": "maptek",
+        "name": "Maptek",
+        "category": "Other"
+      },
+      {
+        "uid": "matillion_etl",
+        "name": "Matillion ETL",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "matrikonopc",
+        "name": "MatrikonOPC",
+        "category": "Other"
+      },
+      {
+        "uid": "micro",
+        "name": "Micro",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_entra_id",
+        "name": "Microsoft Entra ID",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "office_365",
+        "name": "Microsoft Office 365",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_power_apps",
+        "name": "Microsoft Power Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_power_automate",
+        "name": "Microsoft Power Automate",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "microsoft_power_bi",
+        "name": "Microsoft Power BI",
+        "category": "Widgets"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft project",
+        "name": "Microsoft Project",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_sql_server_reporting_services",
+        "name": "Microsoft SQL Server Reporting Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_teams",
+        "name": "Microsoft Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_teams_rooms",
+        "name": "Microsoft Teams Rooms",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "mint",
+        "name": "Mint",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "monte_carlo",
+        "name": "Monte Carlo",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "motorola",
+        "name": "Motorola",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nmu_ab",
+        "name": "NMU AB",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "navisworks",
+        "name": "Navisworks",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "neo4j",
+        "name": "Neo4j",
+        "category": "Database"
+      },
+      {
+        "uid": "nevron_vision_for_ssrs",
+        "name": "Nevron Vision for SSRS",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "office365",
+        "name": "Office365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "okta",
+        "name": "Okta",
+        "category": "Security"
+      },
+      {
+        "uid": "olo",
+        "name": "Olo",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "onit",
+        "name": "Onit",
+        "category": "Case Management"
+      },
+      {
+        "uid": "openai",
+        "name": "OpenAI",
+        "category": "Other"
+      },
+      {
+        "uid": "openid",
+        "name": "OpenID",
+        "category": "Other"
+      },
+      {
+        "uid": "opentext_documentum",
+        "name": "OpenText Documentum",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "oracle_aconex",
+        "name": "Oracle Aconex",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "oracle_xml_db",
+        "name": "Oracle XML DB",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "outsystems",
+        "name": "Outsystems",
+        "category": "CMS"
+      },
+      {
+        "uid": "palo_alto_pa3200_series",
+        "name": "Palo Alto PA-3200 Series",
+        "category": "Event Management"
+      },
+      {
+        "uid": "pandora_fms",
+        "name": "Pandora FMS",
+        "category": "ERP"
+      },
+      {
+        "uid": "planview_leankit",
+        "name": "Planview LeanKit",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "powerbi_tiles",
+        "name": "PowerBI Tiles",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "proofpoint",
+        "name": "Proofpoint",
+        "category": "Security"
+      },
+      {
+        "uid": "proofpoint_email_security_and_protection",
+        "name": "Proofpoint Email Security and Protection",
+        "category": "Security"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ross",
+        "name": "ROSS",
+        "category": "Other"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "red_hat_jboss_enterprise_soa_platform",
+        "name": "Red Hat JBoss Enterprise SOA Platform",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "sam",
+        "name": "SAM",
+        "category": "Other"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sap_fiori",
+        "name": "SAP Fiori",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_plant_maintenance",
+        "name": "SAP Plant Maintenance",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_successfactors",
+        "name": "SAP SuccessFactors",
+        "category": "Human Capital Management"
+      },
+      {
+        "uid": "smart_board",
+        "name": "SMART Board",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ssc",
+        "name": "SS&C",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "sabre_scribe",
+        "name": "Sabre Scribe",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "saviynt_iga",
+        "name": "Saviynt IGA",
+        "category": "Event Management"
+      },
+      {
+        "uid": "security",
+        "name": "Security",
+        "category": "Security"
+      },
+      {
+        "uid": "seeq",
+        "name": "Seeq",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "service_now",
+        "name": "ServiceNow",
+        "category": "Case Management"
+      },
+      {
+        "uid": "servicenow_virtual_agent",
+        "name": "ServiceNow Virtual Agent",
+        "category": "Chats"
+      },
+      {
+        "uid": "sharepoint",
+        "name": "SharePoint",
+        "category": "CMS"
+      },
+      {
+        "uid": "siemens_simatic_hmi_human_machine_interface",
+        "name": "Siemens SIMATIC HMI (Human Machine Interface)",
+        "category": "Other"
+      },
+      {
+        "uid": "siemens_simatic_s7",
+        "name": "Siemens SIMATIC S7",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "siemens_simatic_scada",
+        "name": "Siemens SIMATIC SCADA",
+        "category": "Other"
+      },
+      {
+        "uid": "signal",
+        "name": "Signal",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "skype",
+        "name": "Skype",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "snowflake",
+        "name": "Snowflake",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "solarwinds_security_event_manager",
+        "name": "SolarWinds Security Event Manager",
+        "category": "Event Management"
+      },
+      {
+        "uid": "splunk_soar",
+        "name": "Splunk SOAR",
+        "category": "Event Management"
+      },
+      {
+        "uid": "star",
+        "name": "Star",
+        "category": "Other"
+      },
+      {
+        "uid": "successfactors_sap",
+        "name": "SuccessFactors (SAP)",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "tsys",
+        "name": "TSYS",
+        "category": "Payments"
+      },
+      {
+        "uid": "taleo_applicant_tracking_systems_ats",
+        "name": "Taleo Applicant Tracking Systems (ATS)",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "tekla",
+        "name": "Tekla",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "the_pi_system",
+        "name": "The PI System",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "tiktok",
+        "name": "TikTok",
+        "category": "Other"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "vlan",
+        "name": "VLAN",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "visio",
+        "name": "Visio",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "visual_basic",
+        "name": "Visual-Basic-.NET",
+        "category": "CMS"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wavefront",
+        "name": "Wavefront",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "wider_planet",
+        "name": "Wider Planet",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "x_twitter",
+        "name": "X (Twitter)",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "dbt",
+        "name": "dbt",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "ecentral",
+        "name": "eCentral",
+        "category": "Appointment Scheduling"
+      },
+      {
+        "uid": "emaint_cmms",
+        "name": "eMaint CMMS",
+        "category": "Field Service Management"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "66f0f57ecc79a50001ba4cd0"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "consulting": 175,
+      "operations": 2375,
+      "engineering": 3416,
+      "human_resources": 735,
+      "media_and_commmunication": 239,
+      "information_technology": 2281,
+      "finance": 1473,
+      "education": 50,
+      "support": 265,
+      "sales": 141,
+      "business_development": 575,
+      "accounting": 205,
+      "legal": 204,
+      "data_science": 190,
+      "marketing": 184,
+      "arts_and_design": 127,
+      "administrative": 117,
+      "product_management": 38,
+      "entrepreneurship": 7
+    },
+    "organization_headcount_six_month_growth": 0.003887736966824644,
+    "organization_headcount_twelve_month_growth": 0.006982358402971216,
+    "organization_headcount_twenty_four_month_growth": 0.0138733079051679
+  }
+}
