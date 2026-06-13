@@ -41,6 +41,7 @@ SIGNALHIRE_DOC = "https://www.signalhire.com/api"
 PDL_DOC = "https://docs.peopledatalabs.com/"
 
 APOLLO_ENDPOINT = "POST https://api.apollo.io/api/v1/mixed_people/api_search"
+APOLLO_ENRICHMENT_ENDPOINT = "POST https://api.apollo.io/api/v1/people/match"
 FULLENRICH_BULK_ENDPOINT = "POST https://app.fullenrich.com/api/v2/contact/enrich/bulk"
 FULLENRICH_RESULT_ENDPOINT = "GET https://app.fullenrich.com/api/v1/contact/enrich/bulk/{enrichment_id}"
 PROSPEO_ENDPOINT = "POST https://api.prospeo.io/enrich-person"
@@ -216,7 +217,7 @@ def load_dotenv() -> None:
 def ensure_dirs() -> None:
     REPORTS_DIR.mkdir(exist_ok=True)
     (BASE_DIR / "input").mkdir(exist_ok=True)
-    for provider in ["apollo", "fullenrich", "fullenrich_search", "prospeo", "signalhire", "people_data_labs"]:
+    for provider in ["apollo", "apollo_enrichment", "fullenrich", "fullenrich_search", "prospeo", "signalhire", "people_data_labs"]:
         (RAW_ROOT / provider / "data").mkdir(parents=True, exist_ok=True)
         (APILOG_ROOT / provider).mkdir(parents=True, exist_ok=True)
 
@@ -265,6 +266,22 @@ def save_json(path: Path, payload: Any) -> None:
 
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def payload_has_error(payload: Any) -> bool:
+    if isinstance(payload, dict):
+        if payload.get("error") or payload.get("error_code"):
+            return True
+        for key in ["start_response", "result_response"]:
+            value = payload.get(key)
+            if isinstance(value, dict) and payload_has_error(value):
+                return True
+    return False
+
+
+def result_from_saved_payload(payload: Any) -> dict[str, Any]:
+    ok = not payload_has_error(payload)
+    return {"ok": ok, "status_code": 200 if ok else "Saved Error", "latency_ms": 0, "payload": payload, "headers": {}, "error": "" if ok else summarize_error(payload)}
 
 
 def write_csv(path: Path, rows: list[dict[str, Any]], fields: list[str]) -> None:
@@ -566,7 +583,7 @@ def collect_apollo(companies: list[Company], reuse_raw: bool, timeout: int, per_
         result: dict[str, Any]
         if reuse_raw and raw_path.exists():
             payload = load_json(raw_path)
-            result = {"ok": True, "status_code": 200, "latency_ms": 0, "payload": payload, "headers": {}, "error": ""}
+            result = result_from_saved_payload(payload)
         elif not api_key:
             payload = {"error": "Missing APOLLO_API_KEY."}
             result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
@@ -622,7 +639,7 @@ def collect_fullenrich_search_seeds(companies: list[Company], reuse_raw: bool, t
         log_path = APILOG_ROOT / "fullenrich_search" / f"{slugify(company.company_name)}.jsonl"
         if reuse_raw and raw_path.exists():
             payload = load_json(raw_path)
-            result = {"ok": True, "status_code": 200, "latency_ms": 0, "payload": payload, "headers": {}, "error": ""}
+            result = result_from_saved_payload(payload)
         elif not api_key:
             payload = {"error": "Missing FULLENRICH_API_KEY."}
             result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
@@ -652,7 +669,68 @@ def collect_fullenrich_search_seeds(companies: list[Company], reuse_raw: bool, t
     return seeds, call_rows
 
 
+def load_saved_seed_contacts(companies: list[Company], per_company: int) -> list[SeedContact]:
+    seeds: list[SeedContact] = []
+    for company in companies:
+        raw_path = RAW_ROOT / "fullenrich_search" / "data" / f"{slugify(company.company_name)}.json"
+        if not raw_path.exists():
+            continue
+        payload = load_json(raw_path)
+        for person in find_people_list(payload)[:per_company]:
+            seeds.append(normalize_seed(company, person, "Saved FullEnrich People Search seed"))
+    return seeds
+
+
+def collect_apollo_enrichment(companies: list[Company], seeds: list[SeedContact], reuse_raw: bool, timeout: int, limit: int) -> tuple[list[dict[str, str]], list[dict[str, str]], list[dict[str, str]], list[dict[str, str]]]:
+    api_name = "Apollo People Enrichment API"
+    api_key = os.getenv("APOLLO_API_KEY") or os.getenv("APOLLO_MASTER_API_KEY") or ""
+    selected = limited_seeds(seeds, limit)
+    contact_rows: list[dict[str, str]] = []
+    call_rows: list[dict[str, str]] = []
+    raw_by_company: dict[str, str] = {}
+    for seed in selected:
+        company = seed.company
+        raw_path = RAW_ROOT / "apollo_enrichment" / "data" / f"{slugify(company.company_name)}__{slugify(contact_name(seed))}.json"
+        log_path = APILOG_ROOT / "apollo_enrichment" / f"{slugify(company.company_name)}.jsonl"
+        raw_by_company[company.company_name] = safe_rel(raw_path)
+        params = {
+            "name": contact_name(seed),
+            "domain": company.domain,
+            "reveal_personal_emails": "false",
+            "reveal_phone_number": "false",
+        }
+        if seed.first_name:
+            params["first_name"] = seed.first_name
+        if seed.last_name:
+            params["last_name"] = seed.last_name
+        if seed.linkedin_url:
+            params["linkedin_url"] = seed.linkedin_url
+        if reuse_raw and raw_path.exists():
+            payload = load_json(raw_path)
+            result = result_from_saved_payload(payload)
+        elif not api_key:
+            payload = {"error": "Missing APOLLO_API_KEY."}
+            result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
+            save_json(raw_path, payload)
+        else:
+            headers = {"Accept": "application/json", "Content-Type": "application/json", "Cache-Control": "no-cache", "X-Api-Key": api_key}
+            result = http_request("POST", "https://api.apollo.io/api/v1/people/match", headers=headers, params=params, timeout=timeout)
+            append_jsonl(log_path, {"request": {"method": "POST", "url": "https://api.apollo.io/api/v1/people/match", "headers": redact_headers(headers), "params": params}, "response": result})
+            save_json(raw_path, result.get("payload"))
+        row = parse_generic_enrichment(seed, api_name, result.get("payload", {}), safe_rel(raw_path))
+        contact_rows.append(row)
+        status = "Success" if result.get("ok") else "Fail"
+        credits = "Apollo enrichment credit if matched; phone reveal disabled"
+        call_rows.append(api_call_row(api_name, company, APOLLO_ENRICHMENT_ENDPOINT, result, status, credits, 1 if row["match_status"] == "Matched" else 0, safe_rel(raw_path), safe_rel(log_path)))
+        print(f"apollo enrichment: {company.company_name} / {contact_name(seed)} | {status}")
+    add_not_requested_rows(companies, selected, contact_rows, api_name)
+    company_rows, missing_rows = summarize_contacts(companies, api_name, contact_rows, raw_by_company)
+    return company_rows, contact_rows, missing_rows, call_rows
+
+
 def limited_seeds(seeds: list[SeedContact], limit: int) -> list[SeedContact]:
+    if limit <= 0:
+        return []
     unique: dict[str, SeedContact] = {}
     for seed in seeds:
         if not seed.full_name and not seed.linkedin_url:
@@ -677,7 +755,7 @@ def collect_prospeo(companies: list[Company], seeds: list[SeedContact], reuse_ra
         raw_by_company[company.company_name] = safe_rel(raw_path)
         if reuse_raw and raw_path.exists():
             payload = load_json(raw_path)
-            result = {"ok": True, "status_code": 200, "latency_ms": 0, "payload": payload, "headers": {}, "error": ""}
+            result = result_from_saved_payload(payload)
         elif not api_key:
             payload = {"error": "Missing PROSPEO_API_KEY."}
             result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
@@ -731,7 +809,7 @@ def collect_fullenrich(companies: list[Company], seeds: list[SeedContact], reuse
             continue
         if reuse_raw and raw_path.exists():
             payload = load_json(raw_path)
-            result = {"ok": True, "status_code": 200, "latency_ms": 0, "payload": payload, "headers": {}, "error": ""}
+            result = result_from_saved_payload(payload)
         elif not api_key:
             payload = {"error": "Missing FULLENRICH_API_KEY."}
             result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
@@ -792,7 +870,7 @@ def collect_signalhire(companies: list[Company], seeds: list[SeedContact], reuse
         raw_by_company[company.company_name] = safe_rel(raw_path)
         if reuse_raw and raw_path.exists():
             payload = load_json(raw_path)
-            result = {"ok": True, "status_code": 200, "latency_ms": 0, "payload": payload, "headers": {}, "error": ""}
+            result = result_from_saved_payload(payload)
         elif not api_key:
             payload = {"error": "Missing SIGNALHIRE_API_KEY."}
             result = {"ok": False, "status_code": "", "latency_ms": 0, "payload": payload, "headers": {}, "error": payload["error"]}
@@ -817,6 +895,9 @@ def collect_signalhire(companies: list[Company], seeds: list[SeedContact], reuse
 
 def parse_generic_enrichment(seed: SeedContact, api_name: str, payload: Any, raw_rel: str) -> dict[str, str]:
     row = base_contact_row(seed, api_name, raw_rel)
+    if isinstance(payload, dict) and (payload.get("error") or payload.get("error_code")):
+        row["match_confidence"] = str(payload.get("error_code") or payload.get("error"))
+        return row
     candidates = flatten_dicts(payload)
     best = choose_best_candidate(seed, candidates)
     if not best:
@@ -984,6 +1065,7 @@ def fields_returned(rows: list[dict[str, str]], api_name: str) -> list[str]:
 def build_api_comparison(contact_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     configs = [
         ("Apollo People Search API", APOLLO_ENDPOINT, "Used as seed source for named contacts; email/phone not returned by people search.", "People search endpoint does not expose work email or phone.", "Apollo enrichment endpoints can add gated email/phone if additional credits are approved."),
+        ("Apollo People Enrichment API", APOLLO_ENRICHMENT_ENDPOINT, "Enriched saved seed contacts by name, domain, and LinkedIn URL with phone reveal disabled.", "Consumes Apollo enrichment credits when matched; phone reveal was disabled for this run.", "Can reveal work email and optionally phone/waterfall data when plan and credits allow it."),
         ("FullEnrich Contact Bulk Enrichment API", FULLENRICH_BULK_ENDPOINT, "Bulk waterfall contact enrichment for capped seed contacts.", "Async job and enrichment credits are account specific.", "Waterfall enrichment across providers for emails and phones."),
         ("Prospeo Person Enrichment API", PROSPEO_ENDPOINT, "Person enrichment for capped seed contacts.", "Email credit used only if email found; mobile is higher cost.", "Verified email plus mobile enrichment when credits are available."),
         ("SignalHire Candidate Search API", SIGNALHIRE_ENDPOINT, "Capped at 5 lookups because user reported very low credits.", "Very low credit balance; run capped and credit headers logged.", "Can return phones/emails/social profiles for matched candidates."),
@@ -1000,6 +1082,7 @@ def build_api_comparison(contact_rows: list[dict[str, str]]) -> list[dict[str, s
 def build_api_trace(company_rows: list[dict[str, str]], contact_rows: list[dict[str, str]], call_rows: list[dict[str, str]], missing_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     configs = {
         "Apollo People Search API": ("Bearer or X-Api-Key", APOLLO_DOC, "Existing Apollo access", "Plan-specific", "People search and paid enrichment endpoints", "Plan-specific", "Useful seed source, but email/phone requires enrichment."),
+        "Apollo People Enrichment API": ("X-Api-Key header", "https://docs.apollo.io/reference/people-enrichment", "Apollo enrichment credits", "Plan-specific", "Person enrichment and optional email/phone reveal", "Plan-specific", "Uses saved seed contacts; phone reveal disabled to avoid extra credit exposure."),
         "FullEnrich Contact Bulk Enrichment API": ("Bearer API key", FULLENRICH_DOC, "Account-specific waterfall credits", "Account-specific", "Waterfall enrichment across contact providers", "Account-specific", "Async workflow; raw start/result responses are saved."),
         "Prospeo Person Enrichment API": ("X-KEY header", PROSPEO_DOC, "Email credit if found; mobile costs more", "Email/mobile credits", "Verified emails and mobile enrichment", "Account-specific", "Straightforward synchronous REST endpoint."),
         "SignalHire Candidate Search API": ("apikey header", SIGNALHIRE_DOC, "Only 5 credits reported by user", "X-Credits-Left response header captured where returned", "Candidate profile enrichment", "Account-specific", "Run capped at 5 lookups to preserve credits."),
@@ -1059,6 +1142,8 @@ def score_api(success_rate: float, completeness: float, records: int) -> str:
 def estimate_cost(api_name: str) -> str:
     if api_name == "Apollo People Search API":
         return "About 100 people-search calls for 100 companies; email/phone enrichment would add plan-specific credits."
+    if api_name == "Apollo People Enrichment API":
+        return "One enrichment request per requested contact; phone reveal/waterfall would add plan-specific credits."
     if api_name == "FullEnrich Contact Bulk Enrichment API":
         return "Depends on selected enrichment waterfall fields and matched contacts."
     if api_name == "Prospeo Person Enrichment API":
@@ -1159,23 +1244,39 @@ def run(args: argparse.Namespace) -> int:
     all_missing_rows: list[dict[str, str]] = []
     all_call_rows: list[dict[str, str]] = []
 
-    seeds, company_rows, contact_rows, missing_rows, call_rows = collect_apollo(companies, args.reuse_raw, args.timeout, args.apollo_contacts_per_company)
-    all_company_rows.extend(company_rows)
-    all_contact_rows.extend(contact_rows)
-    all_missing_rows.extend(missing_rows)
-    all_call_rows.extend(call_rows)
+    api_filter = {item.strip().lower() for item in args.apis.split(",") if item.strip()}
+    run_all = "all" in api_filter
 
-    if not seeds:
+    seeds: list[SeedContact] = []
+    if run_all or "apollo" in api_filter:
+        seeds, company_rows, contact_rows, missing_rows, call_rows = collect_apollo(companies, args.reuse_raw, args.timeout, args.apollo_contacts_per_company)
+        all_company_rows.extend(company_rows)
+        all_contact_rows.extend(contact_rows)
+        all_missing_rows.extend(missing_rows)
+        all_call_rows.extend(call_rows)
+
+    if run_all or "apollo_enrichment" in api_filter:
+        enrichment_seeds = seeds or load_saved_seed_contacts(companies, args.apollo_contacts_per_company)
+        company_rows, contact_rows, missing_rows, call_rows = collect_apollo_enrichment(companies, enrichment_seeds, args.reuse_raw, args.timeout, args.apollo_enrichment_limit)
+        all_company_rows.extend(company_rows)
+        all_contact_rows.extend(contact_rows)
+        all_missing_rows.extend(missing_rows)
+        all_call_rows.extend(call_rows)
+
+    if not seeds and (run_all or "fullenrich_search" in api_filter):
         fallback_seeds, fallback_call_rows = collect_fullenrich_search_seeds(companies, args.reuse_raw, args.timeout, args.apollo_contacts_per_company)
         seeds.extend(fallback_seeds)
         all_call_rows.extend(fallback_call_rows)
 
-    collectors = [
-        collect_fullenrich(companies, seeds, args.reuse_raw, args.timeout, args.enrichment_limit, args.fullenrich_poll_attempts),
-        collect_prospeo(companies, seeds, args.reuse_raw, args.timeout, args.enrichment_limit),
-        collect_signalhire(companies, seeds, args.reuse_raw, args.timeout, args.signalhire_limit),
-        collect_blocked(companies),
-    ]
+    collectors = []
+    if run_all or "fullenrich" in api_filter:
+        collectors.append(collect_fullenrich(companies, seeds, args.reuse_raw, args.timeout, args.enrichment_limit, args.fullenrich_poll_attempts))
+    if run_all or "prospeo" in api_filter:
+        collectors.append(collect_prospeo(companies, seeds, args.reuse_raw, args.timeout, args.enrichment_limit))
+    if run_all or "signalhire" in api_filter:
+        collectors.append(collect_signalhire(companies, seeds, args.reuse_raw, args.timeout, args.signalhire_limit))
+    if run_all or "people_data_labs" in api_filter:
+        collectors.append(collect_blocked(companies))
     for company_rows, contact_rows, missing_rows, call_rows in collectors:
         all_company_rows.extend(company_rows)
         all_contact_rows.extend(contact_rows)
@@ -1197,7 +1298,8 @@ def run(args: argparse.Namespace) -> int:
         {
             "generated_at": now_iso(),
             "companies_processed": len(companies),
-            "providers": ["apollo", "fullenrich", "prospeo", "signalhire", "people_data_labs"],
+            "providers": ["apollo", "apollo_enrichment", "fullenrich", "prospeo", "signalhire", "people_data_labs"],
+            "apis": sorted(api_filter),
             "reuse_raw": args.reuse_raw,
             "apollo_contacts_per_company": args.apollo_contacts_per_company,
             "enrichment_limit": args.enrichment_limit,
@@ -1232,9 +1334,11 @@ def main() -> int:
     parser.add_argument("--reuse-raw", action="store_true", help="Reuse saved raw responses.")
     parser.add_argument("--timeout", type=int, default=60)
     parser.add_argument("--apollo-contacts-per-company", type=int, default=2)
+    parser.add_argument("--apollo-enrichment-limit", type=int, default=5, help="Maximum saved seed contacts sent to Apollo People Enrichment.")
     parser.add_argument("--enrichment-limit", type=int, default=5, help="Maximum seed contacts sent to FullEnrich and Prospeo.")
     parser.add_argument("--signalhire-limit", type=int, default=5, help="Maximum SignalHire candidate lookups. Keep at 5 unless more credits are approved.")
     parser.add_argument("--fullenrich-poll-attempts", type=int, default=2, help="Poll attempts for async FullEnrich bulk results.")
+    parser.add_argument("--apis", default="all", help="Comma-separated APIs to run: all, apollo, apollo_enrichment, fullenrich_search, fullenrich, prospeo, signalhire, people_data_labs.")
     args = parser.parse_args()
     try:
         return run(args)

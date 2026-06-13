@@ -4,7 +4,8 @@ This folder evaluates contact-level enrichment providers for the HPI account-int
 
 ## Providers
 
-- Apollo People Search API: used to seed named contacts for each company
+- Apollo People Search API: tested but blocked by current plan/API access
+- Apollo People Enrichment API: tested with saved seed contacts; blocked by current plan/API access
 - FullEnrich Contact Bulk Enrichment API: capped waterfall enrichment for selected seed contacts
 - Prospeo Person Enrichment API: capped email and mobile enrichment for selected seed contacts
 - SignalHire Candidate Search API: capped at 5 lookups because available credits are very low
