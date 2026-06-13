@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:20:29Z",
+  "generated_at": "2026-06-13T07:48:23Z",
   "scope": "10 firmographic companies excluding China and Hong Kong",
   "clean_input": [
     {
@@ -138,7 +138,7 @@
       "API Available (Y/N)": "Y",
       "Authentication Type": "API Key in apikey header",
       "Free Credits / Tokens": "Free trial: 200 Collect credits and 400 Search credits, valid 7 days for the first eligible user/team/domain.",
-      "Credits / Tokens Used": "0 - reused saved Coresignal Multi-source Company raw exports from Technographic/raw/coresignal/data.",
+      "Credits / Tokens Used": "0 - reused saved Coresignal Multi-source Company raw exports from Firmographic/raw/coresignal/data.",
       "Rate Limit": "Multi-source Company API: 18 req/sec search, 18 req/sec enrichment, 27 req/sec bulk collect, 54 req/sec collection.",
       "Companies Processed": "10",
       "Coverage (%)": "100.00%",
@@ -151,7 +151,7 @@
       "Paid Tier Benefits": "Paid plans provide monthly Search/Collect credits, documentation access, and higher/custom credit packages. Higher tiers can include account manager and historical headcount API per pricing page.",
       "Ease of Integration": "4/5 - existing Multi-source Company raw exports map directly to the HPI firmographic field set.",
       "API Documentation Quality": "4/5 - endpoint, rate limits, free trial credits, paid plan ranges, and per-request credit rules are documented clearly.",
-      "Evidence Link": "https://docs.coresignal.com/self-service/account-management/free-trial; https://docs.coresignal.com/introduction/pricing-and-subscriptions; https://coresignal.com/solutions/company-data-api/; https://docs.coresignal.com/company-api/multi-source-company-api; https://docs.coresignal.com/company-api/multi-source-company-api/enrich; https://docs.coresignal.com/api-introduction/credits; ../Technographic/raw/coresignal/data/*.json",
+      "Evidence Link": "https://docs.coresignal.com/self-service/account-management/free-trial; https://docs.coresignal.com/introduction/pricing-and-subscriptions; https://coresignal.com/solutions/company-data-api/; https://docs.coresignal.com/company-api/multi-source-company-api; https://docs.coresignal.com/company-api/multi-source-company-api/enrich; https://docs.coresignal.com/api-introduction/credits; raw/coresignal/data/*.json",
       "Overall API Score": "4.6/5",
       "Status": "Success - reused saved raw exports",
       "Remarks": "Coresignal raw company-enrichment responses were already present from the technographic workstream and are now parsed into the firmographic report.",
@@ -159,6 +159,238 @@
       "Records Retrieved": "10",
       "Estimated Cost per 100 Companies": "Multi-source Company enrich: about 200 Collect credits for 100 companies, because docs state 2 collection credits per successful enrich request.",
       "Raw Export Saved (Y/N)": "Y"
+    }
+  ],
+  "coresignal_api_trace": [
+    {
+      "api_name": "coresignal",
+      "source_rank": "1",
+      "company_name": "DBS Group",
+      "domain": "dbs.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://dbs.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "2",
+      "company_name": "Singapore Telecommunications",
+      "domain": "singtel.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://singtel.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "12",
+      "fields_total": "13",
+      "field_completeness_percent": "92.31",
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "3",
+      "company_name": "United Overseas Bank",
+      "domain": "uobgroup.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://uobgroup.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "12",
+      "fields_total": "13",
+      "field_completeness_percent": "92.31",
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "4",
+      "company_name": "ST Engineering",
+      "domain": "stengg.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://stengg.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "5",
+      "company_name": "Toyota Motor Corporation",
+      "domain": "global.toyota",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://global.toyota\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "12",
+      "fields_total": "13",
+      "field_completeness_percent": "92.31",
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "6",
+      "company_name": "Sony Group Corporation",
+      "domain": "sony.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://sony.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "12",
+      "fields_total": "13",
+      "field_completeness_percent": "92.31",
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "7",
+      "company_name": "Samsung Electronics",
+      "domain": "samsung.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://samsung.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "8",
+      "company_name": "SK Hynix",
+      "domain": "skhynix.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://skhynix.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "9",
+      "company_name": "Infosys",
+      "domain": "infosys.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://infosys.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
+    },
+    {
+      "api_name": "coresignal",
+      "source_rank": "10",
+      "company_name": "BHP",
+      "domain": "bhp.com",
+      "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
+      "request_params": "{\"website\": \"https://bhp.com\"}",
+      "http_status": "200",
+      "success_failure": "Success",
+      "latency_ms": "0 (reuse raw)",
+      "credits_consumed": "0 (reused saved Coresignal raw export)",
+      "credit_evidence": "No live Coresignal credits consumed in this report refresh; raw export copied under Firmographic/raw/coresignal/data.",
+      "rate_limits": "Multi-source Company API documented enrichment rate limit: 18 req/sec.",
+      "rate_limit_hit": "N",
+      "records_retrieved": "1",
+      "fields_available": "13",
+      "fields_total": "13",
+      "field_completeness_percent": "100.00",
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "started_at": "2026-06-13T07:48:23Z",
+      "response_received_at": "2026-06-13T07:48:23Z",
+      "error_message": ""
     }
   ],
   "field_level_data": [
@@ -2778,9 +3010,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2798,9 +3030,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2818,9 +3050,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2838,9 +3070,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2858,9 +3090,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2878,9 +3110,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2898,9 +3130,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2918,9 +3150,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2938,9 +3170,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2958,9 +3190,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2978,9 +3210,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -2998,9 +3230,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "1",
@@ -3018,9 +3250,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3038,9 +3270,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3058,9 +3290,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3078,9 +3310,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3098,9 +3330,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3118,9 +3350,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3138,9 +3370,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3158,9 +3390,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3178,9 +3410,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3198,9 +3430,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3218,9 +3450,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3238,9 +3470,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3258,9 +3490,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "2",
@@ -3278,9 +3510,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3298,9 +3530,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3318,9 +3550,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3338,9 +3570,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3358,9 +3590,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3378,9 +3610,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3398,9 +3630,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3418,9 +3650,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3438,9 +3670,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3458,9 +3690,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3478,9 +3710,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3498,9 +3730,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3518,9 +3750,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -3538,9 +3770,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3558,9 +3790,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3578,9 +3810,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3598,9 +3830,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3618,9 +3850,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3638,9 +3870,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3658,9 +3890,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3678,9 +3910,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3698,9 +3930,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3718,9 +3950,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3738,9 +3970,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3758,9 +3990,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3778,9 +4010,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "4",
@@ -3798,9 +4030,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3818,9 +4050,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3838,9 +4070,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3858,9 +4090,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3878,9 +4110,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3898,9 +4130,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3918,9 +4150,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3938,9 +4170,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3958,9 +4190,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3978,9 +4210,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -3998,9 +4230,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -4018,9 +4250,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -4038,9 +4270,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -4058,9 +4290,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4078,9 +4310,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4098,9 +4330,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4118,9 +4350,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4138,9 +4370,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4158,9 +4390,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4178,9 +4410,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4198,9 +4430,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4218,9 +4450,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4238,9 +4470,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4258,9 +4490,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4278,9 +4510,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4298,9 +4530,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -4318,9 +4550,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4338,9 +4570,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4358,9 +4590,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4378,9 +4610,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4398,9 +4630,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4418,9 +4650,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4438,9 +4670,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4458,9 +4690,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4478,9 +4710,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4498,9 +4730,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4518,9 +4750,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4538,9 +4770,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4558,9 +4790,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "7",
@@ -4578,9 +4810,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4598,9 +4830,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4618,9 +4850,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4638,9 +4870,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4658,9 +4890,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4678,9 +4910,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4698,9 +4930,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4718,9 +4950,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4738,9 +4970,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4758,9 +4990,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4778,9 +5010,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4798,9 +5030,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4818,9 +5050,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "8",
@@ -4838,9 +5070,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4858,9 +5090,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4878,9 +5110,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4898,9 +5130,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4918,9 +5150,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4938,9 +5170,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4958,9 +5190,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4978,9 +5210,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -4998,9 +5230,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -5018,9 +5250,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -5038,9 +5270,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -5058,9 +5290,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -5078,9 +5310,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "9",
@@ -5098,9 +5330,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5118,9 +5350,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5138,9 +5370,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5158,9 +5390,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5178,9 +5410,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5198,9 +5430,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5218,9 +5450,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5238,9 +5470,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5258,9 +5490,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5278,9 +5510,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5298,9 +5530,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5318,9 +5550,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5338,9 +5570,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "10",
@@ -5358,9 +5590,9 @@
       "api_gated_column": "N - returned by API.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     }
   ],
   "missing_reason_api_gated": [
@@ -5980,9 +6212,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "3",
@@ -6000,9 +6232,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "5",
@@ -6020,9 +6252,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     },
     {
       "source_rank": "6",
@@ -6040,9 +6272,9 @@
       "api_gated_column": "Not returned by selected endpoint response.",
       "endpoint_used": "GET https://api.coresignal.com/cdapi/v2/company_multi_source/enrich?website={URL}",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json",
-      "credits_used_for_company": "0 (reused saved technographic CoreSignal raw export)",
-      "total_free_credits_or_tokens": "No live CoreSignal firmographic calls made in this report refresh; existing Multi-source Company raw exports were reused."
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
+      "credits_used_for_company": "0 (reused saved Coresignal raw export)",
+      "total_free_credits_or_tokens": "No live Coresignal firmographic calls made in this report refresh; saved Multi-source Company raw exports are stored under Firmographic/raw/coresignal/data."
     }
   ],
   "raw_export_index": [
@@ -6056,7 +6288,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "DBS Group",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\dbs_group.json"
+      "raw_response_path": "raw\\coresignal\\data\\dbs_group.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6068,7 +6300,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "Singapore Telecommunications",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\singapore_telecommunications.json"
+      "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6080,7 +6312,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "United Overseas Bank",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\united_overseas_bank.json"
+      "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6092,7 +6324,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "ST Engineering",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\st_engineering.json"
+      "raw_response_path": "raw\\coresignal\\data\\st_engineering.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6104,7 +6336,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "Toyota Motor Corporation",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\toyota_motor_corporation.json"
+      "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6116,7 +6348,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "Sony Group Corporation",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sony_group_corporation.json"
+      "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6128,7 +6360,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "Samsung Electronics",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\samsung_electronics.json"
+      "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6140,7 +6372,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "SK Hynix",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\sk_hynix.json"
+      "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6152,7 +6384,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "Infosys",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\infosys.json"
+      "raw_response_path": "raw\\coresignal\\data\\infosys.json"
     },
     {
       "source_api": "Apollo Organization Enrichment API",
@@ -6164,7 +6396,7 @@
       "source_api": "Coresignal Multi-source Company Enrichment API",
       "company_name": "BHP",
       "raw_response_saved": "Y",
-      "raw_response_path": "Technographic\\raw\\coresignal\\data\\bhp.json"
+      "raw_response_path": "raw\\coresignal\\data\\bhp.json"
     }
   ]
 }
