@@ -632,12 +632,32 @@ def collect_coresignal(companies: list[Company]) -> tuple[list[dict[str, str]], 
         raw_path = RAW_ROOT / "coresignal" / "data" / f"{slugify(company.company_name)}.json"
         payload = load_json(raw_path) if raw_path.exists() else {"error": "Missing saved Coresignal raw export."}
         raw_rel = safe_rel(raw_path)
+        log_path = APILOG_ROOT / "coresignal" / f"{slugify(company.company_name)}.jsonl"
         summary, details, missing = summarize_jobs(company, api_name, payload, raw_rel)
         company_rows.append(summary)
         detail_rows.extend(details)
         missing_rows.extend(missing)
         result = {"ok": raw_path.exists(), "status_code": 200 if raw_path.exists() else "", "latency_ms": 0, "headers": {}, "error": "" if raw_path.exists() else "Missing saved Coresignal raw export."}
-        call_rows.append(api_call_row(api_name, company, CORESIGNAL_SOURCE_ENDPOINT, result, "Success" if raw_path.exists() else "Fail", "0 (reuse raw)", len(details), raw_rel, safe_rel(APILOG_ROOT / "coresignal" / f"{slugify(company.company_name)}.jsonl")))
+        append_jsonl(
+            log_path,
+            {
+                "logged_at": now_iso(),
+                "request": {
+                    "method": "REUSE_RAW",
+                    "source": CORESIGNAL_SOURCE_ENDPOINT,
+                    "raw_response_path": raw_rel,
+                },
+                "response": {
+                    "status_code": result["status_code"],
+                    "ok": result["ok"],
+                    "latency_ms": result["latency_ms"],
+                    "headers": result["headers"],
+                    "error": result["error"],
+                    "records_retrieved": len(details),
+                },
+            },
+        )
+        call_rows.append(api_call_row(api_name, company, CORESIGNAL_SOURCE_ENDPOINT, result, "Success" if raw_path.exists() else "Fail", "0 (reuse raw)", len(details), raw_rel, safe_rel(log_path)))
         print(f"coresignal: {company.company_name} | {'Success' if raw_path.exists() else 'Fail'} | jobs={len(details)}")
     return company_rows, detail_rows, missing_rows, call_rows
 
