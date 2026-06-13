@@ -850,6 +850,15 @@ def selected_adapters(names: str | None) -> list[ApiAdapter]:
     return adapters
 
 
+def raw_has_technology_records(adapter: ApiAdapter, raw_path: Path) -> bool:
+    if not raw_path.exists():
+        return False
+    try:
+        return bool(extract_details(adapter.name, load_json(raw_path)))
+    except (OSError, json.JSONDecodeError):
+        return False
+
+
 def run(args: argparse.Namespace) -> int:
     load_dotenv()
     ensure_dirs()
@@ -876,7 +885,11 @@ def run(args: argparse.Namespace) -> int:
             credits_before = ""
             credits_after = ""
             credit_evidence = ""
-            if args.reuse_raw and raw_path.exists():
+            should_reuse_raw = raw_path.exists() and (
+                args.reuse_raw
+                or (args.refresh_empty_raw and raw_has_technology_records(adapter, raw_path))
+            )
+            if should_reuse_raw:
                 result = {
                     "ok": True,
                     "status_code": 200,
@@ -927,6 +940,8 @@ def run(args: argparse.Namespace) -> int:
                 used = f"Estimated {adapter.estimated_credits_per_success:g}"
             if args.reuse_raw:
                 used = "0 (reuse-raw)"
+            elif should_reuse_raw:
+                used = "0 (existing raw with parsed records)"
             error = result["error"]
             if result["ok"] and not records:
                 error = "HTTP success but no technology records parsed."
@@ -1010,6 +1025,7 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=10, help="Number of companies to process. Defaults to 10.")
     parser.add_argument("--apis", default="theirstack,coresignal", help="Comma-separated APIs: theirstack,coresignal.")
     parser.add_argument("--reuse-raw", action="store_true", help="Build reports from existing raw responses without live API calls.")
+    parser.add_argument("--refresh-empty-raw", action="store_true", help="Reuse raw files that already parse technology records; call the API only for missing/empty raw files.")
     parser.add_argument("--timeout", type=int, default=60, help="HTTP timeout in seconds.")
     args = parser.parse_args()
     try:
