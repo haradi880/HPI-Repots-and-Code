@@ -1,32 +1,13 @@
 ﻿source_rank,company_name,domain,api_name,field,status,reason,raw_response_path
-1,DBS Group,dbs.com,TheirStack Technographics API,detected technologies (full list),Not Available,No technology names were parsed from the response.,raw/theirstack/data/dbs_group.json
-1,DBS Group,dbs.com,TheirStack Technographics API,hardware / devices / endpoint signals,Not Available,"No hardware, device, or endpoint terms were detected.",raw/theirstack/data/dbs_group.json
-1,DBS Group,dbs.com,TheirStack Technographics API,print / MPS / Collaboration (UC) stack,Not Available,"No print, MPS, UC, or collaboration terms were detected.",raw/theirstack/data/dbs_group.json
 1,DBS Group,dbs.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/dbs_group.json
-1,DBS Group,dbs.com,TheirStack Technographics API,last seen/freshness date per technology,Not Available,No first/last seen or freshness date was parsed for technologies.,raw/theirstack/data/dbs_group.json
-2,Singapore Telecommunications,singtel.com,TheirStack Technographics API,detected technologies (full list),Not Available,No technology names were parsed from the response.,raw/theirstack/data/singapore_telecommunications.json
-2,Singapore Telecommunications,singtel.com,TheirStack Technographics API,hardware / devices / endpoint signals,Not Available,"No hardware, device, or endpoint terms were detected.",raw/theirstack/data/singapore_telecommunications.json
-2,Singapore Telecommunications,singtel.com,TheirStack Technographics API,print / MPS / Collaboration (UC) stack,Not Available,"No print, MPS, UC, or collaboration terms were detected.",raw/theirstack/data/singapore_telecommunications.json
 2,Singapore Telecommunications,singtel.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/singapore_telecommunications.json
-2,Singapore Telecommunications,singtel.com,TheirStack Technographics API,last seen/freshness date per technology,Not Available,No first/last seen or freshness date was parsed for technologies.,raw/theirstack/data/singapore_telecommunications.json
-3,United Overseas Bank,uobgroup.com,TheirStack Technographics API,detected technologies (full list),Not Available,No technology names were parsed from the response.,raw/theirstack/data/united_overseas_bank.json
-3,United Overseas Bank,uobgroup.com,TheirStack Technographics API,hardware / devices / endpoint signals,Not Available,"No hardware, device, or endpoint terms were detected.",raw/theirstack/data/united_overseas_bank.json
-3,United Overseas Bank,uobgroup.com,TheirStack Technographics API,print / MPS / Collaboration (UC) stack,Not Available,"No print, MPS, UC, or collaboration terms were detected.",raw/theirstack/data/united_overseas_bank.json
 3,United Overseas Bank,uobgroup.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/united_overseas_bank.json
-3,United Overseas Bank,uobgroup.com,TheirStack Technographics API,last seen/freshness date per technology,Not Available,No first/last seen or freshness date was parsed for technologies.,raw/theirstack/data/united_overseas_bank.json
 4,ST Engineering,stengg.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/st_engineering.json
 5,Toyota Motor Corporation,global.toyota,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/toyota_motor_corporation.json
-6,Sony Group Corporation,sony.com,TheirStack Technographics API,detected technologies (full list),Not Available,No technology names were parsed from the response.,raw/theirstack/data/sony_group_corporation.json
-6,Sony Group Corporation,sony.com,TheirStack Technographics API,hardware / devices / endpoint signals,Not Available,"No hardware, device, or endpoint terms were detected.",raw/theirstack/data/sony_group_corporation.json
-6,Sony Group Corporation,sony.com,TheirStack Technographics API,print / MPS / Collaboration (UC) stack,Not Available,"No print, MPS, UC, or collaboration terms were detected.",raw/theirstack/data/sony_group_corporation.json
 6,Sony Group Corporation,sony.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/sony_group_corporation.json
-6,Sony Group Corporation,sony.com,TheirStack Technographics API,last seen/freshness date per technology,Not Available,No first/last seen or freshness date was parsed for technologies.,raw/theirstack/data/sony_group_corporation.json
 7,Samsung Electronics,samsung.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/samsung_electronics.json
-8,SK Hynix,skhynix.com,TheirStack Technographics API,detected technologies (full list),Not Available,No technology names were parsed from the response.,raw/theirstack/data/sk_hynix.json
-8,SK Hynix,skhynix.com,TheirStack Technographics API,hardware / devices / endpoint signals,Not Available,"No hardware, device, or endpoint terms were detected.",raw/theirstack/data/sk_hynix.json
 8,SK Hynix,skhynix.com,TheirStack Technographics API,print / MPS / Collaboration (UC) stack,Not Available,"No print, MPS, UC, or collaboration terms were detected.",raw/theirstack/data/sk_hynix.json
 8,SK Hynix,skhynix.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/sk_hynix.json
-8,SK Hynix,skhynix.com,TheirStack Technographics API,last seen/freshness date per technology,Not Available,No first/last seen or freshness date was parsed for technologies.,raw/theirstack/data/sk_hynix.json
 9,Infosys,infosys.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/infosys.json
 10,BHP,bhp.com,TheirStack Technographics API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/theirstack/data/bhp.json
 1,DBS Group,dbs.com,Coresignal Multi-source Company Enrichment API,IT spend estimate,Not Available,No spend-like field was present in the raw response.,raw/coresignal/data/dbs_group.json

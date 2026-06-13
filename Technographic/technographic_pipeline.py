@@ -207,8 +207,8 @@ class TheirStackAdapter(ApiAdapter):
             },
             "json": {
                 "company_domain": company.domain,
-                "company_name": company.company_name,
-                "company_linkedin_url": company.linkedin_url,
+                "limit": 500,
+                "include_total_results": True,
             },
         }
 
