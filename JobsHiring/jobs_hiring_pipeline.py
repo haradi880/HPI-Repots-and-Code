@@ -769,9 +769,9 @@ def fields_returned(rows: list[dict[str, str]], api_name: str) -> list[str]:
 def build_api_comparison(company_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     configs = [
         ("PredictLeads Job Openings API", "PredictLeads", "Invalid API credential observed; not executed for this run.", "Free: 100 API requests/month", "Job openings dataset, history, categories, and URLs if valid credentials are available."),
-        ("TheirStack Job Search API", THEIRSTACK_JOB_ENDPOINT, "Live job search executed where raw was absent.", "Free: 200 credits/month; job search consumes 1 credit per returned job.", "Large job-posting database with company, title, location, country, and date filters."),
+        ("TheirStack Job Search API", THEIRSTACK_JOB_ENDPOINT, "Job search executed from saved raw for rebuilds; live API is used only when raw is absent.", "Free: 200 credits/month; job search consumes 1 credit per returned job.", "Large job-posting database with company, title, location, country, and date filters."),
         ("Coresignal Multi-source Company Jobs Signals", CORESIGNAL_SOURCE_ENDPOINT, "Reused saved Coresignal company raw exports.", "Trial credits are account-specific; Multi-source jobs API uses Search/Collect credits.", "Can use company jobs signals and dedicated Multi-source Jobs API for deeper job records."),
-        ("Apollo Organization Job Postings API", APOLLO_JOB_ENDPOINT, "Live Apollo org job postings endpoint executed where raw was absent.", "Existing paid Apollo plan; job postings endpoint consumes credits.", "Convenient if Apollo org IDs already exist from firmographic enrichment."),
+        ("Apollo Organization Job Postings API", APOLLO_JOB_ENDPOINT, "Organization job postings parsed from saved raw for rebuilds; live API is used only when raw is absent.", "Existing paid Apollo plan; job postings endpoint consumes credits.", "Convenient if Apollo org IDs already exist from firmographic enrichment."),
         ("LinkUp / Aura", "Sample/demo on request", "Not executed - sample/demo required.", "Demo/sample on request.", "Raw de-duplicated postings at scale; evaluate if free/available APIs fall short."),
     ]
     rows = []
@@ -902,7 +902,21 @@ def add_table(document: Document, headers: list[str], rows: list[list[str]]) -> 
     document.add_paragraph()
 
 
-def write_docx(path: Path, company_rows: list[dict[str, str]], api_trace_rows: list[dict[str, str]], comparison_rows: list[dict[str, str]], missing_rows: list[dict[str, str]]) -> None:
+def sample_job_rows(detail_rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    sampled: list[dict[str, str]] = []
+    counts: dict[str, int] = defaultdict(int)
+    for row in detail_rows:
+        api_name = row.get("api_name", "")
+        if api_name not in {"TheirStack Job Search API", "Apollo Organization Job Postings API"}:
+            continue
+        if counts[api_name] >= 8:
+            continue
+        sampled.append(row)
+        counts[api_name] += 1
+    return sampled
+
+
+def write_docx(path: Path, company_rows: list[dict[str, str]], detail_rows: list[dict[str, str]], api_trace_rows: list[dict[str, str]], comparison_rows: list[dict[str, str]], missing_rows: list[dict[str, str]]) -> None:
     document = Document()
     section = document.sections[0]
     section.top_margin = Inches(0.55)
@@ -923,6 +937,9 @@ def write_docx(path: Path, company_rows: list[dict[str, str]], api_trace_rows: l
     document.add_heading("Company Jobs Summary", level=1)
     compact_fields = ["company_name", "api_name", "active_job_count_total", "active_job_count_sg", "roles_by_function", "hiring_velocity_90_days", "data_completeness_percent"]
     add_table(document, ["Company", "API", "Total Jobs", "SG Jobs", "Roles", "90-Day Velocity", "Completeness %"], [[row.get(field, "") for field in compact_fields] for row in company_rows])
+    document.add_heading("Apollo / TheirStack Sample Job Detail", level=1)
+    sample_fields = ["company_name", "api_name", "job_title", "location", "country", "first_seen", "source_url"]
+    add_table(document, ["Company", "API", "Job Title", "Location", "Country", "First Seen", "Source URL"], [[row.get(field, "") for field in sample_fields] for row in sample_job_rows(detail_rows)])
     document.add_heading("Missing / Not Tested Fields", level=1)
     add_table(document, MISSING_FIELDS, [[row.get(field, "") for field in MISSING_FIELDS] for row in missing_rows])
     document.save(path)
@@ -979,7 +996,7 @@ def run(args: argparse.Namespace) -> int:
             "Missing Fields": (MISSING_FIELDS, all_missing_rows),
         },
     )
-    write_docx(docx_path, all_company_rows, trace_rows, comparison_rows, all_missing_rows)
+    write_docx(docx_path, all_company_rows, all_detail_rows, trace_rows, comparison_rows, all_missing_rows)
     print(f"Saved workbook: {safe_rel(xlsx_path)}")
     print(f"Saved docx: {safe_rel(docx_path)}")
     return 0
