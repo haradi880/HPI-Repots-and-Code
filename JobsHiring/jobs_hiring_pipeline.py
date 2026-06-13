@@ -377,6 +377,7 @@ def normalize_job(item: dict[str, Any], api_name: str, source_field: str) -> dic
     location_value = first_value(item, ["location", "short_location", "long_location", "formatted_location", "job_location", "locations", "city"])
     location = format_location(location_value)
     country = normalize_country(first_value(item, ["country_code", "job_country_code", "country", "job_country", "country_codes", "countries"]) or "")
+    location = enrich_location_from_parts(item, location)
     if not location and country:
         location = country
     posted_at = parse_date(first_value(item, ["posted_at", "date_posted", "published_at", "created_at", "last_seen_at"]))
@@ -414,6 +415,18 @@ def format_location(value: Any) -> str:
         locations = [format_location(item) for item in value[:3]]
         return "; ".join(location for location in locations if location)
     return ""
+
+
+def enrich_location_from_parts(item: dict[str, Any], location: str) -> str:
+    city = str(first_value(item, ["city", "job_city"]) or "").strip()
+    state = str(first_value(item, ["state", "region", "job_state"]) or "").strip()
+    country = normalize_country(first_value(item, ["country", "job_country", "country_code", "job_country_code"]) or "")
+    if not city:
+        return location
+    if location and location.strip().lower() != city.lower():
+        return location
+    parts = [city, state, country]
+    return ", ".join(part for part in parts if part)
 
 
 def normalize_country(value: Any) -> str:
