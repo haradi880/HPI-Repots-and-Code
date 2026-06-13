@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-13T05:45:19Z",
+  "input": "input/compnys.txt",
+  "companies_processed": 10,
+  "apis": [
+    "theirstack",
+    "coresignal"
+  ],
+  "raw_root": "raw",
+  "api_log_root": "apilogs",
+  "reports": [
+    "reports/api_comparison_report.csv",
+    "reports/api_tracing_report.csv",
+    "reports/api_call_log.csv",
+    "reports/company_technographics.csv",
+    "reports/technology_detail.csv",
+    "reports/missing_fields_report.csv"
+  ]
+}

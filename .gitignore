@@ -54,8 +54,14 @@ Thumbs.db
 .ipynb_checkpoints
 *.ipynb
 
-# Exclude Technographic folder (for separate tracking)
-Technographic/
+# Keep real secrets out of Technographic while allowing code, reports, raw
+# responses, and API logs to be committed.
+Technographic/.env
+Technographic/.env.local
+Technographic/.env.*.local
+Technographic/__pycache__/
+Technographic/**/__pycache__/
+Technographic/raw/**/~$*.docx
 
 # Data files (optional - uncomment if needed)
 # raw/
