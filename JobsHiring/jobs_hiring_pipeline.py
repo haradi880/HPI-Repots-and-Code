@@ -374,12 +374,11 @@ def total_from_payload(payload: Any, fallback: int) -> str:
 
 def normalize_job(item: dict[str, Any], api_name: str, source_field: str) -> dict[str, str]:
     title = str(first_value(item, ["title", "job_title", "job_posting_title", "name"]) or "")
-    location_value = first_value(item, ["location", "locations", "job_location", "city", "formatted_location"])
-    if isinstance(location_value, list):
-        location = "; ".join(json.dumps(v, ensure_ascii=False) if isinstance(v, dict) else str(v) for v in location_value[:3])
-    else:
-        location = str(location_value or "")
-    country = normalize_country(str(first_value(item, ["country", "job_country", "country_code", "job_country_code"]) or ""))
+    location_value = first_value(item, ["location", "short_location", "long_location", "formatted_location", "job_location", "locations", "city"])
+    location = format_location(location_value)
+    country = normalize_country(first_value(item, ["country_code", "job_country_code", "country", "job_country", "country_codes", "countries"]) or "")
+    if not location and country:
+        location = country
     posted_at = parse_date(first_value(item, ["posted_at", "date_posted", "published_at", "created_at", "last_seen_at"]))
     first_seen = parse_date(first_value(item, ["first_seen_at", "first_seen", "discovered_at", "posted_at", "created_at"]))
     source_url = str(first_value(item, ["url", "job_url", "source_url", "final_url", "apply_url", "redirect_url"]) or "")
@@ -402,8 +401,29 @@ def infer_country(location: str) -> str:
     return ""
 
 
-def normalize_country(value: str) -> str:
-    text = (value or "").strip()
+def format_location(value: Any) -> str:
+    if isinstance(value, str):
+        return value.strip()
+    if isinstance(value, dict):
+        for key in ["name", "formatted", "formatted_location", "long_location", "short_location", "city"]:
+            if value.get(key):
+                return str(value[key]).strip()
+        parts = [value.get("city"), value.get("region"), value.get("country_code") or value.get("country")]
+        return ", ".join(str(part).strip() for part in parts if part)
+    if isinstance(value, list):
+        locations = [format_location(item) for item in value[:3]]
+        return "; ".join(location for location in locations if location)
+    return ""
+
+
+def normalize_country(value: Any) -> str:
+    if isinstance(value, list):
+        value = first_value({"value": value}, ["value"])
+        if isinstance(value, list):
+            value = value[0] if value else ""
+    if isinstance(value, dict):
+        value = first_value(value, ["country_code", "code", "name", "country"])
+    text = str(value or "").strip()
     if text.lower() in {"singapore", "sg", "sgp"}:
         return "SG"
     return text
@@ -633,6 +653,8 @@ def collect_coresignal(companies: list[Company]) -> tuple[list[dict[str, str]], 
         payload = load_json(raw_path) if raw_path.exists() else {"error": "Missing saved Coresignal raw export."}
         raw_rel = safe_rel(raw_path)
         log_path = APILOG_ROOT / "coresignal" / f"{slugify(company.company_name)}.jsonl"
+        if log_path.exists():
+            log_path.unlink()
         summary, details, missing = summarize_jobs(company, api_name, payload, raw_rel)
         company_rows.append(summary)
         detail_rows.extend(details)
