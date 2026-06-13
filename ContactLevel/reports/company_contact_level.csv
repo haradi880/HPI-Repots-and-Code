@@ -1,17 +1,7 @@
 ﻿source_rank,company_name,domain,api_name,requested_contacts,matched_contacts,match_rate_percent,verified_work_email_count,direct_mobile_phone_count,linkedin_url_count,title_count,reports_to_count,data_completeness_percent,raw_response_path
-1,DBS Group,dbs.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/dbs_group.json
-2,Singapore Telecommunications,singtel.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/singapore_telecommunications.json
-3,United Overseas Bank,uobgroup.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/united_overseas_bank.json
-4,ST Engineering,stengg.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/st_engineering.json
-5,Toyota Motor Corporation,global.toyota,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/toyota_motor_corporation.json
-6,Sony Group Corporation,sony.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/sony_group_corporation.json
-7,Samsung Electronics,samsung.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/samsung_electronics.json
-8,SK Hynix,skhynix.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/sk_hynix.json
-9,Infosys,infosys.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/infosys.json
-10,BHP,bhp.com,Apollo People Search API,0,0,0.00,0,0,0,0,0,0.00,raw/apollo/data/bhp.json
-1,DBS Group,dbs.com,Apollo People Enrichment API,2,0,0.00,0,0,2,2,0,33.33,raw/apollo_enrichment/data/dbs_group__nico_herman.json
-2,Singapore Telecommunications,singtel.com,Apollo People Enrichment API,2,0,0.00,0,0,2,2,0,33.33,raw/apollo_enrichment/data/singapore_telecommunications__shannon_kok.json
-3,United Overseas Bank,uobgroup.com,Apollo People Enrichment API,1,0,0.00,0,0,1,1,0,33.33,raw/apollo_enrichment/data/united_overseas_bank__jianzhuang_zhao.json
+1,DBS Group,dbs.com,Apollo People Enrichment API,2,0,0.00,0,0,0,0,0,0.00,raw/apollo_enrichment/data/dbs_group__nico_herman.json
+2,Singapore Telecommunications,singtel.com,Apollo People Enrichment API,2,0,0.00,0,0,0,0,0,0.00,raw/apollo_enrichment/data/singapore_telecommunications__shannon_kok.json
+3,United Overseas Bank,uobgroup.com,Apollo People Enrichment API,1,0,0.00,0,0,0,0,0,0.00,raw/apollo_enrichment/data/united_overseas_bank__jianzhuang_zhao.json
 4,ST Engineering,stengg.com,Apollo People Enrichment API,1,0,0.00,0,0,0,0,0,0.00,
 5,Toyota Motor Corporation,global.toyota,Apollo People Enrichment API,1,0,0.00,0,0,0,0,0,0.00,
 6,Sony Group Corporation,sony.com,Apollo People Enrichment API,1,0,0.00,0,0,0,0,0,0.00,
@@ -29,9 +19,9 @@
 8,SK Hynix,skhynix.com,FullEnrich Contact Bulk Enrichment API,1,0,0.00,0,0,0,0,0,0.00,raw/fullenrich/data/sk_hynix.json
 9,Infosys,infosys.com,FullEnrich Contact Bulk Enrichment API,1,0,0.00,0,0,0,0,0,0.00,raw/fullenrich/data/infosys.json
 10,BHP,bhp.com,FullEnrich Contact Bulk Enrichment API,1,0,0.00,0,0,0,0,0,0.00,raw/fullenrich/data/bhp.json
-1,DBS Group,dbs.com,Prospeo Person Enrichment API,2,1,50.00,1,0,2,2,0,66.67,raw/prospeo/data/dbs_group__nico_herman.json
-2,Singapore Telecommunications,singtel.com,Prospeo Person Enrichment API,2,1,50.00,1,0,2,2,0,66.67,raw/prospeo/data/singapore_telecommunications__shannon_kok.json
-3,United Overseas Bank,uobgroup.com,Prospeo Person Enrichment API,1,0,0.00,0,0,1,1,0,33.33,raw/prospeo/data/united_overseas_bank__jianzhuang_zhao.json
+1,DBS Group,dbs.com,Prospeo Person Enrichment API,2,1,50.00,1,0,1,1,0,66.67,raw/prospeo/data/dbs_group__nico_herman.json
+2,Singapore Telecommunications,singtel.com,Prospeo Person Enrichment API,2,1,50.00,1,0,1,1,0,66.67,raw/prospeo/data/singapore_telecommunications__shannon_kok.json
+3,United Overseas Bank,uobgroup.com,Prospeo Person Enrichment API,1,0,0.00,0,0,0,0,0,0.00,raw/prospeo/data/united_overseas_bank__jianzhuang_zhao.json
 4,ST Engineering,stengg.com,Prospeo Person Enrichment API,1,0,0.00,0,0,0,0,0,0.00,
 5,Toyota Motor Corporation,global.toyota,Prospeo Person Enrichment API,1,0,0.00,0,0,0,0,0,0.00,
 6,Sony Group Corporation,sony.com,Prospeo Person Enrichment API,1,0,0.00,0,0,0,0,0,0.00,

@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-06-13T13:21:15Z",
+  "generated_at": "2026-06-13T13:31:06Z",
   "companies_processed": 10,
   "providers": [
-    "apollo",
     "apollo_enrichment",
     "fullenrich",
     "prospeo",

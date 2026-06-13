@@ -34,14 +34,14 @@ APILOG_ROOT = BASE_DIR / "apilogs"
 NOT_AVAILABLE = "Not Available"
 NOT_TESTED = "Not Tested"
 
-APOLLO_DOC = "https://docs.apollo.io/reference/people-api-search"
+APOLLO_DOC = "https://docs.apollo.io/reference/people-enrichment"
 FULLENRICH_DOC = "https://docs.fullenrich.com/api/v2/contact/enrich/bulk/post"
 PROSPEO_DOC = "https://docs.prospeo.io/reference/person-enrichment"
 SIGNALHIRE_DOC = "https://www.signalhire.com/api"
 PDL_DOC = "https://docs.peopledatalabs.com/"
 
-APOLLO_ENDPOINT = "POST https://api.apollo.io/api/v1/mixed_people/api_search"
 APOLLO_ENRICHMENT_ENDPOINT = "POST https://api.apollo.io/api/v1/people/match"
+APOLLO_SEARCH_ENDPOINT = "POST https://api.apollo.io/api/v1/mixed_people/api_search"
 FULLENRICH_BULK_ENDPOINT = "POST https://app.fullenrich.com/api/v2/contact/enrich/bulk"
 FULLENRICH_RESULT_ENDPOINT = "GET https://app.fullenrich.com/api/v1/contact/enrich/bulk/{enrichment_id}"
 PROSPEO_ENDPOINT = "POST https://api.prospeo.io/enrich-person"
@@ -515,13 +515,14 @@ def summarize_contacts(companies: list[Company], api_name: str, rows: list[dict[
     missing: list[dict[str, str]] = []
     for company in companies:
         company_rows = [row for row in rows if row["company_name"] == company.company_name and row["api_name"] == api_name]
+        matched_rows = [row for row in company_rows if row["match_status"] == "Matched"]
         requested = len(company_rows)
-        matched = sum(1 for row in company_rows if row["match_status"] == "Matched")
-        email_count = sum(1 for row in company_rows if row["verified_work_email"] != NOT_AVAILABLE)
-        phone_count = sum(1 for row in company_rows if row["direct_mobile_phone"] != NOT_AVAILABLE)
-        linkedin_count = sum(1 for row in company_rows if row["linkedin_url"] != NOT_AVAILABLE)
-        title_count = sum(1 for row in company_rows if row["title"] != NOT_AVAILABLE)
-        reports_to_count = sum(1 for row in company_rows if row["reports_to"] != NOT_AVAILABLE)
+        matched = len(matched_rows)
+        email_count = sum(1 for row in matched_rows if row["verified_work_email"] != NOT_AVAILABLE)
+        phone_count = sum(1 for row in matched_rows if row["direct_mobile_phone"] != NOT_AVAILABLE)
+        linkedin_count = sum(1 for row in matched_rows if row["linkedin_url"] != NOT_AVAILABLE)
+        title_count = sum(1 for row in matched_rows if row["title"] != NOT_AVAILABLE)
+        reports_to_count = sum(1 for row in matched_rows if row["reports_to"] != NOT_AVAILABLE)
         field_checks = [email_count, phone_count, title_count, reports_to_count, linkedin_count, matched]
         completeness = round(sum(1 for count in field_checks if count > 0) / len(TARGET_FIELDS) * 100, 2)
         raw_rel = raw_by_company.get(company.company_name, "")
@@ -623,7 +624,7 @@ def collect_apollo(companies: list[Company], reuse_raw: bool, timeout: int, per_
             )
             contact_rows.append(row)
         status = "Success" if result.get("ok") else "Fail"
-        call_rows.append(api_call_row(api_name, company, APOLLO_ENDPOINT, result, status, "0 (people search does not reveal email/phone)", len(people), raw_rel, safe_rel(log_path)))
+        call_rows.append(api_call_row(api_name, company, APOLLO_SEARCH_ENDPOINT, result, status, "0 (people search does not reveal email/phone)", len(people), raw_rel, safe_rel(log_path)))
         print(f"apollo: {company.company_name} | {status} | seeds={len(people)}")
     company_rows, missing_rows = summarize_contacts(companies, api_name, contact_rows, raw_by_company)
     return seeds, company_rows, contact_rows, missing_rows, call_rows
@@ -1045,7 +1046,7 @@ def collect_blocked(companies: list[Company]) -> tuple[list[dict[str, str]], lis
 
 
 def fields_returned(rows: list[dict[str, str]], api_name: str) -> list[str]:
-    api_rows = [row for row in rows if row["api_name"] == api_name]
+    api_rows = [row for row in rows if row["api_name"] == api_name and row.get("match_status") == "Matched"]
     checks = {
         "verified_work_email": "Verified work email",
         "direct_mobile_phone": "Direct/mobile phone",
@@ -1064,7 +1065,6 @@ def fields_returned(rows: list[dict[str, str]], api_name: str) -> list[str]:
 
 def build_api_comparison(contact_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     configs = [
-        ("Apollo People Search API", APOLLO_ENDPOINT, "Used as seed source for named contacts; email/phone not returned by people search.", "People search endpoint does not expose work email or phone.", "Apollo enrichment endpoints can add gated email/phone if additional credits are approved."),
         ("Apollo People Enrichment API", APOLLO_ENRICHMENT_ENDPOINT, "Enriched saved seed contacts by name, domain, and LinkedIn URL with phone reveal disabled.", "Consumes Apollo enrichment credits when matched; phone reveal was disabled for this run.", "Can reveal work email and optionally phone/waterfall data when plan and credits allow it."),
         ("FullEnrich Contact Bulk Enrichment API", FULLENRICH_BULK_ENDPOINT, "Bulk waterfall contact enrichment for capped seed contacts.", "Async job and enrichment credits are account specific.", "Waterfall enrichment across providers for emails and phones."),
         ("Prospeo Person Enrichment API", PROSPEO_ENDPOINT, "Person enrichment for capped seed contacts.", "Email credit used only if email found; mobile is higher cost.", "Verified email plus mobile enrichment when credits are available."),
@@ -1081,8 +1081,7 @@ def build_api_comparison(contact_rows: list[dict[str, str]]) -> list[dict[str, s
 
 def build_api_trace(company_rows: list[dict[str, str]], contact_rows: list[dict[str, str]], call_rows: list[dict[str, str]], missing_rows: list[dict[str, str]]) -> list[dict[str, str]]:
     configs = {
-        "Apollo People Search API": ("Bearer or X-Api-Key", APOLLO_DOC, "Existing Apollo access", "Plan-specific", "People search and paid enrichment endpoints", "Plan-specific", "Useful seed source, but email/phone requires enrichment."),
-        "Apollo People Enrichment API": ("X-Api-Key header", "https://docs.apollo.io/reference/people-enrichment", "Apollo enrichment credits", "Plan-specific", "Person enrichment and optional email/phone reveal", "Plan-specific", "Uses saved seed contacts; phone reveal disabled to avoid extra credit exposure."),
+        "Apollo People Enrichment API": ("X-Api-Key header", APOLLO_DOC, "Apollo enrichment credits", "Plan-specific", "Person enrichment and optional email/phone reveal", "Plan-specific", "Uses saved seed contacts; phone reveal disabled to avoid extra credit exposure."),
         "FullEnrich Contact Bulk Enrichment API": ("Bearer API key", FULLENRICH_DOC, "Account-specific waterfall credits", "Account-specific", "Waterfall enrichment across contact providers", "Account-specific", "Async workflow; raw start/result responses are saved."),
         "Prospeo Person Enrichment API": ("X-KEY header", PROSPEO_DOC, "Email credit if found; mobile costs more", "Email/mobile credits", "Verified emails and mobile enrichment", "Account-specific", "Straightforward synchronous REST endpoint."),
         "SignalHire Candidate Search API": ("apikey header", SIGNALHIRE_DOC, "Only 5 credits reported by user", "X-Credits-Left response header captured where returned", "Candidate profile enrichment", "Account-specific", "Run capped at 5 lookups to preserve credits."),
@@ -1140,8 +1139,6 @@ def score_api(success_rate: float, completeness: float, records: int) -> str:
 
 
 def estimate_cost(api_name: str) -> str:
-    if api_name == "Apollo People Search API":
-        return "About 100 people-search calls for 100 companies; email/phone enrichment would add plan-specific credits."
     if api_name == "Apollo People Enrichment API":
         return "One enrichment request per requested contact; phone reveal/waterfall would add plan-specific credits."
     if api_name == "FullEnrich Contact Bulk Enrichment API":
@@ -1248,14 +1245,14 @@ def run(args: argparse.Namespace) -> int:
     run_all = "all" in api_filter
 
     seeds: list[SeedContact] = []
-    if run_all or "apollo" in api_filter:
+    if "apollo_search" in api_filter:
         seeds, company_rows, contact_rows, missing_rows, call_rows = collect_apollo(companies, args.reuse_raw, args.timeout, args.apollo_contacts_per_company)
         all_company_rows.extend(company_rows)
         all_contact_rows.extend(contact_rows)
         all_missing_rows.extend(missing_rows)
         all_call_rows.extend(call_rows)
 
-    if run_all or "apollo_enrichment" in api_filter:
+    if run_all or "apollo" in api_filter or "apollo_enrichment" in api_filter:
         enrichment_seeds = seeds or load_saved_seed_contacts(companies, args.apollo_contacts_per_company)
         company_rows, contact_rows, missing_rows, call_rows = collect_apollo_enrichment(companies, enrichment_seeds, args.reuse_raw, args.timeout, args.apollo_enrichment_limit)
         all_company_rows.extend(company_rows)
@@ -1298,7 +1295,7 @@ def run(args: argparse.Namespace) -> int:
         {
             "generated_at": now_iso(),
             "companies_processed": len(companies),
-            "providers": ["apollo", "apollo_enrichment", "fullenrich", "prospeo", "signalhire", "people_data_labs"],
+            "providers": ["apollo_enrichment", "fullenrich", "prospeo", "signalhire", "people_data_labs"],
             "apis": sorted(api_filter),
             "reuse_raw": args.reuse_raw,
             "apollo_contacts_per_company": args.apollo_contacts_per_company,
@@ -1338,7 +1335,7 @@ def main() -> int:
     parser.add_argument("--enrichment-limit", type=int, default=5, help="Maximum seed contacts sent to FullEnrich and Prospeo.")
     parser.add_argument("--signalhire-limit", type=int, default=5, help="Maximum SignalHire candidate lookups. Keep at 5 unless more credits are approved.")
     parser.add_argument("--fullenrich-poll-attempts", type=int, default=2, help="Poll attempts for async FullEnrich bulk results.")
-    parser.add_argument("--apis", default="all", help="Comma-separated APIs to run: all, apollo, apollo_enrichment, fullenrich_search, fullenrich, prospeo, signalhire, people_data_labs.")
+    parser.add_argument("--apis", default="all", help="Comma-separated APIs to run: all, apollo/apollo_enrichment, apollo_search, fullenrich_search, fullenrich, prospeo, signalhire, people_data_labs.")
     args = parser.parse_args()
     try:
         return run(args)
