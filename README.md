@@ -30,6 +30,10 @@ Technographic/
 
 Firmographic:
 
+- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_comparison_apollo_coresignal.xlsx`
+- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_comparison_apollo_coresignal.docx`
+- `Firmographic/reports/full_10_company_report/hpi_10_company_coresignal_firmographic_api_report.xlsx`
+- `Firmographic/reports/full_10_company_report/hpi_10_company_coresignal_firmographic_api_report.docx`
 - `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.xlsx`
 - `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.docx`
 - `Firmographic/reports/full_10_company_report/company_field_level_report.csv`

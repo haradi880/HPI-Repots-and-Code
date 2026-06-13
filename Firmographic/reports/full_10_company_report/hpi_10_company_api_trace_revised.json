@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:48:23Z",
+  "generated_at": "2026-06-13T08:00:55Z",
   "scope": "10 firmographic companies excluding China and Hong Kong",
   "clean_input": [
     {
@@ -181,8 +181,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\dbs_group.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -204,8 +204,8 @@
       "fields_total": "13",
       "field_completeness_percent": "92.31",
       "raw_response_path": "raw\\coresignal\\data\\singapore_telecommunications.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -227,8 +227,8 @@
       "fields_total": "13",
       "field_completeness_percent": "92.31",
       "raw_response_path": "raw\\coresignal\\data\\united_overseas_bank.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -250,8 +250,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\st_engineering.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -273,8 +273,8 @@
       "fields_total": "13",
       "field_completeness_percent": "92.31",
       "raw_response_path": "raw\\coresignal\\data\\toyota_motor_corporation.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -296,8 +296,8 @@
       "fields_total": "13",
       "field_completeness_percent": "92.31",
       "raw_response_path": "raw\\coresignal\\data\\sony_group_corporation.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -319,8 +319,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\samsung_electronics.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -342,8 +342,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\sk_hynix.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -365,8 +365,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\infosys.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     },
     {
@@ -388,8 +388,8 @@
       "fields_total": "13",
       "field_completeness_percent": "100.00",
       "raw_response_path": "raw\\coresignal\\data\\bhp.json",
-      "started_at": "2026-06-13T07:48:23Z",
-      "response_received_at": "2026-06-13T07:48:23Z",
+      "started_at": "2026-06-13T08:00:55Z",
+      "response_received_at": "2026-06-13T08:00:55Z",
       "error_message": ""
     }
   ],

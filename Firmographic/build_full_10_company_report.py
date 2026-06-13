@@ -31,6 +31,10 @@ CORESIGNAL_RAW_CANDIDATES = [
 
 OUTPUT_XLSX = REPORT_DIR / "hpi_10_company_firmographic_api_report_revised.xlsx"
 OUTPUT_DOCX = REPORT_DIR / "hpi_10_company_firmographic_api_report_revised.docx"
+OUTPUT_COMBINED_XLSX = REPORT_DIR / "hpi_10_company_firmographic_api_comparison_apollo_coresignal.xlsx"
+OUTPUT_COMBINED_DOCX = REPORT_DIR / "hpi_10_company_firmographic_api_comparison_apollo_coresignal.docx"
+OUTPUT_CORESIGNAL_XLSX = REPORT_DIR / "hpi_10_company_coresignal_firmographic_api_report.xlsx"
+OUTPUT_CORESIGNAL_DOCX = REPORT_DIR / "hpi_10_company_coresignal_firmographic_api_report.docx"
 OUTPUT_JSON = REPORT_DIR / "hpi_10_company_api_trace_revised.json"
 CLEAN_INPUT = REPORT_DIR / "clean_companies_input.csv"
 FIELD_TRACE_CSV = REPORT_DIR / "company_field_level_report.csv"
@@ -69,6 +73,39 @@ def utc_now() -> str:
 def read_csv_dicts(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8-sig", newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def read_apollo_trace_rows(companies: list[fp.Company]) -> list[dict[str, str]]:
+    legacy_trace = BASE_DIR / "reports" / "api_trace_report.csv"
+    if legacy_trace.exists():
+        return read_csv_dicts(legacy_trace)
+
+    rows: list[dict[str, str]] = []
+    for company in companies:
+        raw_path = RAW_DIR / f"{fp.slugify(company.company_name)}.json"
+        rows.append(
+            {
+                "api_name": "apollo",
+                "source_rank": company.source_rank,
+                "company_name": company.company_name,
+                "domain": company.domain,
+                "endpoint_used": ORG_ENDPOINT,
+                "request_params": json.dumps({"domain": company.domain, "website": f"https://{company.domain}", "name": company.company_name}, ensure_ascii=False),
+                "http_status": "200" if raw_path.exists() else fp.NOT_AVAILABLE,
+                "success_failure": "Success" if raw_path.exists() else "Failure",
+                "latency_ms": "0",
+                "credits_consumed": fp.NOT_VERIFIED,
+                "credit_evidence": "Reconstructed from saved raw Apollo export; legacy per-company API trace CSV was removed during cleanup.",
+                "rate_limits": fp.NOT_VERIFIED,
+                "rate_limit_hit": "N",
+                "records_retrieved": "1" if raw_path.exists() else "0",
+                "raw_response_path": display_path(raw_path) if raw_path.exists() else fp.NOT_AVAILABLE,
+                "started_at": utc_now(),
+                "response_received_at": utc_now(),
+                "error_message": "" if raw_path.exists() else "No saved Apollo raw response found.",
+            }
+        )
+    return rows
 
 
 def write_csv_dicts(path: Path, rows: list[dict[str, Any]], fieldnames: list[str]) -> None:
@@ -631,6 +668,27 @@ def build_workbook(
     append_sheet(wb, "Raw Export Index", raw_index_rows, list(raw_index_rows[0].keys()))
     OUTPUT_XLSX.parent.mkdir(parents=True, exist_ok=True)
     wb.save(OUTPUT_XLSX)
+    wb.save(OUTPUT_COMBINED_XLSX)
+
+
+def build_coresignal_workbook(
+    clean_rows: list[dict[str, str]],
+    coresignal_wide_rows: list[dict[str, str]],
+    coresignal_field_rows: list[dict[str, str]],
+    coresignal_missing_rows: list[dict[str, str]],
+    coresignal_trace_rows: list[dict[str, str]],
+    raw_index_rows: list[dict[str, str]],
+) -> None:
+    wb = Workbook()
+    wb.remove(wb.active)
+    append_sheet(wb, "Clean Input", clean_rows, list(clean_rows[0].keys()))
+    append_sheet(wb, "Coresignal Firmographics", coresignal_wide_rows, list(coresignal_wide_rows[0].keys()))
+    append_sheet(wb, "Field Level Data", coresignal_field_rows, list(coresignal_field_rows[0].keys()))
+    append_sheet(wb, "Missing Reasons", coresignal_missing_rows, list(coresignal_missing_rows[0].keys()))
+    append_sheet(wb, "Coresignal API Calls", coresignal_trace_rows, list(coresignal_trace_rows[0].keys()))
+    append_sheet(wb, "Raw Export Index", raw_index_rows, list(raw_index_rows[0].keys()))
+    OUTPUT_CORESIGNAL_XLSX.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(OUTPUT_CORESIGNAL_XLSX)
 
 
 def set_cell_shading(cell, color: str) -> None:
@@ -725,6 +783,54 @@ def build_docx(
     ]
     add_table(document, ["Company", "Field", "Status", "Reason", "API Gated"], missing_compact)
     document.save(OUTPUT_DOCX)
+    document.save(OUTPUT_COMBINED_DOCX)
+
+
+def build_coresignal_docx(
+    coresignal_field_rows: list[dict[str, str]],
+    coresignal_missing_rows: list[dict[str, str]],
+    coresignal_trace_rows: list[dict[str, str]],
+) -> None:
+    document = Document()
+    section = document.sections[0]
+    section.top_margin = Inches(0.55)
+    section.bottom_margin = Inches(0.55)
+    section.left_margin = Inches(0.55)
+    section.right_margin = Inches(0.55)
+
+    title = document.add_paragraph()
+    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = title.add_run("HPI 10 Company Coresignal Firmographic API Report")
+    run.font.bold = True
+    run.font.size = Pt(18)
+    document.add_paragraph(f"Generated: {utc_now()}")
+    document.add_paragraph(
+        "Scope: 10 companies excluding China and Hong Kong. Data source: Coresignal Multi-source Company Enrichment API. "
+        "Raw responses are saved under Firmographic/raw/coresignal/data and reused for this report refresh."
+    )
+
+    document.add_heading("Coresignal Per-Company API Trace", level=1)
+    trace_headers = ["company_name", "domain", "success_failure", "fields_available", "fields_total", "field_completeness_percent", "raw_response_path"]
+    add_table(
+        document,
+        ["Company", "Domain", "Status", "Fields Available", "Fields Total", "Completeness %", "Raw Response"],
+        [[row[key] for key in trace_headers] for row in coresignal_trace_rows],
+    )
+
+    document.add_heading("Coresignal Field Data", level=1)
+    compact_rows = [
+        [row["company_name"], row["field"], row["value"], row["status"], row["source_field"], row["api_gated_column"]]
+        for row in coresignal_field_rows
+    ]
+    add_table(document, ["Company", "Field", "Value", "Status", "Source Field", "API Gated"], compact_rows)
+
+    document.add_heading("Missing / Not Available Reasons", level=1)
+    missing_compact = [
+        [row["company_name"], row["field"], row["status"], row["reason"], row["api_gated_column"]]
+        for row in coresignal_missing_rows
+    ]
+    add_table(document, ["Company", "Field", "Status", "Reason", "API Gated"], missing_compact)
+    document.save(OUTPUT_CORESIGNAL_DOCX)
 
 
 def main() -> int:
@@ -742,7 +848,7 @@ def main() -> int:
     clean_rows = clean_input(companies)
     write_csv_dicts(CLEAN_INPUT, clean_rows, list(clean_rows[0].keys()))
 
-    trace_rows = read_csv_dicts(BASE_DIR / "reports" / "api_trace_report.csv")
+    trace_rows = read_apollo_trace_rows(companies)
     apollo_field_rows, apollo_missing_rows = build_field_rows(companies, trace_rows)
     coresignal_field_rows, coresignal_missing_rows = build_coresignal_field_rows(companies)
     field_rows = apollo_field_rows + coresignal_field_rows
@@ -752,6 +858,7 @@ def main() -> int:
     comparison_rows = build_api_comparison_rows(field_rows)
     wide_rows = build_source_wide_rows(companies, field_rows, API_DISPLAY_NAME)
     coresignal_wide_rows = build_source_wide_rows(companies, field_rows, CORESIGNAL_API_DISPLAY_NAME)
+    coresignal_only_missing_rows = [row for row in coresignal_missing_rows]
     raw_index_rows = []
     for company in companies:
         apollo_raw_path = RAW_DIR / f"{fp.slugify(company.company_name)}.json"
@@ -797,9 +904,22 @@ def main() -> int:
 
     build_workbook(clean_rows, wide_rows, coresignal_wide_rows, field_rows, missing_rows, comparison_rows, api_trace_rows, coresignal_trace_rows, raw_index_rows)
     build_docx(field_rows, missing_rows, api_trace_rows, comparison_rows, coresignal_trace_rows)
+    build_coresignal_workbook(
+        clean_rows,
+        coresignal_wide_rows,
+        coresignal_field_rows,
+        coresignal_only_missing_rows,
+        coresignal_trace_rows,
+        [row for row in raw_index_rows if row["source_api"] == CORESIGNAL_API_DISPLAY_NAME],
+    )
+    build_coresignal_docx(coresignal_field_rows, coresignal_only_missing_rows, coresignal_trace_rows)
 
     print(f"Saved workbook: {OUTPUT_XLSX}")
     print(f"Saved docx: {OUTPUT_DOCX}")
+    print(f"Saved combined workbook: {OUTPUT_COMBINED_XLSX}")
+    print(f"Saved combined docx: {OUTPUT_COMBINED_DOCX}")
+    print(f"Saved Coresignal workbook: {OUTPUT_CORESIGNAL_XLSX}")
+    print(f"Saved Coresignal docx: {OUTPUT_CORESIGNAL_DOCX}")
     print(f"Saved JSON trace: {OUTPUT_JSON}")
     print(f"Saved clean input: {CLEAN_INPUT}")
     return 0
