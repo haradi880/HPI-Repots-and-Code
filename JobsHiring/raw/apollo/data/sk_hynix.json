@@ -1,0 +1,100 @@
+{
+  "organization_job_postings": [
+    {
+      "id": "6a2cccb6e6eb9100019a6fee",
+      "title": "Analog Design",
+      "url": "https://www.linkedin.com/jobs/view/4425068234/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-12T16:00:00.000+00:00",
+      "posted_at": "2026-06-08T10:16:25.000+00:00"
+    },
+    {
+      "id": "6a2cd8ca11c3fc000131960c",
+      "title": "Circuit Design",
+      "url": "https://www.linkedin.com/jobs/view/4425060207/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-12T16:00:00.000+00:00",
+      "posted_at": "2026-06-08T10:15:08.000+00:00"
+    },
+    {
+      "id": "6a2cd04523600600012902b5",
+      "title": "Design Verification",
+      "url": "https://www.linkedin.com/jobs/view/4425070223/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-12T16:00:00.000+00:00",
+      "posted_at": "2026-06-07T23:43:50.000+00:00"
+    },
+    {
+      "id": "6a2b843db086cb00013b3216",
+      "title": "SIPI&EMC (SI/PI) Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4418226417/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-11T16:00:00.000+00:00",
+      "posted_at": "2026-05-27T10:37:03.000+00:00"
+    },
+    {
+      "id": "6a1fa8481a30380001281737",
+      "title": "Design Verification",
+      "url": "https://www.linkedin.com/jobs/view/4418569132/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-10T16:00:00.000+00:00",
+      "posted_at": "2026-05-27T10:25:32.000+00:00"
+    },
+    {
+      "id": "6a1e543c421efc0001515ef6",
+      "title": "Physical Design",
+      "url": "https://www.linkedin.com/jobs/view/4418554502/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-10T16:00:00.000+00:00",
+      "posted_at": "2026-05-27T09:40:16.000+00:00"
+    },
+    {
+      "id": "6a190b7dc213f00001456b92",
+      "title": "Analog Design",
+      "url": "https://www.linkedin.com/jobs/view/4418549781/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-10T16:00:00.000+00:00",
+      "posted_at": "2026-05-27T03:11:40.000+00:00"
+    },
+    {
+      "id": "6a1902cc229a130001bb340c",
+      "title": "Interface Design",
+      "url": "https://www.linkedin.com/jobs/view/4418550797/",
+      "city": null,
+      "state": null,
+      "country": "South Korea",
+      "last_seen_at": "2026-06-10T16:00:00.000+00:00",
+      "posted_at": "2026-05-27T03:11:37.000+00:00"
+    },
+    {
+      "id": "69097a54fedf5e0001a7b3a1",
+      "title": "Corporate Legal Counsel",
+      "url": "https://www.linkedin.com/jobs/view/4287581770/",
+      "city": "Lafayette",
+      "state": "Indiana",
+      "country": "United States",
+      "last_seen_at": "2026-06-12T22:00:00.000+00:00",
+      "posted_at": "2025-08-18T22:50:47.000+00:00"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "per_page": 25,
+    "total_entries": 9,
+    "total_pages": 1
+  }
+}

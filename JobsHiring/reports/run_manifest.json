@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-13T09:59:28Z",
+  "companies_processed": 10,
+  "providers": [
+    "coresignal",
+    "theirstack",
+    "apollo",
+    "predictleads",
+    "linkup/aura"
+  ],
+  "reuse_raw": true
+}
