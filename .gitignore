@@ -72,6 +72,8 @@ Technographic/raw/**/~$*.docx
 *.tmp
 *.temp
 *.log
+~$*
+Technographic/reports/hpi_technographic_api_comparison_20260613_111519.docx
 
 # MacOS
 .AppleDouble

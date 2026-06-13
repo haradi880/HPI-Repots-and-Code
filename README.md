@@ -1,72 +1,81 @@
-# HPI Report Making
+# HPI Data Provider Evaluation Reports
 
-This project generates comprehensive firmographic and technographic reports for companies using multiple data sources and APIs.
+This repository contains the cleaned 10-company HPI firmographic and technographic API evaluation package.
 
-## Project Structure
+## Current Scope
 
-### Firmographic
-Generates firmographic reports using Apollo API data.
-- `firmographic_pipeline.py` - Main pipeline for processing firmographic data
-- `build_full_10_company_report.py` - Generates complete 10-company reports
-- `build_dbs_docx_report.py` - Builds DBS-specific DOCX reports
-- `generate_apollo_dbs_report.py` - Generates Apollo DBS comparison reports
+- Input list: `Firmographic/input/compnys.txt` and `Technographic/input/compnys.txt`
+- Companies: DBS Group, Singapore Telecommunications, United Overseas Bank, ST Engineering, Toyota Motor Corporation, Sony Group Corporation, Samsung Electronics, SK Hynix, Infosys, and BHP
+- Firmographic providers: Apollo and Coresignal
+- Technographic providers: TheirStack and Coresignal
 
-**Directories:**
-- `input/` - Input company lists
-- `raw/` - Raw API responses from Apollo
-- `reports/` - Generated CSV and JSON reports
-- `evidence/` - Supporting evidence files
+## Folder Structure
 
-### Technographic
-Generates technographic reports using CoreSignal and PredictLeads APIs.
-- `technographic_pipeline.py` - Main pipeline for processing technographic data
-- `technographic_collector.py` - Collects technographic data
-- `generate_docx_report.py` - Generates DOCX reports
-- `PREDICTLEADS_fetch.py` - Fetches PredictLeads data
+```text
+Firmographic/
+  input/                         Input company list
+  raw/apollo/                    Apollo raw API responses
+  raw/coresignal/data/           Coresignal raw API responses
+  reports/full_10_company_report/ Final firmographic deliverables and audit CSVs
 
-**Directories:**
-- `input/` - Input company lists
-- `output/` - Generated reports and monitoring data
-- `raw/` - Raw API responses from CoreSignal
-- `PredictLeads/` - PredictLeads-specific data and reports
-
-## Setup
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Configure API keys in `.env`:
-   ```
-   APOLLO_API_KEY=your_key_here
-   CORESIGNAL_API_KEY=your_key_here
-   PREDICTLEADS_API_KEY=your_key_here
-   ```
-
-3. Add company list to input files (e.g., `Firmographic/input/compnys.txt`)
-
-## Usage
-
-### Generate Firmographic Reports
-```bash
-python Firmographic/firmographic_pipeline.py
+Technographic/
+  input/                         Input company list
+  raw/theirstack/data/           TheirStack raw API responses
+  raw/coresignal/data/           Coresignal raw API responses
+  apilogs/                       Per-company API call logs
+  reports/                       Final technographic deliverables and audit CSVs
 ```
 
-### Generate Technographic Reports
-```bash
-python Technographic/technographic_pipeline.py
-```
+## Final Deliverables
 
-### Generate Full 10-Company Report
-```bash
+Firmographic:
+
+- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.xlsx`
+- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.docx`
+- `Firmographic/reports/full_10_company_report/company_field_level_report.csv`
+- `Firmographic/reports/full_10_company_report/api_trace_full_report.csv`
+- `Firmographic/reports/full_10_company_report/coresignal_api_trace_report.csv`
+- `Firmographic/reports/full_10_company_report/coresignal_firmographic_report.csv`
+
+Technographic:
+
+- `Technographic/reports/hpi_technographic_api_comparison_20260613_125914.xlsx`
+- `Technographic/reports/hpi_technographic_api_comparison_20260613_125914.docx`
+- `Technographic/reports/company_technographics.csv`
+- `Technographic/reports/technology_detail.csv`
+- `Technographic/reports/api_tracing_report.csv`
+- `Technographic/reports/api_call_log.csv`
+
+## Rebuild Reports
+
+Rebuild firmographic report from saved raw exports:
+
+```powershell
 python Firmographic/build_full_10_company_report.py
 ```
 
-## Output
+Rebuild technographic report from saved raw exports without spending API credits:
 
-Reports are generated in:
-- Firmographic: `Firmographic/reports/`
-- Technographic: `Technographic/output/`
+```powershell
+python Technographic/technographic_pipeline.py --limit 10 --reuse-raw
+```
 
-Output formats include CSV, JSON, and DOCX files.
+Run live technographic refresh only for empty/missing TheirStack raw responses:
+
+```powershell
+python Technographic/technographic_pipeline.py --limit 10 --apis theirstack,coresignal --refresh-empty-raw
+```
+
+## Environment
+
+Secrets are intentionally excluded from Git. Use local `.env` files only.
+
+Required keys for live API runs:
+
+```text
+APOLLO_API_KEY=
+CORESIGNAL_API_KEY=
+THEIRSTACK_API_KEY=
+```
+
+Saved raw responses are committed so the final reports can be regenerated without live API calls.

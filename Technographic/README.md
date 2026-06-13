@@ -40,14 +40,15 @@ Reports are saved here:
 - `reports/company_technographics.json`
 - `reports/technology_detail.csv`
 - `reports/missing_fields_report.csv`
-- `reports/hpi_technographic_api_comparison_*.xlsx`
-- `reports/hpi_technographic_api_comparison_*.docx`
+- `reports/hpi_technographic_api_comparison_20260613_125914.xlsx`
+- `reports/hpi_technographic_api_comparison_20260613_125914.docx`
 
 ## Credit And Rate-Limit Handling
 
 TheirStack:
 
 - Endpoint: `POST /v1/companies/technologies`
+- The request uses domain-first lookup (`company_domain`) to avoid exact-match misses from company name or LinkedIn URL aliases.
 - Credit balance endpoint: `GET /v0/billing/credit-balance`
 - If balance fields are returned, the pipeline records before/after balances.
 - If no balance delta is available, successful company lookups are marked with the documented estimate of 3 credits.
