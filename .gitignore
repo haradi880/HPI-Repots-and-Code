@@ -75,6 +75,9 @@ Technographic/raw/**/~$*.docx
 ~$*
 Technographic/reports/hpi_technographic_api_comparison_20260613_111519.docx
 
+# Confidential final summary workbooks are local-only.
+FinalSummary/reports/
+
 # MacOS
 .AppleDouble
 .LSOverride
