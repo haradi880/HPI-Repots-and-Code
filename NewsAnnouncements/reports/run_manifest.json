@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-14T07:12:48Z",
+  "companies_processed": 10,
+  "providers": [
+    "exa",
+    "tavily",
+    "google_news_rss",
+    "newsapi",
+    "predictleads",
+    "gdelt"
+  ],
+  "apis": [
+    "all"
+  ],
+  "reuse_raw": true,
+  "since_date": "2025-06-14",
+  "newsapi_since_date": "2026-05-15",
+  "per_provider_limit": 10
+}

@@ -1,6 +1,6 @@
 # HPI Data Provider Evaluation Reports
 
-This repository contains the cleaned 10-company HPI data-provider evaluation package through Section 4.4.
+This repository contains the cleaned 10-company HPI data-provider evaluation package through Section 4.5.
 
 ## Current Scope
 
@@ -10,6 +10,7 @@ This repository contains the cleaned 10-company HPI data-provider evaluation pac
 - Technographic providers: TheirStack and Coresignal
 - Jobs/Hiring providers: TheirStack, Coresignal, Apollo, PredictLeads status, and LinkUp/Aura status
 - Contact-Level providers: Apollo, FullEnrich, Prospeo, SignalHire, and People Data Labs status
+- News / Key Announcements providers: Exa, Tavily, Google News RSS, NewsAPI, PredictLeads status, and GDELT status
 
 ## Folder Structure
 
@@ -38,6 +39,12 @@ ContactLevel/
   raw/                           Raw contact-level provider responses
   apilogs/                       Per-company/contact API call logs
   reports/                       Final contact-level deliverables and audit CSVs
+
+NewsAnnouncements/
+  input/                         Input company list
+  raw/                           Raw news/search provider responses
+  apilogs/                       Per-company API call logs
+  reports/                       Final news/key-announcement deliverables and audit CSVs
 ```
 
 ## Final Deliverables
@@ -82,6 +89,15 @@ Contact-Level:
 - `ContactLevel/reports/api_tracing_report.csv`
 - `ContactLevel/reports/api_call_log.csv`
 
+News / Key Announcements:
+
+- `NewsAnnouncements/reports/hpi_news_announcements_api_evaluation_20260614_124248.xlsx`
+- `NewsAnnouncements/reports/hpi_news_announcements_api_evaluation_20260614_124248.docx`
+- `NewsAnnouncements/reports/company_news_announcements.csv`
+- `NewsAnnouncements/reports/event_detail.csv`
+- `NewsAnnouncements/reports/api_tracing_report.csv`
+- `NewsAnnouncements/reports/api_call_log.csv`
+
 ## Rebuild Reports
 
 Rebuild firmographic report from saved raw exports:
@@ -108,6 +124,12 @@ Rebuild Contact-Level report from saved raw exports:
 python ContactLevel/contact_level_pipeline.py --limit 10 --reuse-raw
 ```
 
+Rebuild News / Key Announcements report from saved raw exports:
+
+```powershell
+python NewsAnnouncements/news_announcements_pipeline.py --limit 10 --reuse-raw
+```
+
 Run live technographic refresh only for empty/missing TheirStack raw responses:
 
 ```powershell
@@ -129,6 +151,9 @@ FULLENRICH_API_KEY=
 PROSPEO_API_KEY=
 SIGNALHIRE_API_KEY=
 PEOPLE_DATA_LABS_API_KEY=
+EXA_API_KEY=
+TAVILY_API_KEY=
+NEWSAPI_API_KEY=
 ```
 
 Saved raw responses are committed so the final reports can be regenerated without live API calls.
