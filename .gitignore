@@ -78,6 +78,10 @@ Technographic/reports/hpi_technographic_api_comparison_20260613_111519.docx
 # Confidential final summary workbooks are local-only.
 FinalSummary/reports/
 
+# Generated DOCX reports are local-only.
+**/reports/*.docx
+**/reports/**/*.docx
+
 # MacOS
 .AppleDouble
 .LSOverride

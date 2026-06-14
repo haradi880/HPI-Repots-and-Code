@@ -39,7 +39,6 @@ Reports:
 - `reports/api_tracing_report.csv`
 - `reports/missing_fields_report.csv`
 - `reports/hpi_news_announcements_api_evaluation_*.xlsx`
-- `reports/hpi_news_announcements_api_evaluation_*.docx`
 
 ## Run
 

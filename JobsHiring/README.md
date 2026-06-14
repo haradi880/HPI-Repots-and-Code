@@ -37,7 +37,6 @@ Reports:
 - `reports/api_tracing_report.csv`
 - `reports/missing_fields_report.csv`
 - `reports/hpi_jobs_hiring_api_evaluation_*.xlsx`
-- `reports/hpi_jobs_hiring_api_evaluation_*.docx`
 
 ## Run
 

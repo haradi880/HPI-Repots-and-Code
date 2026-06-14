@@ -52,11 +52,8 @@ NewsAnnouncements/
 Firmographic:
 
 - `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_comparison_apollo_coresignal.xlsx`
-- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_comparison_apollo_coresignal.docx`
 - `Firmographic/reports/full_10_company_report/hpi_10_company_coresignal_firmographic_api_report.xlsx`
-- `Firmographic/reports/full_10_company_report/hpi_10_company_coresignal_firmographic_api_report.docx`
 - `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.xlsx`
-- `Firmographic/reports/full_10_company_report/hpi_10_company_firmographic_api_report_revised.docx`
 - `Firmographic/reports/full_10_company_report/company_field_level_report.csv`
 - `Firmographic/reports/full_10_company_report/api_trace_full_report.csv`
 - `Firmographic/reports/full_10_company_report/coresignal_api_trace_report.csv`
@@ -65,7 +62,6 @@ Firmographic:
 Technographic:
 
 - `Technographic/reports/hpi_technographic_api_comparison_20260613_184706.xlsx`
-- `Technographic/reports/hpi_technographic_api_comparison_20260613_184706.docx`
 - `Technographic/reports/company_technographics.csv`
 - `Technographic/reports/technology_detail.csv`
 - `Technographic/reports/api_tracing_report.csv`
@@ -74,7 +70,6 @@ Technographic:
 Jobs / Hiring:
 
 - `JobsHiring/reports/hpi_jobs_hiring_api_evaluation_20260613_181454.xlsx`
-- `JobsHiring/reports/hpi_jobs_hiring_api_evaluation_20260613_181454.docx`
 - `JobsHiring/reports/company_jobs_hiring.csv`
 - `JobsHiring/reports/job_detail.csv`
 - `JobsHiring/reports/api_tracing_report.csv`
@@ -83,7 +78,6 @@ Jobs / Hiring:
 Contact-Level:
 
 - `ContactLevel/reports/hpi_contact_level_api_evaluation_20260613_190106.xlsx`
-- `ContactLevel/reports/hpi_contact_level_api_evaluation_20260613_190106.docx`
 - `ContactLevel/reports/company_contact_level.csv`
 - `ContactLevel/reports/contact_detail.csv`
 - `ContactLevel/reports/api_tracing_report.csv`
@@ -92,7 +86,6 @@ Contact-Level:
 News / Key Announcements:
 
 - `NewsAnnouncements/reports/hpi_news_announcements_api_evaluation_20260614_124248.xlsx`
-- `NewsAnnouncements/reports/hpi_news_announcements_api_evaluation_20260614_124248.docx`
 - `NewsAnnouncements/reports/company_news_announcements.csv`
 - `NewsAnnouncements/reports/event_detail.csv`
 - `NewsAnnouncements/reports/api_tracing_report.csv`

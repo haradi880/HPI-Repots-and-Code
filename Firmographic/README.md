@@ -23,11 +23,8 @@ reports/full_10_company_report/
 Key outputs:
 
 - `hpi_10_company_firmographic_api_comparison_apollo_coresignal.xlsx`
-- `hpi_10_company_firmographic_api_comparison_apollo_coresignal.docx`
 - `hpi_10_company_coresignal_firmographic_api_report.xlsx`
-- `hpi_10_company_coresignal_firmographic_api_report.docx`
 - `hpi_10_company_firmographic_api_report_revised.xlsx`
-- `hpi_10_company_firmographic_api_report_revised.docx`
 - `company_field_level_report.csv`
 - `api_comparison_report.csv`
 - `api_trace_full_report.csv`

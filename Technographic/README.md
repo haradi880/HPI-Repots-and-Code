@@ -41,7 +41,6 @@ Reports are saved here:
 - `reports/technology_detail.csv`
 - `reports/missing_fields_report.csv`
 - `reports/hpi_technographic_api_comparison_20260613_125914.xlsx`
-- `reports/hpi_technographic_api_comparison_20260613_125914.docx`
 
 ## Credit And Rate-Limit Handling
 
